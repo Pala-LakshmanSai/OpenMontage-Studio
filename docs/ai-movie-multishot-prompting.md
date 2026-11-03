@@ -22,6 +22,12 @@ speech, flashback and climax into one request. Deliberate time/location changes
 may be separate ready roots with explicit transitions. Long generation reduces
 some between-request seams; it does not remove drift at internal cuts.
 
+Changing from close/medium to wide does not reset who is present. Carry each
+participant's world position and task into the wide; show anyone whose location
+falls in that view. A person's absence needs a real crop/occlusion, exit or time
+change. An empty room is a geometry reference, never proof that the active scene
+has become unoccupied. Use an occupied wide state when cast presence matters.
+
 ## Compact continuity contract, reused rather than re-researched
 
 Keep one film bible and sequence state ledger. The prompt only carries applicable
@@ -36,6 +42,20 @@ or describe every offscreen character as visible.
 | Object/action | Exact count, identifying marks, hand/owner, contact, tool state, damage, attachment and completed action |
 | Camera | Side of axis/barrier, height, distance, shot size, movement and screen direction within each shot |
 | Sound | Speaker and exact line, native timing, acoustic space, continuous ambient bed and intended cue transition |
+
+Add the acting target and machine/animal state directly to those same shot
+fields: **look/orient → reach/approach → supported contact → visible result**.
+Name what the actor sees and where it is, including head/eye height. A glance
+away has a separate cue and beat. An occupied container remains visibly occupied
+in each exposed view; do not use an empty-set image as proof of the current state.
+Show the control and actual stop before hands approach a moving mechanism; a
+fantasy light source does not waive normal mechanics or aquatic buoyancy/gills.
+Bodies, carried animals/bags and cameras follow a real clear opening and path;
+solid railings/doors/walls remain solid and the side of each barrier persists.
+Show the stair-entry gap and feet on actual treads instead of asking for a vague
+ascent that lets the model route the body through iron rods.
+Keep a motivated practical light on faces/hands/creature when the story beacon
+fades. This is prompt preparation and reuse, not another review layer.
 
 Resolve identity once using clean supported masters. Use state anchors when a
 different costume/pose/location actually needs one, not an automatic image per
@@ -193,3 +213,29 @@ motivated complete doorway shot within existing work; do not default to retries.
 Once the rules and references are frozen, later prompts reuse them and supply
 only meaningful changes. Better continuity is a production goal, not a guarantee
 or permission to add exhaustive checks that delay every film.
+
+## Directed transitions across generated passages — owner correction, 3 November 2026
+
+Write the outgoing attention/action and incoming response as one editorial idea
+before generating either side. A nominal30second boundary is not a reason to cut.
+Use a story stimulus → reaction → look/turn/move → new coverage when appropriate;
+keep movement phase, gaze target, screen direction, object ownership and geography
+consistent. Do not cut from a keeper turning away from a tank to already leaning
+on its other side without a readable movement, time ellipsis or motivated cutaway.
+Hold the useful reaction/action through completion and select actual returned
+source ranges rather than mechanically appending whole generations.
+
+Plan sound bridges when they improve immersion: a real approaching wave, call,
+machine change or incoming radio line can pre-lap a relevant reaction (J-cut),
+and an established sound or offscreen voice can continue over the next view
+(L-cut). Maintain a coherent ambient bed and useful effect tails. These are
+dramatic options, not mandatory effects on every cut, and they do not repair
+wrong physical state or geography. Avoid arbitrary whooshes/dissolves.
+
+For native speech, keep the original audio-picture offset whenever the mouth is
+visible. If an incoming line starts offscreen, reveal its speaker at the matching
+already-elapsed native picture time; do not restart that mouth take from its
+beginning. Let an outgoing voice continue under a listener/appropriate view only
+when that speaker is offscreen. Do not overlap conflicting visible speech or
+time-stretch words to create a bridge. Put the intended bridge in existing
+sequence metadata/prompt/edit notes; add no separate review gate.

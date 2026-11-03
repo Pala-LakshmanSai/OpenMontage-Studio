@@ -8,7 +8,7 @@ the owner's personal Codex memory.
 ## Read automatically before production
 
 Read [the style and policy index](production-knowledge-index.json) first. It lists
-all six saved AI production profiles and the shared rules inherited by current
+all saved AI production profiles and the shared rules inherited by current
 and future styles. Installation/update requests follow
 [the portable install guide](install-and-update.md), including authorized private
 API setup. Run `python scripts/check_production_knowledge.py` after changing the
@@ -41,6 +41,33 @@ each film. Follow the owner's project priority and coordinate handoffs against
 the actual running jobs and remaining generation window.
 
 ## Preserve learning in the project first
+
+### Generalize owner feedback before saving it
+
+Owner clarification, 3 November 2026: this applies to corrections from any chat
+or production, not only the current film. Identify the underlying failure and
+causal reason, save the smallest actionable shared principle, then test its scope
+mentally against similar situations involving different subjects or tools. Keep
+the reported scene as supporting evidence/example, not the whole instruction.
+Use the [global principles](ai-video-global-realism-preferences.md) for persistent
+state, physical causality, object affordance, spatial relations, motivated
+performance, perceptual readability and temporal/edit continuity. A local dressing
+error, for example, reveals the wider need to preserve all attached/changed object
+states across views; it must not become a hand-only rule.
+
+Put a correction at the narrowest correct scope: shared policy for a general
+failure, named style for its aesthetic, project ledger for this film's concrete
+facts, and provider guidance for a verified technical constraint. Keep deliberate
+style exceptions and current authorization intact. Merge overlapping corrections
+into canonical guidance; do not copy a growing checklist into every style or
+convert a specific preference into an unsupported universal requirement. Update
+existing templates/routing to inherit the principle and keep evidence honest.
+Apply this when incorporating saved past lessons and all future owner feedback;
+do not claim unrelated chat history was exhaustively reviewed when it was not.
+
+Implement learning in existing preparation and concise references/prompts, with
+one brief essential check and targeted fault repair. A new complaint does not
+automatically justify another review service, test, approval gate or retake loop.
 
 When the owner adds or corrects a durable production preference, update the
 relevant shared policy or style document, its reusable prompt template and any

@@ -1,5 +1,26 @@
 # Extreme, surprising stories planned before generation
 
+Owner refinement, 3 November 2026: for AI Movie Style, pursue bold feature-film
+creative ambition: an arresting original premise, immediate title-faithful event,
+consequential scale, emotional stakes and surprising but earned developments.
+Do not limit invention to what a small physical crew could shoot. Plan what the
+audience knows, wonders, hopes and fears at each major turn; an answer should
+change the situation and often expose a more consequential question. Alternate
+emotional registers and give characters agency, difficult choices and persistent
+costs. Surprise through seeded reversal/reinterpretation, not arbitrary disaster
+or an unprepared rescue power. Pay off familiar actions/objects with changed
+meaning. Bigger spectacle is useful when it changes stakes, tactics or emotion.
+Genre, factual boundaries, consistent world rules, actual provider ability and
+authorized spending remain intact. This adds no research/review/scoring gate.
+
+For AI movies, title/click appeal and narrative promise are designed together.
+An original, specific contradiction or urgent visual question should be clear
+before exposition; the first action supplies evidence that the premise matters.
+Deliver meaningful answers and emotional turns as the story develops, with later
+questions changing stakes or expectation. Pay off the promised spectacle/mystery
+and the central relationship within the requested film. Never substitute vague
+teasing or arbitrary complications for a strong premise and causal screenplay.
+
 Owner correction, 3 November 2026: the Glacier film's story was still too mild.
 General promises of "extreme stakes" are insufficient. For narrative AI videos,
 design a much bolder, highly engaging story during screenplay and scene planning,

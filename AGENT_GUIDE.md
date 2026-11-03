@@ -2,6 +2,19 @@
 
 Before narrative AI story/scene planning, follow `docs/ai-video-story-engagement-preferences.md`: short strong hooks, much bolder consequential surprises and escalating extreme challenges planned before generation, with believable causes and persistent costs. Preserve the active style and the fast autonomous workflow.
 
+Owner correction, 3 November 2026: across every AI-video style, first apply the
+general persistent-state, causal/functional, spatial/relational, performance and
+editorial principles, then their concrete examples in
+`docs/ai-video-global-realism-preferences.md`. A correct face and valid export do
+not qualify an empty occupied tub, wrong gaze/reach, impossible knob operation,
+hand on unguarded moving machinery, or body passing through iron rods. Fold these
+into existing state references and staging; use useful semantic evidence in the
+brief essential check and targeted fault repair. Follow the fast-production
+guide; no growing stack of paid scoring, audits or approval gates.
+Generalize feedback from any chat to the underlying failure class and appropriate
+scope using `docs/portable-production-knowledge.md`; do not save only a rule about
+the pictured prop, body part or scene. Preserve each style's intended differences.
+
 ## Portable production knowledge
 
 Read `docs/production-knowledge-index.json` to locate every saved AI style and
@@ -85,6 +98,19 @@ This skill teaches you to run discovery, classify the user's setup, present capa
 **Skip onboarding** when the user arrives with a specific, actionable request (e.g., "Make a 60-second explainer about black holes"). Go directly to Rule Zero.
 
 ## Reference Video Entry Point
+
+For the named **The Last Day** style, read
+`docs/the-last-day-style-preferences.md`, its reference notes and prompt template,
+plus `docs/the-last-day-frameo-production.md`; use `styles/the-last-day.yaml`
+with cinematic stages and narrated longform science overrides. This original
+science/disaster style is based on popular `@TheLastDay01` references, distinct
+from raw no-narrator AI Videos Documentary Style and Vlog Style. Title plus
+duration range invokes a complete causal explanation: immediate interest,
+bounded premise, mechanism, secondary consequences, payoff and an appropriate
+reality check or callback. Facts constrain factual films; no fabricated evidence.
+Prefer Seedance 2.5 through Frameo, rolling ready sequences and useful 30-second
+multishot jobs under one shared verified capacity. Reuse the saved research;
+reference-quality parity and first-film artistic acceptance remain unproven.
 
 For **AI movies**, read `docs/ai-movie-preferences.md`,
 `docs/ai-movie-reference-notes.md` and `docs/ai-movie-prompt-template.md`; use

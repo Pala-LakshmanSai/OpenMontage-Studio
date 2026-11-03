@@ -1,5 +1,25 @@
 # AI Movie: reference-derived writing and production grammar
 
+## Later owner refinement: stronger curiosity and costly trust
+
+Read [the NULL HOUR study](ai-movie-engagement-xRQG07hiLr0-study.md) and
+[the targeted MYTHRA/LUMZ revisit](ai-movie-storytelling-refinement-20261103.md).
+Both were completed before the newly requested seven-minute lighthouse sample.
+The new21:53 reference received full chronological visual sampling, whole available
+captions and selected denser windows; no continuous natural-speed listening/viewing
+or paid analysis is claimed. Its ending is a cliffhanger, not a resolved escape.
+
+Transfer the underlying mechanisms into original work: let the audience see an
+ambiguous clue before a character; change the interpretation through consequential
+actions; carry a practical object/signal through loss, altered use and payoff;
+and make trust voluntary and costly before repayment is known. Link relief to a
+changed relationship or tactical opportunity, then let established consequences
+drive the next conflict. Give our protagonist agency and resolve our own promised
+film instead of inheriting repeated rescues/chases or the source's cliffhanger.
+Do not copy its jungle characters, creature, sexualized vulnerability, antagonist
+caricatures, plots, subtitles, bars or fast fragments. Popularity is not retention
+proof. This is a one-time requested study; later films reuse the saved findings.
+
 Owner-directed training, 3 November 2026. Improve the existing **AI Movie** style
 for original complete films, especially Frameo Seedance 2.5 unlimited-pass work.
 These are portable production instructions and evidence-based creative lessons,

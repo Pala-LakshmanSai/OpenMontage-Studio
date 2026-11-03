@@ -17,6 +17,16 @@ minimum shot duration, provider authorization and accepted-job/no-replay rules.
 
 ## Prepare once and reuse
 
+For physical acting, follow the global realism guide's owner correction on
+attention, contact and correct control/prop use. The actor looks/orients toward
+the target before reaching, uses the designed grip/turn/press/lever motion and
+receives the visible physical result. Do not reach at one object while staring
+unmotivatedly at another, press a rotary knob as an invented switch, touch active
+unguarded machinery, or treat a wrong background control as the intended device.
+Apply force, weight, support, resistance, recoil and injury reactions coherently.
+Put this directly in the existing action/framing/reference entry and simplify
+unnecessary choreography; it adds no routine audition, paid review or gate.
+
 Keep a compact performance entry in the existing character bible and shot plan,
 not a separate workflow. Record the selected voice ID or supported reference,
 accent, register, conversational delivery, portrait master, and baseline framing.

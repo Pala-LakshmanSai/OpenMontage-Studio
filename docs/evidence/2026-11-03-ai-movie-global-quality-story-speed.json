@@ -1,0 +1,39 @@
+{
+  "saved_at": "2026-11-03T15:42:30.983373+00:00",
+  "owner_scope": "Globalize production feedback by root cause; AI Movie strong premise/curiosity/emotion/feature-scale ambition plus fastest reliable production; style/reference update before new sample.",
+  "canonical_files": [
+    "docs/ai-video-global-realism-preferences.md",
+    "docs/portable-production-knowledge.md",
+    "docs/video-fast-production-preferences.md",
+    "docs/ai-video-story-engagement-preferences.md",
+    "docs/ai-movie-preferences.md",
+    "docs/ai-movie-prompt-template.md",
+    "docs/ai-movie-frameo-production.md",
+    "styles/ai-movie.yaml",
+    "skills/pipelines/cinematic/script-director.md",
+    "skills/pipelines/cinematic/scene-director.md",
+    "AGENT_GUIDE.md"
+  ],
+  "new_reference_study": "docs/ai-movie-engagement-xRQG07hiLr0-study.md",
+  "reference_coverage": {
+    "duration_seconds": 1313.254,
+    "chronological_frames": 438,
+    "targeted_frames": 132,
+    "full_available_captions_read": true,
+    "continuous_playback_or_direct_audible_verification": false,
+    "new_paid_analysis_calls": 0
+  },
+  "validation": {
+    "production_knowledge_check": "PASS",
+    "style_profiles": 7,
+    "playbooks": 11,
+    "shared_policies": 26,
+    "required_files": 77,
+    "ai_movie_playbook_schema": "PASS",
+    "diff_whitespace": "PASS",
+    "scope": "File/routing/schema validation, not proof of generated quality or another-device execution."
+  },
+  "new_sample": "projects/lighthouse-sample2-seven-min-20261103",
+  "original_owner_rejected": true,
+  "old_pending_repair_jobs_submitted": 0
+}

@@ -1,5 +1,15 @@
 # OpenMontage
 
+For **The Last Day** style, read `docs/the-last-day-style-preferences.md`,
+`docs/the-last-day-style-reference-notes.md`,
+`docs/the-last-day-style-prompt-template.md` and
+`docs/the-last-day-frameo-production.md`; use `styles/the-last-day.yaml` with
+cinematic stages. Title plus duration range invokes an original narrated
+science/disaster film with mechanisms, consequences and a complete payoff.
+Prefer Seedance 2.5 through Frameo's verified unlimited entitlement, rolling
+preparation, shared capacity and continuous refill. Preserve facts, native
+speech where present, minimum shots and existing no-replay/spending rules.
+
 Before narrative AI story/scene planning, follow `docs/ai-video-story-engagement-preferences.md`: short strong hooks, much bolder consequential surprises and escalating extreme challenges planned before generation, with believable causes and persistent costs. Preserve the active style and the fast autonomous workflow.
 
 Follow `docs/portable-production-knowledge.md`: discover saved production training

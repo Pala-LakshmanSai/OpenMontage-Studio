@@ -2,6 +2,32 @@ OPENMONTAGE — COMPLETE ORIGINAL AI MOVIE
 
 For detailed 30-second internal cuts and continuity prompts, read `docs/ai-movie-multishot-prompting.md`. Prepare once and reuse; this adds no routine review stage.
 
+Inherit the [global continuity and causality principles](ai-video-global-realism-preferences.md).
+For the current scene, express only relevant persistent facts, permitted caused
+changes and functional action/result. Their scope includes every entity, relation
+and attachment, not just examples from prior films. Keep concrete project states
+separate from reusable principles; choose clear references and simple staging
+without adding a review layer.
+
+Before ready sequences, lock one bold ending-aware story spine: immediate
+title-faithful hook, audience question/emotional expectation, protagonist's
+choice, escalating caused cost, seeded surprising reinterpretation, active
+climactic tactic and emotional payoff/callback. Aim beyond a small live-shoot's
+creative limitations while keeping a coherent world and achievable staged action.
+For each major sequence state what the audience learns/feels and how it changes
+the next decision; avoid formulaic repeated reaction/care shots or unearned scale.
+Then overlap independent detailed writing, reference/sound preparation, generation
+and assembly with one shared admission owner. Use actual dependency waits only,
+reuse accepted assets and correct material faults without a new review layer.
+
+Apply the saved [NULL HOUR curiosity/reciprocity study](ai-movie-engagement-xRQG07hiLr0-study.md)
+and [MYTHRA/LUMZ revisit](ai-movie-storytelling-refinement-20261103.md) where useful:
+audience clue versus character knowledge; initial interpretation revised through
+costly action; one practical object/signal whose changed purpose pays off; trust
+offered before repayment. These are options to strengthen the current premise,
+not compulsory plot events or a recurring research task. Preserve protagonist
+agency, varied emotional rhythm and a resolved central promise.
+
 Current owner training, 3 November 2026. This installed-project brief does not itself start production or buy a pass. Read AGENTS.md, AGENT_GUIDE.md, docs/production-knowledge-index.json, docs/ai-movie-preferences.md, docs/ai-movie-reference-notes.md and styles/ai-movie.yaml. Apply docs/video-fast-production-preferences.md and docs/ai-video-human-performance-preferences.md plus indexed shared policies. No previous chat, personal memory, GPT Space or original SSD path is needed. Use separately installed private provider configuration; never place credentials in this public brief or model prompts.
 
 TITLE / TOPIC: [title]
@@ -27,11 +53,25 @@ Scale to LENGTH: short films resolve one strong dramatic change; longer films de
 
 Each ready scene specifies five aspects: Subject; Subject Motion; Scene (overlays separate); Spatial Framing; Camera. Add exact lines/speakers, emotional intention, sound intention and the resulting state shown on screen. Establish people/threat/exit/object geography. Preserve axis, eyelines, contact, prop ownership, offscreen state, injury, fatigue, wetness and inventory.
 
+Bind attention to action: target noticed/looked at → head/body oriented → approach/reach → supported contact → reaction. An unrelated window/radio glance needs its own cue and beat. Required secondary subjects remain present and legible in every exposed occupied-container view. Prefer a coherent action-ready state reference over empty-room/animal images with conflicting backgrounds. Ordinary forces, safe visible machine controls/stopped state, injury reactions, scale, aquatic waterline/gills and supported wet transport remain convincing; only specific established fantasy rules receive cinematic liberty. A dim beacon does not justify unreadable faces, hands or creature: preserve motivated practical light and match window/time state at generation. Put these in the existing shots; no added routine review, scoring, ASR or approval stage.
+
+When contact causes injury, state exact limb/side/contact surface and force. Show the causal contact, proportionate reaction and injury on that surface; a palm wound is revealed by turning the hand, never by appearing on its back. Carry blood transfer, dressing and limitation forward. Rotary controls turn, buttons press, levers follow their travel; use the actual intended device and visible result. Bodies and carried loads use real openings and stay on the correct side of solid rails/walls. A close-to-wide cut must retain every participant whose established position is exposed by the wide. These are scene facts, not additional approval/review steps.
+
+Give each hand a compatible function: a character turning a designed crank must
+not simultaneously brake/grip its belt or strike moving parts. Use a stationary
+support and readable controls; remove gestures that work against the task.
+Lock dressing pad location and actual wrap path with the injury state. Palm
+cotton cannot jump to the dorsum; coverage on both sides requires a real wrap,
+with the pad remaining over the original wound. Reuse an appropriate state
+reference when useful and keep this in existing preparation and fault repair.
+
 Use wide frames for geography/scale, medium relationship coverage for choices, close detail for recognition or consequential action. Show cause, attempt, reaction and result. Camera movement reveals information, follows action or changes emotional distance; it is not decoration. Static observation can contain strong action. Avoid perpetual slow motion, pushes, orbits and beauty posing. Use natural human action cadence.
 
 Motivate light from actual sky, doorway, fire, lamp or environment. Keep faces readable and skin/materials natural. Develop palette with world and story rather than copying a universal grade. Maintain weather/time/shadows within a continuous scene; establish transitions before changes. Use clean original identity/location masters, role-labelled references and the current state ledger. Old props/backgrounds in a reference cannot reset the story.
 
 True same-shot continuations wait for their exact outgoing edit-point frame where supported and match lens/framing/action/light. Independent setups can use masters plus frozen state; do not chain the whole movie through deteriorating final frames. Native picture and speech keep identical offsets/speed. Never replace on-screen native speech with separately timed TTS.
+
+Direct joins before submission: record outgoing stimulus/attention/action, incoming response and a purposeful visual/sound bridge. Select complete actual actions/reactions rather than joining at nominal30second ends. Use J/L cuts, ambient tails, listener reaction and match-on-action only where motivated. Keep screen direction and body/prop state; a sound bridge cannot conceal a physical reset. When pre-lapping a native speaker offscreen, reveal the mouth at its corresponding elapsed source time so speech remains synchronized. Fold this into the existing edit plan; no routine extra review or gate.
 
 3. FRAMEO UNLIMITED — ROLLING PRODUCTION
 

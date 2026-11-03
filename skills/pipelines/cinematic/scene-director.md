@@ -1,5 +1,21 @@
 # Scene Director - Cinematic Pipeline
 
+For every AI style, apply the general principles in
+`docs/ai-video-global-realism-preferences.md`: persistent entity/attached state,
+causal functional interaction, spatial/relational continuity, motivated readable
+performance and temporal/editorial continuity. Specify relevant invariant facts
+and allowed caused changes in the existing scene plan, then select clear current-
+state references. Generalize owner feedback by failure class rather than copying
+only a pictured example; follow `docs/portable-production-knowledge.md`. Simplify
+choreography and reuse state facts; add no separate review layer.
+
+For AI movies, select each view for its dramatic information and emotion: reveal
+danger/scale with understandable geography, use relational coverage for choices
+and close detail for recognition or consequence. Let the audience sometimes see
+a clue before a character when that creates purposeful suspense. Vary distance,
+movement, duration and quiet/urgent rhythm with the event; no decorative universal
+camera move or repeated reaction template. Bold spectacle must change the story.
+
 For narrative AI productions, read `docs/ai-video-story-engagement-preferences.md` before writing beats or shots. Populate the existing artifact with the short hook, distinct extreme turns, seeded consequential surprises, choices, costs and visible payoffs. Preserve factual/source/style boundaries and the current fast autonomous policy; this adds no review or approval stage.
 
 For generated human performance, read `docs/ai-video-human-performance-preferences.md` alongside the active style. Reuse selected voices and clean supported references, prepare speech/action/framing/light in the existing shot plan, and qualify through a planned useful dialogue take. This adds no routine review, paid assessment or approval gate. Preserve no-narrator/no-speech and stylized-art rules; premium footage is selective within authorized scope/budget, with the same permitted cast and compatible voice.

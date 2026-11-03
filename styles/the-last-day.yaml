@@ -1,0 +1,47 @@
+identity:
+  name: "The Last Day"
+  category: custom
+  mood: "curious, ominous, grounded, awe-filled and reflective"
+  pace: moderate
+  best_for: "Original narrated science, disaster, counterfactual and deep-time films"
+visual_language:
+  color_palette:
+    primary: ["#233541", "#687A80"]
+    accent: ["#C58C51"]
+    background: "#101820"
+    text: "#F2F1EA"
+  composition: "Full-frame moving footage and readable simulations; geographic scale, material mechanism, human/infrastructure consequence and selective accurate explanatory graphics."
+  texture: "Believable mass, material detail and coherent light; palette follows the subject, not a mandatory teal-orange grade."
+typography:
+  headings: {font: "Arial", weight: 700}
+  body: {font: "Arial", weight: 400}
+motion:
+  transitions: ["motivated hard cut", "match on action", "legible time or scale transition"]
+  animation_style: "Purposeful physical or illustrative camera movement, changing material processes, readable diagrams and complete consequential actions. No slideshow substitution or decorative camera loops."
+  pacing_rules: {}
+audio:
+  voice_style: "One original consistent offscreen narrator; clear concrete explanation, varied intention-led pace, restrained human stakes and reflective ending."
+  music_mood: "Restrained instrumental tension, curiosity and aftermath; continuous across chunks with narration forward."
+  music_volume: 0.12
+  sfx_style: "Selective synchronized physical effects and contextual ambience."
+asset_generation:
+  image_prompt_prefix: "Original science documentary illustration, credible materials and scale, coherent geography and motivated light, landscape 16:9, "
+  image_negative_prompt: "copied creator identity or branding, fabricated official evidence, gibberish scientific text, plastic materials, elastic geometry, inconsistent damage, watermark, black bars"
+  consistency_anchors:
+    - "Read docs/the-last-day-style-preferences.md, docs/the-last-day-style-reference-notes.md, docs/the-last-day-style-prompt-template.md and docs/the-last-day-frameo-production.md."
+    - "Keep narrator, recurring geography, physical system, selected cast and consequential state stable; independent explanatory cuts need not pretend to be one continuous shot."
+    - "Kie Nano Banana 2.1 first for necessary masters; clean supported references and exact outgoing selected frames for actual continuations."
+quality_rules:
+  - "Use cinematic stages with narrated longform science overrides, not sparse trailer narration or raw documentary silence."
+  - "Follow docs/ai-video-story-engagement-preferences.md: immediate title-faithful interest, causal escalation, consequential surprises and earned payoff; facts constrain factual films and counterfactual assumptions stay explicit."
+  - "Follow docs/ai-video-global-realism-preferences.md for physical behavior, meaningful continuity, environmental state and actual returned states."
+  - "Follow docs/ai-video-human-performance-preferences.md and docs/ai-video-voice-selection-preferences.md: original consistent voice, varied situation-led delivery, no routine voice gate, native visible-speech pairing."
+  - "Follow docs/video-fast-production-preferences.md: reuse research, quick dependency checks, one brief final check, USD 0 routine paid reviews, authorized repairs and autonomous completion."
+  - "Follow docs/unlimited-plan-production-preferences.md and docs/the-last-day-frameo-production.md: Seedance 2.5 useful 30-second multishot jobs, early ready-sequence release, one verified shared account capacity, immediate refill, exact receipts, no uncertain replay and deadline-aware admission."
+  - "Follow docs/portable-production-knowledge.md and docs/production-knowledge-index.json; private memory or original-device paths are not required."
+  - "Follow docs/minimum-shot-duration-preferences.md: actual ordinary shots at least two seconds, including internal cuts and screen states; no flash fragments or padding."
+  - "Follow docs/in-scene-text-preferences.md; purposeful diagrams/chapter graphics are allowed, physical-screen information stays on its screen, and exact technical lettering is locally controlled."
+  - "Follow docs/ai-image-generation-preferences.md, docs/ai-music-preferences.md and docs/ai-style-first-pass-sop.md within actual authority; external images/TTS/music are not automatically pass-covered."
+  - "Default 720p full-frame landscape; 768p only on a supported route; no portrait, filler borders or 1080p without permission."
+  - "Use primary sources for consequential facts; never turn convincing generated scenes, documents or news presenters into false evidence."
+  - "Complete requested duration and answer the title; technical checks and style files do not prove artistic parity or audience retention."

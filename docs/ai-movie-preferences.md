@@ -4,6 +4,65 @@ For detailed 30-second internal cuts and continuity prompts, read `docs/ai-movie
 
 ## Current movie training and Frameo workflow — 3 November 2026
 
+### Creative ambition and audience experience
+
+Owner refinement, 3 November 2026: think at the scale of a major original feature,
+not a small live-action shoot constrained by location permits, stunt logistics or
+practical effects. Aim for an exceptional premise and compelling first event,
+large consequential developments, surprising reversals, emotional attachment,
+memorable visual direction and a fully earned climax. Ambitious creatures, worlds,
+disasters and transformations are creative options when the title/genre supports
+them; they are not compulsory spectacle in every scene. Real generation capability,
+continuity, actual spending authority and physical/world rules still apply.
+
+Plan the audience's experience before footage: what they understand, wonder,
+fear, hope for and then learn that changes their expectation. Resolve questions
+through action while opening more consequential ones; vary tension, wonder,
+tenderness, dread, shock and relief rather than hold one mood. Make choices cause
+costs and new problems. Build surprises from seeded facts or a revealing change
+of interpretation, not random disasters or a last-minute new power. Earn feeling
+through specific voluntary behavior and sacrifice; generic worried faces, gore,
+volume or a bigger creature alone do not create attachment or suspense.
+
+Give the protagonist a difficult, active decision and a distinctive practical
+contribution. Set up the climax's capability/limit and pay off an earlier gesture,
+object or relationship with changed meaning. Direct wide scale, medium relational
+action and close recognition for the information/emotion each reveals. Favor
+bold dramatic ideas with clear achievable physical staging over intricate
+unnecessary mechanics that consume screen time and cause model failures.
+
+Owner further clarification: substantially raise the premise's curiosity and
+click appeal as well as the screenplay's execution. The title, opening image and
+first consequential action should form one irresistible promise that the film
+actually fulfills. Favor a specific striking contradiction, danger or mystery
+over vague announcements that "something is wrong". Let viewers form a plausible
+expectation, then use concrete evidence and a consequential turn to revise it.
+Build a chain of developing questions and partial answers rather than withholding
+the same obvious fact for minutes. Plan distinctive memorable moments and emotional
+investment before writing coverage; polish cannot rescue a weak foundation.
+Do not confuse curiosity with confusing geography, unexplained magic, empty
+teasers, false payoffs, repetitive scares or adding new random threats each clip.
+
+Use the reference films as craft evidence; study the owner's new NULL HOUR link
+`xRQG07hiLr0` for its actual storytelling before claiming any specific lesson from
+it. Integrate verified findings in the reference notes/template. Do not copy plots,
+characters or creators, claim measured retention, or equate popularity with proof
+of a technique. This direction is creative ambition, not unlimited monetary spend
+or a guarantee of Hollywood parity.
+
+### Great quality and fastest reliable production together
+
+Owner clarification: the target is strong story, screenplay, direction,
+cinematography, performance and continuity with minimum end-to-end time—not
+merely passing technical checks or accepting obvious weak material. Reduce waste,
+handoff delay, unnecessary dependencies and generation complexity rather than
+lowering that target. Follow the fast guide's shared-state preparation, rolling
+ready sequences, full available shared capacity, immediate assembly and targeted
+fault repair. No routine paid scoring, repeated broad audits or approval waits.
+The owner explicitly requested the current style/reference improvements be saved
+before the next seven-minute same-topic sample begins; this does not create a
+standing requirement to retrain the style or rewatch references before every film.
+
 Read [movie craft and reference evidence](ai-movie-reference-notes.md), the
 [movie playbook](../styles/ai-movie.yaml) and the updated
 [complete-movie template](ai-movie-prompt-template.md). The owner requested a
@@ -59,6 +118,69 @@ resolved within scope/budget or available capability, report that precise limit;
 do not label it polished or leave the owner to diagnose it. Artistic satisfaction
 and flawless generation cannot be guaranteed in advance. No new title or sample
 generation is authorized by this clarification alone.
+
+### Owner correction from the lighthouse sample — 3 November 2026
+
+The first delivered lighthouse sample is **owner-rejected for continuity,
+attention/action and physical staging faults**, not an accepted quality benchmark.
+Its successful export/cut/audio tests did not establish semantic correctness.
+
+- A creature placed in a tub stays there until a visible removal or deliberate
+  time transition. Every shot exposing that occupied tub must retain the creature,
+  or establish a physically credible occlusion/submersion. An apparently empty
+  basin is not excused by a correct face elsewhere. Make the subject legible
+  against water/reflections; pale-on-pale transparency is a visibility failure
+  when the viewer cannot tell it is present.
+- Gaze has a specific target and order: notice/look at target, orient head/body,
+  approach/reach, maintain attention through contact, then react. A window/radio
+  glance needs a visible/audible cue and its own beat; do not reach at the animal
+  while staring elsewhere or addressing the camera. Preserve actual eye height,
+  target side and sightline across cuts; do not lock all acting into a fixed stare.
+- Follow the concrete physical/biological staging rule in the global realism
+  guide: controls, machine state, force/contact, injury, buoyancy, waterline and
+  respiration must agree with visible action. Fantasy permissions are specific
+  established story rules, not a blanket exception for ordinary machinery/body
+  behavior. For a powered wheel, show a usable stop control and completed stop
+  before access; do not use an unhurt palm as a brake. Manual drive needs a visible
+  disconnected motor/clutch state and a designed handle outside the pinch point.
+  Do not grip/brake the belt while cranking or strike moving parts as a gesture.
+  Every hand action must support the goal and acknowledge resistance/pain.
+  Wounds and their dressing pads retain the exact limb and anatomical site;
+  cotton cannot jump between palm and back, and a wrap's two-sided coverage
+  requires a coherent wrapping action or established completed state.
+- Separate story light from photographic exposure: a dim navigation lamp does
+  not require an unreadable face, hand, animal or whole room. Keep motivated
+  service/practical light on the action; set the actual window/sky/time state in
+  the reference and native take. Do not darken a daylight-looking scene globally
+  and claim the result proves night or story causality.
+- Direct the connection between sequences. A cut must follow a meaningful look,
+  action, reaction, reveal or legible time change, with consistent axis and body/
+  object state. Use an appropriate sound pre-lap (J-cut), tail (L-cut), listener
+  reaction or complete match-on-action to carry the audience through when useful.
+  Do not simply concatenate30second containers, mechanically cut at their ends,
+  or use a dissolve to hide a teleport. Preserve native mouth/word pairing across
+  any sound bridge; see the multi-shot guide's directed-transition section.
+- Prefer a small number of useful **occupied/action-ready state references**
+  when presence or contact matters. An empty-set master plus an animal identity
+  image in an incompatible container can reproduce emptiness or the wrong basin
+  despite role labels. Derive a clean identity crop or a coherent combined state
+  from accepted footage; remove incompatible background influence once, then
+  reuse it. Preserve the selected cast and accepted/uncertain job receipts.
+
+Put these facts directly into the existing scene/shot prompt's incoming state,
+visible subject, attention target, action and outgoing state. Simplify overloaded
+choreography instead of adding more conflicting instructions. The normal brief
+essential check must look for these story-critical states, not merely recognize
+the protagonist's face. This adds no paid scoring, per-clip transcription,
+approval gate or default exhaustive review. The owner's explicit whole-film
+diagnosis of this rejected sample is a one-time repair/research task.
+
+Owner speed clarification: incorporate each correction into the existing
+screenplay, occupied-state reference, action and transition plan once, then
+reuse the solved setup. Feedback does not authorize a growing stack of checks:
+keep bounded parallel production, immediate local/targeted fault repair and one
+brief final essential check. Do not repeat whole-film studies, per-clip ASR,
+contact-sheet audits, paid rankings or approval waits in ordinary future films.
 
 For narrative story and scene planning, apply [extreme story and surprise planning](ai-video-story-engagement-preferences.md): short strong hooks, distinct escalating challenges, seeded consequential surprises and costly choices with visible payoffs. Match this style and the title; wildlife is one environment-appropriate option, not a mandatory insert. Keep factual/source boundaries and the fast autonomous workflow; no extra review or approval stage.
 

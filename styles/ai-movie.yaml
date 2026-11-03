@@ -1,7 +1,7 @@
 identity:
   name: "AI Movie"
   category: cinematic
-  mood: "Emotionally grounded, suspenseful and epic when the story earns scale"
+  mood: "Emotionally grounded, boldly original, suspenseful and epic through earned scale and consequence"
   pace: moderate
   best_for: "Complete original character-driven films at the requested length"
 visual_language:
@@ -33,6 +33,12 @@ asset_generation:
     - "One film bible: original identities, selected voices, geography, wardrobe, props, injury and weather/light state; offscreen state persists."
     - "Reference roles are explicit. Use original identity/location roots for independent setups and exact outgoing edit-point state for true continuations where supported."
 quality_rules:
+  - "Owner refinement3November2026: feature-film creative ambition, immediate strong premise/hook, audience curiosity and emotional expectations planned before generation, consequential scale, seeded reversals, active costly choices and earned payoff; no small-live-shoot limit on invention, no arbitrary spectacle or claim of guaranteed retention/parity."
+  - "Joint quality/speed goal: strong screenplay/direction/cinematography/continuity with minimum reliable completion time. Freeze shared spine/state once, overlap independent writing/references/generation/assembly, wait only actual dependencies and repair concrete faults without routine paid reviews or extra approval gates."
+  - "Generalize feedback using docs/portable-production-knowledge.md and global persistent-state/causality/affordance/spatial/performance/editorial principles; examples from one film do not limit scope."
+  - "Owner correction3November2026: required secondary subjects stay present/legible across occupied-container views; actor gaze and head/body orientation follow look/orient/reach/contact/reaction, with a cue for any glance away."
+  - "Ordinary mechanics, force/contact, injury, scale, buoyancy, respiration and supported transport remain convincing; specific established fantasy rules do not excuse unrelated physical faults. Show controls/completed stop before hands approach powered parts."
+  - "Use coherent occupied/action-ready references where interaction matters; empty-set or incompatible-container identity backgrounds can override textual role labels. Keep readable motivated face/hand/subject light when the story beacon dims."
   - "Follow docs/ai-video-story-engagement-preferences.md: visible title-led hook, causal escalation, consequential choices and seeded payoff; a complete film resolves its main dramatic question."
   - "Use the dated channel studies as craft evidence, not copied plots or proof of retention. Endings and promotional tails must be distinguished; do not adopt a public teaser's cliffhanger as a complete-film ending."
   - "Every scene changes knowledge, relationship, objective, access or cost; quiet scenes earn attachment or relief and plant future consequences."

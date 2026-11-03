@@ -1,5 +1,66 @@
 # Fast production for every video style
 
+Owner quality/speed clarification, 3 November 2026: jointly optimize strong
+storytelling, visual direction, screenplay, cinematography, performance and
+continuity with the shortest reliable end-to-end production time. "Fast" must
+not mean a merely playable weak story or known material contradictions. Prevent
+avoidable failures through better decisions and simpler achievable staging;
+eliminate duplicated work and idle handoffs rather than lowering the target.
+
+Organize the existing workflow by real dependencies: one owner freezes the
+whole-film spine/ending and shared state, writers prepare independent sequences,
+reference/sound work overlaps, one coordinator admits ready generation at shared
+capacity, and one editor selects/conforms each returned source immediately.
+Publish ready paths/ranges/state as soon as available rather than waiting for a
+report or slow batch member. Reuse settled voices, references, score and valid
+conforms; only actual state-dependent continuations wait. Inspect concrete faults
+while collecting/assembling and reuse that evidence in the one brief essential
+final check. Measure preparation, queue/generation, editing and delivery spans
+separately to find the actual bottleneck; do not claim an estimated speedup as fact.
+
+An explicitly requested style/reference update is completed before that film's
+generation when the owner asks for that order. It is a one-time prerequisite for
+that request, not a new recurring full-style rewrite, reference rewatch or review.
+
+Owner clarification, 3 November 2026: feedback on disappearing subjects, gaze,
+wrong prop/control use, physical/biological plausibility and abrupt edits must
+improve the existing story, action-ready references, staging and edit plan once.
+It must not become a growing set of routine paid reviews, per-clip ASR/contact
+sheets, full-film re-audits or approval waits. An explicitly requested whole-film
+diagnosis is a one-time task; then repair concrete faults and continue. Prefer
+clearer achievable action and reusable correct states to longer prohibitions or
+repeated scoring. Preserve one brief final essential check and actual fault/
+dependency checks; speed is not permission to deliver known contradictions.
+
+Owner final clarification: add a check when it is truly needed to catch a material
+fault. The brief essential check must cover actual story-critical secondary
+subjects and physical interactions, not only four attractive protagonist frames
+or file metadata. Reuse actual shot boundaries and compact witnesses of required
+presence, gaze/contact, control actuation and traversable paths. A concrete motion
+uncertainty warrants a short relevant moving interval. Perform this once while
+footage is collected/assembled; reuse unchanged evidence and repair only flagged
+material. It replaces an inadequate spot check rather than adding another review
+layer. Do not certify an intended result that the returned footage did not show,
+or knowingly deliver a material contradiction to save the remaining few minutes.
+
+Accumulate corrections as a compact reusable state/action contract, not one new
+check per complaint. Combine compatible hand roles, mechanical cause/result and
+injury/dressing location in the same scene brief and relevant reference. Prefer
+simpler staging and targeted replacement of defective material. Keep independent
+preparation/generation/assembly concurrent within shared capacity; reuse cached
+valid evidence. Add inspection only for a material fault or unresolved dependency,
+not a blanket extra review of every frame or an automatic retake loop.
+
+Separate required story/continuity facts from incidental implementation choices.
+If a returned reference has a physically coherent alternative hand/stance or
+camera setup, and it does not contradict accepted footage or a required fact,
+adapt the unsubmitted downstream staging consistently instead of rerolling merely
+to match an arbitrary earlier choice. Record the actual state and small amendment;
+preserve immutable accepted inputs. Never use this to excuse an identity change,
+missing participant, migrating attachment/damage, impossible action or lost payoff.
+A useful occupied reference is preferable to deleting its actor solely to avoid
+adjusting an incidental pose. This is state-aware reuse, not a new review stage.
+
 For narrative AI films, apply [extreme story and surprise planning](ai-video-story-engagement-preferences.md) during the existing script and scene-plan preparation. Record visible hook, distinct escalating threats, seeded surprise, difficult choice, persistent cost and earned payoff; no extra paid review or approval stage.
 
 Read [portable production knowledge](portable-production-knowledge.md) in new

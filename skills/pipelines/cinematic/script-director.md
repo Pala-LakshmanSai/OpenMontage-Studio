@@ -1,5 +1,19 @@
 # Script Director - Cinematic Pipeline
 
+Apply `docs/ai-video-global-realism-preferences.md` at the causal story level:
+consistent world rules, purposeful actions with appropriate means, established
+causes before consequences, persistent costs and legible transitions. Generalize
+owner corrections through `docs/portable-production-knowledge.md`; concrete past
+examples are not the limit of the rule. Keep these in existing beats, without a
+new review or approval stage and without blending distinct style contracts.
+
+For AI Movie Style, follow its current creative-ambition rule: develop an
+original high-concept promise, immediate specific curiosity, evolving audience
+expectations, emotionally consequential choices, seeded reversals and a complete
+payoff. Do not accept a weak premise and hope coverage, spectacle or music will
+repair it. Dramatic scale is not limited to a small live shoot; physical/world
+coherence and actual authorization remain. Put this once in existing beat metadata.
+
 For narrative AI productions, read `docs/ai-video-story-engagement-preferences.md` before writing beats or shots. Populate the existing artifact with the short hook, distinct extreme turns, seeded consequential surprises, choices, costs and visible payoffs. Preserve factual/source/style boundaries and the current fast autonomous policy; this adds no review or approval stage.
 
 For generated human performance, read `docs/ai-video-human-performance-preferences.md` alongside the active style. Reuse selected voices and clean supported references, prepare speech/action/framing/light in the existing shot plan, and qualify through a planned useful dialogue take. This adds no routine review, paid assessment or approval gate. Preserve no-narrator/no-speech and stylized-art rules; premium footage is selective within authorized scope/budget, with the same permitted cast and compatible voice.

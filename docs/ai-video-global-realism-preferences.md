@@ -1,5 +1,209 @@
 # Global realism and progression for AI videos
 
+## General principles inherited by every AI video style
+
+Owner clarification, 3 November 2026: learn the underlying failure class from
+feedback, not only the pictured example. These principles govern all relevant
+people, animals, objects, tools, environments and generated inserts, including
+future styles. Concrete examples below illustrate them; they do not limit scope.
+
+- **Persistent state and identity:** carry an entity's identity, count, location,
+  orientation, condition, attachments, contents and ownership across time and
+  camera changes. Track only facts relevant to the scene. Damage, treatment,
+  wetness, wear, dirt, quantity, assembly and carried items cannot migrate, mirror,
+  duplicate, disappear or reset without an established cause. Track the state in
+  world/body/object coordinates, not merely "screen-left". A new angle changes
+  projection and visibility, not the underlying entity. This includes any mark,
+  repair, fastening, costume detail, load, liquid or transformation, not just wounds.
+  Match scene-relevant dimensions, proportions, shape, material, color, construction,
+  attachment and coverage as well as location: retaining the name of an object
+  does not permit it to grow, change design or become a different assembly.
+  Freeze one clear current-state representation after a meaningful change and
+  reuse it across later coverage where useful; derive compatible views/crops
+  instead of independently reinventing the state from a vague label. A change
+  in treatment, repair, costume or equipment needs an established action/time cause.
+- **Physical causality and functional action:** intention → appropriate action →
+  credible forces/contact → visible result → response. Materials, anatomy, weight,
+  support, motion, resistance and biological needs follow a consistent world rule.
+  Establish meaningful buildup before failure or major change. Fantasy exceptions
+  are specific, seeded and consistently applied, with consequences preserved.
+- **Object affordance and mechanism consistency:** interaction matches the
+  object's design, function, controls, joints and operating state. Hands/tools
+  contact suitable surfaces with compatible roles; simultaneous actions cannot
+  silently cancel the goal, occupy the same space or ignore harmful force.
+  Prefer a simple legible mechanism over invented technical-looking gestures.
+- **Spatial and relational continuity:** preserve participant relationships,
+  traversable routes, scale, barrier sides, support and camera geography. Solids
+  remain solid; occlusion is distinct from disappearance. Every shot exposing an
+  established occupied region preserves its contents unless a caused change is
+  shown. Offscreen presence still has a consistent position and ongoing action.
+- **Motivated performance and perceptual readability:** attention, gaze, posture,
+  movement, emotion and reaction follow the character's current goal and stimulus.
+  Stage essential information so the audience can actually perceive it through
+  framing, contrast, practical light, timing and synchronized sound. Required
+  action cannot be excused by a correct portrait, dark frame or prompt assertion.
+- **Temporal and editorial continuity:** changes of place, time, action phase,
+  atmosphere and sound need a meaningful connection or legible transition. Cuts
+  preserve causal order, appropriate screen direction, complete speech/action and
+  subject state. Use reaction, match-on-action and J/L sound bridges when useful;
+  transitions cannot disguise contradictions or substitute for an unshown cause.
+- **Efficient prevention and targeted correction:** solve relevant invariants and
+  allowed changes in the existing story/shot plan, then bind concise prompts and
+  suitable state references. Simplify difficult staging rather than accumulate
+  prohibitions. Reuse those facts and accepted assets across coverage. The existing
+  brief essential check must examine the actual critical interaction/state; add
+  only the inspection needed for a concrete fault or uncertain dependency. No new
+  routine paid scoring, exhaustive review, approval stage or cosmetic retake loop.
+
+Use these principles alongside the active style's art, voice, source and audio
+rules. Do not impose photorealistic physics on an explicitly established stylized
+world, fabricate events in factual work, or flatten all styles into one aesthetic.
+The target is convincing internal consistency and fast, strong delivery; neither
+long prompts nor reference images guarantee that a model will obey every fact.
+Known material contradictions must be repaired before calling the film finished.
+
+## Convincing physical and biological action — owner correction, 3 November 2026
+
+Ordinary mechanics, anatomy and behavior must follow visible causes even inside
+a fantasy story. A specific established cinematic liberty may change one rule;
+it does not excuse unrelated force, contact, movement or biological contradictions.
+Plan the control/state/action/result in the existing shot brief, without adding
+a new review service or routine approval stage.
+
+Keep hands/bodies out of an active belt, pulley, unguarded wheel or pinch point.
+For an inspection, show the stop control, completed deceleration and stationary
+state before reaching; do not show a palm stopping powered machinery without
+the expected resistance/injury. A designed manual crank is held by its handle
+after the motor is visibly disconnected, not by an unexplained spinning rim.
+Distinguish stationary housing from moving parts in the frame. Loads have support,
+contact has force, slips/damage have a cause, and pain/recoil/injury location
+persists when the action establishes it. This is fictional scene staging, not
+an instruction to operate or service real equipment.
+
+An action must serve the character's actual goal. While manually driving a
+mechanism, gripping its belt/rim with the other hand adds opposing friction,
+heat and a pinch hazard; it cannot be staged as effortless assistance. After
+visible stop and motor/clutch release, use the designed crank handle and a
+stationary safe support. Express frustration through face, breath or a justified
+contact with stationary housing, not by hitting a moving belt, gear or fragile
+component. Do not insert purposeless gestures that obstruct the task or create
+unacknowledged pain. Lock each hand's contact and function in the existing action
+brief; simplify choreography rather than add routine reviews.
+
+For an aquatic creature, preserve coherent scale, mass, buoyancy, waterline,
+respiration and supported wet transport. A supernatural glow does not grant
+unshown levitation, air breathing, teleportation or size changes. Keep specific
+permitted fantasy behavior separate from the ordinary animal/material behavior.
+Actors attend to what they manipulate: a motivated look/orient/reach/contact
+sequence, consistent target/eyeline, and a reason for any glance away.
+
+Owner extension, 3 November 2026: apply correct use of controls and props to
+every AI video style. The object's design, intended function, hand placement,
+actuation motion, resistance/feedback and resulting state must agree. A rotary
+knob is gripped and turned; a button is pressed; a toggle or lever moves through
+its designed travel; a latch, key, handle and tool are used at their actual contact
+point. A combined push/turn control is permissible only when that specific design
+and function are established, not as a convenient invented behavior. Do not use
+an unrelated radio knob as the lighthouse's power isolator, make a decorative
+object operate machinery, push through solid surfaces, or produce a result before
+the control is actually operated. If a needed mechanism is unclear, stage a
+simple visibly suitable control or omit the unnecessary technical action; do not
+fake precision with a close-up of an arbitrary device. Preserve this in generated
+inserts within mixed/source-led productions too, without changing their source
+or audio workflow. These faults break perceived realism and must be prevented
+through the existing action/reference plan, not hidden with grain, darkness,
+music, generic cinematic adjectives or an expanding review checklist.
+
+Owner extension, 3 November 2026: preserve solid geometry and collision across
+all AI styles. People, animals, carried bags/tools and cameras cannot pass through
+iron balusters, closed gates, walls, glass, floors, furniture or each other.
+Establish the actual opening and traversable route, keep the body and carried
+load on the correct side, and leave enough clearance. On stairs, feet follow
+treads and the actor enters through a visible gap/gate before ascending inside
+the rail; do not walk through the railing because it is the shortest screen
+path. Occlusion by a rod is not passage through it. A new angle cannot teleport
+the actor/load to the other side. Choose an open, achievable route or a motivated
+cut between clearly compatible positions; do not conceal a collision with blur,
+darkness or a dissolve. Use a useful occupied-route state reference when an empty
+architecture image leaves the path ambiguous. This is part of existing blocking
+preparation and concrete-fault repair, not a new routine review stage.
+
+Delivery rule: known missing-subject, attention/contact, wrong-control or solid-
+geometry failures must be corrected before calling a new export finished. Use
+the existing brief semantic check's actual relevant shots/motion, with targeted
+follow-up only when uncertain; a valid file, scene detector, correct portrait or
+prompt wording is not evidence that the physical action occurred correctly.
+This is a concrete quality requirement, not a claim that generative errors can
+be guaranteed never to occur. Prevent them through achievable staging and correct
+state references, and remove diagnosed faults before delivery without routine
+paid scoring or repeated broad reviews.
+
+Owner extension, 3 November 2026: preserve all established participants across
+changes of shot size in every AI style. A person caring for an animal cannot
+vanish from the following wide view of the same work area without a visible exit,
+credible occlusion/crop or clear elapsed-time transition. Track each person's
+actual world position, posture and ongoing task before selecting the camera.
+A close insert may exclude them, but a wider camera that exposes their established
+position must show them there. Do not inherit an empty-room reference as the new
+live state. Give the wide its correct occupied-state reference and explicit cast
+count; keep offscreen positions consistent without adding copies or forcing
+everyone into every frame. The same rule applies to animals, tools and carried
+loads. This extends existing state/visibility preparation and the brief semantic
+check, not a new per-shot paid review or approval stage.
+
+Owner extension, 3 November 2026: make failures and state changes visibly earned.
+Prepare cause → developing evidence → failure/contact → physical consequence →
+human response. If a belt breaks because a drive is overpowering it, establish
+the rise in speed/load, strain/vibration/sound and the break in a readable order;
+do not substitute a slowly rotating intact belt and a suddenly broken one.
+High speed is not compulsory for every failure: an already damaged belt may fail
+under ordinary load, but then show progressive fraying/tension or the specific
+binding/overload that causes it. Choose one coherent mechanism rather than mixing
+incompatible explanations. The same principle applies to falls, fractures, leaks, collapse, injury, exhaustion and creature/environment transformations.
+Show the relevant action/result in useful complete shots with synchronized sound,
+and carry damage/residual motion forward. A before/after cut or louder sound
+alone is not proof of the causal event. Put this in existing staging and prompts;
+do not add a routine paid analysis or separate review gate.
+
+Owner extension, 3 November 2026: injury location follows the actual contact and
+anatomy. Record left/right limb, palm/back/edge, contact point and force, then
+show the immediate pain/recoil and the resulting wound at that same location.
+If the palm is cut, reveal it with an actual hand rotation or appropriate angle;
+do not materialize a wound on the back of a palm-down hand for camera visibility.
+Any blood transferred to a contacted surface must follow that contact. Maintain
+wound side/shape, later blood, dressing and functional limitation across cuts.
+Do not add gratuitous injury or gore to make an action look consequential; use
+the injury justified by the story and shown mechanism. Prepare this once in
+the existing action/state plan, using manageable choreography rather than a
+longer generic realism prompt or a new review layer.
+
+Treat an established injury as a persistent marked state, not the loose label
+"hurt hand": lock the actual limb, palm/back, exact anatomical site, wound shape/
+size and blood pattern, then its caused dressing/healing progression. A reverse
+angle or new close-up cannot move it to another finger, knuckle, wrist or side.
+Do not mirror a wound with the camera, invent extra cuts or clean/reset the hand
+without an action/time cause. Reuse the same clear injury-state reference/crop
+when that area is visible; when covered or out of frame, its location and effect
+on action still persist. This is the existing state ledger, not another review.
+
+Dressing is the same persistent physical state: specify the wound-facing pad,
+which side of which hand it contacts, and any actual wrap route. Loose cotton
+pressed to the palm does not also appear on the back of the hand in the next
+angle. A bandage may legitimately encircle both sides only after a visible wrap
+or clearly established finished dressing; its anchored pad still covers the same
+wound. Preserve pad size, attachment, stains, knot/fastening and hand function.
+Use a clear state reference/crop when useful instead of relying on the generic
+word "bandaged". Do not mirror the treatment to improve camera visibility.
+
+Photographic visibility is part of staging. Maintain readable important eyes,
+hands, contacts and required secondary subjects through motivated light and
+contrast. Track the story light source separately from scene exposure. A weak
+beacon can coexist with a useful workshop service lamp; global darkening cannot
+repair a missing subject, wrong action or daylight-looking window. Use a coherent
+action-ready reference rather than inheriting an incompatible empty/background
+state. Apply these requirements through preparation and the existing brief
+essential check; no routine extra paid review or exhaustive per-clip audit.
+
 ## Title-led extreme stakes and earned progression
 
 Follow [extreme story and surprise planning](ai-video-story-engagement-preferences.md). The owner rejected the delivered Glacier story as too mild on 3 November 2026; generic extreme-stakes wording is not enough. Plan bolder distinct threats and consequential surprises before generation, including habitat-appropriate wildlife where the story supports it.

@@ -1,0 +1,91 @@
+{
+  "observed_date": "2026-11-03",
+  "source": "Algrow get_channel_videos sort=popular limit=12; metadata not visual evidence",
+  "channel": "https://www.youtube.com/@TheLastDay01",
+  "videos": [
+    {
+      "title": "Nepal's 2026 Disaster Explained: The Glacier That Wiped Out a Valley",
+      "url": "https://www.youtube.com/watch?v=vfIaNeGVaVo",
+      "view_count": 5157355,
+      "duration": 1159,
+      "upload_date": "2026-09-04T21:29:44Z"
+    },
+    {
+      "title": "What would happen If the Moon Crashed Into Earth?",
+      "url": "https://www.youtube.com/watch?v=eGfbwdXL3wg",
+      "view_count": 1965321,
+      "duration": 1257,
+      "upload_date": "2026-09-26T12:44:03Z"
+    },
+    {
+      "title": "What Would Happen If an Asteroid Hit the Ocean?",
+      "url": "https://www.youtube.com/watch?v=hxlGCMo6ihI",
+      "view_count": 1686524,
+      "duration": 1203,
+      "upload_date": "2026-09-11T22:40:00Z"
+    },
+    {
+      "title": "The Wave That Was Taller Than a Skyscraper",
+      "url": "https://www.youtube.com/watch?v=nhaTh5gGXiM",
+      "view_count": 1528533,
+      "duration": 752,
+      "upload_date": "2026-07-18T22:05:12Z"
+    },
+    {
+      "title": "What Happens to Earth If Humans Disappear Tomorrow?",
+      "url": "https://www.youtube.com/watch?v=vtUUjqQGk1o",
+      "view_count": 945601,
+      "duration": 1159,
+      "upload_date": "2026-09-17T19:38:50Z"
+    },
+    {
+      "title": "What Would Happen If The Sun Disappeared For One Week?",
+      "url": "https://www.youtube.com/watch?v=yqIVm6jajfQ",
+      "view_count": 771082,
+      "duration": 1284,
+      "upload_date": "2026-10-03T15:39:45Z"
+    },
+    {
+      "title": "The Most Terrifying Dinosaur Was Not the T Rex",
+      "url": "https://www.youtube.com/watch?v=T5Is9IweAys",
+      "view_count": 497278,
+      "duration": 1391,
+      "upload_date": "2026-08-03T21:00:26Z"
+    },
+    {
+      "title": "What Would Happen If It Rained on Earth for an Entire Year?",
+      "url": "https://www.youtube.com/watch?v=t4fQQ2msesQ",
+      "view_count": 392265,
+      "duration": 1172,
+      "upload_date": "2026-10-18T17:14:44Z"
+    },
+    {
+      "title": "What Earth Actually Looked Like When Dinosaurs Ruled It | 4k Documentary",
+      "url": "https://www.youtube.com/watch?v=P-5b8-ozvLM",
+      "view_count": 328348,
+      "duration": 1422,
+      "upload_date": "2026-07-29T22:52:43Z"
+    },
+    {
+      "title": "The Last Day of the Dinosaurs: What Happened in the 24 Hours Before Extinction",
+      "url": "https://www.youtube.com/watch?v=5c6ND5sRnGk",
+      "view_count": 254538,
+      "duration": 868,
+      "upload_date": "2026-07-10T14:19:13Z"
+    },
+    {
+      "title": "How the Netherlands Lives Below Sea Level and Doesn't Go Underwater",
+      "url": "https://www.youtube.com/watch?v=3fy2DnrCRVc",
+      "view_count": 152318,
+      "duration": 889,
+      "upload_date": "2026-07-13T19:00:08Z"
+    },
+    {
+      "title": "What a T-REX Actually Did All Day | 4K Realistic Animation",
+      "url": "https://www.youtube.com/watch?v=CPltHN7PYrQ",
+      "view_count": 137422,
+      "duration": 1161,
+      "upload_date": "2026-08-10T21:35:15Z"
+    }
+  ]
+}

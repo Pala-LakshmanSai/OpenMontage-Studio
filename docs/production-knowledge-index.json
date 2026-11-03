@@ -30,7 +30,14 @@
     "docs/ai-movie-mythra-study.md",
     "docs/ai-movie-eterya-study.md",
     "docs/ai-movie-lumz-study.md",
-    "docs/ai-movie-multishot-prompting.md"
+    "docs/ai-movie-multishot-prompting.md",
+    "docs/ai-movie-storytelling-refinement-20261103.md",
+    "docs/ai-movie-engagement-xRQG07hiLr0-study.md",
+    "docs/the-last-day-frameo-production.md",
+    "docs/the-last-day-catalogue-study.md",
+    "docs/the-last-day-visual-study-a.md",
+    "docs/the-last-day-visual-study-b.md",
+    "docs/the-last-day-moon-study.md"
   ],
   "installation": "docs/install-and-update.md",
   "style_profiles": [
@@ -87,6 +94,15 @@
       "template": "docs/tech-trendy-style-prompt-template.md",
       "reference_notes": "docs/tech-trendy-style-reference-notes.md",
       "playbook": "styles/tech-trendy.yaml"
+    },
+    {
+      "id": "the-last-day",
+      "name": "The Last Day",
+      "pipeline": "pipeline_defs/cinematic.yaml",
+      "guide": "docs/the-last-day-style-preferences.md",
+      "template": "docs/the-last-day-style-prompt-template.md",
+      "reference_notes": "docs/the-last-day-style-reference-notes.md",
+      "playbook": "styles/the-last-day.yaml"
     }
   ],
   "shared_capabilities": [

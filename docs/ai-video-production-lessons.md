@@ -4,6 +4,16 @@ These lessons are repository knowledge, not a dependency on a particular chat,
 personal memory, SSD or paid reviewer. Read alongside the active style and the
 current shared policies in `production-knowledge-index.json`.
 
+Owner clarification, 3 November 2026: preserve the general cause of a production
+failure, not merely its visible symptom. Apply the shared persistent-state,
+physical-causality, object-affordance, spatial, performance/readability and editorial
+principles in `ai-video-global-realism-preferences.md` across analogous situations.
+For example, a displaced bandage is an attached-state continuity failure, a knob
+pressed like a button is an affordance failure, and a person disappearing in a
+wide is an occupancy/spatial failure. These examples do not limit the rules.
+Incorporate existing saved corrections and future feedback through the process in
+`portable-production-knowledge.md`; consolidate rather than grow review stages.
+
 ## Prepare useful footage, not generic prompts
 
 Start with the title's visible promise, an immediate open question and several

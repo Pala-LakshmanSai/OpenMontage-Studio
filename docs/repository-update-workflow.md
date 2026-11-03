@@ -35,6 +35,11 @@ unrelated memory or an entire temporary production log into training.
    local caches, model weights, private URLs/receipts and machine-only settings.
    Scan the exact staged content for credential values without printing them.
    The credential setup asset is a separate explicitly authorized private release.
+   Research packs publish distilled craft notes, coverage metadata and public-field
+   summaries. Raw external analysis responses, private service job identifiers and
+   original provider receipts remain local even when stored under `docs/evidence`;
+   that directory name does not make them publishable. Link a sanitized summary
+   instead of requiring those private files on a fresh checkout. Preserve originals.
 5. Commit a coherent tested snapshot and push normally to the public default
    branch. No force push, history rewrite, reset, clean or deletion of other work.
    If remote changes or unresolved faults prevent a safe push, preserve the

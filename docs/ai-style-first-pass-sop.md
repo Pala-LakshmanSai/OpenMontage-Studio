@@ -15,6 +15,11 @@ footage documentary workflow. Current explicit instructions take precedence.
 For all AI video styles, also follow [global realism and progression](ai-video-global-realism-preferences.md):
 establish an appropriate initial state and let the screenplay, staging, narration,
 materials, props and environment evolve through visible, plausible causes.
+Apply that guide's general principles to every relevant entity and interaction,
+not only its example scenes. Record a compact set of persistent facts and allowed
+caused changes in the existing sequence plan; bind useful state references and
+achievable action. This replaces repeated scene-specific prohibitions and adds no
+review stage. Generalize new owner feedback through portable production knowledge.
 
 ## Outcome and spending authority
 

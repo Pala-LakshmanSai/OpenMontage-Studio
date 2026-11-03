@@ -1,0 +1,45 @@
+{
+  "authorization": "Owner approved up to 26 existing Algrow credits; no purchase",
+  "date": "2026-11-03",
+  "resolution": "low",
+  "jobs": [
+    {
+      "id": "vfIaNeGVaVo",
+      "status": "completed",
+      "credits": 5,
+      "duration": 1159,
+      "chars": 17696
+    },
+    {
+      "id": "eGfbwdXL3wg",
+      "status": "completed",
+      "credits": 6,
+      "duration": 1256,
+      "chars": 19711
+    },
+    {
+      "id": "hxlGCMo6ihI",
+      "status": "completed",
+      "credits": 6,
+      "duration": 1202,
+      "chars": 23361
+    },
+    {
+      "id": "nhaTh5gGXiM",
+      "status": "completed",
+      "credits": 4,
+      "duration": 752,
+      "chars": 16650
+    },
+    {
+      "id": "vtUUjqQGk1o",
+      "status": "completed",
+      "credits": 5,
+      "duration": 1159,
+      "chars": 17458
+    }
+  ],
+  "total_credits_reported": 26,
+  "limitations": "Reported credits, not independent account ledger. External AI analysis is not human continuous viewing; low-resolution request overrides unsupported source-resolution assertions.",
+  "scope": "Public research summary; private service receipt identifiers excluded."
+}

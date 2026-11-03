@@ -33,6 +33,17 @@ If a look, line, or gesture is doing the work, let it live. Do not over-cover it
 
 Ambience, impacts, dropouts, and music changes should help create momentum between scenes.
 
+For AI Movie, direct the actual passage transition rather than concatenating
+generated30second containers. Carry a motivated stimulus/reaction, look or action
+into compatible new coverage; preserve axis, movement phase and physical state.
+Use a relevant incoming sound pre-lap (J-cut), outgoing tail (L-cut), listener view
+or match-on-action when useful for immersion. Maintain room/sea ambience; do not
+add a transition effect to every cut or conceal missing movement with a dissolve.
+Visible native speech retains its original word-to-mouth offset: a pre-lapped
+speaker must be revealed at the matching already-elapsed picture time, never at
+the beginning of the same mouth take. This belongs in existing edit decisions
+and the brief essential check, not another routine audit or approval stage.
+
 ### Camera and time continuity at boundaries
 
 Plan subject scale, framing, lens/axis, exposure, action phase and camera/action
