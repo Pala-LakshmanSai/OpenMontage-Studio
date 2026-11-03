@@ -1,6 +1,8 @@
 """Frameo Seedance 2.5: zero-credit pass generation with durable no-replay receipts.
 
-Contract verified against https://api.frameo.ai/v1/openapi.json, 2026-11-03.
+Contract verified against https://api.frameo.ai/v1/openapi.json and /v1/models,
+2026-11-03. Direct 1080p is a supported request, but may not be pass-covered;
+request support alone does not establish the provider's internal render process.
 No generation is submitted without a fresh zero-credit estimate and an active
 caller-specified pass window. Accepted jobs may still be fetched after expiry.
 """
@@ -50,7 +52,7 @@ class FrameoVideo(BaseTool):
             "pass_expires_at": {"type": "string"},
             "duration_seconds": {"type": "integer", "minimum": 4, "maximum": 30},
             "model": {"type": "string", "enum": ["seedance_2_5"]},
-            "resolution": {"type": "string", "enum": ["720p"]},
+            "resolution": {"type": "string", "enum": ["720p", "1080p"]},
             "aspect_ratio": {"type": "string", "enum": ["16:9"]},
             "generate_audio": {"type": "boolean", "const": True},
             "images": {"type": "array"}, "videos": {"type": "array"}, "audios": {"type": "array"},
@@ -104,8 +106,9 @@ class FrameoVideo(BaseTool):
     def build_request(cls, inputs: dict[str, Any]) -> dict[str, Any]:
         if inputs.get("model", "seedance_2_5") != "seedance_2_5":
             raise ValueError("Only Seedance 2.5 is authorized by this adapter")
-        if inputs.get("resolution", "720p") != "720p" or inputs.get("aspect_ratio", "16:9") != "16:9":
-            raise ValueError("Only 720p landscape output is supported")
+        resolution = inputs.get("resolution", "720p")
+        if resolution not in ("720p", "1080p") or inputs.get("aspect_ratio", "16:9") != "16:9":
+            raise ValueError("Only 720p or 1080p landscape output is supported")
         if inputs.get("generate_audio", True) is not True:
             raise ValueError("Native audio must remain enabled")
         prompt = inputs.get("prompt")
@@ -115,7 +118,7 @@ class FrameoVideo(BaseTool):
         if type(duration) is not int or not 4 <= duration <= 30:
             raise ValueError("Duration must be an integer from 4 to 30")
         body = {"model": "seedance_2_5", "prompt": prompt, "duration_seconds": duration,
-                "resolution": "720p", "aspect_ratio": "16:9", "generate_audio": True}
+                "resolution": resolution, "aspect_ratio": "16:9", "generate_audio": True}
         for kind, limit in (("images", 30), ("videos", 8), ("audios", 8)):
             media = inputs.get(kind, [])
             if not isinstance(media, list) or len(media) > limit:

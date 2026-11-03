@@ -16,6 +16,19 @@ while minimizing end-to-end production time. Use useful 30-second multi-shot
 requests and the full verified shared capacity. Longer requests are a throughput
 choice, not a reason to slow actions, add filler or keep bad internal cuts.
 
+Owner refinement: quality means a strong original premise, audience curiosity,
+emotional and consequential turns, directed cinematography and actual continuity,
+not just a playable export. Improve completion time through the critical path:
+prepare the shared causal/state foundation once, parallel independent detailed
+writing and references, publish ready chunks immediately, refill actual available
+capacity and select/conform returns while generation continues. Reuse settled
+voices and accepted assets; no audition/root delay when clean guidance already
+exists. Simpler clear physical action can support a more ambitious dramatic idea.
+Only a true observed-state dependency blocks its own branch. Existing brief
+essential evidence and targeted repair replace repeated broad review handoffs.
+For an explicit "style first" request, complete that requested update before
+generation, then reuse it for later films without a recurring retraining barrier.
+
 The owner reports that short and 30-second jobs take similar time and specifies
 ten simultaneous jobs on a USD 100 daily pass. Treat those as owner observations
 and requested operating assumptions. Verify current workspace/API entitlement,
@@ -60,6 +73,16 @@ Independent sequences whose references and state are already settled can proceed
 while that take runs. Only true dependencies wait for its observed result.
 
 ## Minimum ready-chunk contract
+
+Make ready priority explicit, rather than defaulting to chronological filenames:
+include the opening, a useful difficult interaction/reveal and the required climax
+coverage early when their real dependencies are ready. Prepare their critical
+state references first or independently where possible. Do not chain an unrelated
+exterior/creature shot behind a room-state image it does not need, or reserve all
+difficult material for the final wave. Keep free slots filled with other required
+ready work; never cancel accepted jobs or add disposable tests to force priority.
+Select a returned hard take promptly so a concrete pickup can overlap remaining
+generation rather than extending the whole run after assembly is otherwise done.
 
 Store sequence-specific contracts in `scene_plan.metadata.sequence_contracts`,
 keyed by canonical scene/chunk ID; put script readiness and revision notes in
@@ -208,8 +231,14 @@ coordination above is an agent operating protocol, not newly shipped scheduler
 software. On another machine, discover current registry support and private
 configuration, then appoint the admission owner before starting workers.
 
-The inspected adapter accepts `seedance_2_5`, 720p, 16:9, native audio enabled,
-integer durations 4–30 seconds, and at most 30 images, 8 videos and 8 audios.
+The adapter accepts `seedance_2_5`, 720p or explicitly selected 1080p, 16:9,
+native audio enabled, integer durations 4–30 seconds, and at most 30 images,
+8 videos and 8 audios. The 3 November adapter update forwards 1080p directly
+without silently converting a 720p request. Keep 720p as the production default;
+1080p still needs explicit owner selection and a fresh zero-credit estimate.
+Request support does not establish pass coverage, provider internal rendering,
+availability or free generation at any duration. A nonzero quote refuses the new
+submission for either resolution; no automatic purchase or paid overflow.
 Image roles are `reference`, `first_frame` or `last_frame`; video role is
 `reference`; audio entries have no role. Use the adapter's current schema instead
 of another host's reference limits. Its `max_poll_seconds=0` still performs one

@@ -48,17 +48,29 @@ def test_payload_is_exact_native_720p_contract(inputs):
     assert body["images"] == inputs["images"] and body["audios"] == inputs["audios"]
 
 
-@pytest.mark.parametrize("change", [{"model": "seedance_2_0"}, {"resolution": "1080p"},
+def test_explicit_1080p_is_forwarded_without_draft_or_conversion(inputs):
+    from jsonschema import validate
+    inputs["resolution"] = "1080p"
+    validate(inputs, FrameoVideo.input_schema)
+    body = FrameoVideo.build_request(inputs)
+    assert body["resolution"] == "1080p"
+    assert "draft" not in body and "videos" not in body
+
+
+@pytest.mark.parametrize("change", [{"model": "seedance_2_0"}, {"resolution": "2160p"},
                                     {"generate_audio": False}, {"duration_seconds": 31}])
 def test_wrong_route_or_output_rejected(inputs, change):
     with pytest.raises(ValueError): FrameoVideo.build_request({**inputs, **change})
 
 
-def test_nonzero_quote_never_submits(inputs, monkeypatch):
+@pytest.mark.parametrize("resolution,credits", [("720p", 840), ("1080p", 2160)])
+def test_nonzero_quote_never_submits(inputs, monkeypatch, resolution, credits):
+    inputs["resolution"] = resolution
     calls = []
     def post(url, **kwargs):
         calls.append(url)
-        return Response({"model": "seedance_2_5", "credits": 840, "standard_credits": 840})
+        assert kwargs["json"]["resolution"] == resolution
+        return Response({"model": "seedance_2_5", "credits": credits, "standard_credits": credits})
     monkeypatch.setattr(requests, "post", post)
     result = FrameoVideo().execute(inputs)
     assert not result.success and calls == [FrameoVideo.API + "/estimates"]
