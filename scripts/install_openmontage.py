@@ -120,13 +120,17 @@ def main():
     python = environment / ('Scripts/python.exe' if os.name == 'nt' else 'bin/python')
     if not python.exists():
         venv.EnvBuilder(with_pip=True).create(environment)
-    run([python, '-m', 'pip', 'install', '-r', ROOT / 'requirements.txt'])
+    install = [python, '-m', 'pip', 'install', '-r', ROOT / 'requirements.txt']
+    if sys.version_info[:2] == (3, 12):
+        install += ['-c', ROOT / 'requirements-production-constraints.txt']
+    run(install)
     npm = shutil.which('npm')
+    npm_operation = 'ci' if (ROOT / 'remotion-composer/package-lock.json').is_file() else 'install'
     # Explicit executable works on Windows without depending on a Unix make shell.
     if os.name == 'nt' and npm and npm.lower().endswith('.cmd'):
-        run([os.environ.get('COMSPEC', 'cmd.exe'), '/d', '/c', 'npm', 'install'], cwd=ROOT / 'remotion-composer')
+        run([os.environ.get('COMSPEC', 'cmd.exe'), '/d', '/c', 'npm', npm_operation], cwd=ROOT / 'remotion-composer')
     else:
-        run([npm, 'install'], cwd=ROOT / 'remotion-composer')
+        run([npm, npm_operation], cwd=ROOT / 'remotion-composer')
     if args.with_private_config or args.refresh_private_config or args.private_config:
         private_setup(ROOT, refresh=args.refresh_private_config, archive_path=args.private_config)
     elif not (ROOT / '.env').exists():

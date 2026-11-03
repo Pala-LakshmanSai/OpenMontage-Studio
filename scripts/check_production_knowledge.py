@@ -17,7 +17,9 @@ def check(root: Path) -> dict:
         return {'passed': False, 'errors': [f'Knowledge index unavailable: {type(exc).__name__}']}
     paths = set(index['entrypoints'] + index['policies'] + index['shared_capabilities'])
     paths.update([index['installation'], 'INSTALL.md', 'docs/production-knowledge-index.json',
-                  'scripts/check_production_knowledge.py', 'scripts/install_openmontage.py'])
+                  'scripts/check_production_knowledge.py', 'scripts/install_openmontage.py',
+                  'requirements.txt', 'requirements-production-constraints.txt', '.env.example',
+                  'remotion-composer/package.json', 'remotion-composer/package-lock.json'])
     for style in index['style_profiles']:
         paths.update(style[k] for k in ('guide', 'template', 'reference_notes', 'playbook') if k in style)
         paths.add(style['pipeline'])

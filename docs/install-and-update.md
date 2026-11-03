@@ -22,6 +22,9 @@ individual key entry and private GitHub access. The private setup asset intentio
 grants the repository's authorized readers access to the configured provider keys.
 
 Python 3.10+, Node/npm, FFmpeg/ffprobe, Git and GitHub CLI must be available.
+Python 3.12 is the tested production baseline and uses the shipped dependency
+constraints matching the owner's working environment. Other supported Python
+versions resolve compatible packages and need their own capability check.
 An installing agent should resolve missing system prerequisites through the
 platform's supported package manager, using ordinary installation authorization.
 Do not purchase providers or activate subscriptions. Run the installer again

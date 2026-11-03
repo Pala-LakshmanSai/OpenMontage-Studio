@@ -11,5 +11,12 @@
     "automation_id": "update-openmontage-public-production-repo"
   },
   "friend_physical_device_tested": false,
-  "quality_speed_guaranteed": false
+  "quality_speed_guaranteed": false,
+  "fresh_separate_checkout_install_passed": true,
+  "private_configuration_installed_without_value_output": true,
+  "tested_python": "3.12",
+  "production_dependency_constraints": "requirements-production-constraints.txt",
+  "remotion_version": "4.0.484",
+  "fresh_environment_focused_tests_passed": 204,
+  "knowledge_required_files": 59
 }
