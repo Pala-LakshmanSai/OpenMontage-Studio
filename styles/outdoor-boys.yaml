@@ -1,0 +1,47 @@
+identity:
+  name: "Outdoor Boys Style"
+  category: custom
+  mood: "informal, urgent, practical, immersive"
+  pace: moderate
+  best_for: "Fictional AI survival and camping stories driven by practical work and escalating stakes"
+visual_language:
+  color_palette:
+    primary: ["#71808A", "#D4DEE0"]
+    accent: ["#A44A32"]
+    background: "#CBD4D5"
+    text: "#FFFFFF"
+  composition: "Varied work-led landscape coverage: host, body in action, hands and tools, and clear location geography; no fixed face quota."
+  texture: "Available light, natural skin, weathered gear and physically plausible surfaces; avoid glossy artificial polish."
+typography:
+  headings: {font: "Arial", weight: 400}
+  body: {font: "Arial", weight: 400}
+motion:
+  transitions: ["motivated hard cut", "physical handheld pan"]
+  animation_style: "Natural-speed purposeful work and camera motion; physical selfie-to-environment turn when continuous, separate tripod or handheld angles through motivated cuts."
+  pacing_rules: {}
+audio:
+  voice_style: "Informal host commentary conveys concrete observations, decisions and reactions; preserve the selected host voice."
+  music_mood: "No continuous score by default; optional short intro or time-transition cue when story supports it."
+  music_volume: 0
+  sfx_style: "Natural synchronized activity sounds, weather and acoustic perspective; repair only where motivated and physically matched."
+asset_generation:
+  image_prompt_prefix: "Natural survival-vlog still, credible materials and available light, selected host and continuous scene state, "
+  image_negative_prompt: "plastic skin, synthetic zoom, elastic geometry, instant work completion, floating tools, unrelated text, watermark"
+  consistency_anchors:
+    - "Preserve original selected host identity and wardrobe through all samples and scratch rebuilds."
+    - "Track visible tools, location, cause and effect, physical work, weather, light and sound across successive takes."
+    - "Use Kie Nano Banana 2.1 primary for image anchors within authorized budget; native 768p motion and 720p export by default."
+quality_rules:
+  - "For narrative AI story/scene planning, follow docs/ai-video-story-engagement-preferences.md: a short strong visible hook, several distinct escalating extreme challenges, seeded consequential surprises (including habitat-appropriate wildlife when useful), difficult choices, persistent costs and earned payoffs. Preserve this style's factual/source/art/audio rules; no extra paid review or approval gate."
+  - "For Frameo unlimited, follow docs/unlimited-plan-production-preferences.md: prefer useful 30-second multi-shot chunks, refill one shared verified API capacity, and prioritize required story coverage using actual throughput and time left. Follow docs/portable-production-knowledge.md so saved training travels with the project; narrative AI stakes follow docs/ai-video-global-realism-preferences.md without changing this style’s art/source/audio rules."
+  - "For generated people/speech, follow docs/ai-video-human-performance-preferences.md: reuse selected voice and clean supported references; plan speakable lines, intention, manageable action, framing and motivated face light once. No added routine auditions, paid reviews or gates; preserve native pairing, this style’s art/source/sound rules and no-speech defaults. Premium footage is selective and must fit authorized cast/voice, provider scope and budget."
+  - "Follow docs/video-fast-production-preferences.md: finish story, staging, camera/action, continuity and speech timing before generation; reuse settled research. Routine paid AI review/scoring/repeated-analysis budget is USD 0."
+  - "After production authorization, skip unrequested paid assessments without pausing; handle routine repairs/recovery and resume exact accepted jobs through assembly, export and requested delivery within actual scope/budget. Preserve source/audio rules, selected cast/voice, native pairing and no-replay/provider constraints; no optional-review score or approval gate."
+  - "Style definition is owner requested; sample and owner acceptance remain pending."
+  - "Fictional extreme near-death stakes are the owner's creative extension, not an assertion about the references or a retention guarantee."
+  - "Build a short title-faithful hook, escalating problems, costly decisions, visible attempts and earned consequential payoff."
+  - "Use action-led coverage and motivated host speech, with no fixed face-time percentage or creator identity imitation."
+  - "Keep selected cast, physical progression and within-day environment consistent; a raw shelter changes through believable work."
+  - "Use raw activity and weather audio with no continuous score by default; optional brief cue only when story supports it."
+  - "Check current provider contracts and shared budget, preserve receipts and uncertain jobs, avoid blind rerolls, and follow current fast-production policy."
+  - "Inspect for obvious meaningful defects and perform one brief final batch check; report review and delivery limits honestly."

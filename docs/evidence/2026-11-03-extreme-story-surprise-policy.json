@@ -1,0 +1,15 @@
+{
+  "verified_utc": "2026-11-03T08:41:58.012818+00:00",
+  "scope": "Portable planning-policy routing and YAML/local-link presence only; no footage or quality benchmark",
+  "canonical": "docs/ai-video-story-engagement-preferences.md",
+  "style_playbooks": 9,
+  "reusable_templates": 6,
+  "named_style_guides": 6,
+  "local_link_checks": 18,
+  "entrypoints_and_cinematic_story_directors": 5,
+  "status": "passed",
+  "new_review_or_approval_gate": false,
+  "paid_calls": 0,
+  "production_media_changed": false,
+  "pages_update": "parent coordinator owns"
+}

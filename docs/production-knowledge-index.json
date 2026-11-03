@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "updated": "2026-11-03",
+  "entrypoints": [
+    "AGENTS.md",
+    "AGENT_GUIDE.md",
+    "CODEX.md",
+    "CLAUDE.md",
+    "CURSOR.md",
+    "COPILOT.md",
+    ".github/copilot-instructions.md",
+    ".windsurfrules"
+  ],
+  "policies": [
+    "docs/portable-production-knowledge.md",
+    "docs/video-fast-production-preferences.md",
+    "docs/unlimited-plan-production-preferences.md",
+    "docs/ai-video-story-engagement-preferences.md",
+    "docs/ai-video-global-realism-preferences.md",
+    "docs/ai-video-human-performance-preferences.md",
+    "docs/ai-video-voice-selection-preferences.md",
+    "docs/minimum-shot-duration-preferences.md",
+    "docs/in-scene-text-preferences.md",
+    "docs/ai-image-generation-preferences.md",
+    "docs/ai-music-preferences.md",
+    "docs/ai-style-first-pass-sop.md",
+    "docs/ai-video-production-lessons.md",
+    "docs/video-delivery-preferences.md"
+  ],
+  "installation": "docs/install-and-update.md",
+  "style_profiles": [
+    {
+      "id": "ai-movie",
+      "name": "AI Movies",
+      "pipeline": "pipeline_defs/cinematic.yaml",
+      "guide": "docs/ai-movie-preferences.md",
+      "template": "docs/ai-movie-prompt-template.md",
+      "playbook_selection": "Choose an appropriate existing playbook at proposal; the named style guide overrides incompatible generic trailer/presentation defaults."
+    },
+    {
+      "id": "vlog-style",
+      "name": "Vlog Style",
+      "pipeline": "pipeline_defs/cinematic.yaml",
+      "guide": "docs/vlog-style-preferences.md",
+      "template": "docs/vlog-style-prompt-template.md",
+      "reference_notes": "docs/vlog-style-reference-notes.md",
+      "playbook_selection": "Choose an appropriate existing playbook at proposal; the named style guide overrides incompatible generic trailer/presentation defaults."
+    },
+    {
+      "id": "ai-videos-documentary",
+      "name": "AI Videos Documentary Style",
+      "pipeline": "pipeline_defs/cinematic.yaml",
+      "guide": "docs/ai-videos-documentary-preferences.md",
+      "template": "docs/ai-videos-documentary-prompt-template.md",
+      "reference_notes": "docs/ai-videos-documentary-reference-notes.md",
+      "playbook": "styles/ai-videos-documentary.yaml"
+    },
+    {
+      "id": "outdoor-boys-style",
+      "name": "Outdoor Boys Style",
+      "pipeline": "pipeline_defs/cinematic.yaml",
+      "guide": "docs/outdoor-boys-style-preferences.md",
+      "template": "docs/outdoor-boys-style-prompt-template.md",
+      "reference_notes": "docs/outdoor-boys-style-reference-notes.md",
+      "playbook": "styles/outdoor-boys.yaml"
+    },
+    {
+      "id": "primitive-desert-style",
+      "name": "Primitive Desert Style",
+      "pipeline": "pipeline_defs/cinematic.yaml",
+      "guide": "docs/primitive-desert-style-preferences.md",
+      "template": "docs/primitive-desert-style-prompt-template.md",
+      "reference_notes": "docs/primitive-desert-style-reference-notes.md",
+      "playbook": "styles/primitive-desert.yaml"
+    },
+    {
+      "id": "tech-trendy-style",
+      "name": "Tech Trendy Style",
+      "pipeline": "pipeline_defs/cinematic.yaml",
+      "guide": "docs/tech-trendy-style-preferences.md",
+      "template": "docs/tech-trendy-style-prompt-template.md",
+      "reference_notes": "docs/tech-trendy-style-reference-notes.md",
+      "playbook": "styles/tech-trendy.yaml"
+    }
+  ],
+  "shared_capabilities": [
+    "tools/video/frameo_video.py",
+    "tools/graphics/kie_image.py",
+    "tools/audio/j1tts_audio.py",
+    "lib/native_audio_assembly.py",
+    "lib/shot_duration.py"
+  ],
+  "precedence": [
+    "Current explicit owner instruction and actual production authorization",
+    "Current shared policy for cross-style defaults and named style guide for its own art/source/audio contract",
+    "Recorded current film bible, accepted cast/voice/world and actual returned states",
+    "Reusable templates and playbooks implementing those policies",
+    "Dated reference observations and historical examples; never historical prices/access/approval as current authority"
+  ],
+  "privacy": "No personal memory, external Pages, private keys or original SSD paths are required to discover this training. Private setup and actual media are separate."
+}

@@ -1,0 +1,48 @@
+identity:
+  name: "Tech Trendy style"
+  category: custom
+  mood: "curious, tactile, adventurous, personal and grounded"
+  pace: fast
+  best_for: "Original immersive luxury travel challenges with strong causal storytelling"
+visual_language:
+  color_palette:
+    primary: ["#344551", "#D7D3CA"]
+    accent: ["#D3A55B"]
+    background: "#17222B"
+    text: "#FFFFFF"
+  composition: "Full-frame landscape travel footage, brief host A-roll, tactile first-person details, cabin and place context, scene information embedded in actual screens, signs and tickets."
+  texture: "Natural skin, believable materials and motivated diffuse available light; no glossy plastic face or elastic expression."
+typography:
+  headings: {font: "Arial", weight: 700}
+  body: {font: "Arial", weight: 400}
+motion:
+  transitions: ["motivated hard cut", "clear location or time transition"]
+  animation_style: "Lively real-time travel footage: gentle purposeful physical handheld pans, sidesteps or tracking moves, meaningful subject action or visible natural environmental movement. A steady camera may observe active action. Scene-integrated text; separate graphics only when explicitly briefed. No still-image-feeling holds, decorative digital zoom, artificial shake or false continuous camera turns."
+  pacing_rules: {}
+audio:
+  voice_style: "Original expressive consistent human-sounding voiceover with synchronized live host reactions and conversations."
+  music_mood: "Restrained energetic travel music that follows the story and stays below dialogue."
+  music_volume: 0.15
+  sfx_style: "Coherent ambient travel and synchronized tactile sounds."
+asset_generation:
+  image_prompt_prefix: "Original immersive travel experience, natural material and skin texture, motivated diffuse available light, physically credible camera and props, "
+  image_negative_prompt: "creator likeness, beauty-smoothing, plastic skin, warped eyes, elastic wrinkles, distorted hands, incoherent luggage, false time or weather, watermark"
+  consistency_anchors:
+    - "Use an original host and voice; use clean identity references for independent beats and exact outgoing states for truly continuous dependent action."
+    - "Track local date, time, weather, light, location, wardrobe, luggage and causal changes throughout each day."
+    - "Read docs/tech-trendy-style-preferences.md and the related reference notes and prompt template."
+quality_rules:
+  - "For narrative AI story/scene planning, follow docs/ai-video-story-engagement-preferences.md: a short strong visible hook, several distinct escalating extreme challenges, seeded consequential surprises (including habitat-appropriate wildlife when useful), difficult choices, persistent costs and earned payoffs. Preserve this style's factual/source/art/audio rules; no extra paid review or approval gate."
+  - "For Frameo unlimited, follow docs/unlimited-plan-production-preferences.md: prefer useful 30-second multi-shot chunks, refill one shared verified API capacity, and prioritize required story coverage using actual throughput and time left. Follow docs/portable-production-knowledge.md so saved training travels with the project; narrative AI stakes follow docs/ai-video-global-realism-preferences.md without changing this style’s art/source/audio rules."
+  - "For generated people/speech, follow docs/ai-video-human-performance-preferences.md: reuse selected voice and clean supported references; plan speakable lines, intention, manageable action, framing and motivated face light once. No added routine auditions, paid reviews or gates; preserve native pairing, this style’s art/source/sound rules and no-speech defaults. Premium footage is selective and must fit authorized cast/voice, provider scope and budget."
+  - "Follow docs/video-fast-production-preferences.md: finish story, staging, camera/action, continuity and speech timing before generation; reuse settled research. Routine paid AI review/scoring/repeated-analysis budget is USD 0."
+  - "After production authorization, skip unrequested paid assessments without pausing; handle routine repairs/recovery and resume exact accepted jobs through assembly, export and requested delivery within actual scope/budget. Preserve source/audio rules, selected cast/voice, native pairing and no-replay/provider constraints; no optional-review score or approval gate."
+  - "Give each shot a visible motion plan: gentle physical camera movement, meaningful subject action or natural environmental activity. Harbor example: slow physical railing-side pan with rippling water, slight ferry bobbing or authentic dock activity. Keep normal playback speed, rigid geometry and coherent light/weather/ambience; do not force arbitrary movement."
+  - "Put phone, board, ticket and other in-scene information inside its actual surface with perspective and motion; no floating or duplicate lower thirds. Follow docs/in-scene-text-preferences.md."
+  - "Default to very extreme creative ambition at the writing stage: a major original predicament or extraordinary experience, with clear causes, consequential agency and visible payoff; no causeless sensationalism."
+  - "Make the title's promise visible through a credible outsized set piece, causally grounded dramatic fictional trouble, costly choice, secondary consequence and earned payoff."
+  - "Use original writing and identity; no creator imitation or copied footage. Keep generated-event provenance internal and do not portray it as verified real footage."
+  - "For aviation, approximately 20–25 percent face-visible is a flexible target, not a measured universal rule; train-like live demonstrations may use more."
+  - "Check the first representative host face and voice; reject identity drift, elastic eyes or wrinkles, plastic skin and wrong voice as substantive faults."
+  - "Freeze plan once, parallelize independent ready roots, reuse verified inputs, conform during production and perform one brief final check; preserve the user's budget and no-replay rules."
+  - "Use current image, music, provider, environmental continuity and 720p/768p defaults; no 1080p without approval."

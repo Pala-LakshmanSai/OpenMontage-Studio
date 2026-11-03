@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "playbooks_schema_valid": 9,
+  "named_ai_style_guides": 6,
+  "prompt_templates": 6,
+  "global_and_project_routing": true,
+  "local_links_resolve": true,
+  "new_paid_calls": 0,
+  "new_footage_generated": false,
+  "measured_performance_or_speed_gain": false
+}

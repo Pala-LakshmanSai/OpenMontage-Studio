@@ -1,0 +1,49 @@
+identity:
+  name: "AI Videos Documentary"
+  category: custom
+  mood: "observant, intimate, unforced and grounded in practical life"
+  pace: deliberate
+  best_for: "AI-generated observational reconstructions of daily work, people and place"
+visual_language:
+  color_palette:
+    primary: ["#6E695C", "#A9A08B"]
+    accent: ["#B59A70"]
+    background: "#E4DFD4"
+    text: "#F4F1EA"
+  composition: "Full-frame landscape observation of a title-led story across connected sequences; varied wide, medium, over-shoulder and detail coverage preserves people, geography and causal consequences."
+  texture: "Available light, untreated skin and tactile, imperfect materials; no cosmetic smoothing or simulated grit to hide defects."
+typography:
+  headings: {font: "Arial", weight: 400}
+  body: {font: "Arial", weight: 400}
+motion:
+  transitions: ["motivated hard cut"]
+  animation_style: "Real-time moving footage with action-motivated following, short pans or tracking and purposeful static coverage; no all-static default, decorative synthetic zoom or morph."
+  pacing_rules: {}
+audio:
+  voice_style: "No narrator by default; narration requires an explicit request or approval."
+  music_mood: "No added music by default; a musical cue requires an explicit request or approval."
+  music_volume: 0
+  sfx_style: "Raw native synchronized activity sounds and coherent location ambience; necessary Foley repairs match actual visible contacts, materials and acoustic distance."
+asset_generation:
+  image_prompt_prefix: "Observational documentary frame, credible available light, natural skin and materials, physically coherent action, "
+  image_negative_prompt: "selfie vlog, presenter address, plastic skin, glossy beauty light, HDR halos, synthetic zoom, distorted hands, impossible contact, watermark, title card"
+  consistency_anchors:
+    - "Lock people, clothes, place, props, weather, light and action state across adjacent shots."
+    - "Retain original approved character masters and actual reviewed outgoing frame for supported continuations; accepted motion context is optional and may encourage replay, so verify identity, new physical progress and joining motion."
+    - "Use actual generated moving footage and preserve plausible camera and object geography."
+    - "Read docs/ai-videos-documentary-preferences.md and the first-pass SOP before production."
+quality_rules:
+  - "For narrative AI story/scene planning, follow docs/ai-video-story-engagement-preferences.md: a short strong visible hook, several distinct escalating extreme challenges, seeded consequential surprises (including habitat-appropriate wildlife when useful), difficult choices, persistent costs and earned payoffs. Preserve this style's factual/source/art/audio rules; no extra paid review or approval gate."
+  - "For Frameo unlimited, follow docs/unlimited-plan-production-preferences.md: prefer useful 30-second multi-shot chunks, refill one shared verified API capacity, and prioritize required story coverage using actual throughput and time left. Follow docs/portable-production-knowledge.md so saved training travels with the project; narrative AI stakes follow docs/ai-video-global-realism-preferences.md without changing this style’s art/source/audio rules."
+  - "For generated people/speech, follow docs/ai-video-human-performance-preferences.md: reuse selected voice and clean supported references; plan speakable lines, intention, manageable action, framing and motivated face light once. No added routine auditions, paid reviews or gates; preserve native pairing, this style’s art/source/sound rules and no-speech defaults. Premium footage is selective and must fit authorized cast/voice, provider scope and budget."
+  - "Follow docs/video-fast-production-preferences.md: finish story, staging, camera/action, continuity and speech timing before generation; reuse settled research. Routine paid AI review/scoring/repeated-analysis budget is USD 0."
+  - "After production authorization, skip unrequested paid assessments without pausing; handle routine repairs/recovery and resume exact accepted jobs through assembly, export and requested delivery within actual scope/budget. Preserve source/audio rules, selected cast/voice, native pairing and no-replay/provider constraints; no optional-review score or approval gate."
+  - "Follow the full documentary guide and first-pass readiness gates; this playbook alone does not enforce them."
+  - "Show complete causal processes with physical continuity and truthful reconstruction context."
+  - "People do their work independently of the camera; reject object presentation, log-display holds, posing or waiting for close-ups. Camera observes ongoing action."
+  - "Reject planned state-changing beats that repeat movement without progress even when identity matches; diagnose optional motion-reference replay before a targeted repair."
+  - "No added music or narrator without explicit request or approval; do not hide disconnected clips with sound beds or cutaways."
+  - "First scored pilot remains rejected; rebuilt raw foundation positively received on 2 November 2026 but repetitive pacing/story not approved. New one-minute story sample needs owner approval before paid 15-20-minute production."
+  - "Continuous story is not a literal unbroken locked take; trim repetitive chore coverage and choose useful action, result and next need rather than provider-length shots or a hard shot-time quota."
+  - "Review all generated motion, adjacent states and encoded joins; reject warping and polished artificial texture."
+  - "Maintain full-frame 16:9 and the user's current resolution, sound, image and spending preferences."

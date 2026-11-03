@@ -1,0 +1,15 @@
+{
+  "focused_tests_passed": 204,
+  "yaml_playbooks_passed": 9,
+  "relocated_knowledge_test_passed": true,
+  "private_installer_preservation_test_passed": true,
+  "no_provider_calls": true,
+  "private_history_in_public_snapshot": false,
+  "routine": {
+    "name": "Update OpenMontage public production repo",
+    "cadence": "hourly",
+    "automation_id": "update-openmontage-public-production-repo"
+  },
+  "friend_physical_device_tested": false,
+  "quality_speed_guaranteed": false
+}

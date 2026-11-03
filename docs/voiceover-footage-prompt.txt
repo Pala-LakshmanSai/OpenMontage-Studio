@@ -1,0 +1,32 @@
+Use OpenMontage's voiceover-to-footage workflow. Preserve my full original
+voiceover as the only audio and all visual/export constraints in my brief.
+
+Match each spoken clause to the visible subject AND action. Plan visual targets
+before sourcing; select from inspected exact-trim footage, not broad topic tags,
+random rotations or whatever clips are already downloaded. Generic thematic
+filler fails even when it is attractive, moving or from the right brand.
+
+Default to zero repetition. Track original continuous camera takes as well as
+overlapping excerpts: different seconds, crops or speeds do not make a fresh
+shot. Avoid recurring visual patterns across the film. If I explicitly permit
+very rare reprises, keep them below 1% of running time, at most twice per take,
+at least six minutes apart. Never use repetition to conceal missing coverage.
+
+For every shot, inspect its start/middle/end with its narration quote. Record
+what is actually visible and why it supports that specific clause. Accept only
+direct matches or concrete, honest contextual actions/consequences. Replace
+weak matches before rendering. Technical playback checks cannot pass relevance.
+
+Work faster through one timestamped transcript, a source index cached at real
+camera cuts, targeted searches for missing coverage, bounded parallel I/O and
+cached cut renders. Do not reduce relevance or variety to meet a speed target.
+Review the whole timeline for meaning and visual repetition before delivery.
+
+On installations containing the shared fix, read skills/core/voiceover-footage.md,
+set brief.metadata.anchor_medium="broll_footage" and
+brief.metadata.footage_alignment_required=true, and complete the enforced
+edit_decisions.footage_alignment review. Report missing coverage honestly.
+
+
+GLOBAL LOWER-COST AUTONOMOUS COMPLETION — 3 NOVEMBER 2026
+Production policy, 3 November 2026: prepare the complete story, staging, camera/action, continuity and speech timing upfront; reuse settled research. Routine paid AI reviews/scoring/repeated analysis have a USD 0 budget. Skip optional assessments without pausing. Handle routine repairs/recovery and continue authorized production through assembly, export and requested delivery within the actual scope/budget. Retain free local export/cut/audio/sharing checks, selected cast/voice, each style’s source/audio rules and accepted-job/no-replay/provider constraints. No optional-review score or approval gate.

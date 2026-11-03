@@ -1,0 +1,46 @@
+{
+  "shot_count": 329,
+  "reprise_cuts": 104,
+  "reused_excerpt_seconds": 468.0,
+  "reused_excerpt_fraction": 0.33761023996904466,
+  "dominant_sources": [
+    {
+      "source": "fresh",
+      "cuts": 58,
+      "seconds": 253.5,
+      "fraction": 0.18287221331656586
+    },
+    {
+      "source": "returns",
+      "cuts": 36,
+      "seconds": 148.5,
+      "fraction": 0.10712632614402379
+    },
+    {
+      "source": "driver",
+      "cuts": 36,
+      "seconds": 156.21387800000002,
+      "fraction": 0.11269103597879289
+    },
+    {
+      "source": "echo",
+      "cuts": 27,
+      "seconds": 118.5,
+      "fraction": 0.08548464409472604
+    },
+    {
+      "source": "private-label",
+      "cuts": 23,
+      "seconds": 97.5,
+      "fraction": 0.07033546666021763
+    }
+  ],
+  "past_technical_status": "pass",
+  "editorial_status": "user_rejected",
+  "copy_contamination": "Amazon brief hook says Walmart",
+  "mechanism": "Section tags plus random ranking; sentence text mostly unused; no semantic acceptance proof",
+  "new_checkpoint_result": {
+    "status": "blocked_before_render",
+    "reason": "FOOTAGE ALIGNMENT: missing per-cut visible-action review. Read skills/core/voiceover-footage.md; technical QA is not editorial acceptance."
+  }
+}

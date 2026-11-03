@@ -1,0 +1,38 @@
+[
+  {
+    "cut_id": "cut-0034",
+    "timeline_start": 99,
+    "source_id": "private-label",
+    "frame": "docs/evidence/footage-relevance-20261022/cut-0034.jpg",
+    "exact_words": "it sells everything from A to Z, but that name",
+    "old_spoken_text": "amazon is telling you, without saying a word, that it sells everything from a to z, but that name was only the beginning.",
+    "editorial_result": "generic or mismatched; reject"
+  },
+  {
+    "cut_id": "cut-0148",
+    "timeline_start": 571.5,
+    "source_id": "mixkit-236",
+    "frame": "docs/evidence/footage-relevance-20261022/cut-0148.jpg",
+    "exact_words": "certain ring cameras, there's a good chance your device has been sharing a small piece",
+    "old_spoken_text": "if you have an amazon echo speaker or certain ring cameras, there's a good chance your device has been sharing a small piece",
+    "editorial_result": "generic or mismatched; reject"
+  },
+  {
+    "cut_id": "cut-0166",
+    "timeline_start": 652.5,
+    "source_id": "fresh",
+    "frame": "docs/evidence/footage-relevance-20261022/cut-0166.jpg",
+    "exact_words": "10 ,000 echo owners ever used it. And on March 28, 2025,",
+    "old_spoken_text": "amazon said fewer than three in 10,000 echo owners ever used it. and on march 28, 2025, amazon got rid of it",
+    "editorial_result": "generic or mismatched; reject"
+  },
+  {
+    "cut_id": "cut-0218",
+    "timeline_start": 886.5,
+    "source_id": "fresh",
+    "frame": "docs/evidence/footage-relevance-20261022/cut-0218.jpg",
+    "exact_words": "different version than the one you're buying. So here's how to protect yourself. First,",
+    "old_spoken_text": "might be about a different version than the one you're buying. so here's how to protect yourself. first, look for the words verified purchase on a review.",
+    "editorial_result": "generic or mismatched; reject"
+  }
+]

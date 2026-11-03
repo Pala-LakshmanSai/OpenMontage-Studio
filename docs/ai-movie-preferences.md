@@ -1,0 +1,272 @@
+# Saved AI movie preferences
+
+For narrative story and scene planning, apply [extreme story and surprise planning](ai-video-story-engagement-preferences.md): short strong hooks, distinct escalating challenges, seeded consequential surprises and costly choices with visible payoffs. Match this style and the title; wildlife is one environment-appropriate option, not a mandatory insert. Keep factual/source boundaries and the fast autonomous workflow; no extra review or approval stage.
+
+For generated people or speech, also apply [human voice and facial performance](ai-video-human-performance-preferences.md): reusable selected voice/reference, situation-led speech and manageable facial/camera/light staging, without extra routine auditions, paid reviews or production gates. Preserve this style’s cast, art, source and sound rules; do not add a narrator or dialogue to an unspoken film. Premium models are selective, budgeted options, not automatic upgrades.
+
+Owner-wide production policy, 3 November 2026: follow
+[fast, lower-cost autonomous production](video-fast-production-preferences.md).
+Prepare the story, staging, camera/action, continuity and speech timing upfront;
+reuse settled research. Routine paid AI reviews, scoring and repeated external
+analysis have a USD 0 budget. Skip unrequested assessments without pausing, handle
+routine repairs/recovery and continue authorized work through export and requested
+delivery within the actual scope/budget. Keep free local checks, selected choices,
+each style's source/audio rules and accepted-job/no-replay/provider constraints.
+No optional-review approval or score gate.
+
+## Latest production speed and review preference — 2 November 2026
+
+Apply [fast production for every video style](video-fast-production-preferences.md). The owner now prioritizes much faster completion with good-enough quality. This supersedes older exhaustive/repeated review instructions below: no default per-clip ASR, paid audiovisual review, every-join or frame-by-frame inspection, duplicate audits or cosmetic reroll loops. Use quick obvious-defect checks where a continuation depends on actual state, parallel independent sequences and one brief final batch check. Preserve the selected cast, story, meaningful continuity, style-specific sound/source rules, budget and accepted-job safeguards.
+
+User-authorized defaults saved 2026-10-10. Apply when Lakshman asks for an AI movie
+by title or topic. Current explicit instructions override these defaults.
+
+Follow the [global AI video realism and progression preference](ai-video-global-realism-preferences.md)
+throughout the screenplay, staging, material behavior, story-state changes and
+final review. Saved explicitly on 1 November 2026.
+
+Image-provider preference updated 2 November 2026: follow
+[AI image generation preferences](ai-image-generation-preferences.md). Use Kie
+Nano Banana 2.1 first within the authorized production budget; Kie may be used
+exclusively for faster production. Codex image generation is the ordinary
+technical-unavailability fallback. A safety rejection is not a technical failure: never retry, reword or use
+another provider to bypass it. Historical Kie results below remain historical evidence.
+
+First-pass quality and spending preference updated 1 November 2026: read
+[the first-pass SOP](ai-style-first-pass-sop.md). Front-load complete script,
+shot/state planning, reviewed anchors, sound and capability/cost validation.
+Aim for an excellent first delivery, then autonomously make justified targeted
+paid corrections or necessary fallbacks within the user's actual budget and scope.
+Preserve existing provider-specific image choices, accepted work and uncertain jobs;
+do not buy credits or subscriptions or exceed a user-set budget without approval.
+
+Music-provider preference updated 27 October 2026: follow
+[AI music preferences](ai-music-preferences.md). Default to Lyria 3 Pro through
+fal.ai for background music; ElevenLabs Music through fal.ai only when precise
+timing is needed. Select the cue's provider before generation, preserving the
+first-pass spending rule and all sound-quality gates.
+
+## Creative direction
+
+- For title/topic plus length, produce a COMPLETE original movie at the specified
+  duration with development, climax and payoff. Scale screenplay and scene batches
+  to runtime; do not substitute a trailer, scene test, padded clips or preview.
+  The earlier 30-second restriction applies to The Prisoner demo, not the reusable
+  full-movie prompt. Updating that prompt does not start a full-length film now.
+- Use https://www.youtube.com/watch?v=8LQmUzQ9-Hk as a production-quality reference.
+  Watch/analyze actual footage, scene structure, performances, camera work,
+  transcript, pacing and sound. State any access or listening limitations.
+- Adapt the craft to the selected title, topic and narrative. Create an original
+  story, appropriate palette, lighting, location, camera language and sound;
+  do not copy the reference's plot, look or palette. Favor curiosity, clear stakes,
+  believable performances and a strong reveal over generic spectacle.
+- A fictional AI movie defaults to real character conversation and visible speaking
+  performances with synchronized mouths, reactions and scene acoustics. Narration
+  may support the story, but never replace character dialogue merely to avoid
+  lip-sync difficulty. Confirm a working fixed-J1TTS-voice/lip-sync path on an
+  actual face before batching dialogue shots; no lip-sync claim from audio muxing
+  or ASR alone. The Warning narration-only draft was explicitly rejected for this
+  reason. A resolution-only A/B comparison can retain that draft's exact sound/edit
+  as an explicitly labeled diagnostic, not as the corrected movie.
+- Use actual moving video, natural weight and material detail. No slideshow or
+  still-image pan/zoom substitution. No captions, titles, overlays, motion graphics
+  or decorative transitions unless requested.
+
+## Continuity
+
+Follow [global environmental continuity](ai-video-global-realism-preferences.md)
+for local time, daylight, season, climate and weather across shots and transitions.
+
+- Lock faces, costumes, hair, creature anatomy, scale, voices, props/restraints,
+  geography, eyelines, lighting and ongoing action state across shots.
+- Maintain character/creature masters plus a shot-state ledger: who is visible,
+  who is offscreen, each body's posture/location, prop attachment, camera axis,
+  and start/end state. A lying character cannot stand and lie again without an
+  intentional, supported transition. Offscreen state persists.
+- Inspect anchors before paid animation. Prompts identify only visible subjects;
+  state offscreen visibility/posture separately without inviting new subjects.
+- Lock physical pose before generating coverage: which side touches the ground,
+  which arm is cuffed, upper/lower arm positions, elbow bends, palm-up/down
+  orientation, finger direction, head support and all ground/contact points.
+  Identity references alone do not lock blocking. Compare adjacent anchors side
+  by side before animation; a camera change must not change the subject's pose.
+  Derive close coverage from an approved moving take when it preserves useful
+  detail and framing, or use a pose-conditioned anchor that visibly matches it.
+  Never authorize a general change of blocking while asking for continuity.
+- Preserve camera and time continuity too: no abrupt crop/zoom resets, same-view
+  size jumps, camera-direction reversals or replayed action at clip boundaries.
+  Prefer one continuous moving take for a continuous reveal. When extending the
+  same shot, use its exact final usable frame at the intended edit point as the
+  next starting frame, where supported, while preserving pose, framing, lighting,
+  camera/action direction and speed. New camera angles still need deliberate
+  match-on-action/eyeline planning. Inspect adjoining end/start frames together
+  and play each boundary; do not conceal mismatches with arbitrary dissolves or
+  morphs. Last-frame conditioning alone is not a guarantee. Keep visible speaking
+  faces synchronized if retiming footage.
+- Review backgrounds as carefully as foreground faces. Inspect dense temporal
+  sequences, motion where available, and both sides of every cut against the
+  ledger. Reject defects before finishing; preserve originals and repair only the
+  failed shots. ASR and technical probes do not prove semantic continuity or lips.
+
+## Models and audio
+
+- Image default is registered Kie Nano Banana 2.1, authorized by the owner on
+  2 November 2026 within the production budget; Kie-only image work is allowed.
+  Included Codex `image_gen` is the ordinary technical-unavailability fallback.
+  For 720p/768p video use 16:9 1K images by default;
+  choose 2K when substantial cropping or critical detail warrants it. Inspect actual
+  image dimensions and pixels. Do not use Kie to bypass a safety rejection or use
+  purchased overflow credits without authorization.
+- Default to 720p or 768p delivery. Never generate or export 1080p without asking
+  first. When explicitly approved, Fal's current API describes 1080P as latent refinement from768P;
+  disclose this rather than claiming native1080p capture. Higher image
+  resolution does not prove better anatomy or continuity; keep all quality gates.
+- Default to fal H3 Max Turbo and 720p delivery with full quality gates.
+  The complete-movie prompt has four
+  inputs: title/topic, length, quality (720p/1080p), and model
+  (h3-max-turbo/h3-max). Quality controls fidelity, coverage and finishing; it must
+  never silently switch the model. The original test used H3 Max. Honor the model
+  explicitly selected in the request. Do not silently
+  switch models/providers or claim that Turbo has Max's reference capabilities.
+- For Turbo, use approved shot-specific starting images; verify the live route
+  schema. Current I2V/T2V routes lack Max's multi-image/audio reference arrays.
+  Use `prompt_expansion_mode="disabled"` for continuity-critical shots. When
+  expansion is enabled, review the actual returned `expanded_prompt`.
+- Proven incident: The Prisoner Turbo shot03 had a correct empty-background
+  anchor. Its prompt described the entire cast, including the offscreen giant,
+  without preserving prone posture/absence. The provider's balanced expansion
+  explicitly inserted a visible background prisoner, and the clip showed it
+  upright. Earlier review missed this background-state contradiction. The repair
+  retained the anchor, scoped visible cast to two humans, preserved the prone
+  offscreen state, disabled expansion and regenerated only shot03. This is an
+  observed input/output mechanism, not certainty about model internals.
+- Use J1TTS instead of AI33 for voiceover, with fixed topic-appropriate ElevenLabs
+  voice IDs. Lakshman reports an unlimited J1TTS plan: record $0 incremental TTS
+  cost for his supplied account, not as a universal provider price. J1TTS is speech
+  only. Use separately edited native Foley/continuous ambience and suitable local
+  music, defaulting to fal Lyria 3 Pro for generated background music and using
+  fal ElevenLabs Music only for cues needing precise timing. No AI33 calls unless
+  explicitly requested later.
+  Include J1TTS base URL, Bearer authentication, catalog/import/TTS/poll/download
+  payloads and durable no-replay rules inside the handoff; no VideoForge checkout
+  or prior chat should be required. Do not invent undocumented voice parameters.
+- Native video dialogue can establish a generated performance, but Turbo cannot
+  lock its voice through an audio reference. `target_audio_url` replaces audio;
+  it is not a proven lip-sync or voice-conditioning operation. Exact recurring
+  voices need a supported, separately verified workflow. Disclose unresolved
+  voice/phoneme limitations; do not claim they passed from ASR alone.
+- Audit background stems before mixing or looping. Turbo native audio can contain
+  unrequested speech despite a no-voices prompt. The Signal first native clip
+  contained chatter; its reuse as a wind bed spread a second voice across the mix.
+  Reject unintended speech, whispers, vocal pads/choirs and duplicate narration;
+  replace contaminated native tracks with clean non-vocal sound. ASR is only a
+  flag; do not claim an actual audition from transcription alone. Verify final
+  word positions after trimming/mixing as well as total duration.
+- Design a continuous sound scene: environment beds span cuts, dialogue shares
+  acoustics, Foley follows action, effects have tails, music supports emotion and
+  leaves space for speech. Use motivated prelaps, J/L cuts, short fades and smooth
+  gain automation. Picture cuts may be hard; the sound should not feel reset at
+  every shot. Preserve quiet moments and dynamic range, avoid clipping/pumping.
+
+## Execution and delivery
+
+- Run the full OpenMontage pipeline autonomously through final review/export.
+  Record the user's full-run authorization in `approval_policy` and checkpoints;
+  do not pause at routine approval gates. Announce meaningful tool/model/cost
+  choices without repeatedly asking permission. Report genuine blockers honestly.
+- Start an end-to-end timer before work; finish after generation, editing,
+  verification and export. Report wall-clock and provider/render phases, reuse,
+  retries and correction time separately. Do not present a reuse benchmark as a
+  fresh production benchmark.
+- Verify current provider pricing, track receipts and actual credits where
+  returned. Separate USD, credits, estimates and settled charges. Preserve paid
+  jobs/outputs and resume exact accepted requests; never replay an ambiguous
+  submission or introduce an unsolicited spending cap.
+- Landscape 16:9, frame filled edge to edge. No source or renderer black bars,
+  portrait footage, YouTube Shorts, blurred sides or filler containers. Crop
+  safely or replace. A 1080p export requires prior user approval; disclose upscale.
+- Save all finished local videos/exports directly in `/Users/lakshmansai/Downloads/`; preserve working projects on the SSD and avoid overwriting unrelated files. This 2026-10-12 preference supersedes the earlier SSD-root destination.
+  Preserve working projects on the SSD for Backlot/resume and retain prior exports.
+- Check the actual full render: continuity, framing, decode, duration, audio,
+  dialogue and playback. Deliver playable MP4, project/evidence, timer and cost
+  report. Distinguish checks performed from unchecked voice/lip/audio quality.
+- Never store credentials in preferences, GPT Space, prompts sent to media models,
+  logs, receipts or version control. A friend handoff may contain shared keys only
+  in the explicitly requested private local prompt; keep it outside the repository.
+- Handoff prompts must be generic for any title/topic, concise without weakening
+  quality, and one complete copy/paste text containing all preferences and private
+  key configuration. They must not require prior chats, memory or a separate
+  preference document. Installed OpenMontage operating skills remain applicable.
+- The complete-movie handoff has four inputs: title/topic, total length, quality
+  and model, with 720p and Turbo defaults. Keep provider/key/reference
+  configuration and all preferences in
+  that one prompt. Long films use persistent film bibles, voice IDs/state ledgers,
+  reviewed scene batches and seamless final assembly. The current template
+  honors the selected model throughout; richer conditioning is available only
+  when Max was selected. Announce/log cost and verify actual output.
+  That template policy does not change The Prisoner Turbo demo's generation model.
+
+## Image-resolution comparison and final prompt, 10 October2026
+
+The user requested the same THE WARNING30s project with all6anchors reconstructed
+at2K, keeping Turbo768P/720p output and exact narration/music/ambience for a fair
+comparison. Six2K anchors returned2752x1536 and36reported Kiecredits; all6new
+5sTurbo clips and one controlled1K-input portrait were retained. A controlled
+pair used the same2K master, one downsampled to1376x768, identical prompt/seed711028
+and export. This tests input pixel resolution, not native1K versus native2K
+generation. Both30s exports have720frames at24fps and identical decoded audio,
+full decode and browser-ended playback. Fine facial texture benefits appear
+modest; take variation prevents a universal resolution/quality guarantee.
+The user subsequently approved the final mapping: QUALITY720p uses1K images;
+QUALITY1080p uses2K images. This supersedes the earlier prompt hold and the
+standard/high/maximum quality tiers. The previous self-contained prompt had1985
+words and used fal Sync2Pro postprocessing, now superseded by the native-dialogue
+preference below. Its exact Kie/J1TTS API setup and
+HTTPSCDN upload (inline dataURIs were rejected422), and requires actual visible
+character dialogue. Public template: docs/ai-movie-prompt-template.md. Private
+one-copy handoff with explicitly shared keys: SSD-root
+OpenMontage-AI-Movie-Prompt-PRIVATE.md, mode0600; never store its values in memory.
+Evidence: projects/the-warning-30s-kie-j1tts/artifacts/2k-comparison/.
+
+
+## Native dialogue preference after rejected postprocessing, 10 October2026
+
+The user rejected THE WARNING Sync2Pro lips and explicitly preferred the original
+The Prisoner native audiovisual method. Original final mix retained H3 Max native
+speech; AI33 was intended voice guidance, not the final replacement waveform.
+Old receipts do not prove transport of the original local audio-reference paths.
+For the redo use actual reference_audio_urls with H3 Max reference-to-video and
+J1TTS references, keeping generated native speech and picture paired. No new AI33
+or Sync2Pro calls. Voice guidance is not an exact clone guarantee; sample and
+review the actual face/voice, not only ASR/frame count. Technical success of the
+rejected postprocessor is superseded by user quality rejection.
+
+Turbo remains the base non-speaking-footage default in the portable prompt;
+that prompt expressly authorizes Max for reference-guided native speaking shots
+and requires announcing/quoting the exception. Explicit Turbo-only requests must
+be respected and its audio-conditioning limitation disclosed. No unannounced
+model swaps. Preserve the720p→1K and1080p→2K image defaults.
+
+Audit complete native takes for repeated lines and silent mouth movement. Trim
+complete clean utterances with their matching picture or regenerate failed takes;
+never replace native on-screen speech with separately timed TTS. THE WARNING
+native takes5/6 rebuilt a visible hand/beacon despite offscreen prompts. Consistent
+head-and-shoulders framing excludes those invalid close-up details; approved full
+wide action carries the physical state. This is accepted visible coverage, not
+proof that hidden model blocking was correct. Check every background/edge and
+sound stem, preserve paired timing, and keep subjective user acceptance separate.
+
+
+## User acceptance of native lip-sync, 10 October2026
+
+The user directly endorsed the latest native THE WARNING export: "this is good"
+and "very good lipsync", and requested the same method for future movies.
+This supersedes that export's pending user-review state. Preserve native H3Max
+reference-to-video audio/picture pairs, with J1TTS guiding cast speech and Turbo
+as the default for non-speaking shots; the final portable prompt makes this split
+explicit and preauthorized. Do not revert to Sync2Pro or replace native visible
+speech with separately timed TTS. Keep all story/continuity/sound/resolution/timer
+preferences. One generic nine-section copy/paste prompt includes four inputs,
+reference analysis and independent API setup; only its private SSD copy has keys.
+The accepted30s result does not establish arbitrary-runtime consistency, exact
+voice-clone equivalence or friend-computer acceptance.

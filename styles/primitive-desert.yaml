@@ -1,0 +1,54 @@
+identity:
+  name: "Primitive Desert Style"
+  category: custom
+  mood: "consequential, immediate, tactile and grounded in physical work"
+  pace: fast
+  best_for: "Title-led fictional survival struggles with observational realism, cooperation and an earned practical payoff"
+visual_language:
+  color_palette:
+    primary: ["#6E695C", "#A9A08B"]
+    accent: ["#B59A70"]
+    background: "#E4DFD4"
+    text: "#F4F1EA"
+  composition: "Full-frame landscape wide/medium/over-shoulder/contact coverage; immediate visual problem, preserved geography and meaningful caused changes. The style name does not require desert scenery."
+  texture: "Raw available light, untreated skin, worn practical materials, ordinary occlusion and imperfect working framing; no beauty smoothing or polished synthetic texture."
+typography:
+  headings: {font: "Arial", weight: 400}
+  body: {font: "Arial", weight: 400}
+motion:
+  transitions: ["motivated hard cut", "clear causal time ellipse"]
+  animation_style: "Native normal1x efficient human movement and physical observer-camera follow/pan/side-step. Generated take duration is not edit duration; useful short coverage without a rigid cutting quota."
+  pacing_rules: {}
+audio:
+  voice_style: "No narrator, presenter address or unrequested dialogue."
+  music_mood: "No added music by default."
+  music_volume: 0
+  sfx_style: "Raw native synchronized activity and coherent location ambience; specific necessary Foley follows visible contact, material, timing and acoustic perspective."
+asset_generation:
+  image_prompt_prefix: "Raw observational working frame, exact approved cast/world, consequential practical action, available light, physically credible material state, "
+  image_negative_prompt: "presenter pose, object display, glossy beauty lighting, waxy skin, slow robotic gesture, floating tool, elastic geometry, magical material change, synthetic zoom, watermark, title card"
+  consistency_anchors:
+    - "Read docs/primitive-desert-style-preferences.md and its prompt/reference notes; preserve original approved identities, costumes, house and action state."
+    - "Fill Subject / Subject Motion / Scene / Spatial Framing / Camera for every shot; maintain causal graph and environment ledger."
+    - "Use exact accepted outgoing frames for supported sequential continuations plus original identity masters; optional end/motion references are helpers, not continuity proof."
+    - "Required world anchors include regions a camera move must reveal. Keep displaced snow/material, resource positions, wind, light and sound coherent."
+quality_rules:
+  - "For narrative AI story/scene planning, follow docs/ai-video-story-engagement-preferences.md: a short strong visible hook, several distinct escalating extreme challenges, seeded consequential surprises (including habitat-appropriate wildlife when useful), difficult choices, persistent costs and earned payoffs. Preserve this style's factual/source/art/audio rules; no extra paid review or approval gate."
+  - "For Frameo unlimited, follow docs/unlimited-plan-production-preferences.md: prefer useful 30-second multi-shot chunks, refill one shared verified API capacity, and prioritize required story coverage using actual throughput and time left. Follow docs/portable-production-knowledge.md so saved training travels with the project; narrative AI stakes follow docs/ai-video-global-realism-preferences.md without changing this style’s art/source/audio rules."
+  - "For generated people/speech, follow docs/ai-video-human-performance-preferences.md: reuse selected voice and clean supported references; plan speakable lines, intention, manageable action, framing and motivated face light once. No added routine auditions, paid reviews or gates; preserve native pairing, this style’s art/source/sound rules and no-speech defaults. Premium footage is selective and must fit authorized cast/voice, provider scope and budget."
+  - "Follow docs/video-fast-production-preferences.md: finish story, staging, camera/action, continuity and speech timing before generation; reuse settled research. Routine paid AI review/scoring/repeated-analysis budget is USD 0."
+  - "After production authorization, skip unrequested paid assessments without pausing; handle routine repairs/recovery and resume exact accepted jobs through assembly, export and requested delivery within actual scope/budget. Preserve source/audio rules, selected cast/voice, native pairing and no-replay/provider constraints; no optional-review score or approval gate."
+  - "Previous Amish full-film visuals and consistency were approved; its ordinary-day story, slow robotic motion and pacing were rejected. This new style awaits its own sample feedback."
+  - "Show visual title promise within about0-5s and problem/stakes/method within about15-20s; each passage adds useful state, decision or consequence. These are editorial targets, not rigid shot quotas."
+  - "Follow docs/ai-video-global-realism-preferences.md: pursue title-faithful extreme survival stakes or credible near-death trouble when appropriate, with caused setbacks, difficult choices, changed methods and earned payoff. Carry fatigue, injury, resource loss and damage forward; no random disaster stack, magical rescue or impossible transformation."
+  - "References largely depict calm routine/food. Extreme jeopardy is the owner's fictional addition, not a source fact or proof of documentary authenticity."
+  - "People work independently of camera, at natural efficient1x pace, without object presentation, slow reaches, repeated no-progress strokes or padded holds."
+  - "Frameo unlimited defaults to useful30s Seedance2.5 multi-shot chunks; the earlier8-12s H3 take pattern is historical. Specify achievable ordered action, framing, physical camera path, raw sound and state for each internal shot. Shorter requests need a useful-action, reference-contract or diagnosed-limit reason; no padding."
+  - "Follow docs/minimum-shot-duration-preferences.md: every actual ordinary shot including internal generated cuts is at least2s; use returned boundaries, exclude next-scene fragments and run the cached free local check. Prompt timestamps alone do not prove duration."
+  - "Current owner-authorized Frameo unlimited route supersedes historical fal H3Max generation. Verify entitlement, workspace zero quote, deadline, supported cast references/resolution and shared capacity; preserve authorized Kie anchor policy and Remotion720p finishing without extra billed work or purchases."
+  - "Follow docs/video-fast-production-preferences.md and docs/unlimited-plan-production-preferences.md: plan once, refill all currently verified shared API slots (presently10), coordinate project-order handoff and adapt required coverage to measured throughput/time left. Immediate selected-range handoffs and cached assembly continue during generation; export may finish after the pass."
+  - "Follow docs/ai-video-voice-selection-preferences.md without routine voice options, auditions or approval. Preserve this style's no-speech/no-narrator defaults; shared voice policy does not introduce dialogue."
+  - "Quick essential-defect glances and one brief final batch check; no exhaustive per-clip reports/contact sheets/ASR/paid review or cosmetic retake loops by default."
+  - "Accept minor incidental imperfections; fix clear changed cast, major warp/teleport, missing required outcome or broken sound, preferably with an honest trim or motivated cut."
+  - "No music/narrator by default; keep raw synchronized work sound, full-frame16:9 and approved720p/768p."
+  - "Justified paid repairs remain allowed within actual scope/budget; estimates are not invented caps, and uncertain accepted jobs must be reconciled without blind replay."
