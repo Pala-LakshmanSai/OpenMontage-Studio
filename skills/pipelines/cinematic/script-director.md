@@ -16,6 +16,29 @@ coherence and actual authorization remain. Put this once in existing beat metada
 
 For narrative AI productions, read `docs/ai-video-story-engagement-preferences.md` before writing beats or shots. Populate the existing artifact with the short hook, distinct extreme turns, seeded consequential surprises, choices, costs and visible payoffs. Preserve factual/source/style boundaries and the current fast autonomous policy; this adds no review or approval stage.
 
+Apply its **Story strength before coverage** correction: runtime is earned by an
+interacting chain of goals, opposition, choices, changed tactics and persistent
+consequences, not by expanding a short plot into more clip IDs. Track audience
+interpretation and supporting-character agency in the existing beat map. Revise
+redundant or weak causal sequences before releasing them, then resume authorized
+rolling production. Native performance, continuity and a technically valid ending
+do not alone qualify the screenplay; no new scoring/review/approval loop.
+
+Use the owner's forty-six-point feedback synthesis in that guide to fill the
+same foundation: causal logline/core question, want versus need, early defining
+choice, understandable mistakes and learned competence, independent threat logic,
+active tactics/geography, changing audience knowledge, setups/reversals/low point,
+chosen climax, heart/theme and complete ending. Design visible and sonic evidence,
+speech economy and tension/relief. Suggested percentages/line counts are flexible
+craft tools. Do not generate fake quality numbers or a new recurring checklist.
+
+After an owner rejects repeated storytelling, use title/style as creative
+constraints rather than keeping the sample's incidents. A fresh narrative needs
+a changed opening, goal, central question, opposition, causal turns and ending;
+all-new generated footage of the same plot does not satisfy that request. Only
+an explicit remake/retelling asks to preserve the old narrative. Record the new
+causal engine once in the existing foundation before rolling scene release.
+
 For generated human performance, read `docs/ai-video-human-performance-preferences.md` alongside the active style. Reuse selected voices and clean supported references, prepare speech/action/framing/light in the existing shot plan, and qualify through a planned useful dialogue take. This adds no routine review, paid assessment or approval gate. Preserve no-narrator/no-speech and stylized-art rules; premium footage is selective within authorized scope/budget, with the same permitted cast and compatible voice.
 
 ## When To Use

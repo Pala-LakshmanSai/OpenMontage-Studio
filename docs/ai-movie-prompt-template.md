@@ -41,6 +41,34 @@ DELIVERY: current user's Downloads; external sharing only if requested
 
 1. COMPLETE ORIGINAL STORY
 
+Treat TITLE as the premise promise, not a command to repeat a sample's plot.
+For a requested new original story or rejected repetition, settle a different
+opening/inciting action, goal, core question, opposition, causal turns, climactic
+choice and outcome. Reusing faces and style does not require old relationships
+or events. Do not label newly rendered footage of the same expanded plot a fresh
+story. Keep this distinction in the existing foundation, with no added gate.
+
+Apply **Story strength before coverage** in the shared engagement guide. Outline
+dramatic sequences before generator units: independent opposing goals and a
+personal blind spot produce choices, provisional success, costly consequences,
+changed tactics and an earned ending. Track what the audience believes and how
+new evidence changes it. A longer request needs additional interlocking causal
+development, not more care/weather/reaction angles from a short sample. Give
+supporting characters agency and dialogue that changes the situation. Record
+this once in the existing beat map, then release revised ready sequences; add no
+routine paid review, scoring or approval gate.
+
+In the same foundation record the causal logline and central question; the
+hero's external want/internal need and first trait-revealing choice; consistent
+threat rules and independent opposition; learned competence; audience knowledge;
+active attempts with usable geography; a meaningful midpoint/late reversal;
+setups, low point, chosen climax and final payoff. Use visual evidence, economical
+native dialogue, purposeful sound, tension/relief and changed emotional states
+across dramatic sequences. Runtime fractions and line counts are heuristics,
+not extra gates. Do not create forty-six recurring audits or numerical quality
+scores from the owner's feedback. A requested scratch rebuild starts a fresh
+screenplay/footage version while preserving old assets and exact-job receipts.
+
 Reuse the saved reference study instead of researching the channels again for each title. Transfer its documented craft, never its plots, faces, character designs, dialogue, melodies or footage. Do not promise popularity or quality parity. A title and requested runtime with production authority are enough to make routine creative decisions autonomously; preserve selected cast/voices/world. Reading this template, setup and style training do not authorize generation. A sample-only request remains sample-only.
 
 Settle the whole-film causal spine before generation: title promise, protagonist want/emotional need, relationship at risk, world rules, opening predicament, distinct consequential turns, midpoint change of understanding, costly final choice and resolved ending. Plant what the ending needs. Assign ordered sequence IDs, duration budgets and incoming/outgoing story states. This is a complete ending-aware outline, not every shot and line.

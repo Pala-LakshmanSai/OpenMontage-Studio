@@ -1,5 +1,173 @@
 # Extreme, surprising stories planned before generation
 
+## Story strength before coverage — owner correction, 3 November 2026
+
+Owner correction after the lighthouse v3 rejection, 3 November 2026: **the same
+title is not an instruction to repeat the sample's plot**. Distinguish footage
+regeneration, a stronger rewrite and a genuinely new story. When the owner asks
+for a new original story or rejects repetition, change the dramatic engine:
+inciting action/opening, protagonist objective, central question, opposition,
+major causal turns, climactic choice and resulting outcome. Adding a supporting
+character, another location, more detail or a longer runtime to an unchanged
+rescue/care/reveal/release structure is an expansion, not a fresh story. Do not
+call it fresh merely because all shots are newly generated. Preserve an old
+plot only for an explicit remake/retelling request. Selected cast identities and
+style craft do not require repeating their old relationships, incidents or ending.
+Record the concrete new engine in the existing foundation before admitting its
+first scenes, without a new review service, originality score or approval gate.
+
+Owner-supplied forty-six-point story feedback, 3 November 2026, is incorporated
+below as writing principles. Keep it in the existing story foundation, beat map
+and scene contracts; it is not forty-six recurring checks, a score table, a paid
+review service or an extra approval stage. Apply a requested scratch rebuild to
+the screenplay and resulting footage rather than preserving a weak version for
+its sunk cost. Retain receipts and originals, keep selected identities/voices
+unless asked otherwise, and never replay an uncertain provider submission.
+
+The owner found the second lighthouse sample's storytelling insufficient even
+after accepting its improved presentation. Technical continuity, a coherent
+moral and a resolved ending are necessary but do not establish a compelling
+movie. Improve the dramatic engine before generating the next authorized film;
+do not answer this correction with more realism adjectives, longer coverage or
+another review layer. Earlier sample acceptance is not blanket approval of its
+story or of a longer expansion.
+
+Earn the requested runtime through new causal developments. A short story cannot
+become a feature by spreading its same rescue, care, test and farewell across
+more generation units. Write dramatic sequences first, then allocate source
+duration. Each major sequence has an active goal, resistance, a tactic, a result
+that changes the next plan and an emotional consequence. Several shots may
+serve one beat; several differently framed beats may still be the same scene.
+Remove interchangeable watching, worrying, explaining and repeated experiments.
+Do not force every sequence into the same four-shot or thirty-second cadence;
+useful thirty-second generation remains the production default, not a dramatic
+structure or a requirement to retain all returned footage.
+
+Build one interacting engine: a protagonist's urgent external goal and personal
+need, a costly blind spot or incompatible loyalty, capable opposing objectives,
+and a deadline that changes available choices. Opposition can be a credible
+person, a relationship, a natural system or conflicting duties; it need not be
+a cartoon villain. Give supporting characters independent knowledge, decisions
+and leverage. Their actions must alter events rather than merely explain the
+hero's mistake or watch the climax. Integrate any subplot so its decisions
+collide with the main dilemma and help cause or complicate the ending.
+
+Design the audience's changing interpretation, not just a list of dangers.
+Plant specific observable evidence with a plausible first meaning; later action
+reveals its other meaning and makes the characters change tactics. A discovery
+must affect what can be done now, not only provide background information.
+Let a provisional success commit the protagonist to a riskier course, let its
+seeded limitation produce a worse consequence, and make the low point remove
+an easy escape. The climax requires a new, character-driven use of established
+knowledge or means plus an irreversible choice; a helpful stranger, late power,
+convenient machine failure or unexplained animal intention cannot supply it.
+These are craft options to apply to the genre, not a mandatory identical plot
+or fixed number of twists in every film.
+
+Make emotion specific through behavior, conflicting loyalties, promises and
+consequences. Earn attachment before demanding sacrifice; give revelation,
+humor, tenderness, dread, urgency and relief room to contrast where appropriate.
+Dialogue does something to another person: bargains, tests, withholds, accuses,
+changes a decision or takes responsibility. Avoid repeated theme speeches,
+everyone stating the same stakes, explanatory radio updates and narration of
+visible action. Narration may supply perspective, deliberate temporal clarity
+or a changed interpretation while preserving the requested native performance.
+
+Use the existing ending-aware beat plan once to record each major turn's
+audience belief/question, caused change of plan and persistent cost. Test this
+by writing the actual causal transitions, not by adding numeric scores, paid
+critics, an extra checklist or an owner-approval wait. Consolidate a weak or
+redundant sequence before its submission. Then immediately resume the fast
+rolling workflow for revised ready sequences. Preserve accepted assets and
+uncertain jobs; reuse them only where the revised story really fits. No story,
+upscale or policy wording guarantees engagement or flawless future footage.
+
+### An actionable foundation and understandable protagonist
+
+Write a specific causal logline: who must do what, against which obstacle, and
+what happens if they fail. Name the central dramatic question and show where it
+is planted and resolved. Nested mysteries can be answered along the way; do not
+withhold every answer to manufacture curiosity. Make the title's premise and
+emotional stakes understandable in the opening action, ideally within the first
+10–30 seconds, before backstory or specialist worldbuilding. Introduce the
+disrupting event early enough to drive the film, using runtime fractions as
+planning guides rather than compulsory timestamps.
+
+Give the protagonist a concrete external want and an internal need that creates
+friction with it. Show a defining trait through an early consequential choice.
+Choices need an understandable motive even when mistaken; intelligence should
+not vanish to permit a set piece. Let mistakes produce learning that the hero
+actively applies later. Reactions, pursuit and hiding need proactive plans,
+risks and changed tactics between them. A short situation-led thought, self-talk
+or requested narration can clarify intention or changed understanding without
+explaining every visible action or replacing native dialogue.
+
+### Threat, movement and suspense
+
+Reveal an uncertain threat through meaningful fragments and evidence before a
+full understanding when the genre benefits from it. Preserve its established
+perception, range, speed, vulnerabilities and motivations; a fantasy rule is
+specific, not permission for arbitrary behavior. Give opposition depth through
+choices, vulnerability or conflicting needs. Layer human, environmental or other
+pressures only when they interact with the same causal story. Do not insert a
+new predator, betrayal or disaster merely to meet a quota.
+
+Keep useful movement in the story: a goal leads to a physical attempt, altered
+terrain or access, a consequence and a new tactic. Environment must create
+opportunities and constraints, not serve only as scenery. Active camera work
+follows or reveals that action; constant cutting, running, orbiting or slow
+pushes cannot substitute for progression. A quiet encounter can be decisive.
+Alternate tension with earned relief and attachment so urgency has contrast.
+Treat a prolonged unchanged emotional/goal state as a reason to rewrite or merge
+the sequence, not to introduce a mandatory timer or prohibit sustained suspense.
+
+### Earned reversals, emotion and resolution
+
+Plant the means, limits and decisions needed by late solutions. Track important
+setups and payoffs; incidental background objects do not each require a subplot.
+A recurring object, skill or signal should acquire changed meaning through use,
+loss, choice or reciprocity. A midpoint can change the objective or strategy; a
+late emotional reversal can change allegiance or the audience's interpretation.
+Their timing follows the story, not a universal percentage formula. Surprise
+must remain retrospectively understandable and must change the available action.
+
+Build a low point that removes a credible easy option. Earn the climax through
+earlier choices, learned skill, useful objects and protagonist agency, including
+help that has a caused opportunity and independent motive. Show the thematic
+position through what someone sacrifices or refuses, not a speech. Earn the
+heart of the film through specific kindness, risk and relationship development
+before asking for grief, awe or applause. Deliver the title's promised experience
+and resolve the central film question with a memorable final action/image/sound.
+A series may retain a secondary thread, but cannot withhold the promised climax.
+Discussable moments come from striking choices or reinterpretations; random
+violence, cruelty and absurdity are not compulsory engagement devices.
+
+### Visual, spoken and sonic information
+
+Make major causes, objectives, threats, changed access and consequences visible
+where feasible. Viewers should follow the physical situation without decoding
+long explanations; this is not a ban on dialogue or a claim that every idea must
+survive muted playback. Spoken lines must change a relationship, choice or task.
+Cut repetition and stiff exposition; a reference's suggested forty short lines
+is a genre heuristic, not a universal cap for every runtime or style. Preserve
+complete native utterances and speech-picture pairing.
+
+Plan sound as information and perspective: an unseen approach, a changed rhythm,
+breath, contact, interrupted ambience or deliberate silence can direct attention
+before the picture reveals why. Use wide geography, medium relationships and
+close consequential detail with motivated camera movement. Score supports
+emotional changes and leaves space for key decisions and physical action; it
+does not play continuously to force excitement. Stage complex generated action
+as understandable supported tasks with enough complete coverage, preserving the
+global state/physics rules. Feasibility is a staging problem to solve, not a
+reason to make the hero passive or replace a feature with reaction closeups.
+
+Any predicted retention dip, engagement benefit or craft assessment is a writing
+hypothesis, not measured analytics. Do not fabricate one-to-ten quality scores,
+comment rankings or guarantees. Use actual observed output and owner feedback to
+describe results. Factual/source-led styles keep their evidence boundaries; a
+fictional film's ambition does not authorize fabricated documentary events.
+
 Owner refinement, 3 November 2026: for AI Movie Style, pursue bold feature-film
 creative ambition: an arresting original premise, immediate title-faithful event,
 consequential scale, emotional stakes and surprising but earned developments.

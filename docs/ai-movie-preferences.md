@@ -232,6 +232,32 @@ first-pass spending rule and all sound-quality gates.
 
 ## Creative direction
 
+Owner correction, 3 November 2026: a same-title movie may need an entirely new
+story. When repetition is rejected, rebuild the opening, goal, core mystery,
+opposition, causal reversals and ending. New footage or polished coverage of the
+sample's same plot is not a fresh story. Reuse the learned cinematic craft and
+selected identities, not the rejected narrative structure; old plot retention is
+appropriate only when explicitly requested as a remake or retelling. Apply the
+shared engagement guide's story-versus-footage distinction in the existing plan.
+
+Owner correction, 3 November 2026: the second lighthouse sample's storytelling
+was still insufficient. Apply **Story strength before coverage** in
+`docs/ai-video-story-engagement-preferences.md`: earn longer runtime with an
+interacting dramatic engine, capable opposing goals, consequential discoveries,
+changed tactics, an earned reversal and an irreversible climactic choice. More
+coverage of the same short plot is not development. Sample presentation
+acceptance is not approval of its story at feature length. Save the causal
+revision in the existing story/script artifacts before releasing revised scenes,
+then resume rolling production without another approval or paid review stage.
+
+The owner's supplied forty-six-point foundation/character/threat/structure/
+payoff/dialogue/sound/visual/theme/ending/AI-feasibility feedback is incorporated
+in that shared guide. Keep its usable principles in the existing story and
+scene artifacts. Do not turn suggested timing percentages, forty-line economy
+or rubric scores into rigid requirements or recurring reviews. For an explicit
+scratch rebuild, develop a fresh script and footage version after the policy
+update, preserving selected cast/voices and all previous provider receipts.
+
 - For title/topic plus length, produce a COMPLETE original movie at the specified
   duration with development, climax and payoff. Scale screenplay and scene batches
   to runtime; do not substitute a trailer, scene test, padded clips or preview.
