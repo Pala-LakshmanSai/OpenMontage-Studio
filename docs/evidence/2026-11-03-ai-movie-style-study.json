@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-03",
+  "task": "AI Movie reference training and portable Frameo operating workflow",
+  "scope": "Research and saved pipeline instructions; no movie generation or pass purchase",
+  "studies": [
+    "docs/ai-movie-mythra-study.md",
+    "docs/ai-movie-eterya-study.md",
+    "docs/ai-movie-lumz-study.md"
+  ],
+  "coverage_manifests": [
+    "projects/ai-movie-style-study-20261103/mythra/coverage.json",
+    "projects/ai-movie-style-study-20261103/eterya/review-coverage.json",
+    "projects/ai-movie-style-study-20261103/lumz/review-coverage.json"
+  ],
+  "review_method": "Complete-timeline dense chronological visual samples, complete available captions/local ASR, selected motion windows, and five externally generated full-video audiovisual reports.",
+  "limitations": [
+    "Not continuous natural-speed assistant watching/listening",
+    "External model reports contained material errors; source reconciliation recorded in studies",
+    "Audio/instrumentation claims remain attributed rather than independently heard",
+    "Reference-level generated quality and future throughput not yet measured",
+    "No new automatic cross-project scheduler implemented; agent operating protocol uses existing adapter safeguards",
+    "Public-repository propagation and physical friend-device production not verified by this task"
+  ],
+  "analysis_jobs": [
+    {
+      "video_id": "IfYeyO9KU5I",
+      "status": "completed",
+      "credits_charged": 6,
+      "duration_seconds": 1238.0
+    },
+    {
+      "video_id": "uUbeeBsNEjI",
+      "status": "completed",
+      "credits_charged": 6,
+      "duration_seconds": 1276.0
+    },
+    {
+      "video_id": "TlrjGqHhplc",
+      "status": "completed",
+      "credits_charged": 10,
+      "duration_seconds": 2170.0
+    },
+    {
+      "video_id": "ZTpgdlzUWZc",
+      "status": "completed",
+      "credits_charged": 16,
+      "duration_seconds": 3835.0
+    },
+    {
+      "video_id": "dqCGNrQ6N_o",
+      "status": "completed",
+      "credits_charged": 8,
+      "duration_seconds": 1709.0
+    }
+  ],
+  "authorized_credit_limit": 47,
+  "credits_charged": 46,
+  "purchases_or_topups": 0,
+  "recovery": "Island start returned INVALID_ARGUMENT without ID. Existing completed video_analysis job recovered through list_tts_jobs listing; correct video_id verified, no resubmission.",
+  "training": [
+    "docs/ai-movie-reference-notes.md",
+    "docs/ai-movie-multishot-prompting.md",
+    "docs/ai-movie-frameo-production.md",
+    "docs/ai-movie-preferences.md",
+    "docs/ai-movie-prompt-template.md",
+    "styles/ai-movie.yaml"
+  ],
+  "validation": {
+    "portable_discovery": "passed; 6 profiles, 10 playbooks, 19 indexed policies, 66 required files",
+    "playbook_schema": "passed",
+    "relocation_setup_tests": "5 passed",
+    "local_document_links": "10 documents, 0 missing local targets",
+    "edited_tracked_whitespace": "passed",
+    "report": "docs/evidence/2026-11-03-ai-movie-style-validation.json"
+  },
+  "durable_decisions": [
+    "Original causal full story and ending before rolling detailed planning",
+    "Character/voice/environment/prop/knowledge state carried through sequence metadata",
+    "Useful30s multi-shot requests with actual minimum2s shots and complete native speech",
+    "One shared-account dispatcher, continuous refill, uncertain jobs retain slots, no automatic purchase",
+    "No routine paid scoring/per-clip exhaustive review/new approval stages"
+  ],
+  "first_delivery_clarification": {
+    "date": "2026-11-03",
+    "scope": "Focused text/workflow verification, not a new audiovisual review",
+    "changes": [
+      "First sample must be a finished representative story passage; correct observed material faults before delivery within authority",
+      "Removed residual whole-film detailed planning and exhaustive review wording",
+      "Portable template keeps private setup separate",
+      "Multi-character speech bound to speaker/face window",
+      "Worked mechanical example defines downstream manual drive so cause and result agree"
+    ],
+    "extra_paid_calls": 0,
+    "validation": "Portable knowledge check passed after edits; changed document local links pass",
+    "limits": "No generated sample exists yet; no guarantee of zero creative feedback"
+  }
+}

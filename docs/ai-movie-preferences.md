@@ -1,5 +1,65 @@
 # Saved AI movie preferences
 
+For detailed 30-second internal cuts and continuity prompts, read `docs/ai-movie-multishot-prompting.md`. Prepare once and reuse; this adds no routine review stage.
+
+## Current movie training and Frameo workflow — 3 November 2026
+
+Read [movie craft and reference evidence](ai-movie-reference-notes.md), the
+[movie playbook](../styles/ai-movie.yaml) and the updated
+[complete-movie template](ai-movie-prompt-template.md). The owner requested a
+careful study of the supplied Lumz Cinema film and popular MYTHRA and Relatos de
+Eterya films: writing, emotional engagement, scene staging, camera, light, editing
+and score. Transfer their documented craft into original stories, not their plots,
+identities, dialogue or footage. Evidence coverage and limitations are recorded in
+the study; channel popularity is not causal proof of craft or retention.
+
+When the owner selects **Frameo Seedance 2.5 unlimited**, that choice overrides the
+historical H3 split below for both speaking and non-speaking footage. Read
+[Frameo movie production](ai-movie-frameo-production.md) and
+[unlimited-pass policy](unlimited-plan-production-preferences.md). Prefer useful
+30-second multi-shot generations, with ordinary actual shots at least 2 seconds.
+Prepare the whole-film spine and ending, then launch ready, frozen sequences while
+later screenplay/scene detail continues. Do not leave available slots idle waiting
+for the whole detailed plan or an entire batch to finish. Use one account-wide
+admission owner and the verified capacity (owner requests ten); keep accepted and
+uncertain submissions accounted for. Assemble during generation. Provider queue
+time and usable yield must be measured; equal latency for 5s/30s is an owner
+observation, not a universal guarantee. No purchase, top-up or automatic renewal.
+
+Use multiple agents for independent writing, continuity preparation and local
+assembly where available; one film editor owns canonical story/order and one
+account coordinator owns admission. A title and requested length/range are enough
+to make routine creative decisions autonomously once production is authorized.
+Reuse settled voices or select a consistent native voice; H3-specific audio
+reference setup is not a mandatory dependency of a Frameo movie. Preserve native
+speech-picture pairs and all selected identity, source/audio and budget rules.
+
+The 3 November request authorizes style/workflow preparation. A title and sample
+request follow later; it does not start a film, activate a pass or buy credits.
+This research may be detailed; future productions reuse it and retain the fast,
+zero-routine-paid-review policy. Improved artistic quality and production speed
+remain goals until demonstrated by a finished film and owner feedback.
+
+### First sample is a finished delivery, not a feedback-dependent draft
+
+Owner clarification, 3 November 2026: aim to deliver the first requested sample
+already coherent, compelling and finished; do not rely on the owner to discover
+predictable story, identity, staging, dialogue or audio defects. Choose a useful
+story passage within the requested sample length that demonstrates a consequential
+action, a readable emotional change and persistent state across a motivated cut
+or adjacent generated passage. Include natural visible dialogue when the film
+calls for it and a purposeful sound treatment. Do not substitute a beauty montage
+that avoids the film's important continuity/performance challenge.
+
+Use these expectations inside the existing scene preparation and brief final
+check, not a new checklist, paid assessment, approval or sample-before-sample loop.
+When a concrete fault is observed, fix it locally or make a proportionate targeted
+replacement within the actual authorization before delivery. If it cannot be
+resolved within scope/budget or available capability, report that precise limit;
+do not label it polished or leave the owner to diagnose it. Artistic satisfaction
+and flawless generation cannot be guaranteed in advance. No new title or sample
+generation is authorized by this clarification alone.
+
 For narrative story and scene planning, apply [extreme story and surprise planning](ai-video-story-engagement-preferences.md): short strong hooks, distinct escalating challenges, seeded consequential surprises and costly choices with visible payoffs. Match this style and the title; wildlife is one environment-appropriate option, not a mandatory insert. Keep factual/source boundaries and the fast autonomous workflow; no extra review or approval stage.
 
 For generated people or speech, also apply [human voice and facial performance](ai-video-human-performance-preferences.md): reusable selected voice/reference, situation-led speech and manageable facial/camera/light staging, without extra routine auditions, paid reviews or production gates. Preserve this style’s cast, art, source and sound rules; do not add a narrator or dialogue to an unspoken film. Premium models are selective, budgeted options, not automatic upgrades.
@@ -33,8 +93,10 @@ technical-unavailability fallback. A safety rejection is not a technical failure
 another provider to bypass it. Historical Kie results below remain historical evidence.
 
 First-pass quality and spending preference updated 1 November 2026: read
-[the first-pass SOP](ai-style-first-pass-sop.md). Front-load complete script,
-shot/state planning, reviewed anchors, sound and capability/cost validation.
+[the first-pass SOP](ai-style-first-pass-sop.md). Prepare the complete story spine
+and exact script/shot/state/reference/sound inputs for each ready sequence; apply
+its rolling Frameo exception instead of waiting for all detailed film assets.
+Complete capability/cost validation for the work being admitted.
 Aim for an excellent first delivery, then autonomously make justified targeted
 paid corrections or necessary fallbacks within the user's actual budget and scope.
 Preserve existing provider-specific image choices, accepted work and uncertain jobs;
@@ -63,9 +125,12 @@ first-pass spending rule and all sound-quality gates.
 - A fictional AI movie defaults to real character conversation and visible speaking
   performances with synchronized mouths, reactions and scene acoustics. Narration
   may support the story, but never replace character dialogue merely to avoid
-  lip-sync difficulty. Confirm a working fixed-J1TTS-voice/lip-sync path on an
-  actual face before batching dialogue shots; no lip-sync claim from audio muxing
-  or ASR alone. The Warning narration-only draft was explicitly rejected for this
+  lip-sync difficulty. Use the selected supported native speech-picture route
+  and consistent voice guidance through a planned useful dialogue take, without
+  a separate audition or approval wait. Fixed-J1TTS/post-lip-sync requirements
+  belong only to an explicitly selected compatible historical route; they do not
+  override Frameo native audio. No lip-sync claim from audio muxing or ASR alone.
+  The Warning narration-only draft was explicitly rejected for this
   reason. A resolution-only A/B comparison can retain that draft's exact sound/edit
   as an explicitly labeled diagnostic, not as the corrected movie.
 - Use actual moving video, natural weight and material detail. No slideshow or
@@ -99,14 +164,16 @@ for local time, daylight, season, climate and weather across shots and transitio
   same shot, use its exact final usable frame at the intended edit point as the
   next starting frame, where supported, while preserving pose, framing, lighting,
   camera/action direction and speed. New camera angles still need deliberate
-  match-on-action/eyeline planning. Inspect adjoining end/start frames together
-  and play each boundary; do not conceal mismatches with arbitrary dissolves or
+  match-on-action/eyeline planning. Inspect adjoining end/start motion for actual
+  continuation dependencies or concrete faults, not every boundary; do not conceal
+  mismatches with arbitrary dissolves or
   morphs. Last-frame conditioning alone is not a guarantee. Keep visible speaking
   faces synchronized if retiming footage.
-- Review backgrounds as carefully as foreground faces. Inspect dense temporal
-  sequences, motion where available, and both sides of every cut against the
-  ledger. Reject defects before finishing; preserve originals and repair only the
-  failed shots. ASR and technical probes do not prove semantic continuity or lips.
+- Include background and offscreen state in the same prompt preparation and brief
+  essential check as foreground identity. Dense per-clip temporal inspection and
+  every-cut audits are not routine requirements. Investigate a concrete fault,
+  preserve originals and repair affected material before delivery. ASR and
+  technical probes do not prove semantic continuity or lips.
 
 ## Models and audio
 
@@ -193,10 +260,10 @@ for local time, daylight, season, climate and weather across shots and transitio
 - Never store credentials in preferences, GPT Space, prompts sent to media models,
   logs, receipts or version control. A friend handoff may contain shared keys only
   in the explicitly requested private local prompt; keep it outside the repository.
-- Handoff prompts must be generic for any title/topic, concise without weakening
-  quality, and one complete copy/paste text containing all preferences and private
-  key configuration. They must not require prior chats, memory or a separate
-  preference document. Installed OpenMontage operating skills remain applicable.
+- The portable handoff is the indexed repository, generic template and installed
+  operating skills. It requires no prior chats or personal memory; referenced
+  project policies travel with the installation. Private configuration is installed
+  separately and is never pasted into this template or prompts sent to models.
 - The complete-movie handoff has four inputs: title/topic, total length, quality
   and model, with 720p and Turbo defaults. Keep provider/key/reference
   configuration and all preferences in

@@ -6,6 +6,18 @@ For generated human performance, read `docs/ai-video-human-performance-preferenc
 
 ## When To Use
 
+**AI movie override:** read `docs/ai-movie-preferences.md` and
+`docs/ai-movie-reference-notes.md`. Write a complete character-driven screenplay,
+not a sparse trailer/title-card sequence. Every scene has a want, opposition,
+choice, changed state and consequence; track emotional attachment and setup/payoff
+through the ending. Dialogue performs a task, tests trust or changes a decision;
+narration is not a workaround for visible speech. Scale acts to the requested
+runtime rather than padding an outline. For selected Frameo unlimited, follow
+`docs/ai-movie-frameo-production.md`: lock the global ending-aware spine first,
+then freeze exact lines/staging per ready sequence while later writing continues.
+Keep partial artifacts truthful and honor recorded full-run authorization rather
+than adding routine gates from the generic trailer workflow below.
+
 This stage builds the beat map, selected lines, title-card copy, and reveal structure for the cinematic piece. You are shaping rhythm, not writing a dense explainer.
 
 ## Prerequisites

@@ -56,7 +56,9 @@ If Remotion is not in the available render engines, stop and report to the user 
 
 ### 1. Use Frame Treatment Deliberately
 
-Only use letterbox, 24fps intent, or heavy grading if they help the piece. Do not apply them because the pipeline name says cinematic.
+Follow the owner's active full-frame rule: no letterbox, baked-in bars or padded
+sides, including AI Movie. Use 24fps intent or grading only when they help the
+piece; the word cinematic alone does not justify either.
 
 ### 2. Preserve Audio Dynamics
 

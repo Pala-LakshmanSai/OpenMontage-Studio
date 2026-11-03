@@ -40,13 +40,25 @@ fallback, preserve progress and request the required authorization.
 
 ## Before paid generation
 
+For an explicitly selected Frameo unlimited pass, apply
+[rolling production](ai-movie-frameo-production.md) and
+[shared unlimited policy](unlimited-plan-production-preferences.md). Resolve the
+whole-film causal spine, ending, cast/world, runtime allocation and provider/spend
+readiness first. Finish detailed script, staging, speech timing and references for
+each sequence **before that sequence is submitted**; start ready independent
+sequences while later detail is prepared. The full detailed screenplay is not a
+global submission barrier. This owner refinement of 3 November 2026 supersedes
+the full-script-before-spending wording below for that route. Unresolved local
+dependencies hold their own jobs, not unrelated ready work. No speculative filler.
+
 1. Read the exact style instructions, current user training, reference analysis
    and relevant provider skills. Turn them into a concrete acceptance checklist;
    resolve contradictions before spending. Distinguish observed reference details
    from unverified soundtrack, and never invent reference aesthetics or footage balance.
 2. Finish the full story/script, causal sequence, duration allocation and shot/edit
    plan. Check dialogue timing, action complexity, reaction space, camera handoffs,
-   coverage and payoff. Solve predictable weak shots in the plan.
+   coverage and payoff. Solve predictable weak shots in the plan. For Frameo
+   unlimited, apply the rolling sequence exception above.
 3. Lock the film bible and state ledger: identities, voices, costumes, props,
    anatomy/contact, visible and offscreen posture, geography, eyelines, camera
    ownership/axis/lens, light, action phase and each take's start/end state.
@@ -72,13 +84,16 @@ fallback, preserve progress and request the required authorization.
    Follow [AI music preferences](ai-music-preferences.md): Lyria 3 Pro through fal
    for background music, ElevenLabs Music through fal only when precise timing
    is needed. Choose each cue's provider now, not after paying for a failed trial.
-7. Forecast exact first-pass asset counts, billed video duration, reference
+7. Forecast first-pass asset counts, billed video duration, reference
    surcharges, music, existing subscription coverage and total provider spend.
    Separate estimates from actual charges. Do not assume image allowance is
-   unlimited or authorize paid overflow when it runs out.
+   unlimited or authorize paid overflow when it runs out. Under the rolling
+   Frameo exception, make the current ready chunks exact and estimate remaining
+   coverage; unfinished later shot counts do not block ready independent work.
 8. Record a readiness checklist under `artifacts/first-pass-readiness.md`, with
    evidence pointers and unresolved items, alongside canonical pipeline artifacts.
-   Hold paid work while a required item is unresolved; do not self-certify checks
+   Hold only work dependent on an unresolved required item; continue ready
+   independent sequences under the rolling exception. Do not self-certify checks
    that were not actually performed.
 
 ## Production and delivery review policy — superseded 2 November 2026

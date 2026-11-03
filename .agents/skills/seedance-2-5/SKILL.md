@@ -12,6 +12,27 @@ weights in OpenMontage.
 
 ## Choose a supported route
 
+### OpenMontage owner policy and Frameo override
+
+Read `docs/video-fast-production-preferences.md` and, for explicitly selected
+Frameo unlimited, `docs/ai-movie-frameo-production.md` plus
+`docs/unlimited-plan-production-preferences.md`. These supersede historical
+ten-asset auditions, 10–15-iteration advice and 30-seconds-not-a-target wording
+below: prefer useful 30-second multi-shot passages, prepare once per ready
+sequence, refill shared verified capacity, inspect concrete faults and make
+targeted repairs without routine paid scoring. Do not generate disposable tests.
+
+Registered `frameo_video` supports `model="seedance_2_5"` through Frameo. Local
+adapter contract inspected 3 November 2026: 4–30 integer seconds, 720p, 16:9,
+native audio, at most 30 images/8 videos/8 audios. Its reference entries and roles
+are route-specific; do not copy the other hosts' 10-video/audio limits. It requires
+a fresh zero-net-credit quote and a valid authorized pass submission window, with
+durable exact-job resume after expiry. No automatic activation/renewal/purchase.
+Verify actual account concurrency and current schema before production; the
+adapter does not provide a shared account semaphore. A voice descriptor guides
+performance; supported clean references may also condition voice. Neither proves
+exact voice identity or lip-sync. Keep jointly generated native speech and picture.
+
 | Route | Tool call | Notes |
 |-------|-----------|-------|
 | fal.ai | `seedance_video`, `model_version: "2.5"` | T2V, I2V, and reference-to-video |

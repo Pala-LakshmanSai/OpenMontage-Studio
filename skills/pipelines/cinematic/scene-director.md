@@ -6,6 +6,18 @@ For generated human performance, read `docs/ai-video-human-performance-preferenc
 
 ## When To Use
 
+**AI movie override:** apply `docs/ai-movie-reference-notes.md` and
+`styles/ai-movie.yaml`. Stage scenes as intelligible action and emotional change:
+establish geography, show the cause/attempt, preserve reactions, then show its
+consequence. Record all five aspects below plus start/end state, exact native
+speech and score intention. Choose physical camera movement for a dramatic reason;
+do not make every shot an orbit or push. In Frameo unlimited mode, use
+`docs/ai-movie-frameo-production.md`: publish ready frozen sequences incrementally,
+prefer useful 30-second multi-shot passages with complete actions/utterances and
+ordinary actual shots at least two seconds. Label exact-frame dependencies versus
+independent reference-conditioned setups. Generated footage is the primary movie
+medium; source-led inserts and title-card defaults below do not override it.
+
 You are deciding how each cinematic beat will look and transition. This is where mood becomes a visual plan.
 
 ## Prerequisites
@@ -85,7 +97,12 @@ Recommended metadata keys:
 
 ## Gate Reminder (Binding)
 
+The recorded full-run authorization exception in the executive-producer contract
+applies here: continue authorized production without a new per-stage approval
+or end-turn pause. Rolling AI-movie scene plans represent ready sequences honestly;
+they do not claim unfinished later scenes are complete.
+
 This stage gates on human approval (`human_approval_default: true`). After review passes:
 checkpoint with `status="awaiting_human"`, present the summary (the Backlot board renders
 the artifact), and **END YOUR TURN**. Do not start the next stage in the same response.
-Approval is per-gate — an earlier "go ahead" does not cover this gate.
+This per-gate default applies only when full-run authorization has not been recorded.

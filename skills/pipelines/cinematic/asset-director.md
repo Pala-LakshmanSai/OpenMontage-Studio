@@ -4,6 +4,19 @@ For generated human performance, read `docs/ai-video-human-performance-preferenc
 
 ## When To Use
 
+**AI movie/Frameo override:** read `docs/ai-movie-preferences.md`,
+`docs/ai-movie-frameo-production.md` and `docs/unlimited-plan-production-preferences.md`.
+Use the selected Frameo Seedance 2.5 route for speaking and non-speaking movie
+footage; do not silently inherit H3 or generic source-insert defaults. Submit
+fully ready sequences while later planning and assembly proceed. One account
+owner reserves/refills the verified shared capacity, retaining accepted and
+uncertain jobs; the adapter's per-job lock is not an account scheduler. No batch
+barrier or disposable audition is required. Inspect the first useful performance
+for actual dependencies; unrelated prepared work may proceed. Use Kie first for
+necessary images and Lyria 3 Pro/fal for background score, ElevenLabs/fal only
+when precise timing is needed, all within actual authorization. Fast review and
+recorded full-run approval supersede generic sample/repeated-review gates below.
+
 This stage prepares the usable media for the final cinematic edit: source selects, title-card assets, optional support inserts, music, ambience, and subtitle assets when needed.
 
 ## Animation authoring for cinematic titles and overlays
@@ -149,11 +162,12 @@ When expansion is used, inspect the saved `expanded_prompt` for invented subject
 or actions. Do not copy Max's multi-reference prompt verbatim into Turbo: verify
 the route's supported conditioning and rewrite the prompt for the visible anchor.
 
-Review each generated clip temporally, including its background and all cut
-boundaries, against the ledger. Use dense frame sequences and motion playback
-where available; a few representative frames cannot qualify continuity. Reject
-unmotivated posture changes, extra subjects/limbs, costume drift or disconnected
-props. Preserve accepted jobs and regenerate only failed shots.
+Follow the active fast-production policy: prepare these invariants in the ledger,
+then use quick obvious-defect checks for actual continuation dependencies and one
+brief final batch check. Dense temporal review of every clip/boundary is not a
+routine requirement. Inspect a concrete suspect interval when an observed fault
+needs diagnosis; repair unmotivated posture changes, extra subjects/limbs, costume
+drift or disconnected props proportionately. Preserve accepted/uncertain jobs.
 
 ### 3. Prepare A Real Audio Plan
 
@@ -176,6 +190,11 @@ Recommended metadata keys:
 - `rights_notes`
 
 ### Pre/Post Self-Review for Generation Prompts
+
+Current fast-production override: specify the five aspects directly in the ready
+sequence prompt. A separate scored pre/critique/post triplet and its metadata log
+are optional debugging techniques, not routine work or a gate. The historical
+method below applies only when explicitly useful for a concrete prompt defect.
 
 > Before sending a prompt to any image or video generation tool, run a three-step self-review modeled on the CHAI oversight loop ("Building a Precise Video Language with Human-AI Oversight", arXiv 2604.21718v2). Cost is small (no extra tool calls); benefit is large (avoids wasted generations). For cinematic, this matters most for **hero-frame prompts** — one bad hero frame ruins the piece, and hero frames are the most expensive shots to regenerate.
 >

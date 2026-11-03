@@ -51,6 +51,29 @@ EP_STATE:
 
 ## Execution Protocol
 
+### AI movies and rolling Frameo production
+
+For AI movies, use `docs/ai-movie-preferences.md`,
+`docs/ai-movie-reference-notes.md` and `styles/ai-movie.yaml`. A complete movie
+needs character choices, consequences and a resolved ending, not the generic
+trailer build/reveal/landing treatment. Reuse the saved reference study instead
+of repeating its research for every title.
+
+When Frameo unlimited is selected and production authorized, follow
+`docs/ai-movie-frameo-production.md`. Serial stage order below is artifact
+dependency order, not a whole-film wall-clock barrier: freeze the global spine,
+ending and shared bible, complete the first sequence's script/scene plan, then
+overlap its assets with later sequence planning and completed-source assembly.
+Keep partial canonical artifacts and in-progress checkpoints truthful; do not
+mark a whole stage complete while it lacks required coverage. Record the owner's
+full-run approval policy using the existing checkpoint mechanism. Scope actual
+reference-dependent continuations sequentially, while independent ready roots
+refill available shared slots. One account coordinator admits work; subagents do
+not each get their own ten slots. Actual budgets and no-replay guards remain.
+
+This exception supersedes the serial-production wording below for that selected
+route. No new review, audition or routine approval stage is added.
+
 Same as standard EP: Initialize → Execute stages serially (research → proposal → script → scene_plan → assets → edit → compose → publish) → Final QA.
 
 Each stage: PREPARE → SPAWN DIRECTOR → REVIEW → GATE DECISION (pass / revise / send-back).

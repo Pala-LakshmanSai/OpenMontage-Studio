@@ -1,0 +1,48 @@
+identity:
+  name: "AI Movie"
+  category: cinematic
+  mood: "Emotionally grounded, suspenseful and epic when the story earns scale"
+  pace: moderate
+  best_for: "Complete original character-driven films at the requested length"
+visual_language:
+  color_palette:
+    primary: ["#39464B", "#A89479"]
+    accent: ["#D9A45D"]
+    background: "#20282D"
+    text: "#FFFFFF"
+  composition: "Full-frame 16:9 moving footage. Establish geography and scale, stage choices in medium relationship coverage, and reserve close detail for recognition or consequential action. Palette values are proposal placeholders; derive the actual film palette from its world and dramatic progression."
+  texture: "Natural skin, tactile materials, credible physical contact and motivated light; original creatures/worlds may be fantastic while their behavior remains causally coherent."
+typography:
+  headings: {font: "Arial", weight: 700}
+  body: {font: "Arial", weight: 400}
+motion:
+  transitions: ["motivated hard cut", "match on action", "legible time or location transition"]
+  animation_style: "Actual generated motion at natural action speed. Camera reveals information, follows a physical action or changes emotional distance. Preserve reaction time; no universal slow motion, decorative orbit, slideshow or artificial zoom."
+  pacing_rules:
+    min_scene_hold_seconds: 2
+audio:
+  voice_style: "Original consistent cast, situation-led native dialogue with matching picture, purposeful silence and intelligible reactions; narration only when justified by the film."
+  music_mood: "Original restrained motifs that develop with relationships and earned scale; tension, release and silence rather than constant maximum intensity."
+  music_volume: 0.15
+  sfx_style: "Continuous scene ambience, contact-synchronous Foley, meaningful offscreen cues and retained effect tails. Mix level is scene-dependent, not a fixed gain recipe."
+asset_generation:
+  image_prompt_prefix: "Original cinematic narrative, readable physical staging, motivated light, natural material response, coherent cast and environment, "
+  image_negative_prompt: "copied creator identity, plastic skin, beauty posing, extra limbs, unexplained prop resets, floating captions, watermark, letterbox bars"
+  consistency_anchors:
+    - "Read docs/ai-movie-preferences.md, docs/ai-movie-reference-notes.md and docs/ai-movie-prompt-template.md."
+    - "One film bible: original identities, selected voices, geography, wardrobe, props, injury and weather/light state; offscreen state persists."
+    - "Reference roles are explicit. Use original identity/location roots for independent setups and exact outgoing edit-point state for true continuations where supported."
+quality_rules:
+  - "Follow docs/ai-video-story-engagement-preferences.md: visible title-led hook, causal escalation, consequential choices and seeded payoff; a complete film resolves its main dramatic question."
+  - "Use the dated channel studies as craft evidence, not copied plots or proof of retention. Endings and promotional tails must be distinguished; do not adopt a public teaser's cliffhanger as a complete-film ending."
+  - "Every scene changes knowledge, relationship, objective, access or cost; quiet scenes earn attachment or relief and plant future consequences."
+  - "Follow docs/video-fast-production-preferences.md: prepare once, overlap independent work and assembly, skip routine paid analysis/scoring, perform one brief final check plus targeted fault repair."
+  - "Follow docs/ai-video-human-performance-preferences.md and docs/ai-video-voice-selection-preferences.md: reuse or autonomously choose suitable consistent voices, manageable speech/action, motivated face light and native speech-picture pairing; no routine audition gate."
+  - "When Frameo Seedance 2.5 unlimited is selected, follow docs/ai-movie-frameo-production.md and docs/unlimited-plan-production-preferences.md. Freeze the whole-film spine/ending first, prepare detailed sequences incrementally, prefer useful 30-second multi-shot requests and refill one verified account-wide capacity continuously."
+  - "Do not wait for a complete detailed whole-film shot plan or a slow batch member before submitting unrelated ready required work. Unknown/accepted jobs reserve capacity until reconciled; no duplicate submissions or automatic purchases."
+  - "Preserve actual provider, budget, cast/world and accepted jobs; do not silently substitute H3 for explicitly selected Frameo. The unlimited pass does not cover image/music spending."
+  - "Use all five shot aspects, readable geography, plausible blocking/contact, reaction coverage and consequential state changes; do not use random spectacular inserts."
+  - "Follow docs/ai-video-global-realism-preferences.md and docs/minimum-shot-duration-preferences.md; ordinary actual shots including internal provider cuts are at least two seconds, no next-scene fragments, complete native utterances retained."
+  - "Follow docs/ai-image-generation-preferences.md and docs/ai-music-preferences.md: Kie Nano Banana 2.1 first, Lyria 3 Pro/fal for flexible score, ElevenLabs/fal only for precise cue timing within authorization."
+  - "Full-frame landscape 720p/768p by supported route; ask before 1080p. No added titles, captions, overlays or letterboxing unless explicitly requested."
+  - "Save real complete MP4 to the receiving user's Downloads and resumable working assets separately; share only as authorized. Quality parity and faster production remain unproven until actual film evidence."

@@ -86,6 +86,16 @@ This skill teaches you to run discovery, classify the user's setup, present capa
 
 ## Reference Video Entry Point
 
+For **AI movies**, read `docs/ai-movie-preferences.md`,
+`docs/ai-movie-reference-notes.md` and `docs/ai-movie-prompt-template.md`; use
+`styles/ai-movie.yaml` with cinematic stages. When Frameo unlimited is explicitly
+selected, also read `docs/ai-movie-frameo-production.md`: whole-film causal spine
+and ending first, detailed preparation frozen per ready sequence, then generation,
+later planning and assembly overlap under one shared account admission owner.
+Do not inherit historical H3-only dialogue routing or wait for a fully detailed
+whole-film shot plan. Reuse saved research on later films; preserve actual scope,
+budget, accepted jobs, native speech and the minimum actual shot rule.
+
 For the owner's named **Tech Trendy style** (also “TechTrendy”), follow
 `docs/tech-trendy-style-preferences.md`, its reference notes and prompt template,
 with `styles/tech-trendy.yaml` in the cinematic pipeline. This is a separate

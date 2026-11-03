@@ -35,13 +35,15 @@ Ambience, impacts, dropouts, and music changes should help create momentum betwe
 
 ### Camera and time continuity at boundaries
 
-Compare subject scale, framing, lens/axis, exposure, action phase and camera/action
-velocity across each boundary. Same-view crop jumps and restarted/replayed takes
+Plan subject scale, framing, lens/axis, exposure, action phase and camera/action
+velocity at intended boundaries. Same-view crop jumps and restarted/replayed takes
 are continuity failures even with identical anatomy. Prefer one continuous moving
 take for a continuous reveal; for generated extensions, condition on the exact
 final usable frame at the intended cut where supported, preserving the motion
-plan. New angles need deliberate match-on-action or eyeline planning. Review
-adjoining end/start frames together and play boundaries at normal speed. Do not
+plan. New angles need deliberate match-on-action or eyeline planning. Under the
+current fast-production policy, inspect adjoining end/start motion only for actual
+continuation dependencies or a concrete fault, not every join. Use the existing
+single cached actual-cut/minimum-shot check and brief final batch review. Do not
 use arbitrary dissolves or morphs to conceal mismatches. Retiming must preserve
 visible mouth/dialogue synchronization.
 

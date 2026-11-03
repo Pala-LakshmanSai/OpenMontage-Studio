@@ -25,7 +25,12 @@
     "docs/ai-music-preferences.md",
     "docs/ai-style-first-pass-sop.md",
     "docs/ai-video-production-lessons.md",
-    "docs/video-delivery-preferences.md"
+    "docs/video-delivery-preferences.md",
+    "docs/ai-movie-frameo-production.md",
+    "docs/ai-movie-mythra-study.md",
+    "docs/ai-movie-eterya-study.md",
+    "docs/ai-movie-lumz-study.md",
+    "docs/ai-movie-multishot-prompting.md"
   ],
   "installation": "docs/install-and-update.md",
   "style_profiles": [
@@ -35,7 +40,8 @@
       "pipeline": "pipeline_defs/cinematic.yaml",
       "guide": "docs/ai-movie-preferences.md",
       "template": "docs/ai-movie-prompt-template.md",
-      "playbook_selection": "Choose an appropriate existing playbook at proposal; the named style guide overrides incompatible generic trailer/presentation defaults."
+      "reference_notes": "docs/ai-movie-reference-notes.md",
+      "playbook": "styles/ai-movie.yaml"
     },
     {
       "id": "vlog-style",

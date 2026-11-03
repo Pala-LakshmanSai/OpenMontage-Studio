@@ -5,14 +5,24 @@ efficiently. Front-load preparation, start ready independent sequences promptly,
 and record actual timing so future estimates improve. Apply this alongside the
 current style and [fast production](video-fast-production-preferences.md).
 
+Owner refinement, 3 November 2026: **rolling preparation is the default once the
+pass is running**. Lock a concise whole-film causal spine, including the ending,
+then finish and release the first useful sequence while later sequences are
+written and staged. Do not wait for every line, anchor or shot in the film.
+For AI movies use [the Frameo production workflow](ai-movie-frameo-production.md),
+including sequence readiness, shared admission ownership and continuous refill.
+This explicitly supersedes whole-film-detail-before-generation wording in older
+first-pass instructions; every submitted sequence must still be genuinely ready.
+
 Keep this rule in the portable repository workflow through
 [portable production knowledge](portable-production-knowledge.md), not only a
 single chat or assistant memory. The same shared account queue and deadline
 apply across concurrent projects. Honor the owner's requested project order:
-prepare a following film while the active film generates, observe the actual
-completion/remaining jobs, and transfer admission promptly when that generation
-cohort is finished. Do not treat another chat's lack of recent updates as proof
-that its provider slots are free.
+prepare a following authorized film while the active film generates, observe the
+actual completion/remaining jobs, and release unused capacity incrementally once
+the current film's required jobs are accepted. Do not hold an entire allocation
+until its slowest job or export finishes. Do not treat another chat's lack of
+recent updates as proof that its provider slots are free.
 
 ## Prepare outside the paid window when possible
 
@@ -37,8 +47,10 @@ the production is authorized only through the pass, refuse nonzero quotes.
 Check each newly uploaded reference URL can actually be fetched by the generation
 provider, without sending the workspace API key to a media host. A successful
 upload does not prove readable media. Cache the successful reference by source
-hash. Use the first useful story chunk to expose ordinary transport faults before
-releasing a large batch; do not add a separate paid audition or review loop.
+hash. Use the first useful story chunk to establish a valid submission/receipt;
+then admit other ready independent chunks without waiting for its full render.
+Only shots depending on its actual returned state must wait. Do not add a
+separate paid audition or review loop.
 
 Before arming admission, validate the actual resolved request inputs for every
 ready chunk, including all selected reference-role names and transport entries.
@@ -71,12 +83,28 @@ fill the request. Plan the film around useful long chunks from the outset to
 reduce requests. Preserve already accepted work rather than regenerating it only
 to change its nominal length.
 
-Use the account's full verified parallel capacity (currently 10 for this Frameo
-workspace), promptly refilling freed slots from a prepared queue. Coordinate all
-workers against that single capacity; agent count is not extra provider capacity.
+Use the account's full verified parallel capacity, promptly refilling each freed
+slot from a prepared queue rather than waiting for a whole batch to finish. The
+owner specifies a ten-job Frameo workspace limit and describes a USD 100 daily
+pass; these are the requested operating assumptions, not a universal current
+price, entitlement or fresh account verification. Recheck the account's actual
+API limit and pass coverage once per run, then use all available authorized slots
+up to that limit. Coordinate all workers against that single capacity; agent count
+is not extra provider capacity. Count queued, submitting and uncertain requests
+as occupied until provider reconciliation establishes their status. A local
+timeout or worker exit does not release a provider slot.
 Use exact receipt locks/cached successes when front and back story queues meet.
 Keep essential opening, payoff and difficult dependency footage covered early,
 then complete the remaining required story before optional variations.
+
+The single admission owner must observe all participating projects and account
+jobs, including work submitted outside the current chat. The current
+`frameo_video` adapter locks individual receipts; it does **not** implement a
+shared account concurrency limit. Do not describe this written coordination
+policy as an installed background scheduler or an account-wide software lock.
+Use one coordinator for admission and separate workers for preparation,
+download/selection and assembly. If another coordinator owns the account, agree
+an explicit capacity handoff rather than starting a competing admission loop.
 
 When replacing a worker cohort, identify its exact owned process/session and
 verify the other active cohorts remain alive after handoff. Do not stop workers
