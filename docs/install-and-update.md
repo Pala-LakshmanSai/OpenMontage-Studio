@@ -46,7 +46,11 @@ After installation, a production prompt can be:
 > my authorized active Frameo unlimited plan, and finish and show the full video.
 
 Other saved names: AI Movies, Vlog Style, AI Videos Documentary Style, Outdoor
-Boys Style and Tech Trendy Style. New styles inherit the shared policies and get
+Boys Style, Tech Trendy Style and **The Last Day**. For the latter, title plus
+duration invokes the saved narrated science/disaster workflow, including its
+pilot-derived editorial playbook; no personal Codex memory or reference downloads
+are required. For example: “The Last Day: [TITLE], around 10 minutes.”
+New styles inherit the shared policies and get
 their own guide, reference notes, template and playbook where appropriate.
 The active title, length, cast, budget and account entitlement remain real inputs;
 old project approval or an expired pass does not authorize a new paid production.

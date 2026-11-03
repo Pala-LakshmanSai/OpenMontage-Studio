@@ -20,7 +20,9 @@ trailer, isolated scene or sample unless I explicitly request that instead.
 
 Read `AGENT_GUIDE.md`, `docs/production-knowledge-index.json`,
 `docs/the-last-day-style-preferences.md`, its reference notes and catalogue study,
-and `docs/the-last-day-frameo-production.md`. Use `styles/the-last-day.yaml` with
+`docs/the-last-day-editorial-playbook.md`,
+`docs/the-last-day-sound-and-narration.md`, and
+`docs/the-last-day-frameo-production.md`. Use `styles/the-last-day.yaml` with
 `pipeline_defs/cinematic.yaml`; retain canonical artifacts and stage directors,
 with narrated longform science overrides rather than generic trailer defaults.
 Reuse the saved reference research instead of repeating it during production.
@@ -75,6 +77,15 @@ for longer films; never pad runtime or slow speech to fill space.
 
 ### Voice, image and sound
 
+Plan variable explanation beats before packing provider requests. Carry a small
+recognizable set of places/systems through persistent changes. For every critical
+claim, specify the visible incoming condition, triggering cause, changed output
+and consequence, with the exact narration relationship. Normal baseline footage
+must be identified as baseline; a plausible action demonstrating the wrong cause
+is not acceptable. Make the opening picture match the promise and the ending
+resolve it, explicitly distinguishing return to reality from recovery inside a
+counterfactual. Attach uncertainty to the particular mechanism/branch it changes.
+
 Use one original consistent offscreen narrator, without cloning the channel's
 voice. Write concrete speakable paragraphs with varied sentence length and
 situation-led delivery: urgency, careful explanation, restraint, awe and reflection.
@@ -116,11 +127,24 @@ do not ask the generator to invent technical lettering. Sparse useful chapter or
 scale information is permitted, not constant captions. Information on a depicted
 monitor or sign stays inside that surface with correct perspective and movement.
 
-Keep narration forward, with restrained instrumental underscore,
-contextual ambience and selective synchronized effects. No music restart every
+Follow the saved sound/narration guide: connected thought groups, original stable
+voice, purposeful emphasis and pauses, with no uniform 30-second paragraph reset.
+Keep narration forward, with substantially quieter instrumental underscore,
+contextual ambience and selective synchronized effects. Start a steady score
+about 20–24 LU behind typical active narration; assess actual balance, not only
+whole-mix loudness. Do not swell into every breath or lower the narrator to fix
+prominent music. No music restart every
 thirty seconds or trailer impact on every cut. Reuse authorized music; separately
 authorized generated cues follow the saved Lyria/ElevenLabs routing. Preserve
 audio timestamps and native alignment during mixing.
+
+Use separate beat, utterance, shot and generation-chunk IDs in existing metadata.
+Assign essential local diagrams exact labels/encodings, owners and completion
+states. Place music at story turns, not fixed runtime percentages. Record actual
+selected ranges and keep reasons. Offscreen narration may bridge honest motivated
+illustrative cuts; retain native visible speech and synchronized actions, and do
+not assume clean stems exist. Leave complete phrase/action boundaries and a
+meaningful final tail; never make every request an equal-length paragraph.
 
 ### Rolling production and full slot use
 

@@ -8,7 +8,9 @@ channel. Do not clone its narrator, reuse its script, or copy its branding.
 
 Read the [reference study](the-last-day-style-reference-notes.md),
 [copy/paste template](the-last-day-style-prompt-template.md), and
-[Frameo workflow](the-last-day-frameo-production.md). The study's measured and
+[Frameo workflow](the-last-day-frameo-production.md), and
+[editorial playbook](the-last-day-editorial-playbook.md), and
+[sound/narration guide](the-last-day-sound-and-narration.md). The study's measured and
 estimated observations are distinct from the production choices below. A saved
 style does not prove that an unmade film matches the channel's quality.
 
@@ -43,6 +45,14 @@ ledger: claim, source/date, uncertainty, illustration/simulation status, scene I
 Reference-channel narration is creative evidence, not a scientific source.
 
 ## Hook, escalation and ending
+
+Apply the [pilot-derived editorial rules](the-last-day-editorial-playbook.md):
+pair each critical spoken claim with the correct visible cause/result; carry
+recognizable systems through changing states; make uncertainty a useful local
+comparison; separate explanation beats from generation chunks. A plausible
+movement that demonstrates the wrong cause fails the explanation. The opening
+picture must match its promise, and the closing callback must resolve it without
+silently resetting the counterfactual world.
 
 Plan two levels of opening: an immediate attention grabber, then the narrative
 hook that establishes the promise and essential rules. The references do not all
@@ -150,6 +160,14 @@ outgoing selected frame where supported; independent coverage uses stable master
 
 ## Editing, diagrams and text
 
+Outline variable explanation beats before packing useful 30-second requests.
+Select actual useful ranges with a keep reason; do not retain every source in
+full automatically. Plan complete phrase/action boundaries and a clean ending.
+Let offscreen narration bridge motivated illustrative cuts where honest; visible
+dialogue and meaningful synchronized actions remain paired. Mixed native audio
+does not imply isolated stems. Follow the editorial playbook's compact records,
+including assigned local diagrams and story-turn sound cues.
+
 Use primarily clean hard cuts, match-on-action or motivated scale/time changes.
 Let complete actions and explanations determine length. As a starting design
 range, ordinary explanatory shots often need 4–9 seconds and complex mechanisms
@@ -173,6 +191,15 @@ inserts or blurred sides; no 1080p without permission**. Do not crop out essenti
 explanation merely to fill frame; stage/generate compatible coverage.
 
 ## Sound design
+
+Owner correction, 3 November 2026: the nuclear pilot's music was too loud.
+Follow [sound and narration](the-last-day-sound-and-narration.md): much quieter
+score behind the original consistent narrator, connected variable thought groups,
+selective physical sound and story-turn cue placement. Start a steady underscore
+around 20–24 LU below typical active narration, adjusting to actual material;
+this is an owner-responsive target, not a measured reference stem ratio. The
+pilot's concrete correction lowers only its added music by 9 dB. Overall-mix LUFS
+alone cannot establish music/voice balance or commentary quality.
 
 This named narrated style supports restrained instrumental underscore, contextual
 ambience and selective synchronized effects; do not inherit another documentary
@@ -231,8 +258,12 @@ Upload/share only as requested and verify size/permissions without audible autop
 
 ## Qualification status
 
-Style research and portable routing can be checked now. Live pass entitlement,
-throughput, reliable recurring voice, first-film artistic acceptance and matching
-or exceeding reference quality require an actual authorized production. The
+The 3 November nuclear pilot was delivered at 600.833 seconds, 720p, using twenty
+included Frameo jobs; first acceptance to last download took 20m43s, excluding
+preparation/export/delivery. The [comparison](the-last-day-refinement-20261103.md)
+documents substantial editorial/semantic weaknesses despite technical completion.
+Its corrective training is adopted; a revised film and reference-quality parity
+are not established. Live entitlement must still be checked for each production.
+Reliable recurring voice and first-film artistic acceptance remain unproven. The
 workflow is an agent protocol using existing adapters, not a newly installed
 background scheduler or account-wide concurrency lock.

@@ -4,8 +4,11 @@ Study completed3November2026 for the owner's requested new style **The Last Day*
 Channel: [@TheLastDay01](https://www.youtube.com/@TheLastDay01).
 The owner's production route is primarily **Seedance2.5 through Frameo's unlimited
 daily pass**, with multiple agents, early ready-sequence generation and continuous
-refill. This is style creation and research, not an authorization to start a film
-or buy/activate a pass. No new film was generated in this task.
+refill. The initial study did not itself authorize a film or buy/activate a pass.
+A later authorized nuclear pilot was completed and explicitly re-studied; see the
+[pilot comparison and refinement](the-last-day-refinement-20261103.md) and its
+[adopted editorial playbook](the-last-day-editorial-playbook.md). Historical
+research authorization does not grant a new production or purchase.
 
 Canonical implementation: [preferences](the-last-day-style-preferences.md),
 [reusable prompt](the-last-day-style-prompt-template.md),
@@ -94,6 +97,18 @@ ending immediately after destruction.
 | Asteroid | Narrated assumption~0–32.4s, contradiction~32.4–58.6s, linked-disaster promise~58.6–78.4s; checked transition78.567s. |
 | Lituya | Date/calm boats and vulnerability; giant threat visible by37s; hand/chain and boat-window threat; explanatory geography begins86.367s. |
 | Humans disappear | Destruction preview about0–13s, then light/grid/maintenance premise; explanation develops around72–100s. Exact rhetorical endpoint not independently timed. |
+
+The later [full-file local narration study](evidence/the-last-day-refinement-20261103/narration-b.md)
+refines narrated opening landmarks: Moon questions finish about87.97s with a
+transition at88.75s; Lituya promise finishes85.55s with explanation at86.35s;
+without-humans begins recognized narration12.27s, finishes its promise90.87s and
+introduces its first day marker91.71s. These ASR estimates supersede treating an
+approximately78s visual change as the full without-humans hook boundary. They do
+not make a90-second opening compulsory. Complete timing evidence for
+[Nepal/asteroid](evidence/the-last-day-refinement-20261103/narration-a.md) and the
+[measured audio comparison](evidence/the-last-day-refinement-20261103/audio-study.md)
+also inform the sound guide; average word rate and whole-mix loudness alone are
+insufficient to match commentary or score balance.
 
 ASR timing is approximate; selected visual cuts were bracketed locally. A first
 chapter marker is not automatically a hook boundary. The reusable style favors

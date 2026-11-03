@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-03",
+  "passed": true,
+  "required_files": 80,
+  "style_profiles": 7,
+  "playbooks": 11,
+  "policies": 29,
+  "focused_tests_passed": 32,
+  "new_training_relative_links_checked": 85,
+  "memory_free_relocation_check": true,
+  "secrets_projects_reference_media_absent": true,
+  "provider_calls": 0,
+  "limitations": "Instruction discovery/schema/relocation; not fresh-device media generation or artistic parity."
+}

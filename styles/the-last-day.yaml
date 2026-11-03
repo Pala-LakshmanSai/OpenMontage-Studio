@@ -21,17 +21,23 @@ motion:
   pacing_rules: {}
 audio:
   voice_style: "One original consistent offscreen narrator; clear concrete explanation, varied intention-led pace, restrained human stakes and reflective ending."
-  music_mood: "Restrained instrumental tension, curiosity and aftermath; continuous across chunks with narration forward."
-  music_volume: 0.12
+  music_mood: "Very quiet instrumental tension, curiosity and aftermath; story-turn cues, intentional silence, no swell into every breath; narration clearly dominant."
+  # Linear starting gain: 0.12 -> 0.04 is about -9.54 dB for identical input.
+  # Not measured stem LUFS or the pilot's exact -9 dB correction; use sound guide.
+  music_volume: 0.04
   sfx_style: "Selective synchronized physical effects and contextual ambience."
 asset_generation:
   image_prompt_prefix: "Original science documentary illustration, credible materials and scale, coherent geography and motivated light, landscape 16:9, "
   image_negative_prompt: "copied creator identity or branding, fabricated official evidence, gibberish scientific text, plastic materials, elastic geometry, inconsistent damage, watermark, black bars"
   consistency_anchors:
+    - "Read docs/the-last-day-sound-and-narration.md for original narrator performance, much quieter score and evidence-based timing limits."
     - "Read docs/the-last-day-style-preferences.md, docs/the-last-day-style-reference-notes.md, docs/the-last-day-style-prompt-template.md and docs/the-last-day-frameo-production.md."
     - "Keep narrator, recurring geography, physical system, selected cast and consequential state stable; independent explanatory cuts need not pretend to be one continuous shot."
     - "Kie Nano Banana 2.1 first for necessary masters; clean supported references and exact outgoing selected frames for actual continuations."
 quality_rules:
+  - "Read docs/the-last-day-editorial-playbook.md: variable explanation beats, critical phrase/picture/cause agreement, persistent recurring systems, visible mechanisms and earned callbacks. Thirty seconds is a generation envelope, not an editorial unit."
+  - "Record actual selected ranges and keep reasons; assign exact local diagrams; offscreen narration may bridge honest illustrative cuts while visible speech and synchronized actions stay paired."
+  - "Owner correction 3 November 2026: background score must be substantially quieter than the nuclear pilot; narrator first, restrained effects and cue changes tied to story turns. Do not confuse whole-mix LUFS with music-to-voice balance."
   - "Use cinematic stages with narrated longform science overrides, not sparse trailer narration or raw documentary silence."
   - "Follow docs/ai-video-story-engagement-preferences.md: immediate title-faithful interest, causal escalation, consequential surprises and earned payoff; facts constrain factual films and counterfactual assumptions stay explicit."
   - "Follow docs/ai-video-global-realism-preferences.md for physical behavior, meaningful continuity, environmental state and actual returned states."

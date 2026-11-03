@@ -49,6 +49,14 @@ Do not generate speculative filler to make a slot counter look busy.
 
 ## One sequence becomes ready when its contract is complete
 
+Apply the [editorial playbook](the-last-day-editorial-playbook.md) before packaging
+requests. Beat, utterance, shot and chunk IDs are distinct: a meaningful process
+can span chunks and a chunk can cover several complete short beats. Store each
+critical clause's intended picture, actual causal trigger and changed state.
+Include `visual_job`, `claim_ids`, `incoming_state`, `trigger`, `outgoing_state`,
+`utterance_ids`, `audio_role` and assigned local graphic IDs in sequence metadata.
+These are agent contracts, not new schema requirements or automatic validation.
+
 Keep contracts in `scene_plan.metadata.sequence_contracts`, keyed by canonical
 scene/chunk ID, with readiness/revisions in `script.metadata`. Standard scene
 rows remain schema-valid. Keep partial whole-film stages `in_progress`; publish
@@ -67,6 +75,13 @@ marking the entire script or asset batch completed.
 | Dependency | Independent from the frozen bible, or exact predecessor output/edit-point state required |
 | Editing | Intended entry/exit action, native audio pairing and stable final state without next-scene spillover |
 | Admission | Authorized scope, unique private receipt/output paths, pass deadline and resolved actual request inputs |
+
+Type each dependency as voice, identity/location master, exact editpoint frame or
+required prior state. Resolve its actual media/hash/transport before freezing.
+Do not copy a pilot's voice-ready boolean or assume an intended callback image
+was attached. Ready independent footage proceeds while true dependencies wait.
+During a necessary voice root, prepare later bindings, local graphics and sound
+cues so reference extraction/upload does not create an avoidable refill gap.
 
 Use the adapter's local request validation on the final resolved inputs before
 reserving a new submission. A dummy planning row does not validate real reference
@@ -88,6 +103,13 @@ shot count follows the story; three to six shots is a useful planning example,
 not a reference measurement or quota. Plan ordinary shots at least two seconds
 long, with enough time for complete actions and native utterances. Give the final
 shot a clean settled endpoint, not a flash of the following scene.
+
+Do not force the same three long shots and 65–70 words into every request.
+Plan clause/action boundaries and useful handles without filler. Each retained
+range needs a visual or narrative keep reason. Full retention is valid when
+useful; source availability alone does not determine the final edit. Do not
+overgenerate a fixed percentage as insurance: forecast from actual useful
+coverage and obtain only required missing material within authority.
 
 Use the Seedance section order and named locks from
 `.agents/skills/seedance-2-5/SKILL.md`: global style, scene, characters, location,
@@ -204,6 +226,16 @@ minimum-shot check on actual selections, including internal cuts and meaningful
 screen changes. Resolve ordinary shots below two seconds unless explicitly
 requested for that film. Routine paid review/scoring remains USD 0.
 
+Write actual source-frame and audio ranges, role and keep reason into selections.
+Offscreen narration may bridge honest illustrative cuts; visible speech and
+synchronized action remain paired. Do not assume isolated stems from native mixed
+audio. Track essential local graphics to completion rather than leaving “labels
+later” in a prompt. Place sound cues at named story turns, with quiet narration-first
+balance from [sound guidance](the-last-day-sound-and-narration.md), not a fixed
+fraction of total runtime.
+The brief final semantic check includes cause/claim agreement, persistent state,
+opening promise and ending payoff; correct anatomy or valid encoding is insufficient.
+
 Finish with one brief local batch check for playable output, requested duration
 range, 720p landscape/frame fill, sensible audio, essential story and selected
 identity continuity. Investigate concrete faults without a routine per-clip ASR,
@@ -232,6 +264,10 @@ Read-only inspection of `tools/video/frameo_video.py` confirms:
 `tests/tools/test_frameo_video.py` contains offline boundary tests for quotes,
 expiry, uncertain acceptance, exact resume, payload changes, safe reference
 upload and timing. These tests cannot prove live concurrency, current commercial
-terms, latency, generated quality or reliable voice identity. This workflow adds
-no paid test or generation. Quality parity, usable throughput and first-film
-acceptance remain unproven until a real authorized film supplies that evidence.
+terms, latency, generated quality or reliable voice identity. The workflow itself
+adds no paid test. The later nuclear pilot supplied dated production observations:
+twenty included jobs, observed capacity ten, 600.833s export and 20m43s first-acceptance
+to last-download. Those are not total production time, current entitlement or a
+quality guarantee. See the [pilot refinement](the-last-day-refinement-20261103.md)
+for observed failures and corrections. Revised-film parity and owner artistic
+acceptance remain unproven.

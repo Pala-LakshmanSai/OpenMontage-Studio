@@ -101,7 +101,8 @@ This skill teaches you to run discovery, classify the user's setup, present capa
 
 For the named **The Last Day** style, read
 `docs/the-last-day-style-preferences.md`, its reference notes and prompt template,
-plus `docs/the-last-day-frameo-production.md`; use `styles/the-last-day.yaml`
+plus `docs/the-last-day-frameo-production.md` and
+`docs/the-last-day-editorial-playbook.md`; use `styles/the-last-day.yaml`
 with cinematic stages and narrated longform science overrides. This original
 science/disaster style is based on popular `@TheLastDay01` references, distinct
 from raw no-narrator AI Videos Documentary Style and Vlog Style. Title plus
