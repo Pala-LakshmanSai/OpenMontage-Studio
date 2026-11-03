@@ -179,6 +179,8 @@ Chunk ID / frozen revision / canonical sequence position:
 Duration: 30 seconds; 720p; 16:9; Seedance 2.5.
 Purpose: question answered, mechanism, consequence, next question.
 Initial state / final state / dependency / reference roles and hashes:
+Cause-bearing prop state: which reference visibly supports the required state;
+  use a verified accepted state frame where suitable, not only a pre-event master.
 Global visual style, location, time, light, physical and identity locks:
 Shot A [start–end, at least 2 seconds]:
   Subject; Subject Motion; Scene (overlays separately);

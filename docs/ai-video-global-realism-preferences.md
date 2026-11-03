@@ -51,6 +51,13 @@ future styles. Concrete examples below illustrate them; they do not limit scope.
   allowed changes in the existing story/shot plan, then bind concise prompts and
   suitable state references. Simplify difficult staging rather than accumulate
   prohibitions. Reuse those facts and accepted assets across coverage. The existing
+  references must cover the appearance, attachments and equipment details that
+  the chosen framing will expose, rather than leaving unseen parts of a portrait
+  to be invented in a wide view. Describe a critical operation by its visible
+  start, contact, motion and result; when direction matters, anchor that motion
+  to the declared camera view. A targeted replacement must preserve its related
+  physical actions and state as well as the feature being corrected. These are
+  preparation and repair instructions, not additional routine review rounds. The
   brief essential check must examine the actual critical interaction/state; add
   only the inspection needed for a concrete fault or uncertain dependency. No new
   routine paid scoring, exhaustive review, approval stage or cosmetic retake loop.

@@ -124,6 +124,28 @@ frame where supported, with compatible lens, distance, motion and sound. Only
 that dependency waits. Do not serialize the entire film through recursive final
 frames, and do not call a visibly discontinuous cut a seamless continuation.
 
+For a cause-bearing prop whose state changes, bind a reference that actually
+shows the required state before declaring that setup independent and ready.
+An identity/location master showing the earlier state can overpower a prose
+override. The oxygen film demonstrated this: several aftermath shots retained
+the master's lit burner, and one mechanism insert put a hand on the control.
+Prefer an already verified useful frame from the accepted causal take as a
+state reference when its identity, geometry and quality fit. Otherwise prepare
+only the necessary state master through the authorized image route. Identify
+identity, geography and current-state roles explicitly; a new camera setup is
+not automatically a same-shot continuation. Keep unrelated ready sequences
+generating while this actual dependency is resolved.
+
+If returned footage contradicts the cause or state, first use a useful local
+edit that preserves the explanation and complete native speech: a motivated
+contemporaneous detail, the planned exact diagram, or an explicitly identifiable
+replay of the verified event. Do not hide a contradiction by inventing a later
+time, silently restarting the event, or repeating footage as new action. Record
+the selected source frames and repair reason. Obtain a targeted authorized
+pickup only when essential usable coverage is still missing; this adds no
+routine paid review or cosmetic retake loop. Prompting improvements remain
+unproven until observed in footage.
+
 ## Parallel ownership
 
 The owner explicitly requests multiple agents for this workflow. Use available
