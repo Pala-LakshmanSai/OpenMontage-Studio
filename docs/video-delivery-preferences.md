@@ -23,6 +23,12 @@ When public Drive delivery is requested, verify completed upload, exact filename
 and byte size, and Anyone-with-link Viewer permission. Sharing is not verified by
 an upload toast alone. Do not send Discord/email messages without authorization.
 
+Owner correction, 3 November 2026, repeated for the travel and Glacier revisions:
+upload a revised film as a new Drive file with a different public link. Preserve
+the previous upload and local export. Do not replace the old file's bytes or reuse
+its link unless the owner explicitly requests an in-place replacement. Identify
+the delivered version clearly and verify the new file's size and sharing state.
+
 Report elapsed phases, actual models, resolution, paid corrections versus reused
 work, additional credits and verification limits. Estimates and account holds are
 not invoices. Public delivery and technical checks are not owner acceptance.
