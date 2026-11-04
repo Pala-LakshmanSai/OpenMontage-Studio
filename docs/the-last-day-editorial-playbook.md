@@ -42,8 +42,59 @@ than a montage of unrelated explosions. Do not promise inevitable starvation,
 extinction, a precise toll or a model result unsupported by the scenario.
 
 Keep two distinct obligations: the immediate question that earns attention, and
-the answer the ending owes. The first does not have to consume a whole minute.
-Hook durations in the guide are flexible design ranges, not a retention formula.
+the answer the ending owes. Owner correction, 4 November 2026: the hook normally
+lasts about 8–15 seconds; begin the premise or mechanism by 15 seconds. Use useful
+2–6-second opening picture beats, each at least two seconds, rather than retaining
+a first shot or diagram for the provider's 30-second envelope. Essential setup
+continues as new explanation after the hook. These are production instructions,
+not a retention formula or measurements of every reference opening.
+
+### Check the actual opening once
+
+The black-hole film exposed two missed faults: a substantial narration phrase
+repeated inside the opening and an overlong first diagram shot. A source hash,
+quiet endpoint or complete final sentence cannot prove that a take says its text
+once. A generation can repeat its own clause, and neighboring chunks can replay
+the same thought even when both were retained in full.
+
+Before generation, give every spoken thought a unique utterance ID and one place
+in the final sequence. Compare each chunk's first and last clauses with its
+neighbors; do not put the preceding clause into the next chunk's speech contract.
+Tell the provider to use any voice reference for vocal character only, never its
+spoken content, and to speak the exact assigned text once without restarts.
+
+Before delivery, make one bounded local check of the actual assembled first
+60–90 seconds, including joins. Reuse the cached transcript keyed to that exact
+audio/source hash, or transcribe only this excerpt locally if absent. Compare
+substantial repeated clauses, the actual hook endpoint and observed picture cuts.
+Investigate an identified overlap later in the film with just its neighboring
+phrases; this is not routine whole-film or per-clip ASR, paid review or a new
+approval gate. A deliberate callback needs a reason and evidence, not a blanket
+exception for repeated words. Preserve negation and meaning when comparing text.
+
+`python -m lib.last_day_opening opening-evidence.json --output opening-check.json`
+consumes the cached evidence without calling an ASR or provider. Its JSON input
+contains the final MP4's `source_sha256`, matching `transcript_source_sha256`,
+`actual_audio_transcribed: true`, `window_end_seconds` (60–90), observed
+`hook_end_seconds` with `hook_evidence`, `picture_boundaries_seconds` beginning
+at zero with `picture_boundary_evidence`, and transcript `segments` containing
+`start`, `end` and `text`. Keep the input/report with the existing edit artifacts.
+Optional `repeat_dispositions` require exact `phrase`, `reason` and `evidence`.
+New `the-last-day` compose completion requires the input path under
+`last_day_opening_check_input` in checkpoint metadata or `render_report.metadata`.
+Use a project-relative or absolute path. The checkpoint recomputes this pure check
+and requires a pass matching the actual MP4 bytes; a saved `status: pass` report
+alone is insufficient. Both source-hash fields bind the transcript evidence to the
+full final MP4, not just a WAV/excerpt. Retain an excerpt hash separately for ASR
+cache reuse. The checkpoint runs no ASR, network or paid service and adds no user
+approval stage. Publishing an older completed export is not retroactively gated.
+The checker flags substantial exact nearby repeats, a hook beyond 15 seconds,
+and a first shot outside 2–6 seconds. A flag needs a concrete repair or documented
+intentional treatment before delivery; missing actual evidence is not a pass.
+The transcript is the reusable expensive result; the checker itself is local and
+cheap. ASR can miss or mishear words, and this lexical check cannot guarantee no
+semantic repetition, natural delivery or every future editing fault. Inspect the
+specific flagged passage and record the limits honestly.
 
 ## Follow one thing through several changes
 
@@ -166,8 +217,8 @@ chain being examined. Briefly label the whole scenario a thought experiment.
 
 | Approximate finished time | Explanatory job and visual development |
 |---|---|
-| 0:00–0:25 | Immediate title event and a specific ordinary dependency; clear hypothetical status and one unanswered consequence |
-| 0:25–1:05 | In-place simultaneous rule, different environments, why weapon count is not one giant bomb; simple honest comparative illustration |
+| 0:00–0:12 | Short title event and a specific ordinary dependency; clear hypothetical status and one unanswered consequence, with useful 2–6-second picture development |
+| 0:12–1:05 | Enter the premise immediately: in-place simultaneous rule, different environments, why weapon count is not one giant bomb; simple honest comparative illustration |
 | 1:05–2:15 | Light/heat then pressure at one established illustrative place; component damage, obstructed access and persistent consequence |
 | 2:15–3:05 | Fallout versus immediate radiation; changing local deposition demonstrated without invented precise safe zones |
 | 3:05–4:25 | Same clinic/water service: operating component → loss of input → failed output → harder care; carry supply/access constraints forward |
@@ -204,6 +255,8 @@ every-frame review. Prepare the semantic contract once; use brief checks for
 actual dependencies and concrete faults. One final local batch checks:
 
 - Title event, major mechanisms and opening payoff are present and intelligible.
+- The actual joined opening has one short hook, timely picture development and no
+  accidental phrase replay; keep its bounded local transcript/cut evidence.
 - Critical spoken propositions agree with the visible action, cause and timescale.
 - Recurring places retain consequential state; the ending does not reset it silently.
 - Actual selected shots satisfy the two-second minimum; complete speech/actions,

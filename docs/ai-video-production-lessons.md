@@ -108,3 +108,34 @@ benchmarks or guarantees for another computer. Measure the receiving hardware.
 Detailed historical media/receipts remain with their original projects; none are
 required to understand these rules. Reference-study notes and acceptance limits
 are shipped with each style. Do not copy the owner's unrelated private history.
+
+## Optional authorized video enhancement — 4 November 2026
+
+The registered `fal_bytedance_upscale` adapter provides a deliberately narrow
+ByteDance Standard route: 1080p, 24fps, AIGC preset, high fidelity and 8-bit output.
+Use it only when enhancement/upload and its separate spending are authorized;
+a Frameo pass does not cover this service. Preserve the accepted original and
+label the result as enhanced/upscaled, not native higher-resolution generation.
+Discover its current input schema and estimate before admission; an estimate is
+not an invoice or spending authority. No automatic model tournament or paid review.
+
+The source limit enforced by this adapter is 262144000 bytes (250 MiB), observed
+from a definitive provider rejection on 4 November. Validate size before upload
+or paid submission; prepare bounded coherent source sections when necessary,
+with distinct immutable receipts and a source-to-output frame map. Recheck the
+current provider contract when it changes. Unicode filenames are uploaded through
+a temporary ASCII-named symlink without renaming or copying the original media.
+Authenticated requests remain on the validated fal queue host. Private media
+URLs and provider responses stay in private receipts, never public training.
+
+Resume exact accepted receipts. An uncertain POST remains uncertain; worker exit
+or timeout does not authorize replay. Definitive failures stay recorded. Changed
+inputs, conflicting file paths and unrelated existing outputs must be preserved.
+The adapter checks basic resolution/duration, but that does not prove exact frame
+alignment, unchanged audio, natural detail or better perceptual quality. Returned
+padding or an altered timeline can require a local frame correction. Align the
+picture using actual source/output correspondence and remux the preserved finished
+audio only after frame count, timing and synchronization agree. Do not blindly
+trim every result by a fixed number of frames or stretch narration. Reuse the
+existing brief final check and inspect concrete enhancement faults proportionately;
+no quality parity, runtime or receiving-device throughput guarantee follows.

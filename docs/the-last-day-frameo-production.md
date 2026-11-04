@@ -97,6 +97,13 @@ the edit. Use shorter supported requests when action, speech, reference limits
 or a diagnosed model limitation warrants them. Do not stretch ordinary movement,
 invent filler or pad the finished film to consume the nominal duration.
 
+Owner correction, 4 November 2026: the finished opening hook normally lasts
+about 8–15 seconds, with premise/mechanism information beginning by 15 seconds.
+Use useful opening picture beats normally 2–6 seconds long, always at least two
+seconds. Do not let a 30-second generation or a diagram carrier become a long
+first shot. Use shorter supported generation envelopes or select useful complete
+phrases and picture coverage; preserve natural speech rather than speeding it.
+
 Write explicit timed shots and hard cuts where coverage helps: spatial context,
 consequential action, readable reaction/result and the changed state. The exact
 shot count follows the story; three to six shots is a useful planning example,
@@ -249,6 +256,24 @@ screen changes. Resolve ordinary shots below two seconds unless explicitly
 requested for that film. Routine paid review/scoring remains USD 0.
 
 Write actual source-frame and audio ranges, role and keep reason into selections.
+Give each utterance ID one final place. Freeze nonoverlapping words across chunk
+boundaries and direct the provider to speak assigned text once without restarts;
+a voice reference supplies vocal character, not content to repeat. Verify the
+returned performance rather than trusting that contract: the black-hole opening
+repeated one clause twice inside a single accepted take although the script
+contained it once. Full retention and healthy endpoint levels missed that fault.
+
+As part of the brief final check, use one cached local transcript of the actual
+joined first 60–90 seconds, plus actual hook and picture-boundary evidence, with
+`python -m lib.last_day_opening` as documented in the
+[editorial playbook](the-last-day-editorial-playbook.md). Resolve flagged phrase
+replays, hooks beyond 15 seconds and overlong first shots before delivery.
+Preserve surviving complete words, breath and actions; targeted phrase removal
+must not truncate speech or fabricate synchronization. Planned script/PCM length
+is not evidence of no repetition. This adds no routine whole-film/per-clip ASR,
+paid review, extra service, audition or approval pause. Investigate a concrete
+later overlap only around the affected joined phrases.
+
 Offscreen narration may bridge honest illustrative cuts; visible speech and
 synchronized action remain paired. Do not assume isolated stems from native mixed
 audio. Track essential local graphics to completion rather than leaving “labels

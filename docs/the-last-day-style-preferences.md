@@ -54,19 +54,27 @@ movement that demonstrates the wrong cause fails the explanation. The opening
 picture must match its promise, and the closing callback must resolve it without
 silently resetting the counterfactual world.
 
-Plan two levels of opening: an immediate attention grabber, then the narrative
-hook that establishes the promise and essential rules. The references do not all
-have a 5–10-second complete hook. Avoid a logo bumper or slow topic announcement.
+Owner correction, 4 November 2026: keep the title-led hook short, normally about
+8–15 seconds, and move into the premise or mechanism by 15 seconds. Give one
+specific cause/consequence or contradiction; do not delay it with a channel
+introduction, repeated promise or long topic announcement. This is the owner's
+production rule, not a measured channel-wide hook duration. Essential rules can
+continue afterward as developing explanation, not an extended hook.
+
+Develop the opening picture through useful beats normally 2–6 seconds long,
+preserving the actual two-second minimum. A 30-second request or a long diagram
+carrier never determines the first shot's retained duration. Do not speed the
+voice or insert flash cuts to make an overlong opening seem shorter.
 
 For a typical 12–22-minute film, a useful original planning pattern is:
 
-1. **First 5–15 seconds:** one compelling concrete event, impossible-looking scale,
-   revealing ordinary detail, or question. This is a design target, not a measured
-   channel-wide duration. Preserve actual shots of at least two seconds.
-2. **Remainder of the first roughly 45–90 seconds:** clarify what could change,
+1. **First roughly 8–15 seconds:** one compelling concrete event, impossible-looking
+   scale, revealing ordinary detail, or question, with useful 2–6-second picture
+   development and no repeated narration. Preserve actual shots of at least two seconds.
+2. **After the hook, within the first roughly 45–90 seconds:** begin explaining what could change,
    contradict an intuitive assumption, give a human or familiar scale comparison,
-   and promise a specific answer. Longer essential rules may follow without
-   postponing all meaningful consequences. Do not mechanically stretch every hook.
+   and deliver new information toward the answer. Longer essential rules may follow
+   without postponing meaningful consequences or repeating the hook.
 3. **Mechanism and initial conditions:** show what must exist for this event to
    happen. Explain one technical term using a visible physical process or analogy.
 4. **Escalation:** each sequence resolves one question and creates a different
@@ -167,6 +175,15 @@ Let offscreen narration bridge motivated illustrative cuts where honest; visible
 dialogue and meaningful synchronized actions remain paired. Mixed native audio
 does not imply isolated stems. Follow the editorial playbook's compact records,
 including assigned local diagrams and story-turn sound cues.
+
+No accidental repeated narration is acceptable, including a phrase repeated inside
+one generated take or replayed across joined takes. Whole-source retention and a
+completed final sentence prove neither exact wording nor absence of repetition.
+Use nonoverlapping utterance contracts and actual phrase boundaries, remove the
+duplicate without clipping the surviving thought, and check the final joined
+opening. Follow the bounded actual-opening check in the
+[editorial playbook](the-last-day-editorial-playbook.md); keep its evidence with
+the edit rather than claiming a pass from planned text or waveform endpoints.
 
 Use primarily clean hard cuts, match-on-action or motivated scale/time changes.
 Let complete actions and explanations determine length. As a starting design

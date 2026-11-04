@@ -57,10 +57,13 @@ emergencies unmistakably fictional, not apparent breaking news.
 
 Lock the whole-film causal spine, ending and approximate runtime allocation
 before submitting footage. Open with a concrete image, event, paradox or ordinary
-detail that reveals hidden stakes. Separate the immediate attention grab from
-the longer narrative hook. A short opening grab can lead into roughly a minute
-of question, consequence and promise where useful; do not mechanically stretch
-every hook or treat reference section markers as measured hook durations.
+detail that reveals hidden stakes. Owner correction, 4 November 2026: keep the
+hook roughly 8–15 seconds and enter the premise/mechanism by 15 seconds. Develop
+useful opening picture beats normally every 2–6 seconds, each at least two
+seconds. Essential rules continue as new explanation after the hook; do not turn
+the first 30-second request, diagram carrier or roughly one-minute setup into a
+long introductory shot or repeated promise. Do not speed the voice or use flash
+cuts to conceal a slow opening.
 
 Develop **mechanism → visible consequence → a different secondary vulnerability
 → payoff**. Resolve one question while introducing the next consequential one.
@@ -101,6 +104,12 @@ do not become speaking presenters accidentally. Preserve native picture/sound
 pairing for deliberately included visible dialogue. Separate TTS, music or lip
 sync is allowed only within its actual authorization and budget, not assumed
 covered by the pass.
+
+Give each utterance one final sequence position. Compare adjoining chunk endings
+and beginnings so neither replays the other's clause. Direct references as voice
+character only, never words to repeat; speak the exact assigned text once, without
+restarts. A returned take can repeat a phrase even when its script does not.
+Whole-source retention, exact duration and quiet endpoints do not prove otherwise.
 
 Use actual moving footage and readable mechanisms. Alternate geographic scale,
 material/process inserts, recognizable consequences and selective explanatory
@@ -210,3 +219,14 @@ the original voiceover basename when one was supplied. Share only as requested,
 verify size/permissions, and keep previews muted and closed afterward. Report
 actual timing/cost and genuine remaining limitations; do not claim untested
 reference-quality parity or an installed automatic scheduler.
+
+As part of the existing brief final check, inspect the actual joined first
+60–90 seconds once with a locally cached transcript keyed to its actual source
+hash and observed cuts. Run the bounded checker documented in
+`docs/the-last-day-editorial-playbook.md`; retain its input/report with the edit.
+Resolve accidental repeated substantial phrases, a hook beyond 15 seconds or an
+overlong first shot using complete phrase boundaries and useful picture coverage.
+Do not infer a pass from the planned script, do routine whole-film/per-clip ASR,
+add paid review or wait for a new approval. Check later speech overlaps only when
+a concrete fault warrants it. A deliberate callback needs recorded purpose and
+evidence; no automatic lexical or ASR check guarantees fault-free performance.

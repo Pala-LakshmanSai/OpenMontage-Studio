@@ -52,6 +52,14 @@ technical terms speakable, quantities accurate and emphases sparse. Avoid a
 repeated “but this is only the beginning” rhythm, identical rhetorical questions,
 endlessly falling dramatic phrases and uniform paragraph resets.
 
+Owner correction, 4 November 2026: deliver the opening hook in roughly 8–15
+seconds and begin new premise/mechanism information by 15 seconds. Write one
+strong thought, not a full 30-second introductory paragraph. Keep each utterance
+ID and its complete text nonoverlapping across chunks. Direct the native model:
+use a voice reference for vocal character only; do not repeat its spoken content,
+restart a sentence, paraphrase back into an earlier line or speak assigned words
+twice. Prompt instructions help but are not proof of the returned performance.
+
 120–145 words per finished minute remains an initial whole-film planning envelope,
 not a required per-minute pace. Actual references differ by passage and film.
 Timing analysis must separate words per whole elapsed minute, words during speech,
@@ -65,6 +73,16 @@ explanation connected across source boundaries. The next request resumes the
 thought, not a fresh channel introduction. Preserve complete native visible speech
 and synchronized actions. When the supported route returns only a native mixed
 track, be explicit about that limitation; no assumed voice/effects separation.
+
+Full-source retention, correct PCM length and a quiet final endpoint cannot
+establish that the narrator spoke each phrase once. Check the actual assembled
+opening, including joins, using the one cached local 60–90-second transcript and
+observed timing described in the [editorial playbook](the-last-day-editorial-playbook.md).
+Remove accidental replay inside a take or at an overlap at complete phrase
+boundaries; preserve the surviving thought's breath, words and native pairing.
+An intentional callback needs explicit narrative purpose and evidence. Check
+identified later overlaps only where needed; add no blanket full-film/per-clip
+ASR, external service or paid review.
 
 ## What the complete local timing study changes
 
@@ -186,6 +204,11 @@ WAV. An audio-only correction can stream-copy the picture, preserve the original
 export and publish a clearly identified new version under
 [delivery preferences](video-delivery-preferences.md). Record changed music gain,
 native gain, sample count, picture hash, encoded loudness/peak and review limits.
+
+Include the bounded opening phrase/pacing report with this final check. Planned
+text alone is not actual transcript evidence, and ASR boundaries are not precise
+cut points. Resolve a repeated substantial phrase or an overlong hook/first shot
+locally, then check only the changed opening; the unchanged film reuses its caches.
 
 Normal production retains one brief local final check and targeted repairs for
 identified defects. The owner's explicit reference re-study permits the current

@@ -527,6 +527,16 @@ def write_checkpoint(
                 message = exc.message if isinstance(exc, jsonschema.ValidationError) else str(exc)
                 raise CheckpointValidationError(message) from exc
 
+    # This named style needs actual opening phrase/pacing evidence, bound to the
+    # rendered bytes. Existing older exports can still be published unchanged.
+    if stage == "compose" and status == "completed" and style_playbook == "the-last-day":
+        from lib.last_day_opening import LastDayOpeningError, validate_render_opening
+        try:
+            validate_render_opening(pipeline_dir / project_id, artifacts.get("render_report"),
+                                    metadata=metadata)
+        except LastDayOpeningError as exc:
+            raise CheckpointValidationError(str(exc)) from exc
+
     # Inspect actual output cuts, including cuts generated inside a single
     # source clip. Reusing its content-keyed local scan keeps publish cheap.
     if stage in {"compose", "publish"} and status == "completed":
