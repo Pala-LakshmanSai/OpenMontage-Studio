@@ -41,6 +41,18 @@ DELIVERY: current user's Downloads; external sharing only if requested
 
 1. COMPLETE ORIGINAL STORY
 
+Apply **Multiple earned tension peaks** in the shared engagement guide. Before
+releasing ready sequences, build several distinct substantial suspense peaks
+into the existing ending-aware beat map: urgent objective and feared loss,
+legible setup/geography, intelligent attempt, seeded turning complication,
+costly choice, visible outcome and persistent consequence that drives what
+follows. Vary pressure and tactics, use consequential twists and extreme events
+supported by the premise, and earn relief/attachment between peaks. Escalate to
+a climactic payoff; do not substitute warnings, backstory reveals, reaction
+coverage, loud music or rapid cuts for experienced dramatic sequences. Budget
+useful coverage early; no fixed tension quota, paid scoring, extra review stage
+or automatic remake. A style-training-only request does not authorize production.
+
 Treat TITLE as the premise promise, not a command to repeat a sample's plot.
 For a requested new original story or rejected repetition, settle a different
 opening/inciting action, goal, core question, opposition, causal turns, climactic

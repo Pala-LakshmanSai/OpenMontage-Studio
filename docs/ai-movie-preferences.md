@@ -232,6 +232,18 @@ first-pass spending rule and all sound-quality gates.
 
 ## Creative direction
 
+Owner correction, 4 November 2026: THE LIVING WITNESS lacked the requested
+peak tension; its storytelling is not owner-accepted. Apply **Multiple earned
+tension peaks** in the shared engagement guide to future movies: several
+substantial, distinct suspense sequences with active attempts, seeded reversals,
+escalating consequences, costly decisions and visible outcomes, separated by
+earned relief and culminating in a stronger payoff. Record them once in the
+existing ending-aware beat plan and give them useful coverage; atmosphere,
+exposition, louder score or faster cutting cannot substitute for dramatic action.
+Preserve causal/physical continuity and the fast rolling workflow with no extra
+routine reviews. The owner explicitly requested a style update only: preserve
+the current film, with no rewrite, regeneration or automatic new sample.
+
 Owner correction, 3 November 2026: a same-title movie may need an entirely new
 story. When repetition is rejected, rebuild the opening, goal, core mystery,
 opposition, causal reversals and ending. New footage or polished coverage of the

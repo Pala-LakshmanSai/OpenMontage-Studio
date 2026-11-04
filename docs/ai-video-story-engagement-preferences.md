@@ -1,5 +1,58 @@
 # Extreme, surprising stories planned before generation
 
+## Multiple earned tension peaks — owner correction, 4 November 2026
+
+The owner found THE LIVING WITNESS insufficiently tense despite its new plot
+and completed export. Technical delivery, coherent causality and a different
+premise do not establish dramatic success. Save this as a future-production
+correction; the owner explicitly requested no rewrite or regeneration of the
+current film. Its storytelling is not owner-accepted.
+
+For AI Movie Style, design several substantial peak-tension sequences across
+the film, rather than saving all urgency for one late climax or maintaining a
+flat atmosphere of concern. Each is a developing dramatic situation: an urgent
+specific objective, understandable geography and opposing forces, an approaching
+loss the audience cares about, an attempted solution, a complication or reversal
+that removes an option, a consequential choice and a visible outcome. Give the
+attempt and outcome enough screen time to feel experienced, not merely reported
+in dialogue, radio updates, reaction close-ups or a token spectacle insert.
+
+Shape suspense inside each sequence. Establish what can go wrong and the means
+or limits early enough for viewers to anticipate the danger; use uncertainty,
+restricted access, competing obligations or a legible deadline when appropriate.
+Let the protagonist try an intelligent tactic, appear close to success, then
+face a seeded worsening situation that demands a more costly decision. Surprise
+may change what the audience believes, whom they trust or what the hero must do;
+it must alter the action, not only disclose historical information. Vary the
+type of pressure and solution so successive peaks are not the same escape,
+warning, mechanism test or confrontation repeated with different framing.
+
+Connect the peaks causally: one outcome changes resources, access, allegiance,
+knowledge, time or responsibility and helps create the next predicament. Raise
+consequences and emotional difficulty, not just volume, casualty count or image
+scale. Permit bold, extreme fictional events that fulfill the title, but seed
+their causes and preserve physical/world rules, character intelligence and
+persistent costs. Do not invent documentary evidence or override a deliberately
+gentle/non-narrative brief. Provide genuine partial answers, short earned relief
+and relationship moments between peaks; uninterrupted maximum intensity loses
+contrast. The final peak brings earlier choices and setups together in the most
+consequential test and pays off the main promise.
+
+In the existing ending-aware sequence/beat map, identify each intended peak,
+its feared outcome, suspense setup, attempted tactic, turning complication,
+costly choice, changed state and next consequence. Describe what will actually
+be seen and heard. Use a few distinct major sequences appropriate to runtime;
+do not impose a universal number, clock interval or numerical tension score.
+Allocate useful source coverage to these sequences before routine connective
+coverage. Generator duration is not dramatic pacing: stage readable multi-shot
+action, preserve complete speech and ordinary actual shots of at least two
+seconds, and cut repeated explanation or waiting. Cinematography, native sound,
+J/L cuts, silence and score support the written suspense rather than replacing
+it. Prepare this once in existing artifacts, freeze ready sequences and retain
+parallel rolling generation/assembly. Add no paid critics, recurring per-clip
+reviews, new approval gate or automatic remake. Improvement remains unproven
+until observed in a future film and judged by the owner.
+
 ## Story strength before coverage — owner correction, 3 November 2026
 
 Owner correction after the lighthouse v3 rejection, 3 November 2026: **the same

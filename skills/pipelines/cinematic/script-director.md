@@ -1,5 +1,17 @@
 # Script Director - Cinematic Pipeline
 
+For AI movies, apply **Multiple earned tension peaks** in
+`docs/ai-video-story-engagement-preferences.md`: build several distinct substantial
+suspense sequences into the existing ending-aware beat map. Record feared loss,
+setup, active attempt, seeded complication, costly choice, visible outcome and
+consequence that drives the next predicament. Vary tactics/pressure, escalate
+emotional and practical costs, earn relief and pay off earlier setups at the
+climax. Allocate useful action coverage before routine connective material;
+backstory reveals, concerned reactions and loud score do not constitute tension
+sequences. This adds no review/score/approval loop. Owner rejected the delivered
+Living Witness film's tension but requested future-style training only: preserve
+its files and receipts; do not automatically rewrite or regenerate it.
+
 Apply `docs/ai-video-global-realism-preferences.md` at the causal story level:
 consistent world rules, purposeful actions with appropriate means, established
 causes before consequences, persistent costs and legible transitions. Generalize
