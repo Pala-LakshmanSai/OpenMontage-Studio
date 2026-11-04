@@ -1,5 +1,15 @@
 # Compose Director - Cinematic Pipeline
 
+For a requested video upscale, read `docs/video-upscaling-preferences.md` and
+`skills/creative/upscale-usage.md`: ByteDance API only. Do not replace enhancement
+with a local resize or another provider. Technical split/join/audio-copy/checks
+remain allowed; preserve source frames, native audio and the complete edit.
+Every requested upscale must pass the canonical post-upscale technical audit
+after full reassembly and before delivery/upload: complete coverage/order/joins,
+frames/timestamps/resolution, original audio/sync, full decode and file identity.
+Use its local evidence as the enhancement final check; no repeat story review,
+routine paid scoring or extra approval stage.
+
 ## When To Use
 
 Render the cinematic piece with careful attention to grade, audio dynamics, and frame treatment. This is not a generic export step.

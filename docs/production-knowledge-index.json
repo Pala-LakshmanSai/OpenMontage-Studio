@@ -26,6 +26,7 @@
     "docs/ai-style-first-pass-sop.md",
     "docs/ai-video-production-lessons.md",
     "docs/video-delivery-preferences.md",
+    "docs/video-upscaling-preferences.md",
     "docs/ai-movie-frameo-production.md",
     "docs/ai-movie-editorial-continuity-playbook.md",
     "docs/ai-movie-mythra-study.md",
@@ -112,6 +113,7 @@
   "shared_capabilities": [
     "tools/video/frameo_video.py",
     "tools/graphics/kie_image.py",
+    "tools/enhancement/fal_bytedance_upscale.py",
     "tools/audio/j1tts_audio.py",
     "lib/native_audio_assembly.py",
     "lib/shot_duration.py",

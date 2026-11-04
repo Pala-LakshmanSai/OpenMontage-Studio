@@ -23,6 +23,13 @@ the pictured prop, body part or scene. Preserve each style's intended difference
 
 ## Portable production knowledge
 
+For any requested video upscale, follow `docs/video-upscaling-preferences.md`:
+ByteDance API only, preserving original timing/audio; no substitute FFmpeg resize
+or other enhancement provider. Local split/join/mux/check operations are allowed.
+After complete reassembly, perform that guide's one local technical audit of all
+sections/order/joins, frame/timing/resolution, audio/sync, decode and final files.
+Audit before requested upload/public sharing; do not repeat story review.
+
 Read `docs/production-knowledge-index.json` to locate every saved AI style and
 shared policy. This repository is the source of learned production behavior;
 personal Codex memory, another chat and GPT Space are optional indexes.

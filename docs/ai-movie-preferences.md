@@ -1,5 +1,11 @@
 # Saved AI movie preferences
 
+For any requested movie upscale, follow [video upscaling preferences](video-upscaling-preferences.md):
+ByteDance API only, followed by the required one local technical audit of the
+complete reassembled enhanced movie before delivery/upload. Prove full sections
+and order, joins, original frames/timing/audio/sync, target resolution, decode and
+file identity. This is not another story review or a paid scoring/approval stage.
+
 Owner correction, 4 November 2026: follow [complete endings and flexible runtime](ai-video-story-engagement-preferences.md#complete-endings-and-flexible-runtime--owner-correction-4-november-2026).
 The requested approximate length is not a hard stop or a fixed clip count. Preserve
 the supplied story's outcome, aftermath, emotional payoff and epilogue, with useful

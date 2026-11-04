@@ -168,6 +168,14 @@ another paid image provider requires authorization.
 
 ## Video resolution default
 
+For every requested video upscale across AI styles, follow
+[`docs/video-upscaling-preferences.md`](docs/video-upscaling-preferences.md):
+ByteDance API only, then one local technical audit after complete reassembly and
+before delivery/upload. Verify full source coverage/order, actual joins, original
+frames/timing/audio/sync, resolution, decode and final-file identity. No substitute
+FFmpeg resize/other provider, extra story review or paid scoring. Local technical
+split/join/mux/check operations remain allowed. Share only as authorized.
+
 The owner set 720p or 768p as the default on 27 October 2026. Never generate or export at 1080p without asking first. This overrides older 1080p defaults; preserve the requested resolution throughout the provider and final render.
 
 ## User's local export preference

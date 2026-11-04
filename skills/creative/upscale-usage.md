@@ -1,12 +1,25 @@
 # Upscaling Usage for OpenMontage
 
+## Binding video provider preference — 4 November 2026
+
+Read `docs/video-upscaling-preferences.md` before any video upscale. The owner
+requires ByteDance API only (`fal_bytedance_upscale`); this supersedes all video
+provider/model defaults below. FFmpeg may handle technical split/join/audio-copy
+and verification, but must not perform the requested upscale. The historical
+Real-ESRGAN instructions below remain reference for still-image work only.
+After every requested video upscale, perform the canonical one local technical
+audit of complete source coverage/order, chunk stitching/joins, frames/timestamps,
+resolution, original audio/sync, full decode and final file identity before
+delivery. Upload/public-share only after that audit passes and when authorized.
+Do not repeat storytelling review or add paid scoring/approval stages.
+
 > Sources: Real-ESRGAN documentation, GFPGAN face enhancement docs, Real-ESRGAN paper
 > (Wang et al., 2021), practical upscaling benchmarks
 
-## Quick Reference Card
+## Still-image quick reference (never the video route)
 
 ```
-DEFAULT MODEL:    RealESRGAN_x4plus — real-world photos and video frames
+STILL MODEL:      RealESRGAN_x4plus — still-image reference only
 DEFAULT SCALE:    4x (480p→1080p, 720p→4K)
 ANIME MODEL:     RealESRGAN_x4plus_anime_6B — flat color areas, illustrations
 FACE ENHANCE:    Enable face_enhance for footage with people (uses GFPGAN)
@@ -61,13 +74,13 @@ DENOISE:         0.5 default, raise to 0.8 for very noisy inputs
 
 Do not exceed 0.8 — higher values destroy legitimate detail.
 
-## Video Upscaling Notes
+## Video workflow
 
-- Video upscaling extracts frames, upscales each, reassembles
-- This is **SLOW** — budget 5-10x real-time on GPU
-- For long videos, consider upscaling only key scenes/clips rather than the full video
-- Audio is preserved from the original
-- Output file size will be significantly larger (~16x for 4x upscale)
+Use only the canonical ByteDance workflow in
+`docs/video-upscaling-preferences.md`: approved source/target → bounded technical
+transport → registered exact-receipt enhancement → full reassembly with original
+audio → one local technical completeness/stitching/timing/audio audit → requested
+delivery/sharing. Do not use the still-image models below for video frames.
 
 ## Common Workflows
 
@@ -119,7 +132,7 @@ Do not exceed 0.8 — higher values destroy legitimate detail.
 
 ## Applying to OpenMontage
 
-When using the `upscale` tool in the asset stage:
+For still-image upscaling only (video always follows the ByteDance policy above):
 
 1. **Upscale BEFORE the compose stage** — it is an asset-prep step, not a post-processing step
 2. **Use `face_enhance=true` for any talking-head footage** — GFPGAN dramatically improves face quality

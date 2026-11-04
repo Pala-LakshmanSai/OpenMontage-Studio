@@ -45,6 +45,12 @@ RESOLUTION: 720p (768p only if route supports it; ask before 1080p)
 LANGUAGE: English unless specified
 BUDGET / PASS: [actual authorization; no invented cap, purchase or automatic renewal]
 DELIVERY: current user's Downloads; external sharing only if requested
+UPSCALE IF REQUESTED: ByteDance API only; ask for an unspecified higher target.
+Before delivery/upload, follow docs/video-upscaling-preferences.md and save one
+local post-upscale technical audit of full source coverage/order/joins,
+frames/timing/resolution, original audio/sync, full decode and final-file identity.
+No repeated story review, paid scoring or added approval gate; upload/public-share
+only after the audit passes and only when authorized. Preserve the original.
 
 1. COMPLETE ORIGINAL STORY
 
