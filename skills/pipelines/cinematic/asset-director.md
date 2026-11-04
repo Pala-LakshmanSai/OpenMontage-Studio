@@ -1,5 +1,14 @@
 # Asset Director - Cinematic Pipeline
 
+For **any authorized Frameo daily/unlimited API style**, follow the immediate-start
+rule in `docs/unlimited-plan-production-preferences.md`. Once the concise
+ending-aware spine and first useful sequence's exact inputs are ready, submit
+without waiting for every anchor, the complete screenplay/full scene plan or
+whole-film stage completion. Prepare later references while generation and
+assembly proceed, continuously refilling actual shared capacity. Recorded
+full-run authorization adds no per-stage stop. Preserve validated inputs,
+zero-credit quotes, no-replay, native continuity and actual two-second shots.
+
 For AI Movie, apply `docs/ai-movie-editorial-continuity-playbook.md`. A downloaded
 successful job is source availability, not proof of usable story coverage. Bind
 clean identity plus compatible current anatomy/growth/injury/inventory and joint
@@ -277,6 +286,10 @@ Do not rely on stale knowledge. When in doubt, search first.
 ---
 
 ## Gate Reminder (Binding)
+
+The full-run authorization and cross-style Frameo scheduling overrides above
+apply here. The per-gate default below applies only without recorded full-run
+authorization; it does not impose whole-film preparation before ready sequences.
 
 This stage gates on human approval (`human_approval_default: true`). After review passes:
 checkpoint with `status="awaiting_human"`, present the summary (the Backlot board renders

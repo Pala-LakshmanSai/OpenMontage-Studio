@@ -60,6 +60,13 @@ supported by this route; do not silently add postprocessed lips or change models
 
 ## Start the first ready sequence early
 
+Owner clarification, 4 November 2026: the cross-style
+[immediate-start rule](unlimited-plan-production-preferences.md#immediate-start-for-every-frameo-style--owner-clarification-4-november-2026)
+applies on every fresh installation. Start once the ending-aware concise spine
+and first sequence's exact inputs are ready; neither all anchors nor complete
+whole-film stage artifacts/gates may delay that authorized submission. Keep
+later preparation, generation and assembly overlapping under shared admission.
+
 Prepare before pass activation when possible. Once an authorized pass is live,
 do not make full-film detailed screenplay or complete anchor production a barrier
 to the first generation. Replace that barrier with two levels of preparation:

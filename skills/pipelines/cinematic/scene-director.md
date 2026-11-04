@@ -1,5 +1,14 @@
 # Scene Director - Cinematic Pipeline
 
+For **any authorized Frameo daily/unlimited API style**, follow the immediate-start
+rule in `docs/unlimited-plan-production-preferences.md`: a concise ending-aware
+spine plus the first useful sequence's exact ready inputs permits its release.
+Do not wait for the full scene plan, complete screenplay, all anchors or whole-film
+stage completion. Plan later sequences during generation/assembly and publish
+partial canonical artifacts honestly. Recorded full-run authorization adds no
+per-stage stop; scope, zero quotes, no-replay, native continuity and minimum shots
+still apply.
+
 For AI Movie, apply `docs/ai-movie-editorial-continuity-playbook.md`. One coherent
 sequence geography governs cast count/roles, seats/carriers/supports, scale anchors,
 camera side/height, eyelines and motivated light. Bind current compatible state

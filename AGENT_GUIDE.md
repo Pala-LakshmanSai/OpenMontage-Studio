@@ -53,6 +53,16 @@ For generated human performance, read `docs/ai-video-human-performance-preferenc
 
 ## Fast production default for all videos
 
+Owner clarification, 4 November 2026: for **any style using an authorized Frameo
+daily/unlimited API pass**, start the first useful generation as soon as the
+concise whole-film spine (including ending) and that sequence's exact inputs are
+ready. Do not wait for the complete screenplay, full scene plan, all anchors or
+whole-film stage completion. Continue later planning, references, generation and
+assembly together, continuously refilling actual shared capacity. Apply
+`docs/unlimited-plan-production-preferences.md` on fresh installations too;
+personal memory or another chat is not required. Preserve scope, zero-credit
+quotes, no-replay safeguards, native continuity and actual two-second shots.
+
 For every AI style using a time-limited Frameo unlimited plan, read
 `docs/unlimited-plan-production-preferences.md`: prefer useful 30-second
 multi-shot generations, keep the full verified API concurrency occupied with

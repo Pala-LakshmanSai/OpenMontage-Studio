@@ -1,5 +1,15 @@
 # Executive Producer — Cinematic Pipeline
 
+**Cross-style Frameo scheduling override, 4 November 2026:** for any authorized
+daily/unlimited API style, follow `docs/unlimited-plan-production-preferences.md`.
+Submit the first useful sequence when its exact inputs and concise ending-aware
+whole-film spine are ready. Do not wait for the complete screenplay, full scene
+plan, all anchors or whole-film stage completion. With recorded full-run
+authorization, serial stage/gate wording below does not require a new stop.
+Keep partial artifacts honest while later planning, reference preparation,
+generation and assembly overlap; continuously refill actual shared capacity.
+Preserve zero-credit quotes, scope, no-replay, native continuity and minimum shots.
+
 ## When to Use
 
 For AI Vlog Style, also follow `docs/vlog-style-efficient-production.md` for reviewed anchor reuse, dependency-aware parallel work and safe spend recovery. Preserve all style and first-pass quality gates.

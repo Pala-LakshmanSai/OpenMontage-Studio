@@ -1,5 +1,23 @@
 # Production during a limited-time unlimited pass
 
+## Immediate start for every Frameo style — owner clarification, 4 November 2026
+
+This applies to **any style using an authorized Frameo daily/unlimited API pass**.
+Once the concise whole-film spine includes its ending and the first useful
+sequence has exact ready inputs, submit that sequence promptly. The complete
+screenplay, full scene plan, all anchors and whole-film stage completion are not
+prerequisites. With full-run authorization, generic stage approval reminders do
+not add a new stop. Keep unfinished canonical artifacts `in_progress`, freeze
+each submitted sequence, and overlap later writing/reference preparation with
+generation and assembly. Continuously refill the actual shared account capacity.
+
+Fresh installations discover this rule through `AGENT_GUIDE.md` and
+`docs/production-knowledge-index.json`; do not depend on personal memory or a
+previous chat. This changes scheduling, not scope or safeguards: verify the pass
+and zero-credit quote, validate the actual sequence inputs, retain accepted and
+uncertain jobs, preserve native speech/continuity and actual shots of at least
+two seconds. Never buy, renew or use paid overflow without existing authority.
+
 Owner instruction, 3 November 2026: use an authorized unlimited generation window
 efficiently. Front-load preparation, start ready independent sequences promptly,
 and record actual timing so future estimates improve. Apply this alongside the

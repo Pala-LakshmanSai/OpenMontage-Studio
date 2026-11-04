@@ -1,6 +1,12 @@
 {
   "version": 1,
   "updated": "2026-11-04",
+  "frameo_generation_start": {
+    "scope": "Every style using an authorized Frameo daily/unlimited API pass",
+    "guide": "docs/unlimited-plan-production-preferences.md",
+    "rule": "Start the first useful generation once the concise ending-aware whole-film spine and its exact sequence inputs are ready; do not wait for the complete screenplay, full scene plan, all anchors or whole-film stage completion. Overlap later planning, references, generation and assembly with continuous refill of actual shared capacity.",
+    "portable": "Discover through AGENT_GUIDE.md on fresh installations without personal memory or prior chat; preserve scope, zero-credit quotes, no replay, native continuity and actual minimum shots."
+  },
   "entrypoints": [
     "AGENTS.md",
     "AGENT_GUIDE.md",

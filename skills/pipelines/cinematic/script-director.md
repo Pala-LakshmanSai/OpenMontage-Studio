@@ -1,5 +1,13 @@
 # Script Director - Cinematic Pipeline
 
+For **any authorized Frameo daily/unlimited API style**, the immediate-start rule
+in `docs/unlimited-plan-production-preferences.md` overrides whole-film serial
+preparation: finish the concise ending-aware spine and first useful sequence's
+exact inputs, then release that sequence while writing later ones. Do not hold
+generation for a complete screenplay, full scene plan, all anchors or whole-film
+stage completion. Recorded full-run authorization adds no per-stage stop;
+unfinished canonical artifacts remain `in_progress`. Preserve existing safeguards.
+
 Apply **Complete endings and flexible runtime** in
 `docs/ai-video-story-engagement-preferences.md`. Read any supplied source through
 its actual end. Put resolution, consequence, relationship payoff, epilogue and any
@@ -162,6 +170,10 @@ add the source. Do not invent statistics, dates, or attributions.
 ---
 
 ## Gate Reminder (Binding)
+
+The full-run authorization and cross-style Frameo scheduling overrides above
+apply here. The per-gate default below applies only without recorded full-run
+authorization; it does not impose whole-film preparation before ready sequences.
 
 This stage gates on human approval (`human_approval_default: true`). After review passes:
 checkpoint with `status="awaiting_human"`, present the summary (the Backlot board renders
