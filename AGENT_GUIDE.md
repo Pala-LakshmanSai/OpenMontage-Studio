@@ -196,6 +196,8 @@ This is a first-class workflow in OpenMontage.
 
 If a model misses this distinction, it will often fall back to plain search + guesswork. That is incorrect for OpenMontage.
 
+For **Mira Beyond the Screen Style**, read `docs/mira-beyond-the-screen-style-preferences.md`, its reference notes and prompt template; use `styles/mira-beyond-the-screen.yaml` with cinematic narrative stages. Original dialogue-led sci-fi pairs personal mysteries, practical discovery, costly choices and earned scale with emotional aftermath. The popular theater/selfie upload is a separate format. Reference study used owner-approved sampled visual/temporal/caption/local analysis, not full continuous viewing/listening. Reuse the saved research and preserve current shared policies, actual budget, native continuity and full-run autonomy.
+
 ## Rule Zero — All Production Goes Through a Pipeline
 
 For AI movies, Vlog Style, AI Videos Documentary Style and other AI video

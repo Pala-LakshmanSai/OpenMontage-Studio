@@ -1,0 +1,19 @@
+# Reusable Mira Beyond the Screen Style production prompt
+
+Make **[TITLE/TOPIC]**, approximately **[DURATION]**, in **Mira Beyond the Screen Style**.
+
+Read `AGENT_GUIDE.md`, `docs/production-knowledge-index.json`, `docs/mira-beyond-the-screen-style-preferences.md`, its reference notes, and `styles/mira-beyond-the-screen.yaml`. Use the cinematic pipeline with complete narrative overrides, not a trailer/title-card montage. Reuse dated research; disclose its sampled review and unverified direct soundtrack coverage.
+
+Build an original character-led sci-fi story: concrete personal want, everyday attachment or friction, a specific early contradiction, practical discovery, active changing tactics, consequential surprise, costly choice, earned spectacular result, emotional aftermath and complete ending. Preserve causes and costs. Do not copy source plots, characters, robot designs, scripts, creator faces/voices, branding or footage. Keep the theater/selfie outlier separate unless requested.
+
+Prepare one coherent cast/voice/world/state bible and the ending-aware spine. For each ready sequence bind Subject, Subject Motion, Scene (overlays separately), Spatial Framing, Camera, exact native speaker/lines/windows, useful duration, incoming/outgoing physical state, cause/result and next-cut intent. Use role-specific clean references and actual outgoing frames for genuine continuations where supported. Stage practical achievable actions, motivated readable light, solids/contact/controls and persistent secondary subjects. Preserve ordinary warmth, mild situational humor, wonder, pressure and reaction time; no obligatory host-face quota or constant catastrophe.
+
+Use third-person moving footage, full-frame 16:9 at720p/768p. Vary establishing scale, medium relationships, useful inserts and close reactions. Camera follows information/action rather than decorative orbit or zoom. Ordinary actual visible shots, including provider internal cuts/screens, last at least2s. Select actual complete native actions/utterances; generator duration is not retained edit duration. End on consequence and emotional landing, with deliberately finished picture/sound.
+
+Default sound is native original dialogue, communications, continuous ambience/contact Foley and purposeful silence. No omniscient explanatory narrator by default. Use an original restrained score where appropriate, preserving dialogue; exact reference instrumentation is unverified. Approved flexible cues use fal.ai Lyria3Pro; precise timing uses fal.ai ElevenLabs Music. No automatic subtitles/diagrams/branding. Respect `docs/in-scene-text-preferences.md`.
+
+Follow `docs/video-fast-production-preferences.md`, `docs/unlimited-plan-production-preferences.md`, `docs/ai-video-global-realism-preferences.md`, `docs/ai-video-story-engagement-preferences.md`, `docs/ai-video-human-performance-preferences.md`, `docs/ai-video-voice-selection-preferences.md`, `docs/minimum-shot-duration-preferences.md`, `docs/ai-image-generation-preferences.md`, `docs/ai-music-preferences.md` and `docs/portable-production-knowledge.md`.
+
+Provider:[authorized route]. Budget:[actual limit, including repairs]. For explicitly selected Frameo unlimited, verify entitlement/zero quote/shared capacity, freeze each ready30s multi-shot sequence and overlap later preparation/generation/assembly. Necessary images use Kie Nano Banana2.1 first. Preserve accepted/uncertain jobs; no paid replay, purchase, renewal, automatic overflow or unapproved budget increase. Full-run authorization removes routine per-stage stops.
+
+Review:[ordinary brief essential local check; any explicitly requested comparison]. Disclose actual visual/audio coverage. Diagnose material gaps by responsible layer and make justified targeted repairs within budget. Save a regular nonzero MP4 directly in the receiving user's Downloads; working assets remain separate. Do not claim creator parity or owner artistic acceptance.

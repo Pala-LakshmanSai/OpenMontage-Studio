@@ -57,6 +57,15 @@ coordinated admission queue so separate workers do not multiply that limit.
 
 ## Verify entitlement and references once
 
+Treat a reported renewal timestamp as a checkpoint for re-verification, not proof
+that access has expired. On 4 November 2026, Frameo continued to show an active
+Unlimited pass and fresh zero-credit Seedance estimates after its API renewal
+timestamp had passed. Reconcile current entitlement before declaring a block.
+If the provider reports no future expiry, label any conservative local admission
+deadline as an operational stop rather than a provider expiry. Keep fresh
+zero-credit checks for every new job; this never authorizes a purchase, renewal,
+nonzero quote or replay of accepted/uncertain work.
+
 Confirm the active window, resolution, model, renewal state and whether API/MCP
 usage receives the same entitlement. An unlimited website offer is not proof that
 API calls are free. Obtain a free workspace-specific quote before generation; when

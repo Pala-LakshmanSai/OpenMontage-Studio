@@ -31,7 +31,8 @@ def test_relocated_knowledge_without_personal_memory(tmp_path):
         shutil.copyfile(source, target)
     result = checker.check(tmp_path)
     assert result['passed'], result['errors']
-    assert result['style_profiles'] == 7 and result['playbooks'] == 11
+    assert result['style_profiles'] == original['style_profiles']
+    assert result['playbooks'] == original['playbooks']
     (tmp_path / 'docs/primitive-desert-style-preferences.md').unlink()
     broken = checker.check(tmp_path)
     assert not broken['passed']

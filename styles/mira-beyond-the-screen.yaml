@@ -1,0 +1,89 @@
+identity:
+  name: Mira Beyond the Screen Style
+  category: cinematic
+  mood: Intimate human stakes, practical mystery, earned science-fiction scale and
+    emotional aftermath
+  pace: moderate
+  best_for: Original dialogue-led sci-fi adventure, mystery and drama with a complete
+    human payoff
+visual_language:
+  color_palette:
+    primary:
+    - '#52616B'
+    - '#B39470'
+    accent:
+    - '#9CC9CF'
+    - '#D5AA66'
+    background: '#182228'
+    text: '#F0EFEA'
+  composition: Full-frame 16:9 moving footage. Establish geography/scale, then medium
+    relationships, causal inserts and close reactions. Palette is a flexible implementation
+    starting point, not a measured channel palette.
+  texture: Tactile worn machinery and motivated practical light contrasted with coherent
+    unfamiliar architecture; natural human texture and readable physical contact.
+typography:
+  headings:
+    font: Arial
+    weight: 400
+    tracking: 0.15em
+  body:
+    font: Arial
+    weight: 400
+motion:
+  transitions:
+  - motivated hard cut
+  - match on action
+  - sound-led location transition
+  animation_style: Third-person dramatic motion and motivated reveal/tracking; varied
+    action and reaction, no automatic selfie/orbit/slow motion.
+  pacing_rules:
+    min_scene_hold_seconds: 2
+audio:
+  voice_style: Consistent original native cast, practical situation-led dialogue,
+    mild interpersonal humor, useful communications and purposeful silence; no continuous
+    narrator by default.
+  music_mood: Original restrained tension/wonder/release cue when appropriate; exact
+    reference instrumentation and mix unverified.
+  music_volume: 0.12
+  sfx_style: Continuous location ambience, contact-synchronous Foley, meaningful offscreen
+    cues and complete native speech/effect tails.
+asset_generation:
+  image_prompt_prefix: 'Original character-led cinematic sci-fi, tactile practical
+    interiors, motivated readable light, coherent physical staging, '
+  image_negative_prompt: copied creator identity or robot design, plastic beauty face,
+    floating captions, logo, watermark, letterbox bars, intersecting solids, stale
+    state
+  consistency_anchors:
+  - Read docs/mira-beyond-the-screen-style-preferences.md, docs/mira-beyond-the-screen-style-reference-notes.md
+    and docs/mira-beyond-the-screen-style-prompt-template.md.
+  - One original cast/voice/world/state bible; clean role-specific identity/location/mechanism
+    references and compatible incoming/outgoing state.
+  - A personal question drives discoveries, attempts, costly choice, scale and aftermath.
+    No theater-selfie quota or imported narration.
+quality_rules:
+- 'Follow docs/video-fast-production-preferences.md and docs/unlimited-plan-production-preferences.md:
+  prepare once, useful30s Frameo sequences under one verified shared capacity, rolling
+  required coverage and assembly; no routine paid review or extra full-run approval
+  gate.'
+- 'Follow docs/ai-video-human-performance-preferences.md and docs/ai-video-voice-selection-preferences.md:
+  consistent original cast, shot-local exact lines/native pairing, situation-led pace,
+  readable light and achievable action.'
+- 'Follow docs/ai-video-global-realism-preferences.md, docs/ai-video-story-engagement-preferences.md
+  and docs/minimum-shot-duration-preferences.md: causal action/result, persistent
+  consequences/relations, actual shots at least2s and a complete ending.'
+- Use original writing/characters/worlds; do not copy Mira/PIP, creator face/voice,
+  scripts, branding or footage. Treat compilation/episode overlap honestly.
+- Reference study is full-timeline sampled visual/temporal/caption/structural evidence
+  under owner-approved available methods, not direct listening or continuous viewing.
+  Never invent heard instrumentation, exact lens data, creator parity or owner acceptance.
+- No explanatory narrator, captions, title montage, selfie-face quota or music-free
+  documentary rule is imported automatically. Preserve this named style.
+- Inspect action result, cast/state/geography and complete native speech; technical
+  success alone is insufficient. Diagnose style/script/generation/edit/mix separately
+  and repair only material faults within budget.
+- 'Follow docs/ai-image-generation-preferences.md and docs/ai-music-preferences.md:
+  Kie Nano Banana2.1 first; fal Lyria3Pro for flexible score, ElevenLabs/fal for precise
+  timing. No purchases/renewals/overflow; preserve accepted/uncertain receipts.'
+- Full-frame landscape720p/768p with no black bars/portrait filler; ask before1080p.
+  Save final nonzero regular MP4 directly in the receiving user Downloads; keep resumable
+  assets separately.

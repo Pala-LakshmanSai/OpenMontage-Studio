@@ -114,6 +114,15 @@
       "template": "docs/the-last-day-style-prompt-template.md",
       "reference_notes": "docs/the-last-day-style-reference-notes.md",
       "playbook": "styles/the-last-day.yaml"
+    },
+    {
+      "id": "mira-beyond-the-screen",
+      "name": "Mira Beyond the Screen Style",
+      "pipeline": "pipeline_defs/cinematic.yaml",
+      "guide": "docs/mira-beyond-the-screen-style-preferences.md",
+      "template": "docs/mira-beyond-the-screen-style-prompt-template.md",
+      "reference_notes": "docs/mira-beyond-the-screen-style-reference-notes.md",
+      "playbook": "styles/mira-beyond-the-screen.yaml"
     }
   ],
   "shared_capabilities": [
