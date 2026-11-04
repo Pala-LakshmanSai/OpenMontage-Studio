@@ -3,7 +3,7 @@ identity:
   category: cinematic
   mood: "Emotionally grounded, boldly original, suspenseful and epic through earned scale and consequence"
   pace: moderate
-  best_for: "Complete original character-driven films at the requested length"
+  best_for: "Complete original character-driven films at the requested approximate scale, with an earned ending"
 visual_language:
   color_palette:
     primary: ["#39464B", "#A89479"]
@@ -30,9 +30,12 @@ asset_generation:
   image_negative_prompt: "copied creator identity, plastic skin, beauty posing, extra limbs, unexplained prop resets, floating captions, watermark, letterbox bars"
   consistency_anchors:
     - "Read docs/ai-movie-preferences.md, docs/ai-movie-reference-notes.md and docs/ai-movie-prompt-template.md."
+    - "Read docs/ai-movie-editorial-continuity-playbook.md: actual cast/state/scale/geography, causal performance, motivated camera and selected edit points govern the sequence; a successful source container is not automatically a finished scene."
     - "One film bible: original identities, selected voices, geography, wardrobe, props, injury and weather/light state; offscreen state persists."
     - "Reference roles are explicit. Use original identity/location roots for independent setups and exact outgoing edit-point state for true continuations where supported."
 quality_rules:
+  - "Owner-requested delivered-film review4November2026: apply the editorial-continuity playbook in existing artifacts. No invented/duplicated cast, injury/death or sold-resource resets, growth/scale drift, seat/carrier/support swaps, premature reveals or spoken staging prose. Plan compatible shot entry/exit states and useful source ranges; preserve complete native lines and purposeful picture/sound transitions. No dissolve/crop camouflage, extra recurring review or quality guarantee."
+  - "Owner correction4November2026: apply Complete endings and flexible runtime in docs/ai-video-story-engagement-preferences.md. Approximate length is not a hard stop or fixed provider-job count. Preserve supplied-source ending, consequences, meaningful reaction and epilogue; deliberately finish picture/native sound and clearly separate any optional after-title stinger. No padding, missing-payoff fade, extra review service or automatic remake; explicit limits and actual budget/pass rules remain."
   - "Owner correction4November2026: inherit Coherent reference geometry in docs/ai-video-global-realism-preferences.md. Prepare distinct boundaries/thickness, clear depth/contact, valid attachments/support and anatomy clearance; simplify or separate crowded reference roles. Existing image inspection rejects known faulty masters before any reference binding, not only first frames. Correct future bindings and hold only dependents; preserve accepted/uncertain jobs and independent production. No extra review service, blanket paid call, per-clip audit, approval gate or error-free guarantee."
   - "Owner correction4November2026: several substantial distinct peak-tension sequences, active attempts, seeded consequential twists, escalating losses and costly choices, earned relief and a climactic payoff. Apply Multiple earned tension peaks in the shared engagement guide in the existing beat plan; no fixed quota, loud-score substitute, extra review loop or automatic remake. Living Witness storytelling is owner-rejected; current instruction is style training only."
   - "Owner refinement3November2026: feature-film creative ambition, immediate strong premise/hook, audience curiosity and emotional expectations planned before generation, consequential scale, seeded reversals, active costly choices and earned payoff; no small-live-shoot limit on invention, no arbitrary spectacle or claim of guaranteed retention/parity."

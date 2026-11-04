@@ -1,5 +1,13 @@
 # Scene Director - Cinematic Pipeline
 
+For AI Movie, apply `docs/ai-movie-editorial-continuity-playbook.md`. One coherent
+sequence geography governs cast count/roles, seats/carriers/supports, scale anchors,
+camera side/height, eyelines and motivated light. Bind current compatible state
+references at meaningful changes; do not rely on text to override old/future-state
+pixels. Specify a manageable causal action and its visible result, entry/exit state
+and next-cut intent in existing shot metadata. A lens label or identity portrait
+does not establish physical geography. No new audit or approval stage.
+
 For every AI style, apply the general principles in
 `docs/ai-video-global-realism-preferences.md`: persistent entity/attached state,
 causal functional interaction, spatial/relational continuity, motivated readable

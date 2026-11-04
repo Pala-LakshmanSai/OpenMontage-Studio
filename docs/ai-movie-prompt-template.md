@@ -3,6 +3,13 @@ OPENMONTAGE — COMPLETE ORIGINAL AI MOVIE
 For detailed 30-second internal cuts and continuity prompts, read `docs/ai-movie-multishot-prompting.md`. Prepare once and reuse; this adds no routine review stage.
 
 Inherit the [global continuity and causality principles](ai-video-global-realism-preferences.md).
+Read and apply the [editorial-continuity playbook](ai-movie-editorial-continuity-playbook.md).
+Make sequences whose cast, irreversible state, scale, functional geography,
+revelation order and action phases survive the cuts. References must depict the
+current state; a role label cannot neutralize conflicting pixels. Separate exact
+spoken lines from staging prose. Use purposeful camera coverage and actual useful
+in/out points, not automatic whole-container concatenation. Put entry/exit and
+next-cut intent in existing scene/edit metadata; no new review layer.
 For the current scene, express only relevant persistent facts, permitted caused
 changes and functional action/result. Their scope includes every entity, relation
 and attachment, not just examples from prior films. Keep concrete project states
@@ -31,7 +38,7 @@ agency, varied emotional rhythm and a resolved central promise.
 Current owner training, 3 November 2026. This installed-project brief does not itself start production or buy a pass. Read AGENTS.md, AGENT_GUIDE.md, docs/production-knowledge-index.json, docs/ai-movie-preferences.md, docs/ai-movie-reference-notes.md and styles/ai-movie.yaml. Apply docs/video-fast-production-preferences.md and docs/ai-video-human-performance-preferences.md plus indexed shared policies. No previous chat, personal memory, GPT Space or original SSD path is needed. Use separately installed private provider configuration; never place credentials in this public brief or model prompts.
 
 TITLE / TOPIC: [title]
-LENGTH / RANGE: [complete-film duration]
+LENGTH / RANGE: [approximate complete-film scale; strict only when explicitly stated]
 SCOPE: [sample only / full movie]
 PROVIDER / MODEL: [Frameo Seedance 2.5 unlimited when requested; otherwise saved authorized movie route]
 RESOLUTION: 720p (768p only if route supports it; ask before 1080p)
@@ -40,6 +47,14 @@ BUDGET / PASS: [actual authorization; no invented cap, purchase or automatic ren
 DELIVERY: current user's Downloads; external sharing only if requested
 
 1. COMPLETE ORIGINAL STORY
+
+Apply [complete endings and flexible runtime](ai-video-story-engagement-preferences.md#complete-endings-and-flexible-runtime--owner-correction-4-november-2026).
+Read the supplied story through its ending/epilogue and distinguish any after-title
+stinger. Protect the decision, outcome, cost, changed relationship and performed
+emotional resolution before assigning generation units. Let approximate runtime
+flex instead of cutting these beats or padding footage. Give the final action,
+native speech and sound a deliberate finish; separate optional post-ending material
+from the completed main film. No automatic title card, new review loop or remake.
 
 Apply **Multiple earned tension peaks** in the shared engagement guide. Before
 releasing ready sequences, build several distinct substantial suspense peaks

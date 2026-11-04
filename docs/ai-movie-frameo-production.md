@@ -10,11 +10,26 @@ recorded in the reference notes; it does not carry into future film reviews.
 
 ## Goal and precedence
 
-Produce the complete original story at the requested length, with strong
+Produce the complete original story at the requested approximate scale, with strong
 screenplay, readable staging, emotional performance and a purposeful score,
 while minimizing end-to-end production time. Use useful 30-second multi-shot
 requests and the full verified shared capacity. Longer requests are a throughput
 choice, not a reason to slow actions, add filler or keep bad internal cuts.
+
+Apply [complete endings and flexible runtime](ai-video-story-engagement-preferences.md#complete-endings-and-flexible-runtime--owner-correction-4-november-2026).
+Thirty-second requests are acquisition units, not mandatory scene lengths or a
+fixed final container count. Reserve the climax, aftermath and payoff in the
+existing spine, then use their actual useful performances in the edit. Approximate
+runtime can flex; explicit hard limits, budget and pass expiry remain binding.
+The final accepted job is not automatically the film's final edit point, and an
+optional stinger needs a completed main ending before it.
+
+Read the [editorial-continuity playbook](ai-movie-editorial-continuity-playbook.md).
+Publish source availability separately from actual usable selects. Do not turn an
+ordered download list into a full-range final timeline. Prepare compatible current
+state/scale/cast and entry/exit intent per ready sequence, and let the editor choose
+complete actions and native lines from returned coverage. Use exact returned state
+for real continuations; independent work still refills capacity. No recurring audit.
 
 Owner refinement: quality means a strong original premise, audience curiosity,
 emotional and consequential turns, directed cinematography and actual continuity,

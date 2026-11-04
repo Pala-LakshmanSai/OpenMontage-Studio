@@ -16,6 +16,17 @@ Incorporate existing saved corrections and future feedback through the process i
 
 ## Prepare useful footage, not generic prompts
 
+Owner-requested lizard-film review, 4 November 2026: a valid29:49.75/720p export
+with all detected shots over2s was rejected for continuity and abrupt ending.
+Full-timeline shot sampling and selected temporal windows found invented cast,
+duplicated roles, restored injuries/possessions, changing growth/scale, altered
+vehicle layouts and missed cause/result.53of60original provider chunks had been
+kept whole; this is a risk signal, not a rule banning full takes. Successful jobs
+and detailed prompts did not prove a usable sequence. The portable
+[editorial-continuity playbook](ai-movie-editorial-continuity-playbook.md) implements
+the fixes in existing story/state/reference/camera/edit preparation. The detailed
+review was specifically requested after rejection; do not make it a routine loop.
+
 Start with the title's visible promise, an immediate open question and several
 distinct consequential turns. Use `ai-video-story-engagement-preferences.md`:
 seed trouble, force a choice, show effort and a changed method, preserve the cost,

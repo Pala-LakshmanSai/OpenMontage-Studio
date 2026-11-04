@@ -1,5 +1,42 @@
 # Extreme, surprising stories planned before generation
 
+## Complete endings and flexible runtime — owner correction, 4 November 2026
+
+The owner rejected the lizard film's abrupt ending and clarified that the requested
+length need not be followed strictly. Treat "around", "about" and ordinary target
+durations as approximate creative scale, not a countdown, fixed number of provider
+jobs or automatic export stop. Finish the meaningful story at its natural pace;
+allow a justified shorter or longer result. Preserve explicit hard platform limits,
+actual spending authority and pass expiry. Reserve essential ending coverage early
+rather than dropping it when time or money runs short. Do not pad, repeat, freeze
+or stretch action merely to hit a number.
+
+For supplied stories, read through the actual last narrative material and distinguish
+the main resolution, aftermath, epilogue and optional after-title/post-credit scene.
+Record their function in the existing ending-aware beat map before generation.
+Missing or weak coverage is not evidence that the owner omitted the ending. Protect
+the protagonist's decisive outcome, its cost, the changed relationship or condition,
+and enough performed reaction for the payoff to register. A reunion, release or
+sacrifice must be experienced on screen rather than reduced to a fleeting insert.
+Apply this in the active style's grammar; do not force fiction or an epilogue into
+an observational/factual film or change supplied-voiceover/source-audio rules.
+
+An optional stinger follows an unmistakably completed main ending, with a deliberate
+closing beat and separation appropriate to the style. It must not replace closure,
+erase the earned outcome or look like the first fragment of another unfinished
+scene. Honor a source's "after the title" distinction without automatically adding
+unrequested titles. Complete the actual last action, native utterance and meaningful
+sound tail; choose an intentional final composition and sound finish instead of
+stopping at the generator's last frame. A fade alone cannot repair missing payoff.
+
+Integrate this once into existing writing, scene-duration allocation and editing.
+Use actual returned performance lengths and select in/out points for dramatic
+reasons. The existing brief final check includes the moving final passage and its
+sound boundary, not just a still from near the end or a valid duration/container.
+This adds no recurring audit, paid critic, per-clip ASR, fixed ending quota or new
+approval stage. Preserve accepted/uncertain jobs and repair only the affected
+coverage. Style-training requests alone do not authorize a remake.
+
 ## Multiple earned tension peaks — owner correction, 4 November 2026
 
 The owner found THE LIVING WITNESS insufficiently tense despite its new plot

@@ -1,5 +1,13 @@
 # Asset Director - Cinematic Pipeline
 
+For AI Movie, apply `docs/ai-movie-editorial-continuity-playbook.md`. A downloaded
+successful job is source availability, not proof of usable story coverage. Bind
+clean identity plus compatible current anatomy/growth/injury/inventory and joint
+scale/geography; exclude contradictory old or premature-reveal references before
+submission. Publish actual usable ranges/state alongside paths during existing
+assembly. Preserve accepted/uncertain jobs; handle concrete faults proportionately
+without a new per-clip audit or paid review loop.
+
 For generated human performance, read `docs/ai-video-human-performance-preferences.md` alongside the active style. Reuse selected voices and clean supported references, prepare speech/action/framing/light in the existing shot plan, and qualify through a planned useful dialogue take. This adds no routine review, paid assessment or approval gate. Preserve no-narrator/no-speech and stylized-art rules; premium footage is selective within authorized scope/budget, with the same permitted cast and compatible voice.
 
 ## When To Use

@@ -1,5 +1,20 @@
 # Script Director - Cinematic Pipeline
 
+Apply **Complete endings and flexible runtime** in
+`docs/ai-video-story-engagement-preferences.md`. Read any supplied source through
+its actual end. Put resolution, consequence, relationship payoff, epilogue and any
+separate stinger in the existing beat map before assigning provider units. Reserve
+useful ending performance; ordinary target durations are approximate unless the
+owner states a hard limit. Do not compress the payoff to fill a preset clip count
+or expand empty coverage to hit runtime. This adds no separate review/gate.
+
+For AI Movie, read `docs/ai-movie-editorial-continuity-playbook.md`. Write the
+audience/character discovery order, action→result and changed state, not a list
+of thirty-second containers. Keep future reveals out of earlier references and
+spoken staging out of dialogue. Story-bearing cast/role, resource, injury and
+growth changes persist. Fit this into existing beat/scene metadata and retain
+rolling preparation; no new recurring review process.
+
 For AI movies, apply **Multiple earned tension peaks** in
 `docs/ai-video-story-engagement-preferences.md`: build several distinct substantial
 suspense sequences into the existing ending-aware beat map. Record feared loss,

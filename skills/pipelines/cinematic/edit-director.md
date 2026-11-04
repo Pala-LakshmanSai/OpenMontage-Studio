@@ -16,6 +16,14 @@ This stage turns the beat map into a paced cinematic timeline. Rhythm and restra
 
 ### 1. Cut By Emotion First
 
+For AI Movie, read `docs/ai-movie-editorial-continuity-playbook.md`. Source files
+are coverage. Do not create the final edit by taking every ordered file from
+zero to its last frame merely because it downloaded. Select complete actions,
+new information and reactions; retain a full take only for its dramatic purpose.
+Record entry/exit state and next-cut intent in existing edit metadata. Repair
+incompatible cast, injury, scale or geography at the source/selection; a dissolve
+cannot make them continuous. Native speech stays at its source mouth offset.
+
 Cuts should follow:
 
 - emotional emphasis,
@@ -59,6 +67,14 @@ use arbitrary dissolves or morphs to conceal mismatches. Retiming must preserve
 visible mouth/dialogue synchronization.
 
 ### 4. Use Metadata For Timing Logic
+
+Apply **Complete endings and flexible runtime** in the shared engagement guide.
+Edit by actual complete performance, not generation-container endpoints. Protect
+the outcome, consequence and emotional landing, then deliberately finish the final
+picture/native sound. Separate a source's optional after-title stinger from the
+completed main ending without automatically adding titles. Use the moving final
+passage in the existing brief check; a duration match, final still or fade does not
+establish closure. Approximate runtime may flex within actual authority.
 
 Recommended metadata keys:
 

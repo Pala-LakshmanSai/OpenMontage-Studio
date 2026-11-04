@@ -34,6 +34,13 @@ Per speaking beat add the exact words, intention/listener, one main action,
 plausible speech duration with reaction room, light source and camera path.
 Reuse those values; change only what the scene motivates.
 
+Keep exact spoken lines separate from staging/camera/mechanism prose, reference
+labels and markup in native-video requests as well as TTS. A production sentence
+must not become a character's explanation. Bind each permitted line to its named
+speaker; diagnose any observed extra speech using the native take rather than
+assuming the script was followed. Use existing selection/targeted repair, not
+routine per-clip transcription or another voice review stage.
+
 Identity and wardrobe apply to every shot that could reveal the traveler, not
 only rows marked as visible speech. An offscreen-narration or POV shot can turn
 and expose a face, body or sleeve. Carry the approved identity reference and

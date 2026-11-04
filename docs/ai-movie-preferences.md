@@ -1,6 +1,22 @@
 # Saved AI movie preferences
 
+Owner correction, 4 November 2026: follow [complete endings and flexible runtime](ai-video-story-engagement-preferences.md#complete-endings-and-flexible-runtime--owner-correction-4-november-2026).
+The requested approximate length is not a hard stop or a fixed clip count. Preserve
+the supplied story's outcome, aftermath, emotional payoff and epilogue, with useful
+reaction time and a deliberate picture/sound ending. Clearly separate any optional
+after-title scene from the completed main film. Read the full source before blaming
+an abrupt ending on missing material. Apply this in existing writing/editing and
+the brief moving final check, without recurring reviews or added approval gates.
+
 For detailed 30-second internal cuts and continuity prompts, read `docs/ai-movie-multishot-prompting.md`. Prepare once and reuse; this adds no routine review stage.
+
+Also read the [editorial and continuity playbook](ai-movie-editorial-continuity-playbook.md).
+The owner-requested review of the delivered lizard film found that technically
+valid, attractive shots still formed an owner-rejected movie: invented/duplicated
+cast, irreversible-state resets, unstable scale and geography, missing causal
+actions, uncurated container joins and abrupt closure. Apply the playbook's concrete
+writing, reference, camera, performance and edit decisions in existing artifacts.
+Do not substitute more prompt adjectives or another recurring review stage.
 
 ## Current movie training and Frameo workflow — 3 November 2026
 
@@ -270,9 +286,10 @@ or rubric scores into rigid requirements or recurring reviews. For an explicit
 scratch rebuild, develop a fresh script and footage version after the policy
 update, preserving selected cast/voices and all previous provider receipts.
 
-- For title/topic plus length, produce a COMPLETE original movie at the specified
-  duration with development, climax and payoff. Scale screenplay and scene batches
-  to runtime; do not substitute a trailer, scene test, padded clips or preview.
+- For title/topic plus length, produce a COMPLETE original movie at the requested
+  approximate scale, with development, climax, consequences and payoff. Only an
+  explicit hard limit is strict; let a complete well-paced ending determine the
+  useful final duration. Do not substitute a trailer, scene test, padded clips or preview.
   The earlier 30-second restriction applies to The Prisoner demo, not the reusable
   full-movie prompt. Updating that prompt does not start a full-length film now.
 - Use https://www.youtube.com/watch?v=8LQmUzQ9-Hk as a production-quality reference.

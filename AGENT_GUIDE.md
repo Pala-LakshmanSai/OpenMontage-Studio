@@ -2,6 +2,12 @@
 
 Before narrative AI story/scene planning, follow `docs/ai-video-story-engagement-preferences.md`: short strong hooks, much bolder consequential surprises and escalating extreme challenges planned before generation, with believable causes and persistent costs. Preserve the active style and the fast autonomous workflow.
 
+Owner correction, 4 November 2026: that guide's **Complete endings and flexible
+runtime** rule also applies. Approximate length is not a hard cutoff or fixed clip
+count. Preserve the source ending, consequence and emotional landing; deliberately
+finish picture/native sound and distinguish optional after-title material. Use the
+existing planning/editing and brief moving-output check, not another review loop.
+
 Owner correction, 3 November 2026: across every AI-video style, first apply the
 general persistent-state, causal/functional, spatial/relational, performance and
 editorial principles, then their concrete examples in
@@ -120,7 +126,8 @@ multishot jobs under one shared verified capacity. Reuse the saved research;
 reference-quality parity and first-film artistic acceptance remain unproven.
 
 For **AI movies**, read `docs/ai-movie-preferences.md`,
-`docs/ai-movie-reference-notes.md` and `docs/ai-movie-prompt-template.md`; use
+`docs/ai-movie-reference-notes.md`, `docs/ai-movie-editorial-continuity-playbook.md`
+and `docs/ai-movie-prompt-template.md`; use
 `styles/ai-movie.yaml` with cinematic stages. When Frameo unlimited is explicitly
 selected, also read `docs/ai-movie-frameo-production.md`: whole-film causal spine
 and ending first, detailed preparation frozen per ready sequence, then generation,

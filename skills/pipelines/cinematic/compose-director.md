@@ -79,6 +79,18 @@ The mix should allow:
 
 ### 3. Verify The Final Mood
 
+For AI Movie, follow `docs/ai-movie-editorial-continuity-playbook.md`: the existing
+brief check uses moving opening, consequential interaction/transition and ending
+passages, with relevant state/text evidence. Four attractive stills, a valid file
+and a minimum-shot pass cannot establish coherent cuts or complete performances.
+Keep claims bounded and distinguish technical delivery from owner acceptance.
+
+In the existing brief essential check, inspect the actual moving final passage and
+sound boundary: complete outcome/reaction, legible optional-stinger separation and
+intentional final picture/sound. Do not infer closure from nominal runtime, a still
+near the end or the provider job succeeding. Follow **Complete endings and flexible
+runtime** in the shared engagement guide; add no separate routine review stage.
+
 Check:
 
 - opening frame,

@@ -23,6 +23,8 @@ voice, sound and approval rules rather than blending incompatible styles.
 
 Shared production policies include:
 
+- [AI Movie editorial and continuity playbook](ai-movie-editorial-continuity-playbook.md): portable sequence/state/reference/camera/edit practice distilled from the owner-requested delivered-film review; read for AI Movie, generalize shared causes without importing its aesthetic into other styles.
+
 - [Extreme story and surprise planning before generation](ai-video-story-engagement-preferences.md): apply the operational hook/escalation/choice/cost/payoff contract, not just generic promises of danger.
 
 - [Fast production and zero routine paid reviews](video-fast-production-preferences.md).

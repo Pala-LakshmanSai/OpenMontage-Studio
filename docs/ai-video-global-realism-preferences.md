@@ -91,6 +91,13 @@ replace or simplify that master, bind the corrected version for future inputs,
 and keep independent production moving. Preserve accepted outputs and uncertain
 job identities; never rewrite accepted inputs or replay uncertain submissions.
 
+A correct current-state first frame does not cancel a conflicting older reference.
+Exclude stale props, body states or mechanisms from every supplied reference;
+use an identity-only crop or the accepted current frame instead. State each
+reference's role once in the sequence contract so an old open mechanism cannot
+reappear beside the intended closed one. This is input preparation, not another
+review pass.
+
 This improves existing preparation and targeted fault repair. It adds no review
 service, quality score, per-clip audit, blanket extra paid call or approval stage.
 Rejecting known bad references is enforceable production behavior; promising
@@ -270,6 +277,52 @@ that contradicts the requested film. Save new reusable corrections through
 [portable production knowledge](portable-production-knowledge.md).
 
 Owner refinement, 3 November 2026: apply [human voice and facial performance](ai-video-human-performance-preferences.md) for generated people/speech. Reuse selected voices and clean references, prepare speakable lines and achievable facial/camera/light staging once, and use premium footage selectively within the authorized scope/budget. No new review or approval stage; routine paid reviews remain USD 0. Preserve no-narrator/no-speech styles, stylized art, supplied original audio, native pairing and the current autonomous voice-selection policy (no routine voice-approval gate).
+
+## Sequence continuity is more than consistent portraits
+
+Owner correction, 4 November 2026, from the delivered-film review: preserve cast
+count and role occupancy, nonhuman anatomy/gait/markings, growth stage, irreversible
+injury/death, sold possessions, scarce resources and functional geography across
+the actual selected footage. A different view cannot change the driver's seat,
+carrier, support surface or size ratios. Bind current compatible references;
+words such as "identity only" cannot cancel contradictory pixels or a future
+state that leaks a reveal. Show a causal transition or retain the existing state.
+
+Plan the audience's discovery and the character's action in the same sequence:
+approach/new vantage → legible evidence → recognition/choice → consequence, unless
+an intentional dramatic-ironical order serves the story. Choose camera side,
+height, angle, scale anchors and motivated light from one coherent geography.
+Do not shrink a large subject to fit a two-shot or inherit a portrait background
+in a prone close-up. Exact cast and action scope keep difficult scenes manageable.
+
+Generated containers are coverage, not automatic final scenes. The existing editor
+selects useful complete performances with compatible entry/exit states and a
+reason for each passage transition. Use motivated cuts and appropriate sound
+bridges; dissolves or crops do not repair a contradictory world or absent action.
+Minimum shot duration, provider success and full decode are technical evidence,
+not narrative/continuity acceptance. Reuse the existing brief moving-output check
+and targeted fault repair, without a new per-clip audit or paid review service.
+The [AI Movie playbook](ai-movie-editorial-continuity-playbook.md) gives worked
+operational guidance; general principles apply across styles while each style's
+art, source, voice and audio rules remain distinct.
+
+Repairs inherit the actual neighboring world as well: preserve the established
+support/apparatus, attachment topology, body state, blocking and camera side while
+changing the diagnosed feature. Reconcile the repaired entry/exit with affected
+neighbors during that existing targeted repair. A correct isolated replacement
+does not qualify a sequence that still resets at either end.
+
+## Complete outcomes, flexible runtime and intentional endings
+
+Apply [complete endings and flexible runtime](ai-video-story-engagement-preferences.md#complete-endings-and-flexible-runtime--owner-correction-4-november-2026).
+An approximate duration never justifies cutting off a causal outcome, emotional
+reaction, required source ending, native line or sound tail. Plan the final settled
+state and meaningful aftermath in the existing sequence contract; finish at the
+natural useful length within real authority. Distinguish a completed main ending
+from an optional stinger, and make any time/location or post-ending separation
+legible. Technical decode, matching runtime and shots over two seconds do not prove
+narrative or editorial continuity. Use the existing brief moving-output check;
+do not add a review service or override a style's factual, source or audio rules.
 
 ## No flash clips or next-scene fragments
 
