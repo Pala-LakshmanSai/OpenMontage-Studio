@@ -58,7 +58,7 @@ emergencies unmistakably fictional, not apparent breaking news.
 Lock the whole-film causal spine, ending and approximate runtime allocation
 before submitting footage. Open with a concrete image, event, paradox or ordinary
 detail that reveals hidden stakes. Owner correction, 4 November 2026: keep the
-hook roughly 8–15 seconds and enter the premise/mechanism by 15 seconds. Develop
+hook roughly 8–12 seconds (15-second maximum) and enter the premise/mechanism by 15 seconds. Develop
 useful opening picture beats normally every 2–6 seconds, each at least two
 seconds. Essential rules continue as new explanation after the hook; do not turn
 the first 30-second request, diagram carrier or roughly one-minute setup into a
@@ -187,6 +187,8 @@ Use this per-chunk prompt form, adapting shot count and durations to the explana
 Chunk ID / frozen revision / canonical sequence position:
 Duration: 30 seconds; 720p; 16:9; Seedance 2.5.
 Purpose: question answered, mechanism, consequence, next question.
+Opening only: retained hook target8–12s/max15s; explicit complete utterance IDs;
+  actual first15s picture beats2–6s each, independent of carrier length.
 Initial state / final state / dependency / reference roles and hashes:
 Cause-bearing prop state: which reference visibly supports the required state;
   use a verified accepted state frame where suitable, not only a pre-event master.

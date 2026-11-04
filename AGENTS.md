@@ -1,5 +1,11 @@
 # OpenMontage
 
+Short-hook delivery rule, 4 November 2026: The Last Day films target an
+8–12-second hook (maximum15seconds), with2–6-second actual picture beats
+through the first15seconds. Source/generation duration is not retained hook
+length. New compose completion must pass `lib.last_day_opening` using the actual
+encoded opening transcript and cached cut evidence; see the editorial playbook.
+
 For **The Last Day** style, read `docs/the-last-day-style-preferences.md`,
 `docs/the-last-day-style-reference-notes.md`,
 `docs/the-last-day-style-prompt-template.md`,

@@ -55,7 +55,7 @@ picture must match its promise, and the closing callback must resolve it without
 silently resetting the counterfactual world.
 
 Owner correction, 4 November 2026: keep the title-led hook short, normally about
-8–15 seconds, and move into the premise or mechanism by 15 seconds. Give one
+8–12 seconds (15-second maximum), and move into the premise or mechanism by 15 seconds. Give one
 specific cause/consequence or contradiction; do not delay it with a channel
 introduction, repeated promise or long topic announcement. This is the owner's
 production rule, not a measured channel-wide hook duration. Essential rules can
@@ -66,9 +66,19 @@ preserving the actual two-second minimum. A 30-second request or a long diagram
 carrier never determines the first shot's retained duration. Do not speed the
 voice or insert flash cuts to make an overlong opening seem shorter.
 
+Owner reinforcement, 4 November 2026 after the oxygen film: record the hook’s
+actual retained duration separately from the first source/chunk. Ordinary first
+shots and every picture beat beginning within the first 15 seconds must last
+2–6 seconds. Budget one short title-led spoken proposition/question, then begin
+new explanation; do not retain a complete 30-second opener simply because its
+speech is intact. Use complete phrase edits and purposeful coverage, preserving
+causal order and normal voice speed. The final encoded opening must pass the
+shared actual-opening checker before a new compose can be completed.
+
+
 For a typical 12–22-minute film, a useful original planning pattern is:
 
-1. **First roughly 8–15 seconds:** one compelling concrete event, impossible-looking
+1. **First roughly 8–12 seconds (15-second maximum):** one compelling concrete event, impossible-looking
    scale, revealing ordinary detail, or question, with useful 2–6-second picture
    development and no repeated narration. Preserve actual shots of at least two seconds.
 2. **After the hook, within the first roughly 45–90 seconds:** begin explaining what could change,

@@ -12,7 +12,7 @@ import math
 from pathlib import Path
 import re
 
-VERSION = 1
+VERSION = 2
 MIN_REPEAT_WORDS = 8
 _WORD = re.compile(r"[\w]+(?:['’][\w]+)*", re.UNICODE)
 _NEGATIONS = {"not", "no", "never", "cannot", "can't", "won't", "don't", "doesn't",
@@ -90,10 +90,18 @@ def check_opening(data):
             or any(b <= a for a, b in zip(boundaries, boundaries[1:]))
             or not data.get('picture_boundary_evidence')):
         issues.append('Actual opening picture boundaries and observation/scan evidence required.')
-    elif boundaries[1] > 6:
-        issues.append(f'First picture shot lasts {boundaries[1]:g} seconds; opening coverage should develop within 2–6 seconds.')
-    elif boundaries[1] < 2:
-        issues.append('First picture shot is shorter than the actual two-second minimum.')
+    else:
+        if boundaries[-1] < 15:
+            issues.append('Actual picture boundaries must cover at least the first 15 seconds.')
+        for start, end in zip(boundaries, boundaries[1:]):
+            if start >= 15:
+                break
+            duration = end - start
+            if duration > 6 + 1e-5:
+                label = 'First picture shot' if start == 0 else 'Opening picture shot'
+                issues.append(f'{label} lasts {duration:g} seconds at {start:g}s; opening coverage should develop within 2–6 seconds.')
+            elif duration < 2 - 1e-5:
+                issues.append(f'Opening picture shot at {start:g}s is shorter than the actual two-second minimum.')
     segments = data.get('segments', [])
     valid = isinstance(segments, list) and bool(segments)
     prior = -1
@@ -111,6 +119,9 @@ def check_opening(data):
         valid = False
     if not valid:
         issues.append('Nonempty timestamped actual transcript segments within the declared window required.')
+    elif (_number(window) and (max(segment['end'] for segment in segments) < window / 2
+                              or sum(len(_words(segment['text'])) for segment in segments) < 30)):
+        issues.append('Opening transcript is only a stub: retain meaningful actual speech across the bounded window, including quiet gaps.')
     repeats = repeated_phrases(segments) if valid else []
     dispositions = data.get('repeat_dispositions') or []
     accepted = {' '.join(_words(d['phrase'])) for d in dispositions
@@ -174,6 +185,21 @@ def validate_render_opening(project, render_report, *, metadata=None):
             raise LastDayOpeningError('The Last Day MP4 is missing or unreadable; no opening pass recorded.') from None
         if digest != data['source_sha256']:
             raise LastDayOpeningError('The Last Day opening evidence source_sha256 does not match the actual MP4 output.')
+        from lib.shot_duration import ShotDurationError, validate_video_shots
+        try:
+            actual = validate_video_shots(video,
+                cache_dir=Path(project) / 'artifacts/shot-duration-cache', metadata=options)
+        except ShotDurationError as exc:
+            raise LastDayOpeningError(str(exc)) from exc
+        observed = actual['resolved_boundaries_seconds']
+        supplied = data['picture_boundaries_seconds']
+        # Use the existing content-keyed scan and inspected false positives. A
+        # convenient declared four-second cut cannot hide a sixty-second hold.
+        through = supplied[-1]
+        reported = [at for at in observed if at <= through + 1e-5]
+        if (len(reported) != len(supplied)
+                or any(abs(a-b) > 1e-5 for a, b in zip(reported, supplied))):
+            raise LastDayOpeningError('The Last Day opening picture boundaries do not match the cached actual output cuts.')
     return report
 
 

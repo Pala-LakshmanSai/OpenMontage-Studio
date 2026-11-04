@@ -98,7 +98,7 @@ or a diagnosed model limitation warrants them. Do not stretch ordinary movement,
 invent filler or pad the finished film to consume the nominal duration.
 
 Owner correction, 4 November 2026: the finished opening hook normally lasts
-about 8–15 seconds, with premise/mechanism information beginning by 15 seconds.
+about 8–12 seconds (15-second maximum), with premise/mechanism information beginning by 15 seconds.
 Use useful opening picture beats normally 2–6 seconds long, always at least two
 seconds. Do not let a 30-second generation or a diagram carrier become a long
 first shot. Use shorter supported generation envelopes or select useful complete

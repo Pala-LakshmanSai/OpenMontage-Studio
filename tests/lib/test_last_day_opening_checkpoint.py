@@ -15,7 +15,8 @@ def video(tmp_path_factory):
         pytest.skip('FFmpeg/ffprobe required for actual MP4 checkpoint regression')
     path = tmp_path_factory.mktemp('last-day-opening')/'output.mp4'
     subprocess.run(['ffmpeg','-hide_banner','-loglevel','error','-n',
-                    '-f','lavfi','-i','color=c=blue:s=160x90:r=24:d=60',
+                    '-f','lavfi','-i',
+                    'color=c=blue:s=160x90:r=24:d=60,drawbox=color=white:t=fill:enable=between(t\\,4\\,7.99)+between(t\\,12\\,17.99)',
                     '-c:v','libx264','-pix_fmt','yuv420p',str(path)],
                    check=True,capture_output=True)
     return path
@@ -52,6 +53,14 @@ def test_marker_derived_last_day_style_cannot_skip_the_opening_requirement(check
     (project/'project.json').write_text(json.dumps({'style_playbook':'the-last-day'}))
     with pytest.raises(CheckpointValidationError,match='requires last_day_opening_check_input'):
         write_checkpoint(project.parent,project.name,'compose','completed',{'render_report':render})
+
+
+def test_explicit_other_style_cannot_bypass_last_day_project_marker(checkpoint_case):
+    project, _, _, render = checkpoint_case
+    (project/'project.json').write_text(json.dumps({'style_playbook':'the-last-day'}))
+    with pytest.raises(CheckpointValidationError,match='project marker disagrees'):
+        write_checkpoint(project.parent,project.name,'compose','completed',{'render_report':render},
+                         pipeline_type='cinematic',style_playbook='clean-professional')
 
 
 def test_in_progress_last_day_compose_does_not_start_an_evidence_or_approval_wait(checkpoint_case):
@@ -115,3 +124,30 @@ def test_report_with_only_a_claimed_pass_cannot_bypass_input_check(checkpoint_ca
     path.write_text(json.dumps({'status':'pass'}))
     with pytest.raises(CheckpointValidationError,match='opening check needs review'):
         complete(project,render,metadata={'last_day_opening_check_input':str(path)})
+
+
+def test_declared_fast_cuts_must_match_actual_encoded_picture(checkpoint_case):
+    project, path, data, render = checkpoint_case
+    data['picture_boundaries_seconds'] = [0, 3, 7, 11, 16]
+    path.write_text(json.dumps(data))
+    with pytest.raises(CheckpointValidationError,match='do not match the cached actual output cuts'):
+        complete(project,render,metadata={'last_day_opening_check_input':str(path)})
+
+
+def test_publish_rechecks_existing_opening_evidence(checkpoint_case):
+    project, path, data, render = checkpoint_case
+    complete(project,render,metadata={'last_day_opening_check_input':str(path)})
+    data['hook_end_seconds'] = 30
+    path.write_text(json.dumps(data))
+    with pytest.raises(CheckpointValidationError,match='Hook lasts'):
+        write_checkpoint(project.parent,project.name,'publish','completed',
+                         {'publish_log':{'version':'1.0','entries':[]}},style_playbook='the-last-day')
+
+
+def test_publish_cannot_erase_existing_evidence_with_empty_override(checkpoint_case):
+    project, path, _, render = checkpoint_case
+    complete(project,render,metadata={'last_day_opening_check_input':str(path)})
+    with pytest.raises(CheckpointValidationError,match='requires last_day_opening_check_input'):
+        write_checkpoint(project.parent,project.name,'publish','completed',
+                         {'publish_log':{'version':'1.0','entries':[]}},style_playbook='the-last-day',
+                         metadata={'last_day_opening_check_input':None})

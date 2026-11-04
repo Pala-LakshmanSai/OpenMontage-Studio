@@ -28,6 +28,17 @@ exact native outgoing video frames for continuations; avoid a separately generat
 image for every shot and avoid near-duplicate variants. Parallelize independent
 ready work with bounded concurrency and one shared budget ledger.
 
+Owner correction, 4 November 2026: apply
+[coherent reference geometry](ai-video-global-realism-preferences.md#coherent-reference-geometry--owner-correction-4-november-2026)
+in that existing image inspection before binding any master, including a reference
+that is not a first frame. Distinct object boundaries, material thickness,
+depth/contact, valid mounts/support and anatomical clearance must agree. Simplify
+crowded spatial/action-ready images or separate compatible identity, location and
+mechanism roles. Quarantine a known materially faulty master and only its
+dependents; bind a corrected master for future inputs while independent work
+continues. Preserve accepted/uncertain jobs. No blanket extra images, paid review,
+score, per-clip audit, approval wait or promise of error-free generation follows.
+
 Use durable pre-submit markers, payload/reference hashes and exact accepted task
 IDs. Resume accepted tasks; reconcile unknown acceptance before any replay. Preserve
 outputs and receipts, record actual cost separately from estimates, and keep

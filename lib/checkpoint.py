@@ -441,7 +441,7 @@ def write_checkpoint(
     # cannot bypass either gate enforcement or style validation.
     marker = None
     marker_path = pipeline_dir / project_id / PROJECT_MARKER_FILENAME
-    if marker_path.exists() and (not pipeline_type or not style_playbook):
+    if marker_path.exists():
         try:
             with open(marker_path, encoding="utf-8") as f:
                 marker = json.load(f)
@@ -452,6 +452,11 @@ def write_checkpoint(
             pipeline_type = marker["pipeline_type"]
         if not style_playbook and marker.get("style_playbook"):
             style_playbook = marker["style_playbook"]
+        if marker.get("style_playbook") == "the-last-day" and style_playbook != "the-last-day":
+            raise CheckpointValidationError(
+                "The Last Day project marker disagrees with explicit style_playbook; "
+                "update the project style deliberately before changing its completion rules."
+            )
     _validate_style_playbook(style_playbook)
 
     valid_stages = (
@@ -527,15 +532,23 @@ def write_checkpoint(
                 message = exc.message if isinstance(exc, jsonschema.ValidationError) else str(exc)
                 raise CheckpointValidationError(message) from exc
 
-    # This named style needs actual opening phrase/pacing evidence, bound to the
-    # rendered bytes. Existing older exports can still be published unchanged.
-    if stage == "compose" and status == "completed" and style_playbook == "the-last-day":
+    # New renders require actual opening evidence. Recheck available evidence
+    # when publishing; legacy share-only exports without it remain supported.
+    if stage in {"compose", "publish"} and status == "completed" and style_playbook == "the-last-day":
         from lib.last_day_opening import LastDayOpeningError, validate_render_opening
-        try:
-            validate_render_opening(pipeline_dir / project_id, artifacts.get("render_report"),
-                                    metadata=metadata)
-        except LastDayOpeningError as exc:
-            raise CheckpointValidationError(str(exc)) from exc
+        composed = (read_checkpoint(pipeline_dir, project_id, "compose") or {}) if stage == "publish" else {}
+        opening_render = artifacts.get("render_report") if stage == "compose" else composed.get("artifacts", {}).get("render_report")
+        opening_metadata = {**composed.get("metadata", {}), **(metadata or {})}
+        render_opening_metadata = (opening_render or {}).get("metadata") or {}
+        available = ("last_day_opening_check_input" in opening_metadata or
+                     (isinstance(render_opening_metadata, dict) and
+                      "last_day_opening_check_input" in render_opening_metadata))
+        if stage == "compose" or available:
+            try:
+                validate_render_opening(pipeline_dir / project_id, opening_render,
+                                        metadata=opening_metadata)
+            except LastDayOpeningError as exc:
+                raise CheckpointValidationError(str(exc)) from exc
 
     # Inspect actual output cuts, including cuts generated inside a single
     # source clip. Reusing its content-keyed local scan keeps publish cheap.

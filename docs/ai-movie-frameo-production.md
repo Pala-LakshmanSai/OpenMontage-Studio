@@ -113,6 +113,15 @@ planning-row schema check do not validate the actual request. Keep access-bearin
 media URLs and provider receipts private; portable guides contain roles/hashes,
 not credentials or signed links.
 
+Apply [coherent reference geometry](ai-video-global-realism-preferences.md#coherent-reference-geometry--owner-correction-4-november-2026)
+before binding masters, even with `role="reference"` rather than `first_frame`.
+Use the existing image inspection to reject known fused solids, invalid mounts/
+support or ambiguous depth; simplify crowded masters or separate compatible
+identity/location/mechanism roles. Correct future bindings and quarantine only
+affected dependents while independent ready work fills available capacity.
+Accepted inputs stay immutable and uncertain jobs stay reserved, never replayed.
+No new review service, blanket paid image call, per-clip audit or approval gate.
+
 Use roughly three to six purposeful shots within a 30-second passage when the
 scene benefits from coverage, with time allocated to complete actions and speech.
 That is a planning example, not a fixed shot quota. A focused long take or fewer

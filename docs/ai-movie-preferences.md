@@ -302,6 +302,16 @@ update, preserving selected cast/voices and all previous provider receipts.
 Follow [global environmental continuity](ai-video-global-realism-preferences.md)
 for local time, daylight, season, climate and weather across shots and transitions.
 
+Owner correction, 4 November 2026: inherit
+[coherent reference geometry](ai-video-global-realism-preferences.md#coherent-reference-geometry--owner-correction-4-november-2026).
+Prepare distinct object boundaries, clear depth/contact, plausible thickness,
+mounts/support and anatomy clearance before animation. Simplify or separate
+crowded identity/location/mechanism references; a non-first-frame master can also
+propagate bad geometry. Reject a known faulty master in the existing inspection,
+correct future bindings and hold only its dependents, preserving accepted and
+uncertain jobs. This adds no routine review, paid scoring or approval gate and
+does not guarantee that generation will never fail.
+
 - Lock faces, costumes, hair, creature anatomy, scale, voices, props/restraints,
   geography, eyelines, lighting and ongoing action state across shots.
 - Maintain character/creature masters plus a shot-state ledger: who is visible,

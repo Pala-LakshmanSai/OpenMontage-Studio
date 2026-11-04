@@ -12,7 +12,9 @@ def evidence():
             'segments': [{'start':0., 'end':12.,
                           'text':'Your feet fall faster than your head. Why can a larger black hole feel safer?'},
                          {'start':12.2, 'end':24.,
-                          'text':'Start with gravity across one body. Each part follows a different falling path.'}]}
+                          'text':'Start with gravity across one body. Each part follows a different falling path.'},
+                         {'start':44., 'end':58.,
+                          'text':'Motion continues through a curved region. Compare the nearby paths while the traveler and the distant observer measure different parts of this one event.'}]}
 
 
 def test_concise_opening_with_actual_evidence_passes():
@@ -54,6 +56,7 @@ def test_explicit_intentional_callback_can_be_resolved_with_evidence():
     data = evidence()
     phrase = 'The boundary is a change in which futures remain reachable.'
     data['segments'] = [{'start':0.,'end':8.,'text':phrase}, {'start':20.,'end':29.,'text':phrase}]
+    data['segments'].append(evidence()['segments'][-1])
     data['repeat_dispositions'] = [{'phrase':phrase, 'reason':'Explicit comparison return.',
                                   'evidence':'Second occurrence is introduced as a quoted callback to the earlier model.'}]
     assert check_opening(data)['status'] == 'pass'
@@ -77,3 +80,29 @@ def test_planned_text_or_hash_mismatch_cannot_establish_actual_opening_pass():
         data = deepcopy(evidence())
         data.update(change)
         assert check_opening(data)['status'] == 'needs_review'
+
+
+def test_short_first_shot_cannot_hide_a_long_second_opening_hold():
+    data = evidence()
+    data['picture_boundaries_seconds'] = [0, 4, 64]
+    report = check_opening(data)
+    assert report['status'] == 'needs_review'
+    assert any('Opening picture shot lasts 60 seconds' in issue for issue in report['issues'])
+
+
+def test_picture_boundary_evidence_must_reach_the_whole_hook_window():
+    data = evidence()
+    data['picture_boundaries_seconds'] = [0, 4, 8, 12]
+    assert any('first 15 seconds' in issue for issue in check_opening(data)['issues'])
+
+
+def test_one_word_stub_cannot_claim_a_full_opening_transcript():
+    data = evidence()
+    data['segments'] = [{'start':0.,'end':.1,'text':'Oxygen'}]
+    assert any('only a stub' in issue for issue in check_opening(data)['issues'])
+
+
+def test_real_speech_with_a_quiet_middle_gap_remains_valid():
+    data = evidence()
+    data['segments'] = [data['segments'][0], data['segments'][-1]]
+    assert check_opening(data)['status'] == 'pass'

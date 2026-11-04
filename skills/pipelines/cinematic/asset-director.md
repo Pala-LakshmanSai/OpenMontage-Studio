@@ -112,6 +112,16 @@ For motion-required jobs, use `video_selector` first for generated shots. `image
 
 ### 2b. Character and scene-state continuity for generated films
 
+Apply **Coherent reference geometry** in
+`docs/ai-video-global-realism-preferences.md` during existing image inspection
+before binding any reference, including non-first-frame masters. Require distinct
+boundaries/thickness, clear depth/contact, valid attachments/support and anatomy
+clearance; simplify crowded masters or separate compatible reference roles.
+Quarantine known faulty masters and only their dependents, correct future
+bindings, preserve accepted/uncertain jobs and continue independent production.
+No added review service, blanket paid call, per-clip audit or approval gate;
+reject known faults without promising error-free probabilistic generation.
+
 For AI Videos Documentary Style, apply the bounded concurrency protocol in
 `docs/ai-videos-documentary-preferences.md`: overlap only independently planned
 assets with reviewed inputs, unique recoverable receipts and one shared spend

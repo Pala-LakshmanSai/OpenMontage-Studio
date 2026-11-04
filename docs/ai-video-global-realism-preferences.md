@@ -69,6 +69,33 @@ The target is convincing internal consistency and fast, strong delivery; neither
 long prompts nor reference images guarantee that a model will obey every fact.
 Known material contradictions must be repaired before calling the film finished.
 
+## Coherent reference geometry — owner correction, 4 November 2026
+
+Treat physically coherent reference geometry as a production invariant. Each
+object needs distinct boundaries, plausible material thickness, readable front/
+behind order, valid contact, attachment, mounting and support, with clearance for
+anatomy and intended action. Reject known fused or interpenetrating solids,
+ambiguous attachments and impossible mechanical routing. Legitimate contact and
+occlusion are allowed when depth and attachment remain clear; overlapping shapes
+in projection alone do not prove an intersection. The lizard canyon reference's
+confused creature, skeleton and pipe relations exposed this general failure,
+which applies equally to other subjects, environments and mechanisms.
+
+Design simpler spatial/action-ready masters upfront. Separate identity, location
+and mechanism references when one crowded image introduces contradictions, then
+state their compatible relationship in the existing scene contract. Apply the
+existing image inspection before binding a master to video, including ordinary
+reference images that are not first frames: their bad geometry can still steer
+the output. Quarantine a materially faulty master and only its dependents;
+replace or simplify that master, bind the corrected version for future inputs,
+and keep independent production moving. Preserve accepted outputs and uncertain
+job identities; never rewrite accepted inputs or replay uncertain submissions.
+
+This improves existing preparation and targeted fault repair. It adds no review
+service, quality score, per-clip audit, blanket extra paid call or approval stage.
+Rejecting known bad references is enforceable production behavior; promising
+that a probabilistic generator will never make such an error is not.
+
 ## Convincing physical and biological action — owner correction, 3 November 2026
 
 Ordinary mechanics, anatomy and behavior must follow visible causes even inside

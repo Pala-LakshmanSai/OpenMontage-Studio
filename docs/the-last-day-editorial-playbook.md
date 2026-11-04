@@ -43,7 +43,7 @@ extinction, a precise toll or a model result unsupported by the scenario.
 
 Keep two distinct obligations: the immediate question that earns attention, and
 the answer the ending owes. Owner correction, 4 November 2026: the hook normally
-lasts about 8–15 seconds; begin the premise or mechanism by 15 seconds. Use useful
+lasts about 8–12 seconds (15-second maximum); begin the premise or mechanism by 15 seconds. Use useful
 2–6-second opening picture beats, each at least two seconds, rather than retaining
 a first shot or diagram for the provider's 30-second envelope. Essential setup
 continues as new explanation after the hook. These are production instructions,
@@ -89,7 +89,7 @@ full final MP4, not just a WAV/excerpt. Retain an excerpt hash separately for AS
 cache reuse. The checkpoint runs no ASR, network or paid service and adds no user
 approval stage. Publishing an older completed export is not retroactively gated.
 The checker flags substantial exact nearby repeats, a hook beyond 15 seconds,
-and a first shot outside 2–6 seconds. A flag needs a concrete repair or documented
+and any opening picture beat starting before 15 seconds outside 2–6 seconds. Boundary evidence must cover that interval and agree with the cached actual cut report; a short first shot cannot excuse a long second hold. A flag needs a concrete repair or documented
 intentional treatment before delivery; missing actual evidence is not a pass.
 The transcript is the reusable expensive result; the checker itself is local and
 cheap. ASR can miss or mishear words, and this lexical check cannot guarantee no

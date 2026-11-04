@@ -52,8 +52,8 @@ technical terms speakable, quantities accurate and emphases sparse. Avoid a
 repeated “but this is only the beginning” rhythm, identical rhetorical questions,
 endlessly falling dramatic phrases and uniform paragraph resets.
 
-Owner correction, 4 November 2026: deliver the opening hook in roughly 8–15
-seconds and begin new premise/mechanism information by 15 seconds. Write one
+Owner correction, 4 November 2026: deliver the opening hook in roughly 8–12
+seconds (15-second maximum) and begin new premise/mechanism information by 15 seconds. Write one
 strong thought, not a full 30-second introductory paragraph. Keep each utterance
 ID and its complete text nonoverlapping across chunks. Direct the native model:
 use a voice reference for vocal character only; do not repeat its spoken content,
