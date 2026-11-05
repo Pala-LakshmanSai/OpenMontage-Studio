@@ -119,3 +119,11 @@ when permitted, a clean public checkout at the exact manifest commit is a fallba
 Record which source was actually read. A public clone tests repository portability,
 not proof that every attached part was retrieved. Never infer installed provider
 access, private cast assets or credentials from a successful source read.
+
+
+In the Mac-app audit, helper agents could not access project files even though the
+parent could read them. Do not keep delegating identical failed reads or finish a
+required-file audit with those files unread. The parent directly reads the relevant
+numbered parts and continuations. Ordinary production reads its selected style and
+applicable shared policies rather than all styles at once. Public-checkout fallback
+is reported separately from attachment retrieval; test the source actually used.
