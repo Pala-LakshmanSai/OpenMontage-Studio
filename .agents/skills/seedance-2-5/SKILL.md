@@ -36,12 +36,31 @@ exact voice identity or lip-sync. Keep jointly generated native speech and pictu
 | Route | Tool call | Notes |
 |-------|-----------|-------|
 | fal.ai | `seedance_video`, `model_version: "2.5"` | T2V, I2V, and reference-to-video |
+| Kie | `kie_seedance_video` | Narrow guarded recovery route: fixed30s/720p/native audio, master images, original voice audio and one genuinely useful exact2s video reference; local files, private exact-task receipts. |
 | Volcengine Ark | `seedance_ark`, `model: "2.5"` | First-party model ID `doubao-seedance-2-5-260628`; custom token price required for cost estimates |
 | Runway | `runway_video`, `model: "seedance2_5"` | T2V, I2V, V2V; 480p/720p |
 | ComfyUI Partner Node | `comfyui_video`, `model_family: "seedance_2.5"` | Hosted and paid despite running in a ComfyUI graph |
 
 Do not invent a Replicate, HeyGen, or Higgsfield identifier when their current
 public API schema does not list Seedance 2.5.
+
+The Kie route was added6November2026 for three required Cleopatra-film replacements
+after the Frameo subscription ended. Its exact model is `bytedance/seedance-2-5`.
+Read the registered schema before use: this initial adapter deliberately fixes its
+duration, resolution, reference-video length and cost ceiling. It checks the live
+official720p with-video rate and existing credit balance before its sole paid POST,
+then resumes only the saved task. Unknown acceptance and failed/refused tasks never
+trigger automatic resubmission. Input-video seconds are billed with output seconds;
+images and voice-reference audio do not add video seconds under that observed rate.
+Use a meaningful original performance/identity reference, never an empty billing
+placeholder. The current recovery estimate is1216credits/$6.08 for30+2seconds;
+this is dated rate-card arithmetic, not a permanent price or signed quote. Do not
+buy credits, silently change providers or exceed the actual authorized budget.
+Transport/key setup reuses the authorized Kie adapter; no credentials belong in
+project docs. Initial verification:19focused guard/resume tests and live read-only
+rate/balance preflight; aesthetic qualification still depends on returned footage.
+Official contracts: <https://docs.kie.ai/market/bytedance/seedance-2-5> and
+<https://kie.ai/seedance-2-5>.
 
 > **Resolution note.** The supported routes above expose 480p and 720p. The model
 > generates 1080p natively on the vendor's own web platform, which is not an

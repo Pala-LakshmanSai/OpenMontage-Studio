@@ -99,6 +99,22 @@ usage receives the same entitlement. An unlimited website offer is not proof tha
 API calls are free. Obtain a free workspace-specific quote before generation; when
 the production is authorized only through the pass, refuse nonzero quotes.
 
+Dated provider observation,6November2026: during the Cleopatra film, Studio
+explicitly reported an ended subscription and showed credit-priced generation;
+an independent API30second quote changed to840credits. The signed-in day-pass
+page showed99.99USD/day and described one generation running at a time under
+fair use. Three queued required jobs returned terminal generic failures without
+usable output; their exact cause was not independently established. Preserve
+those receipts and never equate a ten-job admission/queue ceiling with ten active
+renders or assume an accepted queued job will finish within the remaining pass
+window. Use measured completed throughput and verify actual remaining entitlement
+where available. An operational timer is not a provider-expiry fact. Current
+project evidence: `projects/cleopatra-rome-20261105/production/entitlement-ended-recovery.json`.
+Renewal was outside that film's20USD cap and was not purchased. A necessary paid
+same-model fallback may proceed only under existing actual spending authority,
+compatible cast/voice/source rules and the first-pass SOP; the Frameo zero-credit
+guard must remain intact.
+
 Check each newly uploaded reference URL can actually be fetched by the generation
 provider, without sending the workspace API key to a media host. A successful
 upload does not prove readable media. Cache the successful reference by source
