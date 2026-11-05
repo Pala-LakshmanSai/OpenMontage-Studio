@@ -256,3 +256,14 @@ media paths and that user's Downloads directory. Neither the original Mac/SSD
 paths, private Pages nor personal Codex memory are prerequisites for using the
 style. Portable instructions transfer the method, not entitlements or guaranteed
 creator-level results.
+
+
+## Full-film implementation evidence — Cleopatra Rome,6November2026
+
+The first full film was delivered as11:22.833333 of native720p24 footage from the supplied adaptable outline. Current25sources and49required beats are explicit selected coverage;26raw revisions remain preserved. This is observed production/technical evidence, not owner aesthetic acceptance or a creator-parity claim. Detailed case: `projects/cleopatra-rome-20261105/production/production-lessons.md`; final artifacts and hashes are under that project.
+
+Historical invisible-camera handoffs should be staged through empty hand-to-lens movement, physical framing change and free hands; literal named capture objects repeatedly exposed modern hardware. Preserve complete native words before picture repair: a verified listener crop can retain an entire reply when the last phoneme overlaps a bad handback. Use actual returned source cuts for edit exits: this film's first encoded check caught a three-frame modern-device spill missed by coarse end samples; the targeted local trim and final cached check resolved it without new generation. Keep earlier/daytime review voices and the final lamp/child/December landing coherent.
+
+Actual coverage may justify a reviewed minor adaptation through the ending. Here a visible shared local dice game established friendship/language learning; no precise initial defeat was invented when it was not observed. The later translation and actual counter win/wave remained. A brief warming-layer ellipsis linked lavender public clothes to the dark cloak in the final address/child scene. These are specific editorial decisions preserving core/emotion/payoffs, not permission to erase a missing cause or fake coverage.
+
+The Frameo pass ended before three queued required scenes yielded usable outputs. No99.99USD/day renewal or nonzeroFrameo overflow was purchased. Existing20USD authority supported only three necessary same-model Kie replacements with original cast/voice and useful short video references, at3648reportedcredits/18.24USD rate-card estimate; whole-chat estimate18.56USD. The registered narrow adapter and fresh pricing/budget guards are documented in the Seedance2.5 skill; never infer a general free/paid fallback entitlement. Release/ping the next authorized chat once all required usable generation is finished, before editing/export, and include actual entitlement gaps.
