@@ -84,3 +84,25 @@ For a fresh Codex or Claude Code environment, install/open the actual repository
 and run `python scripts/check_production_knowledge.py`. Use the receiving device's
 storage and Downloads. The setup does not by itself transfer account entitlement,
 the original film's cast media, tool permissions or observed performance evidence.
+
+## Verified transfer lessons — 5 November 2026
+
+Live fresh-project chats retrieved all nine styles, the whole-screenplay foundation,
+exact native-audio/state/short-shot rules and Frameo receipt implementation from
+numbered attachments. An original two-minute court-comedy trial applied concealed
+prop staging, supporting-character action and persistent exit states. This was a
+text planning trial, not finished-film acceptance or proof of equal creative quality.
+The audit found and repaired a recurring documentary sample gate, a missing indexed
+vlog efficiency guide and its broken link. The Frameo adapter now uses the existing
+portable filelock dependency rather than importing POSIX-only fcntl; preserve the
+same receipt lock path and no-replay behavior. POSIX mode checks remain enforced.
+On Windows, keep credentials and receipts in a user-private ACL-protected directory;
+a Unix mode bit is not proof of a Windows ACL. No Windows live generation was tested.
+
+The Claude web project has readable source context, not an installed local runtime.
+Its execution/tool and provider-access gaps must be checked in the selected Claude
+Code/local environment. Native desktop UI inspection failed during this setup;
+do not describe that local-folder connection as verified. Attachments also do not
+include private selected-cast media or existing production receipts: transfer those
+separately when continuing an existing film, preserving their project-relative
+references and private access. New title-led films can establish their own cast.

@@ -222,3 +222,25 @@ def test_receipt_records_observed_utc_timing_once(inputs, monkeypatch):
     fields = ["submitted_at", "accepted_at", "running_first_seen_at", "completed_seen_at", "download_completed_at"]
     times = [datetime.fromisoformat(saved[k].replace("Z", "+00:00")) for k in fields]
     assert times == sorted(times) and all(saved[k].endswith("Z") for k in fields)
+
+
+def test_concurrent_same_receipt_submits_once(inputs, monkeypatch):
+    from concurrent.futures import ThreadPoolExecutor
+    from threading import Barrier
+    start = Barrier(2)
+    submissions = []
+    def post(url, **kwargs):
+        if url.endswith('/estimates'):
+            return Response({'model': 'seedance_2_5', 'credits': 0})
+        submissions.append(kwargs['headers']['Idempotency-Key'])
+        return Response({'id': 'gen_once', 'status': 'queued'}, status=202)
+    monkeypatch.setattr(requests, 'post', post)
+    monkeypatch.setattr(requests, 'get', lambda *a, **k: Response(
+        {'id': 'gen_once', 'model': 'seedance_2_5', 'status': 'running'}))
+    def run():
+        start.wait(timeout=5)
+        return FrameoVideo().execute(dict(inputs))
+    with ThreadPoolExecutor(max_workers=2) as pool:
+        results = list(pool.map(lambda _: run(), range(2)))
+    assert len(submissions) == 1
+    assert all(r.data['generation_id'] == 'gen_once' for r in results)

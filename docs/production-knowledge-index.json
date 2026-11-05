@@ -69,6 +69,7 @@
       "name": "Vlog Style",
       "pipeline": "pipeline_defs/cinematic.yaml",
       "guide": "docs/vlog-style-preferences.md",
+      "production_playbook": "docs/vlog-style-efficient-production.md",
       "template": "docs/vlog-style-prompt-template.md",
       "reference_notes": "docs/vlog-style-reference-notes.md",
       "playbook_selection": "Choose an appropriate existing playbook at proposal; the named style guide overrides incompatible generic trailer/presentation defaults."

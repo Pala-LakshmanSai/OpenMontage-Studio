@@ -8,7 +8,6 @@ caller-specified pass window. Accepted jobs may still be fetched after expiry.
 """
 from __future__ import annotations
 
-import fcntl
 import hashlib
 import json
 import math
@@ -24,6 +23,7 @@ from typing import Any
 from urllib.parse import urlparse
 
 import requests
+from filelock import FileLock
 
 from tools.base_tool import BaseTool, ToolResult, ToolStatus, ToolTier, ToolStability, ToolRuntime
 
@@ -36,7 +36,7 @@ class FrameoVideo(BaseTool):
     provider = "frameo"
     stability = ToolStability.BETA
     runtime = ToolRuntime.API
-    dependencies = ["requests"]
+    dependencies = ["requests", "filelock"]
     install_instructions = "Use the authorized workspace API key from Frameo's Developers page; store it in a private file."
     agent_skills = ["seedance-2-5"]
     capabilities = ["text_to_video", "image_to_video", "reference_to_video"]
@@ -79,7 +79,8 @@ class FrameoVideo(BaseTool):
         fd, tmp = tempfile.mkstemp(prefix=".frameo-", dir=path.parent)
         try:
             with os.fdopen(fd, "w") as f:
-                os.fchmod(f.fileno(), 0o600)
+                if os.name == "posix":
+                    os.fchmod(f.fileno(), 0o600)
                 json.dump(data, f, indent=2)
                 f.flush()
                 os.fsync(f.fileno())
@@ -90,7 +91,7 @@ class FrameoVideo(BaseTool):
     @staticmethod
     def _headers(api_key_path: str) -> dict[str, str]:
         path = Path(api_key_path)
-        if path.stat().st_mode & 0o077:
+        if os.name == "posix" and path.stat().st_mode & 0o077:
             raise ValueError("API key file must be private (mode 0600)")
         value = path.read_text().strip()
         if not value or "\n" in value:
@@ -207,11 +208,10 @@ class FrameoVideo(BaseTool):
                 raise ValueError("Invalid polling interval or duration")
             digest = hashlib.sha256(json.dumps(body, sort_keys=True).encode()).hexdigest()
             job.parent.mkdir(parents=True, exist_ok=True)
-            with open(str(job) + ".lock", "a") as lock:
-                os.chmod(lock.name, 0o600)
-                fcntl.flock(lock, fcntl.LOCK_EX)
+            with FileLock(str(job) + ".lock", mode=0o600):
                 if job.exists():
-                    os.chmod(job, 0o600)
+                    if os.name == "posix":
+                        os.chmod(job, 0o600)
                     receipt = json.loads(job.read_text())
                     if receipt.get("input_hash") != digest:
                         raise ValueError("Receipt input mismatch; no submission or resume")
