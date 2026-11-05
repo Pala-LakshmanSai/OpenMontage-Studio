@@ -52,6 +52,15 @@ pilot-derived editorial playbook; no personal Codex memory or reference download
 are required. For example: “The Last Day: [TITLE], around 10 minutes.”
 New styles inherit the shared policies and get
 their own guide, reference notes, template and playbook where appropriate.
+For **Queen Elizabeth I Style**, the knowledge index also discovers its detailed
+production playbook and one copyable Claude prompt. Paste
+`docs/queen-elizabeth-i-claude-story-prompt.md` once in a Claude Project with the
+reference channel links, retain its evidence and style bible there, then supply
+a title and approximate duration for each story. Queen Elizabeth I is the primary
+historical-insider format;
+Chloe VS History supplies explicitly selected secondary lessons rather than an
+automatic blended persona. Copy these regular repository files or update normally;
+personal Codex memory and the original Mac's drive paths are not required.
 The active title, length, cast, budget and account entitlement remain real inputs;
 old project approval or an expired pass does not authorize a new paid production.
 

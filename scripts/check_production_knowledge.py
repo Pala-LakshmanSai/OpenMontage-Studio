@@ -21,7 +21,9 @@ def check(root: Path) -> dict:
                   'requirements.txt', 'requirements-production-constraints.txt', '.env.example',
                   'remotion-composer/package.json', 'remotion-composer/package-lock.json'])
     for style in index['style_profiles']:
-        paths.update(style[k] for k in ('guide', 'template', 'reference_notes', 'playbook') if k in style)
+        paths.update(style[k] for k in ('guide', 'template', 'reference_notes', 'playbook',
+                                      'production_playbook', 'screenplay_foundation',
+                                      'story_prompt') if k in style)
         paths.add(style['pipeline'])
         for key in ('guide', 'template'):
             path = root / style[key]
@@ -30,6 +32,36 @@ def check(root: Path) -> dict:
                 for policy in ('video-fast-production-preferences.md', 'ai-video-human-performance-preferences.md'):
                     if policy not in text:
                         errors.append(f'{style[key]} does not inherit {policy}')
+        foundation = style.get('screenplay_foundation')
+        if foundation:
+            for relative in (style['guide'], style['template'], style['playbook'], 'AGENT_GUIDE.md',
+                             'skills/pipelines/cinematic/script-director.md',
+                             'skills/pipelines/cinematic/scene-director.md',
+                             'skills/pipelines/cinematic/asset-director.md',
+                             'skills/pipelines/cinematic/edit-director.md',
+                             'skills/pipelines/cinematic/compose-director.md'):
+                paths.add(relative)
+                path = root / relative
+                if path.is_file() and Path(foundation).name not in path.read_text(encoding='utf-8'):
+                    errors.append(f'{relative} does not route to {style["name"]} screenplay foundation')
+    narrative = index.get('ai_movie_narrative_contract', {})
+    for key in ('guide', 'validator', 'example', 'tests'):
+        if key not in narrative:
+            errors.append(f'Missing portable AI Movie narrative contract {key}')
+        else:
+            paths.add(narrative[key])
+    for relative in ('AGENT_GUIDE.md', 'docs/ai-movie-preferences.md',
+                     'docs/ai-movie-prompt-template.md', 'styles/ai-movie.yaml',
+                     'skills/pipelines/cinematic/script-director.md',
+                     'skills/pipelines/cinematic/executive-producer.md',
+                     'skills/pipelines/cinematic/proposal-director.md',
+                     'pipeline_defs/cinematic.yaml',
+                     'skills/pipelines/cinematic/asset-director.md',
+                     'skills/pipelines/cinematic/edit-director.md'):
+        path = root / relative
+        paths.add(relative)
+        if path.is_file() and 'ai-movie-screenplay-foundation.md' not in path.read_text(encoding='utf-8'):
+            errors.append(f'{relative} does not route to AI Movie screenplay foundation')
     hashes = {}
     for relative in sorted(paths):
         path = root / relative

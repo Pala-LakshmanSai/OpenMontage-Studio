@@ -4,7 +4,7 @@
   "frameo_generation_start": {
     "scope": "Every style using an authorized Frameo daily/unlimited API pass",
     "guide": "docs/unlimited-plan-production-preferences.md",
-    "rule": "Start the first useful generation once the concise ending-aware whole-film spine and its exact sequence inputs are ready; do not wait for the complete screenplay, full scene plan, all anchors or whole-film stage completion. Overlap later planning, references, generation and assembly with continuous refill of actual shared capacity.",
+    "rule": "AI Movie and Queen Elizabeth I Style: review and strengthen the whole story and complete revised screenplay through the ending before any new images, video, voice or music under docs/ai-movie-screenplay-foundation.md or docs/queen-elizabeth-i-style-screenplay-foundation.md; then overlap detailed ready sequences, independent generation and assembly. Other styles: concise ending-aware spine plus first exact ready sequence permits immediate useful generation. Continuously refill actual shared capacity within safeguards.",
     "portable": "Discover through AGENT_GUIDE.md on fresh installations without personal memory or prior chat; preserve scope, zero-credit quotes, no replay, native continuity and actual minimum shots."
   },
   "entrypoints": [
@@ -49,7 +49,8 @@
     "docs/the-last-day-moon-study.md",
     "docs/the-last-day-editorial-playbook.md",
     "docs/the-last-day-refinement-20261103.md",
-    "docs/the-last-day-sound-and-narration.md"
+    "docs/the-last-day-sound-and-narration.md",
+    "docs/ai-movie-screenplay-foundation.md"
   ],
   "installation": "docs/install-and-update.md",
   "style_profiles": [
@@ -132,10 +133,14 @@
       "guide": "docs/queen-elizabeth-i-style-preferences.md",
       "template": "docs/queen-elizabeth-i-style-prompt-template.md",
       "reference_notes": "docs/queen-elizabeth-i-style-reference-notes.md",
-      "playbook": "styles/queen-elizabeth-i.yaml"
+      "playbook": "styles/queen-elizabeth-i.yaml",
+      "production_playbook": "docs/queen-elizabeth-i-style-production-playbook.md",
+      "screenplay_foundation": "docs/queen-elizabeth-i-style-screenplay-foundation.md",
+      "story_prompt": "docs/queen-elizabeth-i-claude-story-prompt.md"
     }
   ],
   "shared_capabilities": [
+    "tools/video/video_compose.py",
     "tools/video/frameo_video.py",
     "tools/graphics/kie_image.py",
     "tools/enhancement/fal_bytedance_upscale.py",
@@ -158,5 +163,12 @@
     "guide": "docs/frameo-studio-production-preferences.md",
     "rule": "Use Studio web alongside the API when available and authorized; assign disjoint required ready sequences under one shared admission owner and capacity/job ledger. Start promptly and overlap preparation, generation and assembly; preserve accepted/uncertain jobs, actual pricing, budget and style constraints.",
     "portable": "Discover through AGENT_GUIDE.md and this index on fresh installations; no personal Codex memory or earlier chat is required."
+  },
+  "ai_movie_narrative_contract": {
+    "guide": "docs/ai-movie-screenplay-foundation.md",
+    "validator": "lib/narrative_continuity.py",
+    "example": "docs/examples/ai-movie-narrative-contract.json",
+    "tests": "tests/test_narrative_continuity.py",
+    "scope": "Reviewed whole screenplay before media; observed selected coverage before edit/render; integrity validation, not semantic or artistic certification."
   }
 }

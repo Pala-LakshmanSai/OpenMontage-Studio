@@ -1,5 +1,29 @@
 # Fast production for every video style
 
+Owner correction, 5 November 2026 — **AI Movie writing comes first**:
+follow `docs/ai-movie-screenplay-foundation.md`. Treat a supplied story as an
+adaptable outline. Review and strengthen the whole story and revised screenplay
+through its ending before any media generation, preserving its dramatic/emotional
+core, curiosity, hooks and setups/payoffs. Add needed connective action and reactions;
+remove/reorder weak or repetitive material. Give scenes performed time; an approximate
+30-minute request may become 45 or 55 minutes, or shorter, when the story needs it.
+This supersedes older AI Movie spine-only immediate-start instructions. After the
+foundation, overlap detailed prompts/references, independent generation and editing.
+Record required beats and observed selected coverage in existing artifacts under
+that guide's narrative contract. No new owner approval or paid review service.
+
+
+Owner correction, 5 November 2026 — **Queen Elizabeth I Style also starts with writing**:
+follow `docs/queen-elizabeth-i-style-screenplay-foundation.md`. Treat supplied stories
+as adaptable outlines; review the whole story and complete the revised screenplay
+through its ending before generating any images, video, speech or music. Preserve
+story identity, emotion, curiosity, hooks and meaningful setups/payoffs while adding,
+removing, reordering or combining material to repair causality and flow. Approximate
+runtime may grow roughly60–70% when earned, within the actual budget; do not pad.
+This supersedes spine-only immediate generation for this style. After the coherent
+foundation, overlap ready-sequence preparation, generation and assembly. This is
+an agent writing responsibility, not a new owner-approval or paid-review stage.
+
 For every new Frameo video, also follow `docs/frameo-studio-production-preferences.md`: use Studio web alongside the API when available and authorized, with disjoint ready sequences and one shared capacity/job ledger. Preserve actual pricing, accepted/uncertain submissions and the active style.
 
 Owner quality/speed clarification, 3 November 2026: jointly optimize strong
@@ -10,7 +34,8 @@ avoidable failures through better decisions and simpler achievable staging;
 eliminate duplicated work and idle handoffs rather than lowering the target.
 
 Organize the existing workflow by real dependencies: one owner freezes the
-whole-film spine/ending and shared state, writers prepare independent sequences,
+whole-film story and shared state (the reviewed complete screenplay first for AI
+Movie and Queen Elizabeth I Style), writers prepare independent sequences,
 reference/sound work overlaps, one coordinator admits ready generation at shared
 capacity, and one editor selects/conforms each returned source immediately.
 Publish ready paths/ranges/state as soon as available rather than waiting for a

@@ -1,5 +1,18 @@
 # AI movies with the Frameo daily pass
 
+Owner correction, 5 November 2026 — **AI Movie writing comes first**:
+follow `docs/ai-movie-screenplay-foundation.md`. Treat a supplied story as an
+adaptable outline. Review and strengthen the whole story and revised screenplay
+through its ending before any media generation, preserving its dramatic/emotional
+core, curiosity, hooks and setups/payoffs. Add needed connective action and reactions;
+remove/reorder weak or repetitive material. Give scenes performed time; an approximate
+30-minute request may become 45 or 55 minutes, or shorter, when the story needs it.
+This supersedes older AI Movie spine-only immediate-start instructions. After the
+foundation, overlap detailed prompts/references, independent generation and editing.
+Record required beats and observed selected coverage in existing artifacts under
+that guide's narrative contract. No new owner approval or paid review service.
+
+
 For every new Frameo video, also follow `docs/frameo-studio-production-preferences.md`: use Studio web alongside the API when available and authorized, with disjoint ready sequences and one shared capacity/job ledger. Preserve actual pricing, accepted/uncertain submissions and the active style.
 
 Owner direction, 3 November 2026. Use this when the owner chooses Frameo Seedance
@@ -60,41 +73,23 @@ seconds. Keep existing music/image budgets; a video pass is not an unlimited
 music or image subscription. Use the selected native voice/reference method
 supported by this route; do not silently add postprocessed lips or change models.
 
-## Start the first ready sequence early
+## Start ready sequences after the reviewed screenplay foundation
 
-Owner clarification, 4 November 2026: the cross-style
-[immediate-start rule](unlimited-plan-production-preferences.md#immediate-start-for-every-frameo-style--owner-clarification-4-november-2026)
-applies on every fresh installation. Start once the ending-aware concise spine
-and first sequence's exact inputs are ready; neither all anchors nor complete
-whole-film stage artifacts/gates may delay that authorized submission. Keep
-later preparation, generation and assembly overlapping under shared admission.
+Complete `docs/ai-movie-screenplay-foundation.md` before any movie media generation.
+The whole revised screenplay, causal sequence structure, required actions, emotional
+turns, chronology, setups/payoffs and ending must be coherent. Prepare before pass
+activation when possible. A live pass is not a reason to bypass foundational writing.
 
-Prepare before pass activation when possible. Once an authorized pass is live,
-do not make full-film detailed screenplay or complete anchor production a barrier
-to the first generation. Replace that barrier with two levels of preparation:
+Then freeze exact ready-sequence dialogue, achievable action, shot timings,
+references, blocking, entry/exit state, light/weather/axis, native sound and edit
+intention. Detailed later prompts and references can develop while ready independent
+sequences generate. Do not wait for all anchors or a slow batch member. Only true
+observed-state dependencies wait. Keep canonical partial artifacts truthful.
 
-1. **Whole-film spine, once:** title promise, duration range, protagonist's want
-   and emotional need, governing world rules, initial problem, causal escalation,
-   consequential reversal, costly final choice, ending/payoff and essential setup
-   plants. Assign ordered sequence IDs and approximate time budgets. Lock cast,
-   voices, principal geography, visual grammar, sound strategy and actual budget.
-   This is a concise ending-aware outline, not every shot or spoken line.
-2. **Ready sequence, incrementally:** finish its exact dialogue, achievable
-   action, shot timings, emotional turn, references, blocking, start/end state,
-   light/weather/axis, native sound and edit intention. Freeze the inputs before
-   submission. Write later sequences while this sequence generates.
-
-The opening should establish a specific unsettled situation quickly, not consume
-the first several requests on generic scenery. Every later sequence must change
-the situation through a choice, discovery, conflict or result. Before freezing
-one, check it against the already locked ending and outstanding setup/payoff
-obligations. Expand or simplify unsubmitted material to fit actual runtime;
-never rewrite an accepted chunk's inputs under the same receipt.
-
-A first useful take may establish transport, identity and dialogue behavior.
-Do not launch a separate paid audition, ten-pose asset trial or scoring loop.
-Independent sequences whose references and state are already settled can proceed
-while that take runs. Only true dependencies wait for its observed result.
+The opening establishes a specific unsettled situation quickly. Later sequences
+change it through motivated action and consequence. Reconcile unsubmitted changes
+with the protected story obligations; never mutate accepted inputs or replay an
+uncertain receipt. Use the first useful planned take rather than a paid audition.
 
 ## Minimum ready-chunk contract
 
@@ -289,7 +284,8 @@ Use canonical cinematic proposal/script/scene-plan/assets/edit/compose artifacts
 Read each applicable stage skill before its work. With full-run authorization
 recorded, keep unfinished whole-film stages `in_progress` and publish frozen
 sequence revisions/readiness plus `metadata.partial_progress`; do not falsely
-mark the complete screenplay or asset batch finished to start useful work.
+mark the asset batch or detailed provider plan finished to start useful work.
+The revised whole screenplay foundation must already be reviewed before media.
 Merge final canonical artifacts and validate them before whole-film completion.
 Retain one receipt identity, state ledger and ordered selections across resumes.
 

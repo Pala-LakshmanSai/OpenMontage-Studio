@@ -1,5 +1,29 @@
 # Compose Director - Cinematic Pipeline
 
+Owner correction, 5 November 2026 — **AI Movie writing comes first**:
+follow `docs/ai-movie-screenplay-foundation.md`. Treat a supplied story as an
+adaptable outline. Review and strengthen the whole story and revised screenplay
+through its ending before any media generation, preserving its dramatic/emotional
+core, curiosity, hooks and setups/payoffs. Add needed connective action and reactions;
+remove/reorder weak or repetitive material. Give scenes performed time; an approximate
+30-minute request may become 45 or 55 minutes, or shorter, when the story needs it.
+This supersedes older AI Movie spine-only immediate-start instructions. After the
+foundation, overlap detailed prompts/references, independent generation and editing.
+Record required beats and observed selected coverage in existing artifacts under
+that guide's narrative contract. No new owner approval or paid review service.
+
+For **Queen Elizabeth I Style**, also follow
+`docs/queen-elizabeth-i-style-screenplay-foundation.md`. Review and strengthen the
+whole story and write the complete revised screenplay through its ending before
+any new image, video, voice or music generation. Treat supplied prose as an
+adaptable outline while protecting its core, emotional arc, curiosity and
+setups/payoffs. Give scenes earned performed time within the actual budget; this
+adds no human approval or paid review service. After this foundation, overlap
+ready-sequence detail, independent generation and assembly. Preserve the style's
+historical character-vlog grammar rather than importing AI Movie aesthetics.
+
+
+
 For a requested video upscale, read `docs/video-upscaling-preferences.md` and
 `skills/creative/upscale-usage.md`: ByteDance API only. Do not replace enhancement
 with a local resize or another provider. Technical split/join/audio-copy/checks
@@ -123,3 +147,15 @@ Recommended metadata keys:
 - Applying letterbox to footage that needs every pixel.
 - Letting grading or sharpening damage faces or text.
 - Silently swapping a blocked Remotion render for a lower-fidelity still-image export.
+
+
+## Reviewed screenplay and selected coverage
+
+For new contract-version1 AI Movie and Queen Elizabeth I Style projects, load the
+active foundation guide and run the existing
+`lib.narrative_continuity.validate_coverage(project, script, edit_decisions)`
+before compose/publish admission. The checkpoints enforce the reviewed screenplay
+hash and observations inside the current selected cut ranges. A valid export,
+complete word list or nominal runtime does not establish that a required cause,
+response or ending was experienced. This validates recorded evidence, not pixel
+meaning or artistic acceptance, and adds no paid scoring/review service.

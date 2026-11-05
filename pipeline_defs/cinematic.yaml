@@ -1,3 +1,6 @@
+# AI Movie override (5 November 2026): docs/ai-movie-screenplay-foundation.md
+# Reviewed whole screenplay before any media; observed required-beat coverage
+# before render. Existing full-run authorization adds no owner approval gate.
 name: cinematic
 version: "2.0"
 description: >
@@ -101,6 +104,7 @@ stages:
       - At least 3 concept options with different emotional arcs
       - Delivery promise present with motion_required flag
       - Cost estimate includes per-item breakdown
+    # AI Movie: no proposal media sample before reviewed screenplay foundation.
     sub_stages:
       - name: sample
         description: "10-15 second cinematic preview for reference-driven productions"

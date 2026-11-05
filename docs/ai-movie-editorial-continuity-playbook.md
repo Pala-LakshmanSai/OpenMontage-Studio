@@ -1,5 +1,18 @@
 # AI Movie: make sequences, then edit the film
 
+Owner correction, 5 November 2026 — **AI Movie writing comes first**:
+follow `docs/ai-movie-screenplay-foundation.md`. Treat a supplied story as an
+adaptable outline. Review and strengthen the whole story and revised screenplay
+through its ending before any media generation, preserving its dramatic/emotional
+core, curiosity, hooks and setups/payoffs. Add needed connective action and reactions;
+remove/reorder weak or repetitive material. Give scenes performed time; an approximate
+30-minute request may become 45 or 55 minutes, or shorter, when the story needs it.
+This supersedes older AI Movie spine-only immediate-start instructions. After the
+foundation, overlap detailed prompts/references, independent generation and editing.
+Record required beats and observed selected coverage in existing artifacts under
+that guide's narrative contract. No new owner approval or paid review service.
+
+
 Owner correction, 4 November 2026. Read with the [movie preferences](ai-movie-preferences.md),
 [global continuity rules](ai-video-global-realism-preferences.md) and
 [story guide](ai-video-story-engagement-preferences.md). This is portable project

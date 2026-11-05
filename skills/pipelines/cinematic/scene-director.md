@@ -1,6 +1,30 @@
 # Scene Director - Cinematic Pipeline
 
-For **any authorized Frameo daily/unlimited API style**, follow the immediate-start
+Owner correction, 5 November 2026 — **AI Movie writing comes first**:
+follow `docs/ai-movie-screenplay-foundation.md`. Treat a supplied story as an
+adaptable outline. Review and strengthen the whole story and revised screenplay
+through its ending before any media generation, preserving its dramatic/emotional
+core, curiosity, hooks and setups/payoffs. Add needed connective action and reactions;
+remove/reorder weak or repetitive material. Give scenes performed time; an approximate
+30-minute request may become 45 or 55 minutes, or shorter, when the story needs it.
+This supersedes older AI Movie spine-only immediate-start instructions. After the
+foundation, overlap detailed prompts/references, independent generation and editing.
+Record required beats and observed selected coverage in existing artifacts under
+that guide's narrative contract. No new owner approval or paid review service.
+
+For **Queen Elizabeth I Style**, also follow
+`docs/queen-elizabeth-i-style-screenplay-foundation.md`. Review and strengthen the
+whole story and write the complete revised screenplay through its ending before
+any new image, video, voice or music generation. Treat supplied prose as an
+adaptable outline while protecting its core, emotional arc, curiosity and
+setups/payoffs. Give scenes earned performed time within the actual budget; this
+adds no human approval or paid review service. After this foundation, overlap
+ready-sequence detail, independent generation and assembly. Preserve the style's
+historical character-vlog grammar rather than importing AI Movie aesthetics.
+
+
+
+For **authorized Frameo daily/unlimited API styles other than AI Movie and Queen Elizabeth I Style**, follow the immediate-start
 rule in `docs/unlimited-plan-production-preferences.md`: a concise ending-aware
 spine plus the first useful sequence's exact ready inputs permits its release.
 Do not wait for the full scene plan, complete screenplay, all anchors or whole-film
@@ -139,3 +163,13 @@ This stage gates on human approval (`human_approval_default: true`). After revie
 checkpoint with `status="awaiting_human"`, present the summary (the Backlot board renders
 the artifact), and **END YOUR TURN**. Do not start the next stage in the same response.
 This per-gate default applies only when full-run authorization has not been recorded.
+
+
+## Queen Elizabeth I scene-plan foundation
+
+Load the current reviewed whole screenplay under
+`docs/queen-elizabeth-i-style-screenplay-foundation.md` before releasing media
+work. Keep its required causal/emotional beats and ending intact while preparing
+provider-sized sequence detail. Do not replace it with a short spine or a count
+of thirty-second jobs. New contract-version1 scene-plan checkpoints validate the
+same saved foundation; only later detailed shot preparation may remain rolling.

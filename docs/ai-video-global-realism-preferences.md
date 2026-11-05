@@ -1,5 +1,12 @@
 # Global realism and progression for AI videos
 
+For AI Movie, the 5 November 2026 owner correction in
+`docs/ai-movie-screenplay-foundation.md` requires whole-story adaptation and revised
+screenplay review before media generation. Preserve story/emotional identity and
+setups/payoffs while improving causality, agency, pacing and necessary transitions.
+This style-specific order supersedes spine-only immediate generation; it adds no
+paid scorer or owner approval. Other styles keep their own contracts.
+
 ## General principles inherited by every AI video style
 
 Owner clarification, 3 November 2026: learn the underlying failure class from

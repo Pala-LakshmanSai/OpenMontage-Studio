@@ -1,9 +1,18 @@
 # Executive Producer — Cinematic Pipeline
 
+AI Movie override, owner correction 5 November 2026: read
+`docs/ai-movie-screenplay-foundation.md`. Review/adapt the whole revised screenplay
+before any media generation; preserve story/emotion/curiosity/hooks/setups/payoffs,
+add necessary causal action and remove repetition. This supersedes spine-only
+immediate start for AI Movie. Afterward overlap detailed ready work, generation
+and assembly. No new owner approval or paid review. Use the existing narrative
+foundation/observed-coverage contract; preserve legacy accepted/stopped work.
+
+
 For every new Frameo video, also follow `docs/frameo-studio-production-preferences.md`: use Studio web alongside the API when available and authorized, with disjoint ready sequences and one shared capacity/job ledger. Preserve actual pricing, accepted/uncertain submissions and the active style.
 
-**Cross-style Frameo scheduling override, 4 November 2026:** for any authorized
-daily/unlimited API style, follow `docs/unlimited-plan-production-preferences.md`.
+**Cross-style Frameo scheduling override, 4 November 2026:** for authorized
+daily/unlimited API styles other than AI Movie, follow `docs/unlimited-plan-production-preferences.md`.
 Submit the first useful sequence when its exact inputs and concise ending-aware
 whole-film spine are ready. Do not wait for the complete screenplay, full scene
 plan, all anchors or whole-film stage completion. With recorded full-run
@@ -73,9 +82,9 @@ of repeating its research for every title.
 
 When Frameo unlimited is selected and production authorized, follow
 `docs/ai-movie-frameo-production.md`. Serial stage order below is artifact
-dependency order, not a whole-film wall-clock barrier: freeze the global spine,
-ending and shared bible, complete the first sequence's script/scene plan, then
-overlap its assets with later sequence planning and completed-source assembly.
+dependency order: first review the whole revised screenplay foundation and shared
+bible, then freeze ready sequence provider inputs and overlap independent media
+with later detailed prompts/references and completed-source assembly.
 Keep partial canonical artifacts and in-progress checkpoints truthful; do not
 mark a whole stage complete while it lacks required coverage. Record the owner's
 full-run approval policy using the existing checkpoint mechanism. Scope actual

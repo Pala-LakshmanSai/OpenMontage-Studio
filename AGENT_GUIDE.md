@@ -1,5 +1,29 @@
 # OpenMontage - Agent Guide
 
+Owner correction, 5 November 2026 — **AI Movie writing comes first**:
+follow `docs/ai-movie-screenplay-foundation.md`. Treat a supplied story as an
+adaptable outline. Review and strengthen the whole story and revised screenplay
+through its ending before any media generation, preserving its dramatic/emotional
+core, curiosity, hooks and setups/payoffs. Add needed connective action and reactions;
+remove/reorder weak or repetitive material. Give scenes performed time; an approximate
+30-minute request may become 45 or 55 minutes, or shorter, when the story needs it.
+This supersedes older AI Movie spine-only immediate-start instructions. After the
+foundation, overlap detailed prompts/references, independent generation and editing.
+Record required beats and observed selected coverage in existing artifacts under
+that guide's narrative contract. No new owner approval or paid review service.
+
+
+Owner correction, 5 November 2026 — **Queen Elizabeth I Style also starts with writing**:
+follow `docs/queen-elizabeth-i-style-screenplay-foundation.md`. Treat supplied stories
+as adaptable outlines; review the whole story and complete the revised screenplay
+through its ending before generating any images, video, speech or music. Preserve
+story identity, emotion, curiosity, hooks and meaningful setups/payoffs while adding,
+removing, reordering or combining material to repair causality and flow. Approximate
+runtime may grow roughly60–70% when earned, within the actual budget; do not pad.
+This supersedes spine-only immediate generation for this style. After the coherent
+foundation, overlap ready-sequence preparation, generation and assembly. This is
+an agent writing responsibility, not a new owner-approval or paid-review stage.
+
 Before narrative AI story/scene planning, follow `docs/ai-video-story-engagement-preferences.md`: short strong hooks, much bolder consequential surprises and escalating extreme challenges planned before generation, with believable causes and persistent costs. Preserve the active style and the fast autonomous workflow.
 
 Owner correction, 4 November 2026: that guide's **Complete endings and flexible
@@ -61,7 +85,7 @@ refill. Preserve uncertain submissions and actual route pricing; a pass badge
 does not establish independent concurrency or authorize purchases.
 
 Owner clarification, 4 November 2026: for **any style using an authorized Frameo
-daily/unlimited API pass**, start the first useful generation as soon as the
+daily/unlimited API pass**, except the foundation-first AI Movie and Queen Elizabeth I workflows above, start the first useful generation as soon as the
 concise whole-film spine (including ending) and that sequence's exact inputs are
 ready. Do not wait for the complete screenplay, full scene plan, all anchors or
 whole-film stage completion. Continue later planning, references, generation and
@@ -153,9 +177,10 @@ For **AI movies**, read `docs/ai-movie-preferences.md`,
 `docs/ai-movie-reference-notes.md`, `docs/ai-movie-editorial-continuity-playbook.md`
 and `docs/ai-movie-prompt-template.md`; use
 `styles/ai-movie.yaml` with cinematic stages. When Frameo unlimited is explicitly
-selected, also read `docs/ai-movie-frameo-production.md`: whole-film causal spine
-and ending first, detailed preparation frozen per ready sequence, then generation,
-later planning and assembly overlap under one shared account admission owner.
+selected, also read `docs/ai-movie-frameo-production.md`: reviewed whole screenplay
+foundation and ending first, then detailed provider preparation frozen per ready
+sequence; generation, later prompts/references and assembly overlap under one
+shared account admission owner.
 Do not inherit historical H3-only dialogue routing or wait for a fully detailed
 whole-film shot plan. Reuse saved research on later films; preserve actual scope,
 budget, accepted jobs, native speech and the minimum actual shot rule.
@@ -206,7 +231,8 @@ If a model misses this distinction, it will often fall back to plain search + gu
 For **Mira Beyond the Screen Style**, read `docs/mira-beyond-the-screen-style-preferences.md`, its reference notes and prompt template; use `styles/mira-beyond-the-screen.yaml` with cinematic narrative stages. Original dialogue-led sci-fi pairs personal mysteries, practical discovery, costly choices and earned scale with emotional aftermath. The popular theater/selfie upload is a separate format. Reference study used owner-approved sampled visual/temporal/caption/local analysis, not full continuous viewing/listening. Reuse the saved research and preserve current shared policies, actual budget, native continuity and full-run autonomy.
 
 For **Queen Elizabeth I Style**, read `docs/queen-elizabeth-i-style-preferences.md`,
-its reference notes and prompt template; use `styles/queen-elizabeth-i.yaml` with
+its reference notes, prompt template, production playbook and
+`docs/queen-elizabeth-i-style-screenplay-foundation.md`; use `styles/queen-elizabeth-i.yaml` with
 cinematic stages and historical character-vlog overrides. Concrete period tasks,
 first-person social commentary, dry asides and completed human payoffs anchor the
 format. Preserve original permitted identity/voice, verified history versus

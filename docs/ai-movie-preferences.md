@@ -1,5 +1,18 @@
 # Saved AI movie preferences
 
+Owner correction, 5 November 2026 — **AI Movie writing comes first**:
+follow `docs/ai-movie-screenplay-foundation.md`. Treat a supplied story as an
+adaptable outline. Review and strengthen the whole story and revised screenplay
+through its ending before any media generation, preserving its dramatic/emotional
+core, curiosity, hooks and setups/payoffs. Add needed connective action and reactions;
+remove/reorder weak or repetitive material. Give scenes performed time; an approximate
+30-minute request may become 45 or 55 minutes, or shorter, when the story needs it.
+This supersedes older AI Movie spine-only immediate-start instructions. After the
+foundation, overlap detailed prompts/references, independent generation and editing.
+Record required beats and observed selected coverage in existing artifacts under
+that guide's narrative contract. No new owner approval or paid review service.
+
+
 For any requested movie upscale, follow [video upscaling preferences](video-upscaling-preferences.md):
 ByteDance API only, followed by the required one local technical audit of the
 complete reassembled enhanced movie before delivery/upload. Prove full sections
@@ -99,8 +112,8 @@ historical H3 split below for both speaking and non-speaking footage. Read
 [Frameo movie production](ai-movie-frameo-production.md) and
 [unlimited-pass policy](unlimited-plan-production-preferences.md). Prefer useful
 30-second multi-shot generations, with ordinary actual shots at least 2 seconds.
-Prepare the whole-film spine and ending, then launch ready, frozen sequences while
-later screenplay/scene detail continues. Do not leave available slots idle waiting
+Review and strengthen the whole revised screenplay through its ending first,
+then launch ready frozen sequences while later provider prompts/references continue. Do not leave available slots idle waiting
 for the whole detailed plan or an entire batch to finish. Use one account-wide
 admission owner and the verified capacity (owner requests ten); keep accepted and
 uncertain submissions accounted for. Assemble during generation. Provider queue

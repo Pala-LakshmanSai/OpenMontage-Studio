@@ -1,5 +1,29 @@
 # Edit Director - Cinematic Pipeline
 
+Owner correction, 5 November 2026 — **AI Movie writing comes first**:
+follow `docs/ai-movie-screenplay-foundation.md`. Treat a supplied story as an
+adaptable outline. Review and strengthen the whole story and revised screenplay
+through its ending before any media generation, preserving its dramatic/emotional
+core, curiosity, hooks and setups/payoffs. Add needed connective action and reactions;
+remove/reorder weak or repetitive material. Give scenes performed time; an approximate
+30-minute request may become 45 or 55 minutes, or shorter, when the story needs it.
+This supersedes older AI Movie spine-only immediate-start instructions. After the
+foundation, overlap detailed prompts/references, independent generation and editing.
+Record required beats and observed selected coverage in existing artifacts under
+that guide's narrative contract. No new owner approval or paid review service.
+
+For **Queen Elizabeth I Style**, also follow
+`docs/queen-elizabeth-i-style-screenplay-foundation.md`. Review and strengthen the
+whole story and write the complete revised screenplay through its ending before
+any new image, video, voice or music generation. Treat supplied prose as an
+adaptable outline while protecting its core, emotional arc, curiosity and
+setups/payoffs. Give scenes earned performed time within the actual budget; this
+adds no human approval or paid review service. After this foundation, overlap
+ready-sequence detail, independent generation and assembly. Preserve the style's
+historical character-vlog grammar rather than importing AI Movie aesthetics.
+
+
+
 ## When To Use
 
 This stage turns the beat map into a paced cinematic timeline. Rhythm and restraint matter more than effect count.
@@ -95,3 +119,18 @@ Recommended metadata keys:
 - Overcutting emotional material.
 - Using speed ramps or flashy transitions by default.
 - Letting title cards replace editorial clarity.
+
+## AI Movie and Queen Elizabeth I narrative coverage contract
+
+Populate `edit_decisions.metadata.narrative_coverage` under
+the active style's foundation guide (`docs/ai-movie-screenplay-foundation.md` or
+`docs/queen-elizabeth-i-style-screenplay-foundation.md`) using actual selected cuts and required
+beat observations. Use `cuts_digest(cuts)` from `lib.narrative_continuity` and the
+reviewed screenplay hash; reconcile after any screenplay/cut change. Include
+critical arrival/contact/result, secondary agency, reactions, temporal cues and
+setups/payoffs in the appropriate sequence, without mandatory trivial travel.
+Known missing bridges cannot pass on a downloaded/usable flag or minimum shot
+length. Record deliberate readable ellipses, not explanations of unseen footage.
+New contract-version1 checkpoints for these styles reject stale/missing coverage
+before render. This validates
+recorded observations, not their visual meaning or owner artistic acceptance.

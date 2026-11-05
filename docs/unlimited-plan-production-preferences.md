@@ -1,10 +1,34 @@
 # Production during a limited-time unlimited pass
 
+Owner correction, 5 November 2026 — **AI Movie writing comes first**:
+follow `docs/ai-movie-screenplay-foundation.md`. Treat a supplied story as an
+adaptable outline. Review and strengthen the whole story and revised screenplay
+through its ending before any media generation, preserving its dramatic/emotional
+core, curiosity, hooks and setups/payoffs. Add needed connective action and reactions;
+remove/reorder weak or repetitive material. Give scenes performed time; an approximate
+30-minute request may become 45 or 55 minutes, or shorter, when the story needs it.
+This supersedes older AI Movie spine-only immediate-start instructions. After the
+foundation, overlap detailed prompts/references, independent generation and editing.
+Record required beats and observed selected coverage in existing artifacts under
+that guide's narrative contract. No new owner approval or paid review service.
+
+
+Owner correction, 5 November 2026 — **Queen Elizabeth I Style also starts with writing**:
+follow `docs/queen-elizabeth-i-style-screenplay-foundation.md`. Treat supplied stories
+as adaptable outlines; review the whole story and complete the revised screenplay
+through its ending before generating any images, video, speech or music. Preserve
+story identity, emotion, curiosity, hooks and meaningful setups/payoffs while adding,
+removing, reordering or combining material to repair causality and flow. Approximate
+runtime may grow roughly60–70% when earned, within the actual budget; do not pad.
+This supersedes spine-only immediate generation for this style. After the coherent
+foundation, overlap ready-sequence preparation, generation and assembly. This is
+an agent writing responsibility, not a new owner-approval or paid-review stage.
+
 For every new Frameo video, also follow `docs/frameo-studio-production-preferences.md`: use Studio web alongside the API when available and authorized, with disjoint ready sequences and one shared capacity/job ledger. Preserve actual pricing, accepted/uncertain submissions and the active style.
 
-## Immediate start for every Frameo style — owner clarification, 4 November 2026
+## Immediate start after the applicable story foundation
 
-This applies to **any style using an authorized Frameo daily/unlimited API pass**.
+This applies to **styles other than AI Movie and Queen Elizabeth I Style using an authorized Frameo daily/unlimited API pass**. Both named styles first complete their reviewed whole screenplay foundation above.
 Once the concise whole-film spine includes its ending and the first useful
 sequence has exact ready inputs, submit that sequence promptly. The complete
 screenplay, full scene plan, all anchors and whole-film stage completion are not
@@ -26,7 +50,7 @@ and record actual timing so future estimates improve. Apply this alongside the
 current style and [fast production](video-fast-production-preferences.md).
 
 Owner refinement, 3 November 2026: **rolling preparation is the default once the
-pass is running**. Lock a concise whole-film causal spine, including the ending,
+pass is running** for styles other than AI Movie and Queen Elizabeth I Style. Both named styles finish their whole screenplay foundation first. Other styles lock a concise whole-film causal spine, including the ending,
 then finish and release the first useful sequence while later sequences are
 written and staged. Do not wait for every line, anchor or shot in the film.
 For AI movies use [the Frameo production workflow](ai-movie-frameo-production.md),
@@ -51,8 +75,10 @@ references, action/camera staging, continuity states and assembly plan before
 activating a time-limited pass. Reuse settled style research and accepted assets.
 Do not buy or activate a plan unless the owner explicitly authorizes it.
 
-If the owner has already activated the pass, do not wait for a whole-film planning
-document before starting an independently ready sequence. Freeze its story order,
+If the owner has already activated the pass, AI Movie and Queen Elizabeth I Style
+still finish their whole screenplay foundation before media generation. After that
+foundation, or for another style, do not wait for all detailed provider planning
+before starting an independently ready sequence. Freeze its story order,
 references, spoken lines and continuity first; prepare later sequences in parallel.
 Use bounded parallel work within the provider's actual account limit. Keep one
 coordinated admission queue so separate workers do not multiply that limit.

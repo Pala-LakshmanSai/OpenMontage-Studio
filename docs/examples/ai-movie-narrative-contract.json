@@ -1,0 +1,31 @@
+{
+  "note": "Shape example only. Replace placeholders with real reviewed screenplay and observed selected footage. Never copy claims as evidence.",
+  "script_metadata": {
+    "narrative_foundation": {
+      "status": "reviewed",
+      "source_read_through_ending": true,
+      "protected_core": ["Father misreads protector; loss and later recognition retain emotional meaning", "Whistle setup changes meaning at the ending"],
+      "adaptation_decisions": ["Add departure and rescuer approach/contact; cut redundant approach holds; retain necessary aftermath"],
+      "screenplay_path": "production/revised-screenplay.md",
+      "screenplay_sha256": "REPLACE_WITH_SHA256_OF_REVIEWED_FILE",
+      "unresolved_gaps": [],
+      "ending_sequence_id": "S02",
+      "sequences": [
+        {"id": "S01", "purpose": "Emergency interrupts celebration", "action_and_transition": "Father descends and departs; group responds; rescuer reaches edge and makes contact", "emotional_turn": "Celebration becomes helpless urgency", "performance_seconds": 95, "required_beats": [{"id": "departure", "description": "Father leaves celebration and group responds"}, {"id": "rescue-contact", "description": "Rescuer arrives, chooses feasible method and makes effective contact"}]},
+        {"id": "S02", "purpose": "Illustrative final aftermath", "action_and_transition": "Arrive home after established return intent; legible daylight cue omits uneventful journey", "emotional_turn": "Immediate danger gives way to costly grief", "performance_seconds": 45, "required_beats": [{"id": "aftermath", "description": "Return cue and performed emotional consequence"}]}
+      ]
+    }
+  },
+  "edit_metadata": {
+    "narrative_coverage": {
+      "screenplay_sha256": "MATCH_FOUNDATION_HASH",
+      "cuts_sha256": "COMPUTE_WITH_lib.narrative_continuity.cuts_digest",
+      "unresolved_gaps": [],
+      "observations": [
+        {"beat_id": "departure", "cut_id": "selected-01", "source_start_seconds": 2, "source_end_seconds": 9, "mode": "visible_action", "observed": "Actual father descends from shoulders, turns toward cry; friend notices and follows"},
+        {"beat_id": "rescue-contact", "cut_id": "selected-02", "source_start_seconds": 1, "source_end_seconds": 12, "mode": "visible_action", "observed": "Rescuer arrives, kneels on supported edge, extends rope and catches wrist before haul"},
+        {"beat_id": "aftermath", "cut_id": "selected-03", "source_start_seconds": 0, "source_end_seconds": 15, "mode": "legible_ellipsis", "observed": "Previous return intention followed by same injured father at home in dawn light; wife waits, notices absence, then responds"}
+      ]
+    }
+  }
+}

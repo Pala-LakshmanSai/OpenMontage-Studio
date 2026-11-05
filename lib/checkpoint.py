@@ -236,6 +236,8 @@ def init_project(
 
     marker.setdefault("version", "1.0")
     marker.setdefault("created_at", datetime.now(timezone.utc).isoformat())
+    if style_playbook in {"ai-movie", "queen-elizabeth-i"} and not marker_path.exists():
+        marker["narrative_contract_version"] = 1
     marker["project_id"] = project_id
     marker["title"] = title
     marker["pipeline_type"] = pipeline_type
@@ -505,6 +507,31 @@ def write_checkpoint(
         stage,
         status,
     )
+
+    # New AI Movies and Queen Elizabeth I productions require reviewed writing
+    # before media and observed selected coverage before rendering. Legacy
+    # accepted/stopped projects are preserved.
+    if isinstance(marker, dict) and marker.get("narrative_contract_version") == 1:
+        contract_style = marker.get("style_playbook")
+        if contract_style in {"ai-movie", "queen-elizabeth-i"} and style_playbook != contract_style:
+            raise CheckpointValidationError(f"{contract_style} project style disagrees with its narrative contract")
+        if style_playbook in {"ai-movie", "queen-elizabeth-i"} and status in {"in_progress", "completed", "awaiting_human"}:
+            from lib.narrative_continuity import (
+                NarrativeContinuityError, validate_foundation, validate_coverage,
+            )
+            script = artifacts.get("script") if stage == "script" else (
+                (read_checkpoint(pipeline_dir, project_id, "script") or {}).get("artifacts", {}).get("script", {}))
+            try:
+                if stage in {"scene_plan", "assets", "edit", "compose", "publish"} or (
+                    stage == "script" and status != "in_progress"
+                ):
+                    validate_foundation(pipeline_dir / project_id, script or {})
+                if (stage == "edit" and status != "in_progress") or stage in {"compose", "publish"}:
+                    edit = artifacts.get("edit_decisions") if stage == "edit" else (
+                        (read_checkpoint(pipeline_dir, project_id, "edit") or {}).get("artifacts", {}).get("edit_decisions", {}))
+                    validate_coverage(pipeline_dir / project_id, script or {}, edit or {})
+            except (NarrativeContinuityError, KeyError, TypeError, ValueError, OSError) as exc:
+                raise CheckpointValidationError(str(exc)) from exc
 
     # Source-led edits need grounded editorial evidence before rendering or
     # delivery. This validates recorded observations, not pixel semantics.

@@ -1,8 +1,32 @@
 # Asset Director - Cinematic Pipeline
 
+Owner correction, 5 November 2026 — **AI Movie writing comes first**:
+follow `docs/ai-movie-screenplay-foundation.md`. Treat a supplied story as an
+adaptable outline. Review and strengthen the whole story and revised screenplay
+through its ending before any media generation, preserving its dramatic/emotional
+core, curiosity, hooks and setups/payoffs. Add needed connective action and reactions;
+remove/reorder weak or repetitive material. Give scenes performed time; an approximate
+30-minute request may become 45 or 55 minutes, or shorter, when the story needs it.
+This supersedes older AI Movie spine-only immediate-start instructions. After the
+foundation, overlap detailed prompts/references, independent generation and editing.
+Record required beats and observed selected coverage in existing artifacts under
+that guide's narrative contract. No new owner approval or paid review service.
+
+For **Queen Elizabeth I Style**, also follow
+`docs/queen-elizabeth-i-style-screenplay-foundation.md`. Review and strengthen the
+whole story and write the complete revised screenplay through its ending before
+any new image, video, voice or music generation. Treat supplied prose as an
+adaptable outline while protecting its core, emotional arc, curiosity and
+setups/payoffs. Give scenes earned performed time within the actual budget; this
+adds no human approval or paid review service. After this foundation, overlap
+ready-sequence detail, independent generation and assembly. Preserve the style's
+historical character-vlog grammar rather than importing AI Movie aesthetics.
+
+
+
 For every new Frameo video, also follow `docs/frameo-studio-production-preferences.md`: use Studio web alongside the API when available and authorized, with disjoint ready sequences and one shared capacity/job ledger. Preserve actual pricing, accepted/uncertain submissions and the active style.
 
-For **any authorized Frameo daily/unlimited API style**, follow the immediate-start
+For **authorized Frameo daily/unlimited API styles other than AI Movie and Queen Elizabeth I Style**, follow the immediate-start
 rule in `docs/unlimited-plan-production-preferences.md`. Once the concise
 ending-aware spine and first useful sequence's exact inputs are ready, submit
 without waiting for every anchor, the complete screenplay/full scene plan or
@@ -291,9 +315,28 @@ Do not rely on stale knowledge. When in doubt, search first.
 
 The full-run authorization and cross-style Frameo scheduling overrides above
 apply here. The per-gate default below applies only without recorded full-run
-authorization; it does not impose whole-film preparation before ready sequences.
+authorization. It does not remove the whole-screenplay foundation required for
+AI Movie and Queen Elizabeth I Style before any new media; other styles keep
+their ready-sequence scheduling rules.
 
 This stage gates on human approval (`human_approval_default: true`). After review passes:
 checkpoint with `status="awaiting_human"`, present the summary (the Backlot board renders
 the artifact), and **END YOUR TURN**. Do not start the next stage in the same response.
 Approval is per-gate — an earlier "go ahead" does not cover this gate.
+
+## AI Movie and Queen Elizabeth I admission evidence
+
+Before any new registered image, video, voice or music call or dispatcher
+admission for AI Movie or Queen Elizabeth I Style, load the
+script artifact and run `validate_foundation(project, script)` from
+`lib.narrative_continuity`. Adopt `narrative_contract_version: 1` in legacy project
+markers before new media work, preserving existing accepted/uncertain receipts.
+The reviewed screenplay must exist with its current hash; a concise spine or
+`ready` label is insufficient. New projects must be initialized with their explicit style through
+`lib.checkpoint.init_project`; their assets checkpoints enforce this too. The
+direct dispatcher must execute the same check immediately before new submission,
+including when it bypasses a stage runner; writing an earlier ready flag is not
+a substitute. Provider tools without a project argument cannot infer this
+contract, so the caller must supply the saved project/script to the validator.
+Inspect key returned action/state when selecting coverage, record actual useful
+ranges for required beats, and hold only affected continuation dependencies.

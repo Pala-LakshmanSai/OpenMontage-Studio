@@ -1,6 +1,30 @@
 # Script Director - Cinematic Pipeline
 
-For **any authorized Frameo daily/unlimited API style**, the immediate-start rule
+Owner correction, 5 November 2026 — **AI Movie writing comes first**:
+follow `docs/ai-movie-screenplay-foundation.md`. Treat a supplied story as an
+adaptable outline. Review and strengthen the whole story and revised screenplay
+through its ending before any media generation, preserving its dramatic/emotional
+core, curiosity, hooks and setups/payoffs. Add needed connective action and reactions;
+remove/reorder weak or repetitive material. Give scenes performed time; an approximate
+30-minute request may become 45 or 55 minutes, or shorter, when the story needs it.
+This supersedes older AI Movie spine-only immediate-start instructions. After the
+foundation, overlap detailed prompts/references, independent generation and editing.
+Record required beats and observed selected coverage in existing artifacts under
+that guide's narrative contract. No new owner approval or paid review service.
+
+For **Queen Elizabeth I Style**, also follow
+`docs/queen-elizabeth-i-style-screenplay-foundation.md`. Review and strengthen the
+whole story and write the complete revised screenplay through its ending before
+any new image, video, voice or music generation. Treat supplied prose as an
+adaptable outline while protecting its core, emotional arc, curiosity and
+setups/payoffs. Give scenes earned performed time within the actual budget; this
+adds no human approval or paid review service. After this foundation, overlap
+ready-sequence detail, independent generation and assembly. Preserve the style's
+historical character-vlog grammar rather than importing AI Movie aesthetics.
+
+
+
+For **authorized Frameo daily/unlimited API styles other than AI Movie and Queen Elizabeth I Style**, the immediate-start rule
 in `docs/unlimited-plan-production-preferences.md` overrides whole-film serial
 preparation: finish the concise ending-aware spine and first useful sequence's
 exact inputs, then release that sequence while writing later ones. Do not hold
@@ -85,8 +109,9 @@ choice, changed state and consequence; track emotional attachment and setup/payo
 through the ending. Dialogue performs a task, tests trust or changes a decision;
 narration is not a workaround for visible speech. Scale acts to the requested
 runtime rather than padding an outline. For selected Frameo unlimited, follow
-`docs/ai-movie-frameo-production.md`: lock the global ending-aware spine first,
-then freeze exact lines/staging per ready sequence while later writing continues.
+`docs/ai-movie-frameo-production.md`: review the complete revised screenplay
+foundation first, then freeze exact provider lines/staging per ready sequence
+while later detailed prompts/references continue.
 Keep partial artifacts truthful and honor recorded full-run authorization rather
 than adding routine gates from the generic trailer workflow below.
 
@@ -173,9 +198,23 @@ add the source. Do not invent statistics, dates, or attributions.
 
 The full-run authorization and cross-style Frameo scheduling overrides above
 apply here. The per-gate default below applies only without recorded full-run
-authorization; it does not impose whole-film preparation before ready sequences.
+authorization. It does not remove the whole-screenplay foundation required for
+AI Movie and Queen Elizabeth I Style before any new media; other styles keep
+their ready-sequence scheduling rules.
 
 This stage gates on human approval (`human_approval_default: true`). After review passes:
 checkpoint with `status="awaiting_human"`, present the summary (the Backlot board renders
 the artifact), and **END YOUR TURN**. Do not start the next stage in the same response.
 Approval is per-gate — an earlier "go ahead" does not cover this gate.
+
+
+## Whole-screenplay integrity for Queen Elizabeth I Style
+
+Save the review in `script.metadata.narrative_foundation` using the existing
+`lib.narrative_continuity.validate_foundation` shape; see the active foundation
+guide and `docs/examples/ai-movie-narrative-contract.json` for fields, not an
+instruction to borrow that example's plot or aesthetic. New projects use explicit
+`style_playbook="queen-elizabeth-i"` with `init_project`, which records contract
+version1. Script completion and later planning/media checkpoints reject a missing
+or stale reviewed screenplay. Resolve structural gaps first; lens choices,
+provider prompts and all reference masters may follow incrementally afterward.

@@ -6,21 +6,21 @@ identity:
   best_for: Original historical character vlogs about routines, places and political events
 visual_language:
   color_palette:
-    primary: ['#56402D', '#345353']
+    primary: ['#59412E', '#7C312D']
     accent: ['#D4B57A', '#EEE6D1']
     background: '#272019'
     text: '#EEE6D1'
-  composition: Full-frame landscape handheld historical host, useful object/action inserts and motivated attendant coverage. No measured face quota.
-  texture: Natural aged faces, linen, brocade, wood, stone and metal under readable window and practical light.
+  composition: Full-frame landscape near-lens opening physically settles into lively close/medium-close wide-perspective host conversation; work, listeners and attention motivate reframing. Useful depth and attendant coverage, no measured face quota.
+  texture: Natural aged faces and episode-appropriate original status clothing; linen, lace, brocade, patterned textiles, paneling, carved wood, stone and metal under motivated face/object light and natural room falloff.
 typography:
   headings: {font: Georgia, weight: 400}
   body: {font: Georgia, weight: 400}
 motion:
   transitions: [motivated hard cut, physical camera turn, sound bridge]
-  animation_style: Native motion and camera ownership; no automatic title animation or moving-still substitute.
+  animation_style: Native physical handheld motion with useful walks, turns and handoffs; a long shot develops through work, information or relationship rather than constant zoom or idle gestures.
   pacing_rules: {min_scene_hold_seconds: 2}
 audio:
-  voice_style: Original native first-person host; concrete short thought groups, dry asides, situation-led rhythm and complete speech.
+  voice_style: Original native first-person insider; concrete period explanations, short thought groups, dry social asides, purposeful listener replies and situation-led complete speech. No automatic Chloe visitor cadence or sped-up delivery.
   music_mood: Explicitly selected by role only; reference instrumentation and music-free status are unverified.
   music_volume: 0.0
   sfx_style: Coherent room ambience, fabric, footsteps and synchronous practical object sounds.
@@ -28,15 +28,26 @@ asset_generation:
   image_prompt_prefix: 'Original historical character-vlog photograph, natural human texture, motivated period light, tangible materials, '
   image_negative_prompt: copied creator face, beauty smoothing, logo, captions, borders, stale state, fused props
   consistency_anchors:
-    - Read docs/queen-elizabeth-i-style-preferences.md and its reference notes and prompt template.
+    - Before any new image/video/speech/music generation follow docs/queen-elizabeth-i-style-screenplay-foundation.md; adapt supplied outlines and review/write the whole coherent revised screenplay through its ending.
+    - Read docs/queen-elizabeth-i-style-preferences.md, its reference notes and prompt template, and docs/queen-elizabeth-i-style-production-playbook.md.
     - One original face/voice, explicit camera operator, persistent period geography, costume and object state.
-    - Concrete object/action, intelligible explanation, dry social aside and completed human payoff.
+    - Useful object/action, verified concrete period explanation, social implication, working supporting people, earned dry aside and completed human payoff.
+    - Bind accepted current-state frames; identity/room references never restore departed props or expose a concealed discovery early.
+    - Stage foreground work, host/listener and useful background labor or architecture; preserve motivated light and the original episode-appropriate status silhouette.
 quality_rules:
   - Follow docs/portable-production-knowledge.md and all applicable shared production policies.
+  - The whole-screenplay foundation precedes media and supersedes spine-only admission for this style; preserve story identity, emotion, curiosity, hooks, setups/payoffs and ending while strengthening connective action, reactions and agency.
+  - Approximate runtime may expand roughly 60–70 percent when useful, e.g. ten minutes to sixteen or seventeen, or become shorter; never pad or exceed actual budget or explicit hard constraints. No new owner approval, paid scoring or review service.
+  - Use existing narrative_foundation and observed narrative_coverage integrity metadata/contracts for new projects; record the actual reviewed screenplay/hash and selected required-beat evidence. Preserve legacy accepted/uncertain work without replay.
   - Preserve this historical character-vlog grammar; no imported travel face quota, survival peril, trailer montage or automatic narrator/music.
+  - The primary Elizabeth camera/insider grammar governs; transfer useful objective, encounter and payoff mechanisms from Chloe VS History without silently importing its modern visitor persona or faster cadence.
   - Use original permitted identity, voice, writing and events; factual assertions require current authoritative verification and invented anecdotes must be identified as fiction.
+  - Palette values are practical design choices, not measured channel colors; preserve selected cast/wardrobe and let daylight, period materials and the episode determine actual color.
   - Reference coverage is owner-approved timeline/temporal sampling, full local transcripts and audio signals; no direct listening, continuous viewing or creator parity is established.
   - Follow docs/ai-video-human-performance-preferences.md and docs/ai-video-voice-selection-preferences.md; shot-local native lines and motivated rhythm, no audition loop.
   - Follow docs/ai-video-global-realism-preferences.md and docs/minimum-shot-duration-preferences.md; actual shots at least2s, complete speech, persistent state and coherent physical camera turns.
   - Follow docs/ai-image-generation-preferences.md, docs/video-fast-production-preferences.md, docs/unlimited-plan-production-preferences.md and docs/frameo-studio-production-preferences.md; Kie first, shared pass capacity and no paid routine analysis.
   - Default720p/768p full-frame16:9; final regular nonzero MP4 in Downloads, working assets on separate available storage.
+  - Select complete phrases and useful physical actions from actual returned boundaries; remove idle holds without retiming native speech or losing meaningful reactions.
+  - After the coherent whole-screenplay foundation, reuse saved research, validate readable reference transport before admission, parallelize detailed independent ready sequences under one shared account owner, publish selections immediately and assemble during generation. No routine per-clip review or new approval gate.
+  - For standalone Claude story writing use the single docs/queen-elizabeth-i-claude-story-prompt.md with channel links, title/topic and approximate duration; reuse valid saved source study for later episodes.

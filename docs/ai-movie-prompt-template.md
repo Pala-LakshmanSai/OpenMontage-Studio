@@ -1,5 +1,18 @@
 OPENMONTAGE — COMPLETE ORIGINAL AI MOVIE
 
+Owner correction, 5 November 2026 — **AI Movie writing comes first**:
+follow `docs/ai-movie-screenplay-foundation.md`. Treat a supplied story as an
+adaptable outline. Review and strengthen the whole story and revised screenplay
+through its ending before any media generation, preserving its dramatic/emotional
+core, curiosity, hooks and setups/payoffs. Add needed connective action and reactions;
+remove/reorder weak or repetitive material. Give scenes performed time; an approximate
+30-minute request may become 45 or 55 minutes, or shorter, when the story needs it.
+This supersedes older AI Movie spine-only immediate-start instructions. After the
+foundation, overlap detailed prompts/references, independent generation and editing.
+Record required beats and observed selected coverage in existing artifacts under
+that guide's narrative contract. No new owner approval or paid review service.
+
+
 For detailed 30-second internal cuts and continuity prompts, read `docs/ai-movie-multishot-prompting.md`. Prepare once and reuse; this adds no routine review stage.
 
 Inherit the [global continuity and causality principles](ai-video-global-realism-preferences.md).
@@ -16,7 +29,8 @@ and attachment, not just examples from prior films. Keep concrete project states
 separate from reusable principles; choose clear references and simple staging
 without adding a review layer.
 
-Before ready sequences, lock one bold ending-aware story spine: immediate
+Before any media generation, review and strengthen the complete screenplay under
+`docs/ai-movie-screenplay-foundation.md`, including one bold ending-aware story spine: immediate
 title-faithful hook, audience question/emotional expectation, protagonist's
 choice, escalating caused cost, seeded surprising reinterpretation, active
 climactic tactic and emotional payoff/callback. Aim beyond a small live-shoot's
@@ -140,7 +154,7 @@ Direct joins before submission: record outgoing stimulus/attention/action, incom
 
 When selected, docs/ai-movie-frameo-production.md and docs/unlimited-plan-production-preferences.md govern both speaking and non-speaking footage, overriding historical H3 defaults. Use registered frameo_video, Seedance 2.5, 720p landscape and native audio with route-supported references. Verify actual pass expiry, entitlement, fresh zero-credit quote and account-wide concurrency. Ten slots and USD100 daily pass are owner-stated assumptions to verify, not permanent provider terms or spending authority. A video pass does not cover image/music spending.
 
-Prepare before activation where possible. Once an authorized pass is active, freeze the global spine/ending and first useful sequence, then submit it while later screenplay/staging continues. Complete exact dialogue, achievable action, timed shots, references, start/end state and sound for each sequence before submitting that sequence. Do not wait for a full detailed whole-film screenplay, all anchors or a ten-job ready buffer.
+Prepare before activation where possible. Complete the reviewed whole screenplay foundation before any media generation, even with a live pass. Then freeze exact ready-sequence dialogue, action, timing, references, entry/exit state and sound and submit independent ready work while later detailed prompts/references continue. Do not wait for all anchors or a ten-job ready buffer after the foundation is ready.
 
 Prefer useful30-second multi-shot generations, often3–6 purposeful shots as an example rather than a quota. Actual ordinary shots must last at least2seconds. Complete dialogue/actions and leave reaction time; use shorter requests when justified instead of stretching5seconds of action into30. Define hard cuts, clear framing and a clean end state without next-scene spillover. Actual returned cuts determine the edit, not nominal prompt timestamps.
 

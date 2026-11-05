@@ -23,6 +23,11 @@ unrelated memory or an entire temporary production log into training.
 1. Read `AGENT_GUIDE.md`, the knowledge index and current repository status. Check
    whether any relevant file is still being edited by an active production.
    Snapshot only completed source/training changes; do not interrupt workers.
+   Owner clarification, 5 November 2026: do not wait for an entire editing effort
+   to finish. Publish an independently coherent, reviewed and validated current-file
+   snapshot now; leave later or unstable edits for the next update. Capture exact
+   bytes, preserve dependencies and concurrent edits, and never claim the snapshot
+   includes changes made after capture.
 2. Run `scripts/check_production_knowledge.py`, relevant local tests and YAML/schema
    checks. Run no paid media generation or reviews. Skip unchanged updates.
 3. Use the isolated public publication checkout or a `codex/` worktree based

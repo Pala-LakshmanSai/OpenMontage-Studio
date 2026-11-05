@@ -1,5 +1,29 @@
 # Frameo Studio web and API production
 
+Owner correction, 5 November 2026 — **AI Movie writing comes first**:
+follow `docs/ai-movie-screenplay-foundation.md`. Treat a supplied story as an
+adaptable outline. Review and strengthen the whole story and revised screenplay
+through its ending before any media generation, preserving its dramatic/emotional
+core, curiosity, hooks and setups/payoffs. Add needed connective action and reactions;
+remove/reorder weak or repetitive material. Give scenes performed time; an approximate
+30-minute request may become 45 or 55 minutes, or shorter, when the story needs it.
+This supersedes older AI Movie spine-only immediate-start instructions. After the
+foundation, overlap detailed prompts/references, independent generation and editing.
+Record required beats and observed selected coverage in existing artifacts under
+that guide's narrative contract. No new owner approval or paid review service.
+
+
+Owner correction, 5 November 2026 — **Queen Elizabeth I Style also starts with writing**:
+follow `docs/queen-elizabeth-i-style-screenplay-foundation.md`. Treat supplied stories
+as adaptable outlines; review the whole story and complete the revised screenplay
+through its ending before generating any images, video, speech or music. Preserve
+story identity, emotion, curiosity, hooks and meaningful setups/payoffs while adding,
+removing, reordering or combining material to repair causality and flow. Approximate
+runtime may grow roughly60–70% when earned, within the actual budget; do not pad.
+This supersedes spine-only immediate generation for this style. After the coherent
+foundation, overlap ready-sequence preparation, generation and assembly. This is
+an agent writing responsibility, not a new owner-approval or paid-review stage.
+
 Owner preference, 5 November 2026. Applies to every new video using Frameo,
 across all styles. Discover this workflow through the repository; personal
 Codex memory or an earlier chat is not required.
@@ -12,10 +36,12 @@ This preference does not authorize another purchase, subscription or top-up.
 
 ## Start and refill useful work
 
-Freeze a concise whole-film causal spine and ending, then start the first useful
+AI Movie and Queen Elizabeth I Style first complete their reviewed whole screenplay
+foundation. For other styles, freeze a concise whole-film causal spine and ending, then start the first useful
 sequence once its exact prompt, references and continuity state are ready. Continue
 later planning, reference preparation and assembly while generation runs. Do not
-wait for the whole screenplay, scene plan or every anchor. For daily/unlimited
+wait for every detailed shot prompt, scene plan or anchor after the applicable
+foundation. For daily/unlimited
 work, also follow `docs/unlimited-plan-production-preferences.md`, including its
 useful 30-second multi-shot default and measured generation-window priorities.
 
