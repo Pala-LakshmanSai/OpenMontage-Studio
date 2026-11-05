@@ -36,6 +36,11 @@ For generated human performance, read `docs/ai-video-human-performance-preferenc
 
 ## Fast production default for all videos
 
+For every new Frameo video, use Studio web alongside the API when available and
+authorized. Read `docs/frameo-studio-production-preferences.md`: start ready
+sequences promptly, use one shared capacity ledger and disjoint route assignments,
+and preserve accepted/uncertain jobs, actual pricing and existing spending limits.
+
 For every AI style using Frameo unlimited, follow
 `docs/unlimited-plan-production-preferences.md`: default to useful 30-second
 multi-shot generations, refill the full verified parallel API capacity, and

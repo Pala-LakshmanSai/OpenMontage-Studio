@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "frameo_generation_start": {
     "scope": "Every style using an authorized Frameo daily/unlimited API pass",
     "guide": "docs/unlimited-plan-production-preferences.md",
@@ -21,6 +21,7 @@
     "docs/portable-production-knowledge.md",
     "docs/video-fast-production-preferences.md",
     "docs/unlimited-plan-production-preferences.md",
+    "docs/frameo-studio-production-preferences.md",
     "docs/ai-video-story-engagement-preferences.md",
     "docs/ai-video-global-realism-preferences.md",
     "docs/ai-video-human-performance-preferences.md",
@@ -142,5 +143,11 @@
     "Reusable templates and playbooks implementing those policies",
     "Dated reference observations and historical examples; never historical prices/access/approval as current authority"
   ],
-  "privacy": "No personal memory, external Pages, private keys or original SSD paths are required to discover this training. Private setup and actual media are separate."
+  "privacy": "No personal memory, external Pages, private keys or original SSD paths are required to discover this training. Private setup and actual media are separate.",
+  "frameo_web_and_api": {
+    "scope": "Every new video using Frameo, across all styles",
+    "guide": "docs/frameo-studio-production-preferences.md",
+    "rule": "Use Studio web alongside the API when available and authorized; assign disjoint required ready sequences under one shared admission owner and capacity/job ledger. Start promptly and overlap preparation, generation and assembly; preserve accepted/uncertain jobs, actual pricing, budget and style constraints.",
+    "portable": "Discover through AGENT_GUIDE.md and this index on fresh installations; no personal Codex memory or earlier chat is required."
+  }
 }

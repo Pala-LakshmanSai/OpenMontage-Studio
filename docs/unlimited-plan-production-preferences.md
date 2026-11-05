@@ -1,5 +1,7 @@
 # Production during a limited-time unlimited pass
 
+For every new Frameo video, also follow `docs/frameo-studio-production-preferences.md`: use Studio web alongside the API when available and authorized, with disjoint ready sequences and one shared capacity/job ledger. Preserve actual pricing, accepted/uncertain submissions and the active style.
+
 ## Immediate start for every Frameo style — owner clarification, 4 November 2026
 
 This applies to **any style using an authorized Frameo daily/unlimited API pass**.
@@ -202,3 +204,7 @@ For exports above that verified connector limit, use the supported browser file
 chooser directly, then verify exact remote size and requested link permissions
 through connector metadata. Avoid a failed connector attempt or unnecessary
 compression; do not open an audible Drive preview for this check.
+
+## Immediate cross-project generation handoff — owner correction, 5 November 2026
+
+Start the next already-authorized film as soon as the preceding film completes required usable video creation. Do not wait for editing, export, delivery, an idle chat to wake, or a manually written release marker when current generation evidence establishes completion. Proactively reconcile current account jobs and acquire the existing cooperative admission lock. A stale handoff record must trigger a bounded fresh check and recovery, not indefinite unchanged polling. Preserve uncertain jobs without replay and count their genuinely occupied slots; an unused held operation must not block all other verified free capacity. Keep one admission owner, the owner's current project priority, fresh entitlement and zero-credit quotes, and existing purchase/budget limits. If a strict earlier project order stalls and the owner directs another authorized film to start now, record the override and proceed within shared capacity.

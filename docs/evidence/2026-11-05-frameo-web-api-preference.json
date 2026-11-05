@@ -1,0 +1,35 @@
+{
+  "owner_request": "Use Frameo Studio web alongside API for every new Frameo video to improve production speed. Save in project files so fresh Codex context and collaborators inherit it.",
+  "canonical_guide": "docs/frameo-studio-production-preferences.md",
+  "routing": [
+    "AGENTS.md",
+    "AGENT_GUIDE.md",
+    "docs/production-knowledge-index.json",
+    "docs/video-fast-production-preferences.md",
+    "docs/unlimited-plan-production-preferences.md",
+    "docs/ai-movie-frameo-production.md",
+    "docs/the-last-day-frameo-production.md",
+    "docs/portable-production-knowledge.md",
+    "skills/pipelines/cinematic/asset-director.md",
+    "skills/pipelines/cinematic/executive-producer.md"
+  ],
+  "validation": {
+    "command": "python scripts/check_production_knowledge.py",
+    "passed": true,
+    "required_files": 90,
+    "shared_policies": 32,
+    "style_profiles": 8,
+    "playbooks": 12,
+    "provider_calls_for_policy_update": 0
+  },
+  "limitations": [
+    "Instruction routing verified locally; no guaranteed route concurrency/speed or friend-device execution.",
+    "No personal Codex memory update or remote publication performed for this preference."
+  ],
+  "safeguards": [
+    "One shared account admission owner and job/capacity ledger across routes.",
+    "Disjoint required sequence assignments; preserve accepted and uncertain jobs without replay.",
+    "Fresh applicable price/zero-credit quote checks; no purchases or budget expansion.",
+    "Preserve model, style, identity, native audio and actual minimum shots."
+  ]
+}

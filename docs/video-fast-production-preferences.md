@@ -1,5 +1,7 @@
 # Fast production for every video style
 
+For every new Frameo video, also follow `docs/frameo-studio-production-preferences.md`: use Studio web alongside the API when available and authorized, with disjoint ready sequences and one shared capacity/job ledger. Preserve actual pricing, accepted/uncertain submissions and the active style.
+
 Owner quality/speed clarification, 3 November 2026: jointly optimize strong
 storytelling, visual direction, screenplay, cinematography, performance and
 continuity with the shortest reliable end-to-end production time. "Fast" must
@@ -152,3 +154,7 @@ one cached local output check, without paid assessment or repeated audits.
 ## Preserved constraints
 
 Keep each style's own story, source, narration and sound rules. Preserve exact selected characters, plausible time/weather/light progression, native continuation framing, agreed resolution and the user's real budget. Use existing atomic spend/no-duplicate guards and resume accepted jobs rather than replaying uncertain submissions. This preference does not authorize credit purchases, budget increases or bypassing provider safety decisions. Do not claim exhaustive review or guaranteed quality. If the owner explicitly requests a detailed review for a particular video, perform that requested review.
+
+## Immediate cross-project generation handoff — owner correction, 5 November 2026
+
+Start the next already-authorized film as soon as the preceding film completes required usable video creation. Do not wait for editing, export, delivery, an idle chat to wake, or a manually written release marker when current generation evidence establishes completion. Proactively reconcile current account jobs and acquire the existing cooperative admission lock. A stale handoff record must trigger a bounded fresh check and recovery, not indefinite unchanged polling. Preserve uncertain jobs without replay and count their genuinely occupied slots; an unused held operation must not block all other verified free capacity. Keep one admission owner, the owner's current project priority, fresh entitlement and zero-credit quotes, and existing purchase/budget limits. If a strict earlier project order stalls and the owner directs another authorized film to start now, record the override and proceed within shared capacity.

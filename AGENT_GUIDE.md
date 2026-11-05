@@ -53,6 +53,13 @@ For generated human performance, read `docs/ai-video-human-performance-preferenc
 
 ## Fast production default for all videos
 
+Owner preference, 5 November 2026: for every new Frameo video, use Frameo Studio
+web alongside the API when available and authorized. Follow
+`docs/frameo-studio-production-preferences.md`: disjoint ready sequences, one
+shared admission owner/capacity ledger, immediate useful generation and continuous
+refill. Preserve uncertain submissions and actual route pricing; a pass badge
+does not establish independent concurrency or authorize purchases.
+
 Owner clarification, 4 November 2026: for **any style using an authorized Frameo
 daily/unlimited API pass**, start the first useful generation as soon as the
 concise whole-film spine (including ending) and that sequence's exact inputs are

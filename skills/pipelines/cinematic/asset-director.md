@@ -1,5 +1,7 @@
 # Asset Director - Cinematic Pipeline
 
+For every new Frameo video, also follow `docs/frameo-studio-production-preferences.md`: use Studio web alongside the API when available and authorized, with disjoint ready sequences and one shared capacity/job ledger. Preserve actual pricing, accepted/uncertain submissions and the active style.
+
 For **any authorized Frameo daily/unlimited API style**, follow the immediate-start
 rule in `docs/unlimited-plan-production-preferences.md`. Once the concise
 ending-aware spine and first useful sequence's exact inputs are ready, submit

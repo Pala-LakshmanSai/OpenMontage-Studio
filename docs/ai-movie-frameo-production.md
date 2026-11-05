@@ -1,5 +1,7 @@
 # AI movies with the Frameo daily pass
 
+For every new Frameo video, also follow `docs/frameo-studio-production-preferences.md`: use Studio web alongside the API when available and authorized, with disjoint ready sequences and one shared capacity/job ledger. Preserve actual pricing, accepted/uncertain submissions and the active style.
+
 Owner direction, 3 November 2026. Use this when the owner chooses Frameo Seedance
 2.5 for an authorized AI movie. It supplements [AI movie preferences](ai-movie-preferences.md),
 [unlimited-pass production](unlimited-plan-production-preferences.md) and

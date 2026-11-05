@@ -1,5 +1,7 @@
 # Portable production knowledge
 
+For every new Frameo video, also follow `docs/frameo-studio-production-preferences.md`: use Studio web alongside the API when available and authorized, with disjoint ready sequences and one shared capacity/job ledger. Preserve actual pricing, accepted/uncertain submissions and the active style.
+
 Owner instruction, 3 November 2026: production preferences, style training and
 reusable corrections belong in this project. A new chat or another computer must
 be able to discover them from the copied repository without the original chat or

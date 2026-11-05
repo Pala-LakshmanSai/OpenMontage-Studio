@@ -1,5 +1,7 @@
 # Executive Producer — Cinematic Pipeline
 
+For every new Frameo video, also follow `docs/frameo-studio-production-preferences.md`: use Studio web alongside the API when available and authorized, with disjoint ready sequences and one shared capacity/job ledger. Preserve actual pricing, accepted/uncertain submissions and the active style.
+
 **Cross-style Frameo scheduling override, 4 November 2026:** for any authorized
 daily/unlimited API style, follow `docs/unlimited-plan-production-preferences.md`.
 Submit the first useful sequence when its exact inputs and concise ending-aware
