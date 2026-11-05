@@ -1,0 +1,42 @@
+identity:
+  name: Queen Elizabeth I Style
+  category: cinematic
+  mood: Intimate historical access, dry status comedy and human vulnerability
+  pace: moderate
+  best_for: Original historical character vlogs about routines, places and political events
+visual_language:
+  color_palette:
+    primary: ['#56402D', '#345353']
+    accent: ['#D4B57A', '#EEE6D1']
+    background: '#272019'
+    text: '#EEE6D1'
+  composition: Full-frame landscape handheld historical host, useful object/action inserts and motivated attendant coverage. No measured face quota.
+  texture: Natural aged faces, linen, brocade, wood, stone and metal under readable window and practical light.
+typography:
+  headings: {font: Georgia, weight: 400}
+  body: {font: Georgia, weight: 400}
+motion:
+  transitions: [motivated hard cut, physical camera turn, sound bridge]
+  animation_style: Native motion and camera ownership; no automatic title animation or moving-still substitute.
+  pacing_rules: {min_scene_hold_seconds: 2}
+audio:
+  voice_style: Original native first-person host; concrete short thought groups, dry asides, situation-led rhythm and complete speech.
+  music_mood: Explicitly selected by role only; reference instrumentation and music-free status are unverified.
+  music_volume: 0.0
+  sfx_style: Coherent room ambience, fabric, footsteps and synchronous practical object sounds.
+asset_generation:
+  image_prompt_prefix: 'Original historical character-vlog photograph, natural human texture, motivated period light, tangible materials, '
+  image_negative_prompt: copied creator face, beauty smoothing, logo, captions, borders, stale state, fused props
+  consistency_anchors:
+    - Read docs/queen-elizabeth-i-style-preferences.md and its reference notes and prompt template.
+    - One original face/voice, explicit camera operator, persistent period geography, costume and object state.
+    - Concrete object/action, intelligible explanation, dry social aside and completed human payoff.
+quality_rules:
+  - Follow docs/portable-production-knowledge.md and all applicable shared production policies.
+  - Preserve this historical character-vlog grammar; no imported travel face quota, survival peril, trailer montage or automatic narrator/music.
+  - Use original permitted identity, voice, writing and events; factual assertions require current authoritative verification and invented anecdotes must be identified as fiction.
+  - Reference coverage is owner-approved timeline/temporal sampling, full local transcripts and audio signals; no direct listening, continuous viewing or creator parity is established.
+  - Follow docs/ai-video-human-performance-preferences.md and docs/ai-video-voice-selection-preferences.md; shot-local native lines and motivated rhythm, no audition loop.
+  - Follow docs/ai-video-global-realism-preferences.md and docs/minimum-shot-duration-preferences.md; actual shots at least2s, complete speech, persistent state and coherent physical camera turns.
+  - Follow docs/ai-image-generation-preferences.md, docs/video-fast-production-preferences.md, docs/unlimited-plan-production-preferences.md and docs/frameo-studio-production-preferences.md; Kie first, shared pass capacity and no paid routine analysis.
+  - Default720p/768p full-frame16:9; final regular nonzero MP4 in Downloads, working assets on separate available storage.

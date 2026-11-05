@@ -124,6 +124,15 @@
       "template": "docs/mira-beyond-the-screen-style-prompt-template.md",
       "reference_notes": "docs/mira-beyond-the-screen-style-reference-notes.md",
       "playbook": "styles/mira-beyond-the-screen.yaml"
+    },
+    {
+      "id": "queen-elizabeth-i",
+      "name": "Queen Elizabeth I Style",
+      "pipeline": "pipeline_defs/cinematic.yaml",
+      "guide": "docs/queen-elizabeth-i-style-preferences.md",
+      "template": "docs/queen-elizabeth-i-style-prompt-template.md",
+      "reference_notes": "docs/queen-elizabeth-i-style-reference-notes.md",
+      "playbook": "styles/queen-elizabeth-i.yaml"
     }
   ],
   "shared_capabilities": [

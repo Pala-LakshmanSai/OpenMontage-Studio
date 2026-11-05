@@ -205,6 +205,14 @@ If a model misses this distinction, it will often fall back to plain search + gu
 
 For **Mira Beyond the Screen Style**, read `docs/mira-beyond-the-screen-style-preferences.md`, its reference notes and prompt template; use `styles/mira-beyond-the-screen.yaml` with cinematic narrative stages. Original dialogue-led sci-fi pairs personal mysteries, practical discovery, costly choices and earned scale with emotional aftermath. The popular theater/selfie upload is a separate format. Reference study used owner-approved sampled visual/temporal/caption/local analysis, not full continuous viewing/listening. Reuse the saved research and preserve current shared policies, actual budget, native continuity and full-run autonomy.
 
+For **Queen Elizabeth I Style**, read `docs/queen-elizabeth-i-style-preferences.md`,
+its reference notes and prompt template; use `styles/queen-elizabeth-i.yaml` with
+cinematic stages and historical character-vlog overrides. Concrete period tasks,
+first-person social commentary, dry asides and completed human payoffs anchor the
+format. Preserve original permitted identity/voice, verified history versus
+invented fiction and documented sampled-review limits; no automatic travel quota,
+survival crisis, narrator or music-video treatment.
+
 ## Rule Zero — All Production Goes Through a Pipeline
 
 For AI movies, Vlog Style, AI Videos Documentary Style and other AI video
