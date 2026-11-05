@@ -7,7 +7,10 @@ Open `https://github.com/Pala-LakshmanSai/OpenMontage-Studio` in Codex and say:
 > verify the saved styles and tools, and preserve existing configuration and work.
 
 To clone manually: `git clone https://github.com/Pala-LakshmanSai/OpenMontage-Studio.git`.
-Then open that folder in Codex. The public source needs no private GitHub login.
+Then open that folder in Codex or Claude Code. For a Claude Project knowledge
+attachment, follow [the transfer guide](claude-project-transfer.md); attachments
+provide instructions/source, while actual production needs installed tools and
+authorized provider access. The public source needs no private GitHub login.
 
 The installer is `python scripts/install_openmontage.py --with-private-config`.
 On Windows use `py -3 scripts/install_openmontage.py --with-private-config`.
@@ -45,8 +48,10 @@ After installation, a production prompt can be:
 > saved training, reuse this project's selected cast/world where available, use
 > my authorized active Frameo unlimited plan, and finish and show the full video.
 
-Other saved names: AI Movies, Vlog Style, AI Videos Documentary Style, Outdoor
-Boys Style, Tech Trendy Style and **The Last Day**. For the latter, title plus
+Saved names: AI Movies, Vlog Style, AI Videos Documentary Style, Outdoor
+Boys Style, Primitive Desert Style, Tech Trendy Style, Mira Beyond the Screen
+Style, Queen Elizabeth I Style and **The Last Day**. The knowledge index is the
+current catalogue. For The Last Day, title plus
 duration invokes the saved narrated science/disaster workflow, including its
 pilot-derived editorial playbook; no personal Codex memory or reference downloads
 are required. For example: “The Last Day: [TITLE], around 10 minutes.”

@@ -91,6 +91,13 @@ this owner's personal memory or access to the same Pages.
 
 ## Moving to another computer
 
+For Claude Project attachment and fresh-context acceptance tests, follow
+[the assistant transfer guide](claude-project-transfer.md). Export from the clean
+public checkout with `scripts/export_claude_project.py`; upload readable canonical
+knowledge/source and retain the commit/hash manifest. Attachments do not install
+the runtime and do not automatically synchronize with Git. Test retrieval and
+application in fresh chats before claiming instruction transfer.
+
 Copy the repository's instruction files, `docs/`, `styles/`, pipeline manifests,
 skills and required project artifacts together. Resolve required selected media
 and external-drive paths before production; copying a symlink does not copy its

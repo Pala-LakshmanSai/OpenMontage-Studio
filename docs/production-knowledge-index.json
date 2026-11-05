@@ -19,6 +19,7 @@
   ],
   "policies": [
     "docs/portable-production-knowledge.md",
+    "docs/claude-project-transfer.md",
     "docs/video-fast-production-preferences.md",
     "docs/unlimited-plan-production-preferences.md",
     "docs/frameo-studio-production-preferences.md",
@@ -140,6 +141,7 @@
     }
   ],
   "shared_capabilities": [
+    "scripts/export_claude_project.py",
     "tools/video/video_compose.py",
     "tools/video/frameo_video.py",
     "tools/graphics/kie_image.py",
