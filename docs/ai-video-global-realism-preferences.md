@@ -470,3 +470,21 @@ same Glacier production: a late route shot reintroduced two loaded sleds after t
 camp was abandoned. Its complete clean crevasse POV was kept and the contradictory
 wide shots omitted locally; see `production/assembly-repair-FG38/`. Preserve lost
 equipment as lost rather than allowing reference-background objects to return.
+
+
+## Reconcile planned time before generation — transfer audit, 5 November 2026
+
+In the existing scene/shot ledger, sum useful shot durations into scene ranges and
+map them to feasible provider request boundaries. A45-second scene cannot silently
+fit one30-second request. Split at an intelligible action/state boundary or revise
+coverage; do not fill arithmetic gaps with holds, slow motion or repeated action.
+Carry exact cast, camera, tools, resource counts and irreversible state into each
+request. An independently generated later scene needs its correct post-event state
+anchors; calling it independent does not erase a dependency on unknown results.
+Separate screen time from story elapsed time. Heating, melting, drying, travel and
+weather changes need physically credible work and motivated ellipses; an edit does
+not authorize instantaneous material transformation or a state reset. Establish
+who needs the task's result early enough for the stakes to be understood.
+This is a preparation responsibility in the existing ledger, not a new review,
+paid analysis or owner-approval stage. Planned sums do not prove returned coverage;
+use actual selected ranges and the existing brief final check after generation.

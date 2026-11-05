@@ -106,3 +106,16 @@ do not describe that local-folder connection as verified. Attachments also do no
 include private selected-cast media or existing production receipts: transfer those
 separately when continuing an existing film, preserving their project-relative
 references and private access. New title-led films can establish their own cast.
+
+
+A second-account Mac-app trial on5November saved36 readable attachments and the
+source-derived bootstrap. The fresh story answer applied raw work-led sound and
+state costs, but its planned shot sums and30-second source assignment disagreed.
+This is a failed initial timing test, not parity proof. The canonical realism guide
+now requires ledger arithmetic, feasible request boundaries and credible material
+elapsed time before generation; retest that case after transfer. Attachment search
+may return no results even when files are saved. Directly read numbered parts;
+when permitted, a clean public checkout at the exact manifest commit is a fallback.
+Record which source was actually read. A public clone tests repository portability,
+not proof that every attached part was retrieved. Never infer installed provider
+access, private cast assets or credentials from a successful source read.
