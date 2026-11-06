@@ -498,3 +498,14 @@ use actual selected ranges and the existing brief final check after generation.
 
 
 Authoring completion, fresh-assistant test6November2026: Before presenting a complete screenplay or ready sequence, reconcile the actual means, material elapsed time, final claimed result and shot/scene/request arithmetic once as part of writing. An authorization, attempt or dispatch is not the completed result it enables. Show a necessary completion or keep the claim pending. Physically process clothing/props in a feasible state and allow drying/heating/travel time through legible ellipses. No scene may silently exceed its mapped request duration. This is an internal writing completion check, not a new paid review, owner gate or repeated audit.
+
+
+The completion check must compare the actual screenplay, inventory and request
+rows, not merely assert that they agree. A necessary tool or material used in the
+solution needs plausible possession/access at its first use; establish retrieval
+or record the missing binding instead of claiming every tool was already shown.
+For example, a cutting action needs its implement, working grip and supported
+material, not only a later sound label. Do not add an insert for every ordinary
+prop; include the means needed to understand the consequential operation. When
+reviewing a supplied scenario rather than actual media, describe the diagnosed
+risk conditionally and keep uninspected footage/runtime/access unverified.

@@ -80,6 +80,33 @@ successful rules; do not add paid scoring or unbounded cosmetic review loops.
 Text tests establish scoped instruction retrieval/application, not absence of every
 possible gap, subjective storytelling parity or finished-film speed/quality.
 
+## Inventory and evidence discipline in fresh-context tests
+
+Fresh Mac-app audit, 6 November 2026: correctly recalling shared rules did not
+prevent a fabricated generic playbook name, incomplete style-guide retrieval or
+an overconfident claim about the semantic coverage validator. Correct that layer
+without changing successful production aesthetics or adding routine paid review.
+
+For a requested complete style comparison, derive trained profiles and exact
+original file routes from the current knowledge index, then read each compared
+style guide for its distinguishing contract. Derive generic playbooks from actual
+current `styles/` files or an exact source manifest, not remembered product names.
+A routing-summary answer is explicitly partial when its underlying guides remain
+unread; finish those reads before calling the requested comparison complete. An
+ordinary film still reads only its active style and applicable policies.
+
+Keep supplied scenario descriptions, directly inspected footage, recorded metadata
+and executed validation distinct. A hypothetical cut description supports a
+conditional diagnosis, not a claim that frames or performances were observed.
+`lib.narrative_continuity` checks recorded coverage integrity; a semantic picture
+fault is not guaranteed to fail it if metadata is stale or falsely asserts the
+intended beat. Describe the actual run/result only after running it; never turn
+an expected failure into a measured failure. Unaccessed runtime, credentials or
+media are unverified, not proven absent. Name the actual missing read, permission
+or evidence and continue available preparation. Existing/continued films retain
+approved cast bindings when media is unavailable; do not silently substitute a
+new face to resolve missing access.
+
 ## Keep the transfer current
 
 Attachments are snapshots, not automatic Git synchronization. Record their source
