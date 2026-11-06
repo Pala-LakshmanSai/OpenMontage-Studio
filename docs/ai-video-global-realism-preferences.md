@@ -495,3 +495,6 @@ who needs the task's result early enough for the stakes to be understood.
 This is a preparation responsibility in the existing ledger, not a new review,
 paid analysis or owner-approval stage. Planned sums do not prove returned coverage;
 use actual selected ranges and the existing brief final check after generation.
+
+
+Authoring completion, fresh-assistant test6November2026: Before presenting a complete screenplay or ready sequence, reconcile the actual means, material elapsed time, final claimed result and shot/scene/request arithmetic once as part of writing. An authorization, attempt or dispatch is not the completed result it enables. Show a necessary completion or keep the claim pending. Physically process clothing/props in a feasible state and allow drying/heating/travel time through legible ellipses. No scene may silently exceed its mapped request duration. This is an internal writing completion check, not a new paid review, owner gate or repeated audit.

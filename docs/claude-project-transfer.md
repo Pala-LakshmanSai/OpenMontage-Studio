@@ -137,3 +137,23 @@ required-file audit with those files unread. The parent directly reads the relev
 numbered parts and continuations. Ordinary production reads its selected style and
 applicable shared policies rather than all styles at once. Public-checkout fallback
 is reported separately from attachment retrieval; test the source actually used.
+
+
+## Mac update and application test — 6 November 2026
+
+When the native file chooser fails, the app's Add text content control can save
+readable source chunks. Keep complete original FILE blocks below200KB and supply
+a source-commit/path/hash/part manifest. An exact current-file delta may override
+matching older snapshot paths when instructions make precedence explicit; preserve
+unchanged required files and verify available project capacity. This is a source
+snapshot, not automatic upload of later repository changes. Prefer a current linked
+checkout when permitted, and distinguish that read from attached-text retrieval.
+
+A fresh rules test applied the6November action/performance/time-cue/title and
+historical-vlog rules from the linked current source. A separate minimal title-led
+script retrieved updated attached text but skipped material processing, confused an
+intermediate authorization with a completed outcome and misfit scene/request time.
+Thus retrieval alone did not prove application. The global realism guide/bootstrap
+now makes the existing authoring completion check explicit; test a corrected plan
+and a fresh minimal brief before claiming scoped transfer success. No text result
+certifies future footage quality or absence of all possible gaps.
