@@ -57,6 +57,19 @@ The friend's agent updates through `docs/install-and-update.md`. New production
 requests discover current training from the source tree automatically. Updating
 code does not grant fresh paid-film authority or extend an expired unlimited pass.
 
+## Keep the configured Claude Project current
+
+Owner instruction, 6 November 2026: publication includes automatic Claude context
+maintenance under [the transfer guide](claude-project-transfer.md#automatic-maintenance-of-the-configured-claude-project).
+Refresh after a coherent published learning change when native computer use is
+available; the existing hourly heartbeat retries missed updates. Compare Claude's
+last successful sync independently of the public publication receipt, including
+runs with no new Git changes. Keep account/project targeting and partial/pending
+versions in ignored `.private-config/claude-project-sync.json`. Verify actual saved
+UI state, retain cumulative snapshot coverage and capacity, and preserve ongoing
+production. Report publication and Claude sync separately if one is pending.
+Do not introduce routine model tests, paid generation or another review gate.
+
 ## Private setup changes
 
 The current bundle contains named `provider.env` and `frameo-api-key` entries,

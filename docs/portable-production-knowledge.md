@@ -94,6 +94,12 @@ assistant memory can point to these repository files; it must not be the only
 copy or a prerequisite for production. Do not assume the receiving assistant has
 this owner's personal memory or access to the same Pages.
 
+For the configured Claude Project, automatically refresh after coherent published
+learning changes and use the existing hourly updater for missed syncs. Follow
+[the automatic maintenance procedure](claude-project-transfer.md#automatic-maintenance-of-the-configured-claude-project);
+track saved UI versions separately from Git publication and never rely on the
+owner remembering to request an update.
+
 ## Moving to another computer
 
 For Claude Project attachment and fresh-context acceptance tests, follow

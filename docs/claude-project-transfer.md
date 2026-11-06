@@ -157,3 +157,53 @@ Thus retrieval alone did not prove application. The global realism guide/bootstr
 now makes the existing authoring completion check explicit; test a corrected plan
 and a fresh minimal brief before claiming scoped transfer success. No text result
 certifies future footage quality or absence of all possible gaps.
+
+
+## Automatic maintenance of the configured Claude Project
+
+Owner instruction, 6 November 2026: new durable preferences, style improvements
+and reusable production fixes must reach the configured Claude Project without
+another update request. Save canonical repository changes first. At the end of a
+coherent publication, refresh the configured project when native computer use is
+available; the existing hourly repository heartbeat also catches up missed syncs.
+Do not create a second competing updater or wait for unrelated active edits.
+
+Keep machine-specific targeting and progress in ignored
+`.private-config/claude-project-sync.json`, never in public source. Record the
+native app, expected account label, project URL/name, linked public checkout,
+base attachment commit, current override entries/manifest, last successful source
+commit and timestamp, and any pending target or concrete failure. No credentials,
+private setup or access-bearing URLs belong in context or public receipts.
+
+Each run compares the latest reviewed public source with the last successfully
+synced Claude version, even when there is nothing new to publish. Verify the
+selected native app account and project before writing; do not switch to a
+similarly named project in another browser/account. Prefer the linked current
+public checkout for production reads. Its changing files and attached snapshots
+are different sources: refresh changed attached canonical FILE blocks, their
+commit/path/hash manifest and project instructions when relevant source changes.
+Use the exporter on the exact clean reviewed public commit. A delta must preserve
+unchanged baseline files and contain the cumulative current overrides since that
+baseline, not only the most recent commit. Explain precedence explicitly.
+
+Prefer editing generated text entries in place when the UI supports it. Verify
+controls rather than assuming editing exists. If entries cannot be edited, add a
+small clearly versioned override while capacity allows; avoid duplicate full packs
+or an unbounded pile of snapshots. If a complete refresh cannot fit, retain the
+existing project and record attachment sync as pending. Continue through the
+verified linked source where available; do not silently omit affected rules or
+claim attachments are current. Do not permanently remove old knowledge without
+the confirmation required by the UI policy. Preserve the previous local export.
+
+Verify saved instructions and context entries in the actual UI before advancing
+the successful-sync receipt. Record linked-source, instructions and attachment
+versions separately when only some succeeded; retry the pending portion later.
+If the app is unavailable, account differs, access is missing or capacity blocks
+the refresh, preserve the pending target and continue safe repository work.
+A scheduled UI refresh requires this Mac and its signed-in apps to be available;
+this is not a server-side Git attachment integration.
+
+Skip unchanged checks and avoid routine Claude model calls, paid media or reviews.
+For a substantive retrieval/routing change or an observed failure, use the fresh
+planning-only test above and record its scoped result. Updating knowledge does not
+retroactively change existing chat responses or prove future footage quality.
