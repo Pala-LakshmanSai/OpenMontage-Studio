@@ -1,5 +1,13 @@
 # AI Movie: make sequences, then edit the film
 
+Owner correction, 6 November 2026 IST: apply
+[readable decisions and purposeful pace](ai-video-action-clarity-and-pacing.md).
+The viewer must distinguish a chosen action from a fall, push or accident without
+reading the screenplay. Preserve its visible decision, movement and result;
+remove repeated setup and idle tails. In a custom assembler, run the existing
+narrative-coverage check before calling the film finished. A technically valid
+export with unresolved semantic coverage remains an unresolved film.
+
 Owner correction, 5 November 2026 — **AI Movie writing comes first**:
 follow `docs/ai-movie-screenplay-foundation.md`. Treat a supplied story as an
 adaptable outline. Review and strengthen the whole story and revised screenplay
@@ -108,6 +116,14 @@ missing causal work. Give difficult interactions one manageable action and clean
 coverage, with safe, non-graphic presentation when needed.
 
 ## 4. Direct a camera that explains the action
+
+Apply the [whole-frame performance rule](ai-video-action-clarity-and-pacing.md#direct-everyone-visible-including-the-silent-people).
+The active scene continues for every relevant person, not only the lead or speaker.
+Retain ongoing tasks, listener reactions, emotional progression, posture and support
+across coverage. A parent silently witnessing an apparent loss needs a readable
+response consistent with what they know; a shocked freeze is not an unlimited
+neutral hold. Avoid unshown standing/kneeling/seated resets. Camera activity cannot
+replace meaningful acting; trim inactive tails rather than prolong them for scale.
 
 Choose an establishing view for geography, relational coverage for a choice/contact,
 and detail for a clue or recognition. Lens names alone are insufficient. State the

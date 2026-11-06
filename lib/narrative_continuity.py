@@ -66,7 +66,7 @@ def validate_coverage(project: Path, script: dict, edit: dict):
     """Reject stale/missing observations and unselected witnesses; no pixel inference."""
     foundation = validate_foundation(project, script)
     coverage = edit.get("metadata", {}).get("narrative_coverage", {})
-    _require(isinstance(coverage, dict), "record observed narrative coverage")
+    _require(isinstance(coverage, dict) and coverage, "record observed narrative coverage")
     _require(coverage.get("screenplay_sha256") == foundation["screenplay_sha256"], "coverage belongs to another screenplay")
     cuts = edit.get("cuts", [])
     _require(coverage.get("cuts_sha256") == cuts_digest(cuts), "cuts changed; reconcile narrative coverage")
@@ -86,3 +86,31 @@ def validate_coverage(project: Path, script: dict, edit: dict):
         _require(_number(a) and _number(b) and cut["in_seconds"] <= a < b <= cut["out_seconds"], "observation lies outside selected source range")
         covered.add(o["beat_id"])
     _require(covered == required, "missing observed required beats: " + ", ".join(sorted(required - covered)))
+
+
+def main(argv=None):
+    """Read-only access to the existing contract for custom assembly workflows."""
+    import argparse
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("project", type=Path)
+    parser.add_argument("--foundation-only", action="store_true")
+    args = parser.parse_args(argv)
+    try:
+        script = json.loads((args.project / "artifacts/script.json").read_text())
+        if args.foundation_only:
+            validate_foundation(args.project, script)
+        else:
+            edit = json.loads((args.project / "artifacts/edit_decisions.json").read_text())
+            validate_coverage(args.project, script, edit)
+    except (OSError, ValueError, KeyError, TypeError) as exc:
+        print(json.dumps({"passed": False, "error": str(exc),
+                          "meaning": "Recorded narrative evidence is incomplete or invalid; not an audiovisual judgment."}))
+        return 1
+    print(json.dumps({"passed": True,
+                      "scope": "foundation" if args.foundation_only else "recorded narrative coverage",
+                      "audiovisual_quality_certified": False}))
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

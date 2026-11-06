@@ -89,12 +89,30 @@ intelligent attempts and consequential outcomes. Let supporting people work, rep
 correct, help or withhold access. Explain through concrete action, not an essay.
 Make jokes situation-specific; leave room for responses and meaningful silence.
 
+Apply the saved Cleopatra full-film lessons: give an unfamiliar opening promise
+an early concrete consequence; explain a political/social procedure before its
+clever reversal pays off. Show who needs what, their attempt and its result rather
+than relying on a stack of names. Introduce present-time reporters/listeners before
+earlier-event inserts; preserve who attended and how they know, then return to the
+person affected. Let a simple time/action cue establish major ellipses. Give work
+a changed material/state and completion that causes the next action; write changing
+intentions instead of a smile after every line. These strengthen the existing
+whole screenplay; they are not a separate approval or paid review stage.
+
 Write performable spoken thought with an actual listener, changing intention and
 manageable action. Separate exact dialogue from staging. Assign camera holder or
 support; motivate turns, handoffs and edits. Preserve geography, identity, wardrobe,
 light and prop ownership/progress. Conceal discoveries until their reveal; departed
 objects stay departed. Ordinary visible shots last at least two seconds. No automatic
 narrator, score, captions or trailer treatment.
+
+Prepare a positive, historically researched date/place world description for
+urban fabric, roofline, shoreline, rooms, materials and background work; excluding
+one wrong landmark is not enough. Keep the selfie optical path feasible: a turn
+reveals the holder's view, not an observer orbiting their back. Invisible capture
+hardware stays behind the optical plane through handoffs; stage empty-hand/framing
+changes or established editorial switches. Source attachments transfer guidance,
+not credentials, provider entitlement, private cast media or installed tools.
 
 Budget speech, action, reactions, transitions and ending together. Approximate
 length is creative scale, not word count alone. Never stretch speech, pad repetition

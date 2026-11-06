@@ -55,6 +55,14 @@ next thought or action. Include a revealing human beat and a callback
 after resolution; an optional audience invitation must not replace the payoff.
 Do not import survival danger, travel face quotas or continuous documentary narration.
 
+Apply the6NovemberCleopatra refinements in the playbook: make the opening promise
+concrete for a viewer without prior knowledge, show the procedure behind political
+reversals, and establish present-time speakers before earlier-event inserts.
+Give recurring work an observable changed state/result and a reason to move on.
+Use brief time/action cues for major ellipses; preserve who attended and how they
+know. Direct changing intentions/listener responses instead of a smile after every
+line. These are choices inside the existing screenplay, not extra approval stages.
+
 For every sequence specify Subject, Subject Motion, Scene (overlays separately),
 Spatial Framing and Camera. Lock who holds/supports the camera. Change distance,
 height or attention when actual work, walking or a listener motivates it; keep
@@ -65,6 +73,13 @@ or listener and useful background labor/architecture. Use episode-appropriate
 original status clothing and tangible textured period materials. Light the face
 and current object from a plausible window/practical source with natural room
 falloff; do not apply a uniform orange grade, haze or empty-palace aesthetic.
+Use a positively researched period/place skyline and urban-fabric master across
+independent views; a forbidden-landmark list is insufficient. Freeze rooflines,
+shore, streets, materials and useful ordinary work along with the cast. A physical
+selfie turn reveals the holder's view, not an orbit around the holder's back.
+Keep invisible capture hardware behind the optical plane at every handoff; prefer
+empty-hand/framing changes or a clearly motivated editorial switch. Do not invent
+a second operator merely to make a camera move possible.
 Preserve current props, costume attachments, support and
 caused progress. Use original clean identity/location/state references, Kie Nano
 Banana2.1 first. Do not copy extreme facial caricature as a realism requirement.

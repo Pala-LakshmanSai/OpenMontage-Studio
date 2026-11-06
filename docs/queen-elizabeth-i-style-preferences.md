@@ -249,3 +249,43 @@ screenplay and blocking, not only continuity repair or faster cutting. The rules
 above and linked playbook incorporate that distinction. Future footage still
 needs to demonstrate the improvement; the delivered sample is not retroactively
 claimed to match the references.
+
+## Full-film learning — 6 November 2026
+
+The owner requested a close comparison of the11:23Cleopatra film, then explicitly
+preserved its current edit. Read the dated case in the
+[production playbook](queen-elizabeth-i-style-production-playbook.md#cleopatra-comparison--6-november-2026).
+The complete delivered timeline was newly represented by683inspected one-second
+picture samples and the full reused source-ASR/selected-cut ledger; the five
+Elizabeth vlogs were re-examined through cached timeline/temporal samples and
+complete transcripts. This remains sampled review, not continuous audiovisual
+viewing/listening or proof of parity. Improved near-lens opening, tangible calendar
+work and the child/lamp ending were observed; the new directions below still need
+demonstration in future footage.
+
+Make an unfamiliar central promise understandable through an early concrete
+consequence, then show the practical procedure behind any political reversal.
+Names, titles and clever replies must not substitute for explaining who needs
+what and how a choice changes the result. A present-time report/reaction should
+identify its speakers before earlier-event inserts; preserve who actually attended.
+When time, weather, location or costume meaningfully changes, provide a concise
+spoken/action/time cue without showing every journey or adding captions by default.
+
+Prepare one positively researched period/place world reference before new
+independent location shots: urban fabric, roofline, shore, materials, room and
+ordinary work as well as landmarks. Reuse its geometry/date across views.
+Removing a famous wrong building does not make the rest of a skyline correct.
+Treat optical viewpoint as a physical constraint: a selfie-to-environment turn
+shows the holder's view, not a camera orbit around their back. Choose an established
+attendant view or motivated editorial change where needed. For invisible capture
+handoffs keep hardware behind the optical plane; stage empty hand/framing changes
+and free hands rather than asking the model to display an “Eye.”
+
+Within sustained work, name the actual changed material/state and useful result
+that leads onward. Direction such as “works on her hair” can produce repetitive
+touching; show a fastening completed, correction needed or interruption with a
+consequence. Direct a changing intention and listener response instead of smiling
+after each line. Select coverage for the current meaning; do not hold anonymous
+bystanders or an emptied route merely to fill a30second acquisition. These refine
+the existing foundation/shot cards and brief checks; they add no routine paid
+review, exhaustive audit, new approval gate or repeated research requirement.

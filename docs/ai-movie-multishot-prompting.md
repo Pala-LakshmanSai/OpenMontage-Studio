@@ -1,5 +1,11 @@
 # AI movie: consistent multi-shot passages in one 30-second request
 
+Apply [readable decisions and purposeful pace](ai-video-action-clarity-and-pacing.md).
+Describe the visible difference between a deliberate action and its plausible
+misreading. If a wave knocks someone down before a chosen dive, separate recovery,
+orientation and voluntary entry; a generic edge lean is ambiguous. One readable
+take can suffice. Do not pad the request or retain its whole duration by default.
+
 Owner correction, 5 November 2026 — **AI Movie writing comes first**:
 follow `docs/ai-movie-screenplay-foundation.md`. Treat a supplied story as an
 adaptable outline. Review and strengthen the whole story and revised screenplay

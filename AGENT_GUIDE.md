@@ -1,5 +1,12 @@
 # OpenMontage - Agent Guide
 
+Owner correction, 6 November 2026 IST: read
+`docs/ai-video-action-clarity-and-pacing.md` for narrative action across AI styles.
+Actual footage must distinguish consequential decisions from accidents. Direct relevant silent/background people as well as the lead, preserve posture/task/emotion across cuts, and plan necessary readable time cues. Reconcile title/creature promises before generating, including the owner's future multi-headed Leviathan preference; retain several consequential gripping developments without padding. Preserve
+necessary action/response and state while cutting repetition and idle duration;
+continuity must not become boring slow coverage. AI Movie custom assemblers must
+honor existing narrative coverage checks before a finished-film delivery claim.
+
 Owner correction, 5 November 2026 — **AI Movie writing comes first**:
 follow `docs/ai-movie-screenplay-foundation.md`. Treat a supplied story as an
 adaptable outline. Review and strengthen the whole story and revised screenplay

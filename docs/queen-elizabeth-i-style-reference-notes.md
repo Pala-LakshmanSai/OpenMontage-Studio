@@ -258,3 +258,32 @@ capacity was constrained. This wait must not be misreported as render time.
 Prioritize useful ready work under one reconciled admission owner, overlapping
 preparation and assembly; prevent stale reference/transport faults before an
 admission. These timings do not guarantee future provider latency or throughput.
+
+## Full-film comparison refresh — 6 November 2026
+
+Nexlev's fresh free popular catalog still returned six uploads: five relevant
+historical vlogs and the excluded music video. Rounded views were Ready767K,
+Armada504K, Bath434K, Mary390K and Palace299K; the music upload168K is a format
+exclusion. These are a new dated observation, not a correction of earlier counts,
+precise analytics or retention evidence.
+
+The reference worker re-inspected15overview sheets,5motion sheets and10focused
+temporal sheets (380displayed timestamped cells before overlap) and reread allfive
+cached ASRs (953segments/5,021fallible words). Root also directly inspected the
+Bath497–508, Ready357–368, Palace282–293 and Palace580–591 temporal sheets. The
+delivered Cleopatra final timeline received683new exact one-second picture samples
+through11:22 with full reused source-ASR and selected-cut timing. These methods do
+not constitute continuous normal-speed watching or direct listening. No new paid
+analysis/watch upgrade occurred.
+
+The stronger opening, material calendar/decree work, motivated light and complete
+child/lamp ending are observed strengths. Remaining issues include political
+procedure left implicit, complex earlier-event/offscreen-speaker geography,
+repetitive task/expression states, operator viewpoints drifting around the host,
+a retained camera exposure near00:53 and recurrent period-world concerns in the
+riverfront. The [playbook's dated comparison](queen-elizabeth-i-style-production-playbook.md#cleopatra-comparison--6-november-2026)
+ties each to reference passages and the responsible future-production layer.
+Project evidence: `projects/cleopatra-rome-20261105/production/self-review-20261106/`
+contains the full review, reference ledger and a complete future-only screenplay.
+The owner explicitly preserved the current film; this refinement changes portable
+instructions, not that edit or its aesthetic-acceptance status.

@@ -1,5 +1,14 @@
 # Proposal Director — Cinematic Pipeline
 
+For AI Movie, read the title-promise rule in
+`docs/ai-video-story-engagement-preferences.md` before finalizing the adapted story.
+Record the audience's promised subject/design/capability, situation, scale and
+payoff in the existing proposal; map to required visible events, not labels alone.
+Resolve an outline's mismatch with current owner expectations before media. The
+owner expects multi-headed Leviathans in future title-led Leviathan films unless
+explicitly requested otherwise. Build several distinct major consequential peaks
+with causal escalation and meaningful emotional contrast, not routine padding.
+
 AI Movie override, owner correction 5 November 2026: read
 `docs/ai-movie-screenplay-foundation.md`. Review/adapt the whole revised screenplay
 before any media generation; preserve story/emotion/curiosity/hooks/setups/payoffs,

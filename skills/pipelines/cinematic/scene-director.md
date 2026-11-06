@@ -1,5 +1,18 @@
 # Scene Director - Cinematic Pipeline
 
+For narrative AI action, apply `docs/ai-video-action-clarity-and-pacing.md`.
+Stage the pivotal choice and decisive movement so accident, coercion and voluntary
+action cannot be casually confused. Keep target, support, contact and resulting
+state legible in the chosen framing. One clear take may replace several vague
+views; do not pad a provider request with repeated setup or idle reactions.
+
+Direct every relevant visible participant or group in existing scene fields:
+knowledge/goal, ongoing task, stimulus, gaze, pose/support, emotional progression
+and exit state. Give silent witnesses/listeners a character-appropriate response;
+do not leave a parent neutral through an emergency or a lead idling while helpers
+struggle without a readable reason. Silence, shock and stillness may be deliberate,
+but need a motivated onset and continuation. Preserve posture changes across cuts.
+
 Owner correction, 5 November 2026 — **AI Movie writing comes first**:
 follow `docs/ai-movie-screenplay-foundation.md`. Treat a supplied story as an
 adaptable outline. Review and strengthen the whole story and revised screenplay

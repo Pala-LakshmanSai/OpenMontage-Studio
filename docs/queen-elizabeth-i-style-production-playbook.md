@@ -1,6 +1,6 @@
 # Queen Elizabeth I Style — production playbook
 
-Refined 5 November 2026 after the owner's detailed sample/reference comparison.
+Refined 6 November 2026 after the owner's sample and full-film/reference comparisons.
 Read the [style guide](queen-elizabeth-i-style-preferences.md),
 [reference evidence](queen-elizabeth-i-style-reference-notes.md),
 [production prompt](queen-elizabeth-i-style-prompt-template.md) and
@@ -125,6 +125,12 @@ Sound: native voice and matching mouth; coherent room/footstep/fabric/contact so
 Reference roles: identity only / geometry only / current-state first frame.
 Dependency: independent scene OR exact prior usable state required.
 Edit intent: complete action/phrase to keep; likely release point; no next-scene spill.
+Audience legibility: what the viewer already knows; one new fact/change; how it is
+                    demonstrated before a later reversal uses it.
+World/POV: positive date/place master; actual holder position/orientation; optical
+           path and free hands, not just the holder's name or a landmark blacklist.
+Report/time: who attended/knows, present-time speakers, any earlier-picture cue;
+             simple cue for a material time/location change.
 ```
 
 An original fictional court-clothes beat could begin with a host attempting to
@@ -267,3 +273,62 @@ Historical invisible-camera handoffs should be staged through empty hand-to-lens
 Actual coverage may justify a reviewed minor adaptation through the ending. Here a visible shared local dice game established friendship/language learning; no precise initial defeat was invented when it was not observed. The later translation and actual counter win/wave remained. A brief warming-layer ellipsis linked lavender public clothes to the dark cloak in the final address/child scene. These are specific editorial decisions preserving core/emotion/payoffs, not permission to erase a missing cause or fake coverage.
 
 The Frameo pass ended before three queued required scenes yielded usable outputs. No99.99USD/day renewal or nonzeroFrameo overflow was purchased. Existing20USD authority supported only three necessary same-model Kie replacements with original cast/voice and useful short video references, at3648reportedcredits/18.24USD rate-card estimate; whole-chat estimate18.56USD. The registered narrow adapter and fresh pricing/budget guards are documented in the Seedance2.5 skill; never infer a general free/paid fallback entitlement. Release/ping the next authorized chat once all required usable generation is finished, before editing/export, and include actual entitlement gaps.
+
+## Cleopatra comparison — 6 November 2026
+
+The owner explicitly requested a slower, closer self-review against the popular
+Elizabeth vlogs, then said **do not change the current film**. The separate1080p
+upscale preserves the edit. Future writing/direction below must not be mistaken
+for an applied repair or owner acceptance of that film.
+
+The new final-picture review inspected683exact one-second samples from00:00through
+11:22 across29chronological sheets, with the full reused source-ASR and actual
+selected-cut ledger. All five primary vlogs' existing timeline/temporal pictures
+and complete ASR were re-examined. Nexlev's refreshed popular catalog still had
+five relevant vlogs and a separate excluded music video. Complete timeline
+representation is **not continuous full-speed audiovisual viewing or listening**.
+No new paid analysis, audible quality claim, retention measurement or creator-parity
+claim is supported. Detailed evidence and a complete **future-only** rewrite live
+in `projects/cleopatra-rome-20261105/production/self-review-20261106/`.
+
+Preserve the working strengths: near-lens settle00:00–00:04; supported child contact
+01:24–01:33 and boarding02:02–02:09; calendar counters03:16–03:25; layered lamp-room
+light06:53–07:42; meaningful statue reveal08:05–08:10 and opened document09:00–09:13;
+child transfer/lamp/December ending10:58–11:23. These fit the reference's method of
+intimate access, useful objects and public status becoming personal consequence.
+
+| Observed full-film gap | Reference comparator | Apply before the next generation |
+|---|---|---|
+|Bronze protection, respectable names/books and the later arranged grant depend heavily on implication. |[Mary160–241s](https://www.youtube.com/watch?v=Tcqa0sk3DCY&t=160s) makes a political mechanism tangible through courier/code/seal operations. |Give the early promise one concrete consequence; show who needs what, a visible attempt/permission and its result. Explain the procedure before the witty reversal. Keep invented procedural dialogue identified as fiction. |
+|Hair work03:37–04:00 repeats touches without a clearly finished state. |[Bath497–508s](https://www.youtube.com/watch?v=6YH9xNmQ0qU&t=497s) changes work phase; [Ready357–368s](https://www.youtube.com/watch?v=qFFb-xZ72lw&t=357s) uses ruff and attendant to change attention. |Name the changed material/state, useful completion or interruption, and why it causes the next action. Quiet grief can develop through thought/attention; do not add busywork to every pause. |
+|Earlier parade/evening review05:25–06:52 carries multiple offscreen speakers over long bystander views;05:42–05:52 follows a less eventful road and06:23–06:44 holds similar foreground people. |[Palace282–303s](https://www.youtube.com/watch?v=4vUZRPsFCdo&t=282s) turns from the used book toward the person whose reply matters. |Establish present-time reporters, correct translator and listener before earlier pictures; introduce only the insert needed, then return to the affected person. Preserve who attended. Prepare this coverage and compact redundant wording, rather than cut native words or preserve every30s container. |
+|Several sentence endings return to a similar small smirk. |[Palace580–591s](https://www.youtube.com/watch?v=4vUZRPsFCdo&t=580s) lets a smile give way to guarded feeling. |Use a neutral listening baseline and a situation-led intention/response: checking, hiding offense, recalculating, admitting or recovering. Avoid persistent smiling and copied facial design. This is picture evidence; audible acting remains unassessed. |
+|Selfie-reveal plans become views around the host's back00:25–00:40 and02:39–02:53; a black lens/device is still exposed00:53–00:54. |[Armada36–47s](https://www.youtube.com/watch?v=P-DRR0KYqfk&t=36s) keeps moving direct address tied to the host; Palace's book turn is attention-led. |Specify the real optical path and operator/free hands. A selfie turn reveals the holder's view. Choose an established attendant view or motivated editorial switch if necessary; stage empty-hand/framing handoffs with hardware behind the optical plane. Reuse this successful construction for every relevant event, not only prior failed IDs. |
+|Repeated riverfronts resemble later regularly windowed palazzi despite an earlier belfry correction. |The primary references make social period legible through material/work and connected geography; this does not authorize Tudor scenery in another era. |Prepare a positively researched date/place master for urban fabric, rooflines, shore, openings, materials and ordinary work, then bind it across seasons/reverse angles. Treat the era concern as a picture-based inference until historically checked; a landmark ban is not a world reference. |
+|Major grief-to-daylight visit and extended calendar wait rely mainly on context. |Reference routines and access episodes move because a task/result/permission changes the next need. |Use a short spoken/action/time cue, preserve the meaningful reaction, and elide uneventful travel. Do not add default captions or retain every footstep. |
+
+Lighting is already a relative strength; do not globally brighten, warm, haze or
+smooth the footage to “match quality.” Preserve motivated face/object exposure,
+natural falloff, foreground work and useful background depth. Broaden framing
+only when a task, listener or fact changes the attention. A recurring location can
+remain interesting through a new operation; a different room alone does not help.
+
+Native final signal was−22.96LUFS/−4.06dBTP; diverse reference values are descriptive,
+not a mix target. Without supported direct listening there is no basis to certify
+voice, comic vocal timing, ambience/music balance or phoneme sync, nor to prescribe
+a gain boost as a cure. Upscaling preserves these properties; it cannot repair a
+screenplay or performance. Claims of improvement need actual future footage.
+
+Carry these refinements in the existing complete-screenplay foundation and sequence
+card fields above. Reuse settled research and one world/cast preparation; overlap
+independent detailed prompts, generation and assembly after writing. At actual
+dependency/selection checks, look at the meaningful operation/turn/result rather
+than add routine per-clip ASR, paid scores, exhaustive contact sheets or approval
+stages. The dense review here was explicitly requested; it is not a new default
+cost/time burden on every future film.
+
+For a fresh assistant, the guide, foundation, template, YAML, reference notes and
+single Claude story prompt contain the rules. The project self-review also contains
+a credential-free portable knowledge snapshot and complete future screenplay.
+Use the receiving device's storage and actual authorized tools; instructions do not
+transfer private cast media, credentials, provider entitlement or observed quality.

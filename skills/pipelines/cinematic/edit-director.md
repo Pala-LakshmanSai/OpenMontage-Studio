@@ -1,5 +1,23 @@
 # Edit Director - Cinematic Pipeline
 
+Apply `docs/ai-video-action-clarity-and-pacing.md` to narrative action. Check what
+a viewer without the screenplay would infer: chosen action or accident, who acts,
+by what means, and with what result. Record actual selected evidence; an authored
+cut reason is not an observation. Trim repeated information, duplicate action,
+idle tails and unnecessary pauses while preserving complete action/native speech
+and developing emotion. Keep rhythm varied; continuity is not slow literalism.
+
+For true continuations, include relevant supporting/background behavior in that
+same observation: task, attention, emotional response, pose/support and location.
+Do not qualify a shot solely by its featured face while other affected people
+freeze or reset. Preserve quiet meaningful responses; remove idle waiting and
+duplicate reaction coverage. No blanket demand for louder or constant acting.
+
+For AI Movie, stage necessary time cues before/at the affected scene opening,
+using restrained readable film-specific typography and sound treatment. Preserve
+legible hold, safe placement and consistent time origin. Reconcile flashback
+entry/return and epilogue ages; do not interrupt a decisive action with a card.
+
 Owner correction, 5 November 2026 — **AI Movie writing comes first**:
 follow `docs/ai-movie-screenplay-foundation.md`. Treat a supplied story as an
 adaptable outline. Review and strengthen the whole story and revised screenplay

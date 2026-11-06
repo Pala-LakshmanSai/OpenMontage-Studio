@@ -1,5 +1,22 @@
 # Script Director - Cinematic Pipeline
 
+For AI Movie, reconcile the title's defining design/event promise with the supplied
+outline before finalizing the whole screenplay. Apply
+`docs/ai-video-story-engagement-preferences.md`: required visible evidence,
+early recognition, several major consequential peaks, causal escalation and earned
+payoff. Preserve owner-specific creature expectations and meaningful quiet contrast.
+
+For narrative AI action, apply `docs/ai-video-action-clarity-and-pacing.md`.
+In the existing critical beat description, record the intended audience reading,
+its plausible misreading and the visible distinction. Protect the decision,
+means, result and response without scripting every trivial movement. Allocate
+performed time; remove redundant information before extending runtime.
+
+For AI Movie, that guide also requires whole-frame emotional behavior and
+necessary temporal orientation. Plan relevant visible participants' response and
+ongoing tasks. Mark important time jumps/flashback entry/return before the first
+affected scene; resolve cue wording/time origin against ages and chronology.
+
 Owner correction, 5 November 2026 — **AI Movie writing comes first**:
 follow `docs/ai-movie-screenplay-foundation.md`. Treat a supplied story as an
 adaptable outline. Review and strengthen the whole story and revised screenplay

@@ -1,5 +1,12 @@
 # Asset Director - Cinematic Pipeline
 
+For narrative AI action, apply `docs/ai-video-action-clarity-and-pacing.md`.
+Qualify the returned decisive movement and relevant inherited state, not merely
+cast appearance or prompt compliance asserted in prose. Missing/ambiguous choice,
+entry, contact or result remains an unresolved required beat. Keep exact accepted
+and uncertain receipts; continue independent work and make only authorized
+targeted corrections, without replaying refusals or adding paid review loops.
+
 Owner correction, 5 November 2026 — **AI Movie writing comes first**:
 follow `docs/ai-movie-screenplay-foundation.md`. Treat a supplied story as an
 adaptable outline. Review and strengthen the whole story and revised screenplay

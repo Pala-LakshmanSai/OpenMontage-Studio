@@ -154,3 +154,29 @@ def test_queen_contract_cannot_be_bypassed_by_changing_explicit_style(tmp_path, 
     with pytest.raises(checkpoint.CheckpointValidationError, match='style disagrees'):
         checkpoint.write_checkpoint(tmp_path, 'queen', 'assets', 'in_progress', {},
                                     style_playbook='mira-beyond-the-screen')
+
+
+@pytest.mark.parametrize('case', ['observed', 'missing_action', 'missing_coverage', 'foundation_only'])
+def test_custom_assembly_cli_uses_saved_evidence_without_mutating_it(movie, capsys, case):
+    from lib.narrative_continuity import main
+    project, script, edit = movie
+    folder = project / 'artifacts'
+    folder.mkdir()
+    (folder / 'script.json').write_text(json.dumps(script))
+    if case == 'missing_action':
+        edit['metadata']['narrative_coverage']['observations'] = []
+    if case == 'missing_coverage':
+        edit['metadata'].pop('narrative_coverage')
+    if case != 'foundation_only':
+        (folder / 'edit_decisions.json').write_text(json.dumps(edit))
+    before = {path: path.read_bytes() for path in folder.iterdir()}
+    args = [str(project)] + (['--foundation-only'] if case == 'foundation_only' else [])
+    assert main(args) == (1 if case in {'missing_action', 'missing_coverage'} else 0)
+    result = json.loads(capsys.readouterr().out)
+    if case == 'missing_action':
+        assert 'missing observed required beats: rescue' in result['error']
+    elif case == 'missing_coverage':
+        assert 'record observed narrative coverage' in result['error']
+    else:
+        assert result['audiovisual_quality_certified'] is False
+    assert {path: path.read_bytes() for path in folder.iterdir()} == before

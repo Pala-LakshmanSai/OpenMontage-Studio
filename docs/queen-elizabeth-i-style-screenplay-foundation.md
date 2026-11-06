@@ -66,6 +66,19 @@ A political message should lead intelligibly to a decision and consequential
 action, not merely another speech in a different room. Let an earned human
 response follow the result before a callback closes it.
 
+Full-film refinement,6November2026: make the opening promise understandable to a
+viewer without prior knowledge. Place one concrete consequence near it; explain
+an unfamiliar political/social mechanism before asking a clever reversal to pay
+it off. Establish who needs what, the observable attempt or permission and what
+changes. Do not count proper names or implication as an explained procedure.
+For reports or earlier-event inserts, first establish the present-time speakers,
+who attended and how they know; return to the listener when the meaning changes.
+Separate visible speakers from offscreen commentary and let a simple time/action
+cue carry major ellipses. Preserve the source's viewpoint and factual boundaries.
+Give a recurring task a readable changed state/result and a reason to end; assign
+changing intentions rather than a smile after every sentence. Put these choices
+in the existing screenplay and sequence cards, not another approval artifact.
+
 Do not show every footstep, fastening or journey. An instruction, established
 destination or visible time cue can justify omitting uneventful work. Record the
 cue and why the omitted action is inferable and expendable. A missing cause,

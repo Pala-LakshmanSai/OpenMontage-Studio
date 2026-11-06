@@ -1,5 +1,12 @@
 # Global realism and progression for AI videos
 
+Owner correction, 6 November 2026 IST: apply
+[readable decisions and purposeful pace](ai-video-action-clarity-and-pacing.md).
+Distinguish intention from accident in the actual picture, preserve decisive
+movement and inherited state, and trim repetition without removing necessary
+causes. Continuity does not require slow literal coverage. This applies to
+narrative action in every relevant style; preserve their distinct aesthetics.
+
 For AI Movie, the 5 November 2026 owner correction in
 `docs/ai-movie-screenplay-foundation.md` requires whole-story adaptation and revised
 screenplay review before media generation. Preserve story/emotional identity and

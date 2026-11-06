@@ -46,6 +46,16 @@ native speech-picture timing, complete endings, actual two-second minimum shots,
 
 ## Test transfer before claiming it works
 
+Owner update, 6 November 2026 IST: include
+`docs/ai-video-action-clarity-and-pacing.md` and the updated AI Movie style/prompt,
+foundation, editorial playbook and stage instructions. In a fresh planning-only
+chat, present an ambiguous edge lean followed by an underwater shot. The assistant
+must not certify a voluntary dive from those states; it should identify missing
+decision/movement evidence and propose concise visible staging. Also present a
+long repeated approach with no new information. It should tighten that passage
+while protecting the choice and completed action, rather than prescribe more
+runtime or random faster cuts. Text retrieval success is not finished-film proof.
+
 Use fresh chats inside the destination project, not an existing production chat.
 Request read-only planning; prohibit media generation, purchases and paid review.
 Check the answers against the actual canonical files. Do not feed the expected

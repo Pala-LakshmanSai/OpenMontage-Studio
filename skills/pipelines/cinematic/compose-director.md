@@ -1,5 +1,14 @@
 # Compose Director - Cinematic Pipeline
 
+For narrative AI work, apply `docs/ai-video-action-clarity-and-pacing.md` in the
+existing brief moving-output check. Resolve known unclear pivotal decisions and
+dragging repetition at the responsible layer. For styles carrying the narrative
+contract, custom FFmpeg assembly or direct Downloads export must honor the same
+coverage check as normal edit/compose completion. Use
+`python -m lib.narrative_continuity path/to/project` before a finished-film claim.
+Do not bypass a failed check with a standalone mux or fabricated observations.
+The command validates evidence integrity, not visual meaning or artistic quality.
+
 Owner correction, 5 November 2026 — **AI Movie writing comes first**:
 follow `docs/ai-movie-screenplay-foundation.md`. Treat a supplied story as an
 adaptable outline. Review and strengthen the whole story and revised screenplay

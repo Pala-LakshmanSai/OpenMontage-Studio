@@ -1,5 +1,26 @@
 # Saved AI movie preferences
 
+Owner corrections, 6 November 2026 IST: follow
+[action clarity, whole-frame emotional performance, purposeful pace and time cues](ai-video-action-clarity-and-pacing.md).
+Show decisions and emotions clearly for all relevant visible people; preserve
+ongoing task, posture/support and meaningful reactions across cuts. Keep scenes
+engaging without idle holds or rushed missing causes. For every AI Movie, add
+necessary restrained, readable time cues before/at the first affected scene,
+including important years-later transitions or confusing flashback entry/return.
+Design typography/placement/reading time for the film and reconcile the cue's
+time origin with actual ages and chronology. Necessary chronology cues are now
+authorized by this default; unrelated floating labels/captions remain unrequested.
+
+Owner reiteration, 6 November 2026 IST: apply the
+[title-promise and repeated major-event rules](ai-video-story-engagement-preferences.md#title-promise-before-the-story-is-finalized--owner-correction-6-november-2026-ist)
+before finalizing the story. The movie must visibly deliver the title's defining
+subject/design, conflict and payoff, with several earned gripping/intense
+developments rather than long routine coverage. For future title-led Leviathan
+movies, the owner's expected design is a recognizable multi-headed Leviathan
+unless explicitly specified otherwise. Adapt the supplied outline to meet that
+expectation while protecting its dramatic/emotional core. The current movie is
+explicitly frozen; this correction trains future production only.
+
 Owner correction, 5 November 2026 — **AI Movie writing comes first**:
 follow `docs/ai-movie-screenplay-foundation.md`. Treat a supplied story as an
 adaptable outline. Review and strengthen the whole story and revised screenplay

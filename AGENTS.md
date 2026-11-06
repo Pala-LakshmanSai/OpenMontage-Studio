@@ -1,5 +1,12 @@
 # OpenMontage
 
+Owner correction, 6 November 2026 IST: follow
+`docs/ai-video-action-clarity-and-pacing.md`. Show consequential intention and
+decisive action clearly in actual selected footage, distinguish choices from
+accidents, preserve necessary continuity and trim repetition/idle tails. Flexible
+runtime does not justify slow padding. Apply existing narrative coverage checks
+to custom assembly and delivery too; no technical-only finished-film claim.
+
 Owner correction, 5 November 2026 — **AI Movie writing comes first**:
 follow `docs/ai-movie-screenplay-foundation.md`. Treat a supplied story as an
 adaptable outline. Review and strengthen the whole story and revised screenplay

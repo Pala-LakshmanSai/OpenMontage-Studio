@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "frameo_generation_start": {
     "scope": "Every style using an authorized Frameo daily/unlimited API pass",
     "guide": "docs/unlimited-plan-production-preferences.md",
@@ -25,6 +25,7 @@
     "docs/frameo-studio-production-preferences.md",
     "docs/ai-video-story-engagement-preferences.md",
     "docs/ai-video-global-realism-preferences.md",
+    "docs/ai-video-action-clarity-and-pacing.md",
     "docs/ai-video-human-performance-preferences.md",
     "docs/ai-video-voice-selection-preferences.md",
     "docs/minimum-shot-duration-preferences.md",
@@ -62,7 +63,9 @@
       "guide": "docs/ai-movie-preferences.md",
       "template": "docs/ai-movie-prompt-template.md",
       "reference_notes": "docs/ai-movie-reference-notes.md",
-      "playbook": "styles/ai-movie.yaml"
+      "playbook": "styles/ai-movie.yaml",
+      "production_playbook": "docs/ai-movie-editorial-continuity-playbook.md",
+      "screenplay_foundation": "docs/ai-movie-screenplay-foundation.md"
     },
     {
       "id": "vlog-style",
@@ -173,5 +176,12 @@
     "example": "docs/examples/ai-movie-narrative-contract.json",
     "tests": "tests/test_narrative_continuity.py",
     "scope": "Reviewed whole screenplay before media; observed selected coverage before edit/render; integrity validation, not semantic or artistic certification."
+  },
+  "action_clarity_and_pacing": {
+    "guide": "docs/ai-video-action-clarity-and-pacing.md",
+    "owner_updated": "2026-11-06",
+    "scope": "Narrative action across AI styles; preserve style differences",
+    "rule": "Actual visible decisions, whole-frame action/emotional progression, inherited physical state, necessary well-designed time cues, title promise and consequential escalation; continuity without slow padding; custom narrative assembly retains observed coverage validation",
+    "read_only_custom_assembly_check": "python -m lib.narrative_continuity path/to/project"
   }
 }

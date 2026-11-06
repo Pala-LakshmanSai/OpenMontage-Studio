@@ -1,5 +1,15 @@
 # Human voice and facial performance without slower production
 
+Owner correction, 6 November 2026 IST: apply
+[readable decisions, whole-frame acting and purposeful pace](ai-video-action-clarity-and-pacing.md).
+Direct every relevant visible person or group, including silent supporting actors:
+knowledge/goal, ongoing task, gaze, pose/support, stimulus, emotional progression
+and inherited exit state. Show emotion through appropriate behavior and response,
+not a static neutral face or an adjective in the prompt. Silence/shock/restraint
+can be authentic when readable and developing; do not prescribe screaming or
+constant gestures. Preserve meaningful standing/kneeling/seated changes across
+cuts. Keep scenes active and concise without rushing important action or feeling.
+
 Owner instruction, 3 November 2026. Apply across current and future AI-video
 styles when generated people or speech are present. Improve the approved main
 route before paying for a premium model. This is a preparation and reuse policy,

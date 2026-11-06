@@ -1,5 +1,41 @@
 OPENMONTAGE — COMPLETE ORIGINAL AI MOVIE
 
+Before finalizing the adapted story, apply the title-promise rule in
+`docs/ai-video-story-engagement-preferences.md`: identify the defining creature/
+subject, visible distinctive feature, central situation, scale and payoff viewers
+were promised; map them to actual story events and required selected evidence.
+Resolve conflicts between title expectations and a supplied outline before media.
+Future title-led Leviathan films use the owner's recognizable multi-headed design
+unless explicitly requested otherwise. Build several major consequential gripping
+developments/intense sequences with changed tactics and lasting costs; contrast
+earned quiet emotion, not padded routine or repeated identical attacks.
+
+Owner correction, 6 November 2026 IST: read
+`docs/ai-video-action-clarity-and-pacing.md`. For each pivotal action, specify its
+intended audience reading, the likely wrong reading, and the visible distinction.
+Show the actual decision and decisive movement; do not infer them from prompts or
+before/after states. Preserve meaningful continuity without slow literal coverage.
+Cut repeated information, idle tails and unnecessary pauses; let necessary action
+and emotion finish. Flexible runtime is not a target expansion. Validate actual
+selected coverage through the normal narrative contract even with custom FFmpeg
+assembly. Keep unknown beats unresolved; technical export is not semantic proof.
+
+Direct everyone relevant in frame, including silent supporting people and groups.
+Give them the current knowledge/goal, physical task, attention, emotional response
+and continuing pose/support in existing scene fields. Make loss, fear, care,
+conflict and relief perceptible through chosen behavior; silence is allowed but
+neutral inactivity is not a performance. A shock freeze needs a motivated onset
+and subsequent response. Preserve standing/kneeling/seated state across actual
+cuts; do not reset by camera angle. Keep actor business purposeful, with natural
+restraint and varied pace rather than constant gestures, panic or long idle holds.
+
+For every AI Movie, plan necessary time cues (years later, that night, flashback
+entry/return) under the same guide. Put them before/at the affected scene opening;
+use restrained film-specific readable typography, safe placement and adequate
+fully legible reading time. Do not label every cut or interrupt action. Reconcile
+relative cue origins with ages/chronology; necessary temporal cues are authorized
+by the owner, while unrelated overlays and explanatory captions are not.
+
 Owner correction, 5 November 2026 — **AI Movie writing comes first**:
 follow `docs/ai-movie-screenplay-foundation.md`. Treat a supplied story as an
 adaptable outline. Review and strengthen the whole story and revised screenplay

@@ -1,5 +1,52 @@
 # Extreme, surprising stories planned before generation
 
+## Title promise before the story is finalized — owner correction, 6 November 2026 IST
+
+Treat the title as a dramatic and visual promise. Before locking an AI Movie's
+adapted screenplay, identify what the audience expects to recognize and experience:
+the named entity/subject, its distinctive design/capability, the central situation,
+genre, scale and promised conflict/payoff. Put the required evidence in the existing
+proposal/sequence/beat plan: what must appear, where it first becomes legible, how
+it changes events, and where the film delivers the payoff. A creature name in a
+title, prompt or dialogue is not evidence of the promised creature on screen.
+
+Compare that promise against a supplied story outline and proposed design before
+media generation. Adapt the outline while preserving its dramatic/emotional core;
+do not silently substitute an easier generic creature or a smaller event. Resolve
+an explicit conflict with current owner requirements before spending. Ordinary
+creative staging remains autonomous; do not add a routine approval ceremony.
+Show enough of the promised subject/event early to establish trust, while reserving
+appropriate mystery and later escalation. Do not promise a feature in a title or
+thumbnail that only exists in planning and never appears in the finished picture.
+
+Owner's specific creative preference: future title-led **Leviathan** films should
+feature a recognizable **multi-headed Leviathan**, rather than defaulting to a
+single-headed whale, unless the owner explicitly requests a different design.
+The Ice Leviathan supplied outline described a baleen-mouthed whale-like mother
+under that name; following it literally failed to reconcile the owner's expected
+title imagery. This is a recorded creative expectation, not a universal mythology
+claim. Establish the chosen head count, one coherent body/neck anatomy, silhouette,
+scale, per-head condition and relevant behavior before references are frozen.
+Ensure meaningful selected views actually show the defining feature. A close-up
+of one head alone does not establish multiple heads; disconnected creatures must
+not masquerade as one multi-headed individual. Respect explicit alternative briefs.
+
+The owner also reiterates **several major, gripping developments and intense
+sequences wherever the story warrants them**, not one opening incident followed by
+extended routine coverage. Apply the existing Multiple earned tension peaks rule
+below: build distinct consequential events through anticipation, agency, escalating
+resistance, changed tactics, visible outcome and lasting cost. A revelation,
+betrayal, failed rescue, sacrifice or reversal must change what happens next.
+Give supporting people real leverage and emotionally readable responses. Repeating
+the same attack, adding more monster close-ups, a louder score or calling a quiet
+scene "intense" does not supply a new major event. Contrast pressure with earned
+relief and attachment, preserve causal continuity and pay off the title in the
+climax. No rigid event quota, constant maximum volume or guaranteed retention claim.
+
+Follow [action clarity, whole-frame performance and purposeful pace](ai-video-action-clarity-and-pacing.md)
+so those written promises survive returned footage and editing. New instructions
+are not proof that future footage succeeds; inspect the actual required evidence.
+
 For AI Movie, the 5 November 2026 owner correction in
 `docs/ai-movie-screenplay-foundation.md` requires whole-story adaptation and revised
 screenplay review before media generation. Preserve story/emotional identity and

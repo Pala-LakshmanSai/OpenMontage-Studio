@@ -1,5 +1,18 @@
 # AI Movie: adapt the story before generating media
 
+Owner correction, 6 November 2026 IST: also follow
+[readable decisions and purposeful pace](ai-video-action-clarity-and-pacing.md).
+Write a pivotal action's intended reading, likely misreading and visible
+distinction in its existing beat description. Validate the actual selected
+performance, not the intention. Flexible length must not become slow padding;
+remove redundant coverage while protecting necessary action and emotion.
+
+The same guide now includes whole-frame emotional performance and necessary time
+cues for every AI Movie. Review who knows/feels/does what in each affected group,
+carry their physical and emotional state, and plan chronology cues before the
+first scene needing them. Reconcile relative time origins, ages and flashback
+entry/return. Readable cards/overlays support the story; they cannot replace it.
+
 Owner corrections, 5 November 2026. This is the first creative production step for
 **every AI Movie**, including imported stories, title-led originals and Frameo
 unlimited. Read alongside the movie preferences and editorial-continuity playbook.

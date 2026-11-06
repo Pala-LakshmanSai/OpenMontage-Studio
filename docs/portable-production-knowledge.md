@@ -25,6 +25,11 @@ voice, sound and approval rules rather than blending incompatible styles.
 
 Shared production policies include:
 
+- [Readable decisions and purposeful pace](ai-video-action-clarity-and-pacing.md):
+  actual visible intention/action, coherent inherited state and concise developed
+  scenes; preserve necessary continuity without slow padding. AI Movie custom
+  delivery retains the existing narrative-coverage requirements.
+
 - [AI Movie editorial and continuity playbook](ai-movie-editorial-continuity-playbook.md): portable sequence/state/reference/camera/edit practice distilled from the owner-requested delivered-film review; read for AI Movie, generalize shared causes without importing its aesthetic into other styles.
 
 - [Extreme story and surprise planning before generation](ai-video-story-engagement-preferences.md): apply the operational hook/escalation/choice/cost/payoff contract, not just generic promises of danger.
