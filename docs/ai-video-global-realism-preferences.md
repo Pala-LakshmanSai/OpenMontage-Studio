@@ -517,3 +517,9 @@ required motion or block each other's route. A door's opening direction, for
 example, must agree with the side and push/pull/bracing action actually scripted.
 Revise contradictory verbs before generation rather than calling the plan ready
 because tool names and time sums match.
+
+Derive displayed scene boundaries and provider-request subranges from one canonical
+shot-duration list. Check both the row sums and the shared scene/request split:
+rows can each total30seconds while a scene silently moves by two seconds between
+tables. Correct the split or the scene boundary, then propagate that same change;
+do not claim reconciliation from request totals alone.

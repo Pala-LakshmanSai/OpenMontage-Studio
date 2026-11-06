@@ -94,7 +94,12 @@ style guide for its distinguishing contract. Derive generic playbooks from actua
 current `styles/` files or an exact source manifest, not remembered product names.
 A routing-summary answer is explicitly partial when its underlying guides remain
 unread; finish those reads before calling the requested comparison complete. An
-ordinary film still reads only its active style and applicable policies.
+ordinary film still reads only its active style and applicable policies. Before
+authoring even a preliminary plan, directly read the active preferences, template,
+reference notes and applicable policy text; search excerpts and routing summaries
+are navigation, not completion of mandatory reads. Do not defer that step until
+after presenting the plan. If retrieval truly fails, name the missing source and
+keep that portion provisional rather than claiming style readiness.
 
 Keep supplied scenario descriptions, directly inspected footage, recorded metadata
 and executed validation distinct. A hypothetical cut description supports a
