@@ -906,6 +906,12 @@ Tool rules:
 | `minimalist-diagram` | Technical deep-dives, architecture |
 | `ink-sketch` (Ink Theater) | Hand-drawn ink-on-white doodle animation; a character that draws itself, walks, dances; contraption explainers |
 
+The table above is creative routing, not an exhaustive YAML inventory.
+`ink-sketch` names the Ink Theater engine route below; it does not imply that
+`styles/ink-sketch.yaml` exists. List installed generic YAML playbooks from actual
+`styles/` files or the current exact source manifest, and trained AI profiles from
+`docs/production-knowledge-index.json`.
+
 For custom, atelier, brand, launch, or hero work, read `skills/meta/taste-direction.md` before choosing a playbook. Carry its `taste_profile` into the proposal so later stages can preserve the design read, visual variance, motion intensity, information density, reference strategy, and anti-patterns.
 
 ### Hand-drawn "doodle" animation → Ink Theater / Ink Puppet

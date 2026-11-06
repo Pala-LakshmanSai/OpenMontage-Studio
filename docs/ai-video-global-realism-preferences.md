@@ -509,3 +509,11 @@ material, not only a later sound label. Do not add an insert for every ordinary
 prop; include the means needed to understand the consequential operation. When
 reviewing a supplied scenario rather than actual media, describe the diagnosed
 risk conditionally and keep uninspected footage/runtime/access unverified.
+
+For an essential shared operation, reconcile each participant's side, free hands,
+contact, force direction and resulting travel with the established mechanism in
+that same completion check. Two people helping cannot unknowingly oppose the
+required motion or block each other's route. A door's opening direction, for
+example, must agree with the side and push/pull/bracing action actually scripted.
+Revise contradictory verbs before generation rather than calling the plan ready
+because tool names and time sums match.

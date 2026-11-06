@@ -83,7 +83,8 @@ possible gap, subjective storytelling parity or finished-film speed/quality.
 ## Inventory and evidence discipline in fresh-context tests
 
 Fresh Mac-app audit, 6 November 2026: correctly recalling shared rules did not
-prevent a fabricated generic playbook name, incomplete style-guide retrieval or
+prevent mistaking an engine routing label for an installed YAML, incomplete
+style-guide retrieval or
 an overconfident claim about the semantic coverage validator. Correct that layer
 without changing successful production aesthetics or adding routine paid review.
 
