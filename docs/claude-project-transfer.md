@@ -240,3 +240,21 @@ Skip unchanged checks and avoid routine Claude model calls, paid media or review
 For a substantive retrieval/routing change or an observed failure, use the fresh
 planning-only test above and record its scoped result. Updating knowledge does not
 retroactively change existing chat responses or prove future footage quality.
+
+
+## Native linked-source access — 6 November 2026
+
+A read-only planning task may still need the normal per-session folder grant.
+In the Mac trial, initial computer/list calls failed without that grant; after
+allowing the reviewed public checkout for the session, native commands read its
+current commit, guide, index and production policies. The user did not need to
+reteach the production preferences. Request only the already-authorized reviewed
+public source folder, respect the task's read-only restriction and keep private
+configuration outside it. A folder grant does not establish provider entitlement,
+private cast access or a completed runtime installation.
+
+An attachment-only test with terminal commands disabled checks a different route.
+Record that limitation rather than inferring that normal source access is broken
+or that an uninspected runtime is absent. Prefer the verified linked source for
+normal production; use exact dated attachments when that route is unavailable.
+Keep retrieval coverage and actual creative application as separate test results.
