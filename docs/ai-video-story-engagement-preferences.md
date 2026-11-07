@@ -1,5 +1,25 @@
 # Extreme, surprising stories planned before generation
 
+## Named protagonist and viewpoint — owner correction, 7 November 2026
+
+Across narrative styles, a title that promises a named person's vlog promises
+that person as the central first-person host and decision-maker. Establish the
+promised character early and let their choices, experience and reactions carry
+the episode through its payoff. A supporting worker's story about an offscreen
+named person does not fulfill that viewpoint. Reconcile an incompatible supplied
+outline before media generation; keep historical fact and invented private
+dialogue clearly distinguished. A provider restriction is an access problem to
+surface, not permission to silently replace the protagonist or disguise a refused
+identity.
+
+For Queen Elizabeth I Style, storytelling quality includes the whole story,
+first-person narration/dialogue and performed screenplay. Complete and strengthen
+that foundation through the ending before media; speed comes from reusing valid
+research and overlapping ready production afterward, not rushing the writing or
+retaining empty footage to reach a nominal runtime. Reference creators set a
+quality aspiration, not permission to copy their scripts, identity or voice, or a
+claim of demonstrated parity.
+
 ## Title promise before the story is finalized — owner correction, 6 November 2026 IST
 
 Treat the title as a dramatic and visual promise. Before locking an AI Movie's
