@@ -1,4 +1,4 @@
-"""ByteDance Standard 1080p enhancement; source files must be <=250 MiB.
+"""ByteDance Standard enhancement; source files must be <=250 MiB.
 
 The 262144000-byte provider limit was verified by a definitive HTTP 422 response.
 Larger films require separately authorized chunks and distinct durable receipts.
@@ -12,6 +12,7 @@ import os
 import subprocess
 import tempfile
 import time
+from fractions import Fraction
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -66,8 +67,29 @@ class FalBytedanceUpscale(BaseTool):
             "poll_timeout": {"type": "number", "minimum": 0, "default": 40},
             "poll_interval": {"type": "number", "exclusiveMinimum": 0, "default": 5},
             **{k: {"enum": [v], "default": v} for k, v in OPTIONS.items()},
+            "target_fps": {"enum": [24, 25], "default": 24},
+            "enhancement_preset": {"enum": ["aigc", "old_film"], "default": "aigc"},
+            "scale_ratio": {"type": "number", "minimum": 1.1, "maximum": 10},
         },
+        "not": {"required": ["scale_ratio", "target_resolution"]},
     }
+
+    @staticmethod
+    def _options(inputs):
+        options = {key: inputs.get(key, value) for key, value in OPTIONS.items()}
+        if "scale_ratio" in inputs:
+            options.pop("target_resolution")
+            options["scale_ratio"] = inputs["scale_ratio"]
+        return options
+
+    @staticmethod
+    def _expected_dimensions(options, source_video):
+        if "scale_ratio" not in options:
+            return 1920, 1080
+        dims = tuple(round(source_video[key] * options["scale_ratio"]) for key in ("width", "height"))
+        if min(dims) <= 0 or dims[0] * dims[1] > 3840 * 2160:
+            raise ValueError("Scaled output exceeds validated 4K pixel limit")
+        return dims
 
     @staticmethod
     def _probe(path):
@@ -147,8 +169,14 @@ class FalBytedanceUpscale(BaseTool):
             lock.acquire()
             if not source.is_file() or not source.stat().st_size:
                 raise ValueError("Nonempty source video required")
-            duration, _ = self._probe(source)
-            spec = {"endpoint": ENDPOINT, "options": OPTIONS, "source_sha256": _sha(source),
+            duration, source_video = self._probe(source)
+            options = self._options(inputs)
+            expected_dimensions = self._expected_dimensions(options, source_video)
+            if "scale_ratio" in options or options["target_fps"] != OPTIONS["target_fps"]:
+                source_fps = float(Fraction(source_video.get("avg_frame_rate", "0/1")))
+                if not math.isclose(source_fps, options["target_fps"], abs_tol=1e-6):
+                    raise ValueError("Custom enhancement must preserve source frame rate")
+            spec = {"endpoint": ENDPOINT, "options": options, "source_sha256": _sha(source),
                     "source_duration_seconds": duration, "output_path": str(output)}
             fingerprint = hashlib.sha256(json.dumps(spec, sort_keys=True).encode()).hexdigest()
             if receipt.exists():
@@ -183,7 +211,7 @@ class FalBytedanceUpscale(BaseTool):
                 job.update(state="submitting", submitted_at=time.time())
                 _write(receipt, job)
                 accepted = self._request("POST", "https://queue.fal.run/" + ENDPOINT,
-                                         json={**OPTIONS, "video_url": job["video_url"]})
+                                         json={**options, "video_url": job["video_url"]})
                 # Persist any returned identity before validation/polling. Never lose acceptance.
                 job.update({k: accepted[k] for k in ["request_id", "status_url", "response_url"] if accepted.get(k)})
                 job.update(state="accepted", accepted_at=time.time())
@@ -209,7 +237,9 @@ class FalBytedanceUpscale(BaseTool):
             _write(receipt, job)
             download(result["video"]["url"], output)
             out_duration, video = self._probe(output)
-            if abs(out_duration - duration) > .25 or (video.get("width"), video.get("height")) != (1920, 1080):
+            if abs(out_duration - duration) > .25 or (video.get("width"), video.get("height")) != expected_dimensions:
+                raise ValueError("Returned output requires duration/resolution inspection; do not resubmit")
+            if video.get("avg_frame_rate") and not math.isclose(float(Fraction(video["avg_frame_rate"])), options["target_fps"], abs_tol=1e-6):
                 raise ValueError("Returned output requires duration/resolution inspection; do not resubmit")
             job.update(state="completed", output_sha256=_sha(output), completed_at=time.time(),
                        output_bytes=output.stat().st_size, billing_duration_reported=result.get("duration"))
@@ -234,6 +264,8 @@ class FalBytedanceUpscale(BaseTool):
                     "Source changed during upload; no submission made", "Provider request identity differs",
                     "Source exceeds 262144000-byte (250 MiB) provider limit; split before submission",
                     "Provider task failed; preserve receipt",
+                    "Scaled output exceeds validated 4K pixel limit",
+                    "Custom enhancement must preserve source frame rate",
                     "Returned output requires duration/resolution inspection; do not resubmit"}
             message = str(exc) if type(exc) is ValueError and str(exc) in safe else type(exc).__name__
             return ToolResult(success=False, data=self._public(job), error=message,

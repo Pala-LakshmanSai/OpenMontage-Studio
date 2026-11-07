@@ -147,3 +147,46 @@ def test_authenticated_foreign_host_never_requested(monkeypatch):
     else:
         raise AssertionError("Foreign authenticated host accepted")
     assert not request.called
+
+
+def test_native_25fps_archival_ratio_720p_and_exact_resume(tmp_path, monkeypatch):
+    tool, args = setup(tmp_path, monkeypatch)
+    args.update(target_fps=25, enhancement_preset="old_film", scale_ratio=20/9)
+    source = {"width": 576, "height": 324, "avg_frame_rate": "25/1"}
+    output = {"width": 1280, "height": 720, "avg_frame_rate": "25/1"}
+    monkeypatch.setattr(tool, "_probe", lambda p: (3.12, source if Path(p) == Path(args['video_path']) else output))
+    request = Mock(side_effect=[accepted(), {"status": "IN_QUEUE"}])
+    monkeypatch.setattr(tool, "_request", request)
+    assert not tool.execute(args).success
+    body = request.call_args_list[0].kwargs['json']
+    assert body['target_fps'] == 25 and body['enhancement_preset'] == 'old_film'
+    assert body['scale_ratio'] == 20/9 and 'target_resolution' not in body
+    request.reset_mock(); request.side_effect = [{"status": "COMPLETED"}, {"video": {"url": "https://media.example/output.mp4"}, "duration": 3.12}]
+    assert tool.execute(args).success
+    assert all(c.args[0] == 'GET' for c in request.call_args_list)
+    request.reset_mock()
+    assert not tool.execute({**args, 'scale_ratio': 2}).success and not request.called
+
+
+def test_ratio_rejects_competing_target_or_frame_interpolation_before_upload(tmp_path, monkeypatch):
+    tool, args = setup(tmp_path, monkeypatch)
+    request = Mock(); monkeypatch.setattr(tool, '_request', request)
+    assert not tool.execute({**args, 'scale_ratio': 2, 'target_resolution': '1080p'}).success
+    monkeypatch.setattr(tool, '_probe', lambda p: (3.12, {'width': 576, 'height': 324, 'avg_frame_rate': '25/1'}))
+    result = tool.execute({**args, 'scale_ratio': 20/9, 'target_fps': 24})
+    assert not result.success and 'preserve source frame rate' in result.error
+    assert not tool._upload.called and not request.called
+
+
+def test_ratio_rejects_pixel_limit_and_wrong_returned_fps(tmp_path, monkeypatch):
+    tool, args = setup(tmp_path, monkeypatch)
+    request = Mock(); monkeypatch.setattr(tool, '_request', request)
+    monkeypatch.setattr(tool, '_probe', lambda p: (3.12, {'width': 1920, 'height': 1080, 'avg_frame_rate': '25/1'}))
+    assert not tool.execute({**args, 'scale_ratio': 3, 'target_fps': 25}).success
+    assert not request.called and not tool._upload.called
+    monkeypatch.setattr(tool, '_probe', lambda p: (3.12, {'width': 576, 'height': 324, 'avg_frame_rate': '25/1'} if Path(p) == Path(args['video_path']) else {'width': 1280, 'height': 720, 'avg_frame_rate': '24/1'}))
+    request.side_effect = [accepted(), {'status': 'COMPLETED'}, {'video': {'url': 'https://media.example/output.mp4'}, 'duration': 3.12}]
+    assert not tool.execute({**args, 'scale_ratio': 20/9, 'target_fps': 25}).success
+    request.reset_mock(); request.side_effect = [{'status': 'COMPLETED'}, {'video': {'url': 'https://media.example/output.mp4'}, 'duration': 3.12}]
+    assert not tool.execute({**args, 'scale_ratio': 20/9, 'target_fps': 25}).success
+    assert all(c.args[0] == 'GET' for c in request.call_args_list)

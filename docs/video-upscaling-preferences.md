@@ -15,9 +15,13 @@ owner explicitly selected 1080p. Do not infer a universal 1080p or 4K target.
 
 For clean generated movies, use the validated Standard/AIGC/high-fidelity/8-bit
 contract and original frame rate, without interpolation or competing scale_ratio.
-The current installed adapter pins 1080p/24 fps. A different target or source
-frame rate requires a validated adapter contract update before submission; never
-silently force that footage to 24 fps or substitute a local resize.
+The installed default remains 1080p/24 fps. The 7 November 2026 archival extension
+also validates native25fps, Standard/old_film/high-fidelity/8-bit and an explicit
+scale_ratio when a720p result is requested. Ratio requests omit the competing
+target_resolution, check source-fps equality and expected output dimensions, and
+retain exact option fingerprints/no-replay protection. Other targets or source
+frame rates require a validated contract update before submission; never silently
+force footage to24fps or substitute local resizing for enhancement.
 Verify current schema, availability and cost before submission; a different tier
 is not automatically authorized. Never purchase credits or subscriptions.
 
