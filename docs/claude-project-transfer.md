@@ -231,6 +231,13 @@ the confirmation required by the UI policy. Preserve the previous local export.
 Verify saved instructions and context entries in the actual UI before advancing
 the successful-sync receipt. Record linked-source, instructions and attachment
 versions separately when only some succeeded; retry the pending portion later.
+The native app silently truncated project instructions at about10,000 characters
+in the7November maintenance run. Keep the complete instruction text below9,900
+characters and reopen it to verify the final precedence/rule, not only the commit
+near the beginning. Compress repeated summaries without removing unique rules;
+retain canonical attached/linked source and all required snapshot precedence.
+If unique required instructions cannot fit, record that portion as pending rather
+than treating a successful Save or partial readback as a complete synchronization.
 If the app is unavailable, account differs, access is missing or capacity blocks
 the refresh, preserve the pending target and continue safe repository work.
 A scheduled UI refresh requires this Mac and its signed-in apps to be available;
