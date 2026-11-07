@@ -1,5 +1,61 @@
 # Global realism and progression for AI videos
 
+## Carry identity and the scene through actual performances
+
+Owner correction, 7 November 2026, after rejecting the Michael Jackson vlog for
+changing likeness, disconnected scenes and slow movement. Apply the underlying
+principles to every relevant AI style, including historical character vlogs.
+
+Plan and select **sequences**, not a row of independently restarted clips. In the
+existing sequence/state plan, carry the actor's exact appearance and age, clothes,
+prop ownership, blocking, action phase, camera owner/support, geography, light
+and sound into the next useful passage. Name the reason for the cut and what the
+next image inherits. A new angle can change projection; it cannot invent another
+room, operator, face, outfit or unfinished/repeated operation. Use the practical
+methods in [the AI Movie continuity playbook](ai-movie-editorial-continuity-playbook.md)
+without importing its genre, narrator, music or camera aesthetic into other styles.
+
+A matching character name or source filename does not establish a matching face.
+Use one clean selected identity root and compatible current-state references.
+Cover the required close, profile and full-body views; do not let a wardrobe-only
+image or tiny distant face become the likeness authority for a later close-up.
+An outgoing frame is eligible for continuation only while its actual face and
+state still match. If a branch drifts, repair from the last correct state and
+identity root; do not propagate the altered face through further generations.
+Preserve historical age, hairline/curls, facial proportions and distinctive
+appearance rather than accepting a generic lookalike with the correct costume.
+
+Freeze the **current** visible state positively in each ready prompt. Do not copy
+conditional future wardrobe/prop states into every take: mentioning later clothes
+or an accessory can cause premature changes or duplicates. For handedness and
+orientation, name the anatomical side and verify its projection in the actual
+camera view; a right-facing profile exposes the person's right side nearest the
+camera. Never accept a left/right label without inspecting the corresponding
+shoulder, arm and hand. Correct a faulty master before copying its branch.
+
+Bind every visible speaking character before their entrance, or keep the reply
+offscreen and choose coverage that actually preserves that intention. A voice
+label alone does not bind an unseen actor's face. A supported close view, motivated
+detail or deliberate ellipsis can simplify a difficult interaction, provided the
+selected picture still carries the necessary operation, state and response.
+
+Continuity includes **tempo**. Direct ordinary work, walking, gestures, speech and
+reactions at believable human speed. A title-bearing skill needs its recognizable
+mechanics, coordination and pace in moving footage. Backward body translation
+between keyframes alone does not establish a good moonwalk, just as a moving
+object alone does not establish correct tool use. Use an appropriate reference
+for difficult movement when supported, then judge the returned useful action.
+Do not accept slow interpolation because the prompt says normal speed, or use
+global speed-up of speech and picture to disguise a weak generated performance.
+
+Before copying a new setup across a batch, qualify it through the first already
+planned useful performance and its meaningful continuation: likeness under motion,
+current world state and a coherent entry/exit. Qualify the hardest required skill
+through a useful story take too. This is a bounded production decision, not a new
+audition contest, paid critic, numerical quality score or owner approval stage.
+Keep accepted jobs, actual budget and native speech/picture pairing. A technical
+export, minimum-shot pass, or merely written instruction cannot certify continuity.
+
 Owner correction, 6 November 2026 IST: apply
 [readable decisions and purposeful pace](ai-video-action-clarity-and-pacing.md).
 Distinguish intention from accident in the actual picture, preserve decisive

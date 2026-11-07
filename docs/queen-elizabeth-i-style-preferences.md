@@ -1,5 +1,15 @@
 # Queen Elizabeth I Style
 
+Owner correction, 7 November 2026: inherit the AI Movie sequence, identity, state,
+camera and editorial continuity methods through the
+[shared identity/scene/tempo rule](ai-video-global-realism-preferences.md#carry-identity-and-the-scene-through-actual-performances)
+and [movie continuity playbook](ai-movie-editorial-continuity-playbook.md).
+The Michael Jackson vlog was owner-rejected for changing likeness, disconnected
+clip construction and slow, unnatural pacing/movement. Keep this style's intimate
+historical first-person grammar while correcting those production failures.
+Apply purposeful pacing throughout the film, not just a shorter hook. Do not pad
+an approximate runtime or imply that a technical pass establishes accepted quality.
+
 Saved 5 November 2026 from the popular longform vlogs of
 [@tudor.with.elizabeth](https://www.youtube.com/@tudor.with.elizabeth/videos).
 Use `styles/queen-elizabeth-i.yaml` with the cinematic pipeline and the overrides

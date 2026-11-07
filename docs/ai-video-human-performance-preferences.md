@@ -1,5 +1,21 @@
 # Human voice and facial performance without slower production
 
+Owner correction, 7 November 2026: the Michael Jackson vlog was rejected for
+changing likeness and uniformly slow, unnatural performance, including its dance.
+Follow [identity, scene and tempo continuity](ai-video-global-realism-preferences.md#carry-identity-and-the-scene-through-actual-performances).
+Keep one recognizable person and voice through the actual moving performance;
+do not accept an aged/generic face reconstructed from a wardrobe image or a
+degraded continuation. Re-anchor the affected branch before propagating it.
+Write natural thought groups and useful work first, choose an acquisition duration
+that fits them, and cut empty anticipation, repeated gestures and reset poses.
+The hook and the rest of the episode both need purposeful pace. Quiet feeling can
+remain when it develops; a generator's long envelope is not a reason for delayed
+words or slow-motion ordinary activity. Preserve complete native speech instead
+of uniformly accelerating it. Judge skillful action by mechanics and natural
+tempo, not by its label or net displacement. Choose a cheaper authorized model
+when a useful take actually meets the same requirements; a premium name is not
+quality evidence.
+
 Owner correction, 6 November 2026 IST: apply
 [readable decisions, whole-frame acting and purposeful pace](ai-video-action-clarity-and-pacing.md).
 Direct every relevant visible person or group, including silent supporting actors:

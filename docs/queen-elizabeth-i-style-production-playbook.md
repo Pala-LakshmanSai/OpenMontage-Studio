@@ -1,5 +1,44 @@
 # Queen Elizabeth I Style — production playbook
 
+## Sequence continuity and natural pace — owner correction 7 November 2026
+
+The delivered Michael Jackson episode was rejected for drifting likeness,
+disconnected scenes and slow speech/action, including an unconvincing moonwalk.
+Its earlier technical delivery is not aesthetic acceptance. Apply the
+[shared identity/scene/tempo rule](ai-video-global-realism-preferences.md#carry-identity-and-the-scene-through-actual-performances)
+and the practical sequence methods in the
+[AI Movie continuity playbook](ai-movie-editorial-continuity-playbook.md).
+
+In each existing sequence card, fix the current cast/age/likeness, clothes and
+objects, room route, useful action phase, camera owner/support and sound bed.
+Choose the entry, consequential action/result, exit and next-cut purpose before
+submitting that ready passage. Bind compatible references and an actually correct
+outgoing state for dependent work. A scene is not continuous merely because the
+clips share names, costumes, similar portraits or correctly spaced timestamps.
+Do not repeatedly return to a neutral pose, earlier task or independently rebuilt
+room. Make time/place ellipses legible; preserve the emotional intention and task.
+
+Use the clean identity root for a new view, especially after distant full-body
+coverage. Do not promote a generic or aged face from a costume master into the
+next close-up. Check the first useful moving continuation before replicating its
+method across a batch; repair a drifted branch from the last correct state.
+
+Give the hook an immediate concrete promise, then keep the **whole episode**
+active through new information, useful work, response and decision. Remove delayed
+speech, repeated setup, unnecessary silence and lingering tails using complete
+native phrases. Direct natural conversational and task speed before generation;
+do not keep twelve or fifteen seconds simply because the model returned them.
+A dance or other promised skill must work at recognizable real-time tempo with
+coordinated mechanics. Slow keyframe travel is insufficient. Never speed the
+whole speech/handheld film as a substitute for repairing the performance.
+
+Use an authorized cheaper model when an actual useful take preserves these
+requirements. Reserve a more costly route for a concrete reference/capability
+need. Keep no-replay guards, the actual budget, native AV and the two-second
+ordinary-shot minimum; do not add routine paid reviewers or approval gates.
+These instructions transfer to another device with the repository. They transfer
+the method, not private media, entitlement or a guarantee of excellent output.
+
 Refined 6 November 2026 after the owner's sample and full-film/reference comparisons.
 Read the [style guide](queen-elizabeth-i-style-preferences.md),
 [reference evidence](queen-elizabeth-i-style-reference-notes.md),

@@ -1,6 +1,14 @@
 # Queen Elizabeth I Style — reusable production prompt
 
 Make **[TITLE/TOPIC]**, approximately **[DURATION]**, in **Queen Elizabeth I Style**.
+
+Apply the 7 November owner correction throughout the film: build coherent
+sequences using the AI Movie continuity methods, preserve the same actual likeness
+and current state through camera changes, and use natural conversational/action
+tempo. Follow `docs/ai-video-global-realism-preferences.md#carry-identity-and-the-scene-through-actual-performances`.
+Do not assemble independently reset clips, inherit a drifted face from a costume
+master, pad slow performance to the requested length, or mistake backward travel
+for a convincing dance. A tighter hook alone does not repair a slow episode.
 Budget: **[ACTUAL AUTHORIZED BUDGET]**. Optional factual/fictional scope and supplied
 characters: **[INPUTS]**.
 Optional supplied story/outline: **[STORY]**.

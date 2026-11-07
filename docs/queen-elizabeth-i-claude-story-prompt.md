@@ -68,6 +68,19 @@ observed output faults and owner feedback; distinguish saved proposals from chan
 validated in footage. Another chat needs the saved file, not assumed private memory.
 
 WRITE THE EPISODE
+Apply the 7 November continuity/pacing refinement to the complete episode: write
+coherent performed sequences, not independent clip-sized speeches. Carry the same
+person, historical age/appearance, wardrobe, props, room geography, camera owner,
+action phase, sound and intention through each transition. Use the AI Movie
+sequence/state/editorial methods while preserving the historical insider format.
+Give thought groups and physical work natural human tempo; remove repeated setup,
+empty pauses and idle endings throughout, not only in the hook. A promised skill
+needs coordinated mechanics and convincing real-time speed. Approximate runtime
+must never be achieved by slow motion, stretched speech or inactive holds.
+For authorized media production, return to a clean identity root when a required
+view is underspecified; do not propagate a generic or drifted face. A useful
+performance and continuation establish the setup, not a prompt/name/technical pass.
+
 Review the whole supplied story as an adaptable outline, not a locked screenplay.
 Preserve its identity, emotional core, curiosity, hooks, meaningful setups/payoffs
 and ending. Autonomously add connective actions/reactions, remove boring or

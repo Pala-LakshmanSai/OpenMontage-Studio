@@ -113,6 +113,16 @@ Read [`docs/video-fast-production-preferences.md`](docs/video-fast-production-pr
 
 Start here. This is the complete operating guide and agent contract for OpenMontage.
 
+Owner correction, 7 November 2026: apply the shared identity, scene and tempo
+continuity section in `docs/ai-video-global-realism-preferences.md` to every
+relevant AI style. Historical character vlogs inherit the AI Movie sequence/state/
+camera/editorial methods while keeping their own grammar. Do not propagate a
+drifted face, assemble independently reset clips or retain slow performance to
+fill a generation envelope. Improve the whole episode's natural pace and qualify
+the actual mechanics/tempo of its promised skill. The rejected Michael Jackson
+vlog is failure evidence, not accepted creator-level quality. Existing fast,
+native-AV, budget, minimum-shot and no-replay rules remain in force.
+
 Owner cost refinement, 3 November 2026: routine paid AI reviews, quality scoring
 and repeated external analysis have a USD 0 budget. Front-load story, staging,
 camera/action, continuity and speech timing; reuse existing style research. Keep
