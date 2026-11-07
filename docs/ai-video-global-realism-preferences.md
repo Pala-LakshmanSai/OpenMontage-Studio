@@ -56,6 +56,19 @@ audition contest, paid critic, numerical quality score or owner approval stage.
 Keep accepted jobs, actual budget and native speech/picture pairing. A technical
 export, minimum-shot pass, or merely written instruction cannot certify continuity.
 
+Production qualification, 7 November 2026: static first/end-frame pins do not
+guarantee consistent intermediate clothing, props or operators. Avoid asking for
+a literal camera handoff inside an already established point of view when it
+encourages visible duplicate hardware or an invented operator. Establish the
+supported/held view cleanly and preserve the necessary transition through actual
+coverage or a legible ellipse. Keep intended spoken words isolated from staging
+instructions; native generators can speak speaker labels or trailing commands.
+Trim only complete useful native utterances and exclude instruction echoes.
+For a failed title-bearing skill, preserve honest qualification limits and use a
+specifically owner-approved source alternative rather than endless blind retakes
+or a misleading speed-up. Identify archival footage clearly; approval of a
+private edit does not establish public reuse clearance.
+
 Owner correction, 6 November 2026 IST: apply
 [readable decisions and purposeful pace](ai-video-action-clarity-and-pacing.md).
 Distinguish intention from accident in the actual picture, preserve decisive
