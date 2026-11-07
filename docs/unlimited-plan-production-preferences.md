@@ -250,3 +250,14 @@ compression; do not open an audible Drive preview for this check.
 ## Immediate cross-project generation handoff — owner correction, 5 November 2026
 
 Start the next already-authorized film as soon as the preceding film completes required usable video creation. Do not wait for editing, export, delivery, an idle chat to wake, or a manually written release marker when current generation evidence establishes completion. Proactively reconcile current account jobs and acquire the existing cooperative admission lock. A stale handoff record must trigger a bounded fresh check and recovery, not indefinite unchanged polling. Preserve uncertain jobs without replay and count their genuinely occupied slots; an unused held operation must not block all other verified free capacity. Keep one admission owner, the owner's current project priority, fresh entitlement and zero-credit quotes, and existing purchase/budget limits. If a strict earlier project order stalls and the owner directs another authorized film to start now, record the override and proceed within shared capacity.
+
+## Shared pass-speed measurements — owner instruction, 7 November 2026
+
+For all KreatorFlow production, follow `docs/provider-pass-speed-tracking.md`.
+Record accepted jobs and actual observed queue/render/completion times in the one
+shared cross-project ledger using `scripts/provider_speed.py`; include free-pass
+status, settings, cumulative clip counts/seconds and explicit allowance/countdown
+transitions. Preserve unknown timing and partial earlier history. Compare like
+settings before claiming a slowdown; slow clips alone do not prove fast allowance
+exhaustion or an exact quota. This is passive production evidence, not extra paid
+tests, reviews, polling, approval gates or authority to replay accepted jobs.

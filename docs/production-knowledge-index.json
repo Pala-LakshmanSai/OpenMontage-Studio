@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "frameo_generation_start": {
     "scope": "Every style using an authorized Frameo daily/unlimited API pass",
     "guide": "docs/unlimited-plan-production-preferences.md",
@@ -52,7 +52,8 @@
     "docs/the-last-day-editorial-playbook.md",
     "docs/the-last-day-refinement-20261103.md",
     "docs/the-last-day-sound-and-narration.md",
-    "docs/ai-movie-screenplay-foundation.md"
+    "docs/ai-movie-screenplay-foundation.md",
+    "docs/provider-pass-speed-tracking.md"
   ],
   "installation": "docs/install-and-update.md",
   "style_profiles": [
@@ -154,7 +155,8 @@
     "lib/native_audio_assembly.py",
     "lib/shot_duration.py",
     "lib/last_day_opening.py",
-    "lib/checkpoint.py"
+    "lib/checkpoint.py",
+    "scripts/provider_speed.py"
   ],
   "precedence": [
     "Current explicit owner instruction and actual production authorization",
@@ -183,5 +185,11 @@
     "scope": "Narrative action across AI styles; preserve style differences",
     "rule": "Actual visible decisions, whole-frame action/emotional progression, inherited physical state, necessary well-designed time cues, title promise and consequential escalation; continuity without slow padding; custom narrative assembly retains observed coverage validation",
     "read_only_custom_assembly_check": "python -m lib.narrative_continuity path/to/project"
+  },
+  "provider_pass_speed_tracking": {
+    "guide": "docs/provider-pass-speed-tracking.md",
+    "helper": "scripts/provider_speed.py",
+    "owner_updated": "2026-11-07",
+    "scope": "All KreatorFlow projects share one passive job-event ledger; record free-pass queue/render/total observations, settings, cumulative use and explicit fast/relaxed transitions without claiming unknown quota or scheduler cause."
   }
 }

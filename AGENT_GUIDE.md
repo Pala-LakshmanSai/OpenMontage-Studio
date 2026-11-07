@@ -990,3 +990,14 @@ The `.agents/skills/` directory is large. When you're not coming in through a to
 - Do not present a single unavailable tool in isolation. Always show the full capability picture: "X of Y providers configured for this capability."
 - Do not skip the Provider Menu at preflight. The user must see what they have AND what they could unlock.
 - Do not change provider, model, or render path without telling the user first and getting approval when the change is material.
+
+## Shared pass-speed measurements — owner instruction, 7 November 2026
+
+For all KreatorFlow production, follow `docs/provider-pass-speed-tracking.md`.
+Record accepted jobs and actual observed queue/render/completion times in the one
+shared cross-project ledger using `scripts/provider_speed.py`; include free-pass
+status, settings, cumulative clip counts/seconds and explicit allowance/countdown
+transitions. Preserve unknown timing and partial earlier history. Compare like
+settings before claiming a slowdown; slow clips alone do not prove fast allowance
+exhaustion or an exact quota. This is passive production evidence, not extra paid
+tests, reviews, polling, approval gates or authority to replay accepted jobs.
