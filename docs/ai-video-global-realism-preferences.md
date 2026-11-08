@@ -83,6 +83,55 @@ setups/payoffs while improving causality, agency, pacing and necessary transitio
 This style-specific order supersedes spine-only immediate generation; it adds no
 paid scorer or owner approval. Other styles keep their own contracts.
 
+## Visible occupancy in exterior and establishing views — owner correction, 8 November 2026
+
+The owner rejected an exterior shot of a spacecraft whose lit cockpit window showed an
+EMPTY cockpit while the story (and the next shot) placed the protagonist inside it. Treat
+any view that exposes an occupied space — a vehicle canopy or window, a lit house window,
+a doorway, a tent opening, a cabin or cockpit seen from outside, a reflection or monitor
+feed of the room — as a continuity view of that space. Who the story says is inside must be
+visibly inside, in a plausible pose and task for that moment, or the view must be framed,
+lit or angled so the interior genuinely cannot be seen. An empty lit interior is not a
+neutral establishing shot; it is a contradiction. This applies to every AI-video style.
+
+Prevention: in every prompt that shows such an exterior, state an explicit occupancy lock
+(who is inside, where, doing what, visible through the opening) and bind the person's
+identity reference; never bind an empty-set interior image as the only reference for that
+view. Selection: before accepting footage, zoom-inspect each exposed window/opening of an
+occupied space in the actual returned frames — a contact-sheet thumbnail is not proof of
+occupancy — and record the observation. Repair: cut or replace a contradicting shot with
+a short targeted pickup carrying the occupancy lock; do not leave it in to preserve
+runtime, and do not hide it with darkness, crops or dissolves. This adds no paid review or
+approval gate; it is part of the existing brief essential check.
+
+## Staging geography, attention, persistent state and screen truth — owner correction, 8 November 2026
+
+The owner rejected a shot in which the protagonist pointed at a black hole while looking the other way, with the black hole on the opposite side of the frame. They asked for a full-film audit and for these mistakes never to recur in any AI-video style. The audit found the same family of faults throughout one delivered film: a vanishing harness, an empty seat during a crisis, a split-screen, a duplicated prop, screen text with repeated words and countdowns running backwards, a dialogue claim the picture did not show, a giant-scale astronaut and an undamaged engine after the strike. Evidence is in `projects/i-fell-into-a-black-hole-20261107/production/mistakes-audit-20261108.md`. These rules apply to every style while preserving its art/source/audio contract. The dated audit is local evidence; the rules are self-contained without that project or media. They add no paid review and no approval gate; perform the requested dense inspection once, cache its evidence and repair concrete faults within the existing review rather than repeating full audits.
+
+1. **Decide the camera side on the set map for every shot.** Write where the camera stands relative to the fixed geography (window, canopy, door, landmark) and what is visible BEHIND the subject. When the camera faces a person who is facing a window, the window is behind the camera. Write that the background is the opposite wall and that the spectacle is not in frame. Unanchored front shots make generators drag the spectacle behind the actor, which flips the geography between shots.
+2. **Lock attention targets.** For every look, point, reach, aim or address, state the target's position in the frame. Require eyes, head and hand to converge on that same spot. Prefer setups that hold both subject and target (profile, over-shoulder, reverse pair cut on the same axis). Never write only "looks up at" or "points at". At selection, check in the actual frames that gaze and finger land on the target. If they do not, the shot fails.
+3. **Restate persistent state in every shot.** Harnesses, injuries, wet or dirty clothing, carried props and damage are lost when they appear only in a start state. Write the visible appearance in each shot ("both black harness straps visible over her shoulders"). Keep a state ledger. At selection, check every shot against it, including when a state turns on and off between adjacent sequences.
+4. **Name who is visible in every shot,** interior and exterior. A shot whose prompt names no person may return an empty room or seat in the middle of the scene. Occupied openings follow the occupancy rule above. When the story needs an occupant to be visible through an opening, make the relevant identity/posture readable at the final resolution. A tiny unresolved window is not proof of an empty interior; use suitable coverage, not a fixed window-size quota.
+5. **Give a unique prop one location at a time.** Inserts and wides must agree on where it is. The removal or placement that moves it must be shown or legibly implied. A reference image of the prop in its original place pulls generations back there, so word the prompt against that.
+6. **Use one continuous full-frame image per shot.** Never use split-screen, side-by-side panels, diptychs or picture-in-picture unless the style asks for them. Avoid phrasing such as "two-element framing" or "X on the left, Y at screen-right" without saying it is one camera image.
+7. **Make screen text true.** Read every generated word and digit frame by frame. Repeated words, missing symbols, glitches, ghost faces in screens and countdowns that jump or run backwards are faults. Repair them with a tracked in-scene composite of the screen (the native look, mapped to the screen plane and following camera motion). Do not use a floating caption.
+8. **The picture must show what the dialogue says is visible.** "It's in two places", "it's ahead of me" and "look at the ring" must be visible in the same scene, or the line or picture must change.
+9. **Keep scale and design continuity for vehicles and people.** A suited person must be human-sized against the vehicle. Engine count, damage and other design facts follow the canon and the story's damage state in every exterior. Exclude real-world national flags and insignia unless the story calls for them.
+10. **Review densely before any finished-film claim.** Use at least one frame per second per shot, aligned with the transcript, plus full-resolution zoom on openings, screens, hands, eyelines and props. One frame per shot is not a review. Record faults with a responsible layer and repair them by cut, local composite or short targeted pickup within budget.
+
+## Living, dimensional backgrounds and natural look — owner correction, 8 November 2026
+
+The owner said the black hole "is looking the same" in every shot: the same flat image at the same angle, like a still picture behind the window. They want every AI-video style to feel three-dimensional and alive, and never artificial. The cause was binding one rendered image of the background object to every request and reusing one master cockpit angle. The generator copied the composition instead of placing a real object in space.
+
+1. **A reference image fixes design, never framing.** For a hero background object (a black hole, planet, skyline, monster, storm), write a view per shot: the bearing from the camera, how much of the frame it fills, and what is in front of it. The object's look follows that position: a different tilt of the disk, ring or skyline, a different crop, a different relation to the window frame. Plan the progression (approach, side, below, close) as part of the story's geography. When a reference image is needed, use one per viewing angle or describe the angle in words. Reuse a design reference only when the requested view remains free to change; add a view-appropriate reference when needed rather than automatically buying new images for every shot.
+2. **Backgrounds move.** Prompts state the background's own motion: gas or disk rotation and a travelling hot spot, drifting stars, clouds, traffic, water, flicker. They also state the parallax that camera or vehicle motion creates against foreground frames. A static plate is a fault when the scene requires changing background geometry or motion. Motion must follow the world, camera and elapsed time; do not invent rapid changes or camera shake merely to change pixels. At selection, compare background pixels across one to two seconds of a shot. If only the actor moves, the shot fails (repair it or cut it short).
+3. **Vary the coverage geometry.** Do not reuse one master wide for every scene in a set. Each scene picks the setup that serves its beat: over-shoulder through the window, profile, low angle under the canopy, exterior through the glass, an insert. Repeating an identical framing makes the film read as a template.
+4. **Natural look.** Prefer motivated real light, lens behaviour (focus falloff, slight handheld breathing where suitable, reflections on glass), physical texture and imperfection. Avoid the generator defaults that read as artificial: perfectly centred symmetry, uniform glow, plastic skin, and identical repeated compositions.
+
+## Cost, quality and speed priority — owner instruction, 8 November 2026
+
+For every AI-video style: **low cost, best quality and short production time** are the priorities together. Do not spend on anything unnecessary. Get it right in writing: staging locks, geography, state, background motion. Then check returned footage at selection. Paid regeneration is the last resort. The order of repairs is: re-select or trim existing coverage; local composite or cut (free); and only then a short, duration-matched pickup (bill only the seconds needed, for example a 12–15 s request instead of 30 s when the provider bills per second). Prefer batching the needed pickups in one parallel round over serial attempts. Report the actual spend.
+
 ## General principles inherited by every AI video style
 
 Owner clarification, 3 November 2026: learn the underlying failure class from

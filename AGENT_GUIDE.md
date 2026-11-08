@@ -1,5 +1,12 @@
 # OpenMontage - Agent Guide
 
+Owner updates, 8 November 2026: apply the current occupancy, staging geography,
+attention/state, screen truth, dimensional background and natural-look rules in
+`docs/ai-video-global-realism-preferences.md`, preserving each style's art/source/audio
+contract and actual budget. Also read `docs/video-delivery-preferences.md`: every
+generated/downloaded video goes promptly to the receiving user's Downloads library,
+including working clips and references in project subfolders; keep earlier versions.
+
 Owner correction, 6 November 2026 IST: read
 `docs/ai-video-action-clarity-and-pacing.md` for narrative action across AI styles.
 Actual footage must distinguish consequential decisions from accidents. Direct relevant silent/background people as well as the lead, preserve posture/task/emotion across cuts, and plan necessary readable time cues. Reconcile title/creature promises before generating, including the owner's future multi-headed Leviathan preference; retain several consequential gripping developments without padding. Preserve

@@ -150,3 +150,7 @@ audio only after frame count, timing and synchronization agree. Do not blindly
 trim every result by a fixed number of frames or stretch narration. Reuse the
 existing brief final check and inspect concrete enhancement faults proportionately;
 no quality parity, runtime or receiving-device throughput guarantee follows.
+
+## 8 November 2026: staging and continuity audit (I Fell Into a Black Hole)
+
+A delivered film still contained staging faults that the owner found: an empty cockpit seen from outside, and a character pointing at a black hole while looking the other way. A one-frame-per-second audit found 19 more continuity, state, text and scale faults that a one-frame-per-shot check had missed. The durable rules are in `docs/ai-video-global-realism-preferences.md` ("Visible occupancy" and "Staging geography, attention, persistent state and screen truth"). The film's evidence and fixes are in `projects/i-fell-into-a-black-hole-20261107/production/mistakes-audit-20261108.md`.

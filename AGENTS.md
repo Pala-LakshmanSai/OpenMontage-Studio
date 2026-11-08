@@ -205,6 +205,11 @@ The owner set 720p or 768p as the default on 27 October 2026. Never generate or 
 
 ## User's local export preference
 
+Owner update, 8 November 2026: follow `docs/video-delivery-preferences.md` for every
+generated or downloaded video, including pickups and references. Finished versions
+go directly in Downloads; working clips and references go promptly into its project
+subfolders. Use the receiving user's Downloads and preserve all prior versions.
+
 Save every finished video/export/download directly in `/Users/lakshmansai/Downloads/`. Preserve project working files on the SSD for Backlot and resume. Never overwrite an existing unrelated export; preserve the filename preference below. Explicitly requested on 2026-10-12; this supersedes the 2026-10-09 SSD-root export preference.
 
 ## User's video filename preference

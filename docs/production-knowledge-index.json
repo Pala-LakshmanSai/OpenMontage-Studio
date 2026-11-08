@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "frameo_generation_start": {
     "scope": "Every style using an authorized Frameo daily/unlimited API pass",
     "guide": "docs/unlimited-plan-production-preferences.md",
