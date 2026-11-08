@@ -83,6 +83,20 @@ dependencies hold their own jobs, not unrelated ready work. No speculative fille
    required reference uploads, supported durations/resolutions, dialogue/audio
    conditioning, authentication readiness and local render availability without
    launching disposable paid tests. Resolve unsupported fields and stale routes.
+   When reusing returned media as a reference, measure the actual encoded stream
+   and container duration, size and format against that route's current input
+   limits. A requested 30-second output can return slightly longer than 30 seconds;
+   the requested duration is not proof that it fits a 30-second reference ceiling.
+   Preserve the original and make a separately named, useful conform with a small
+   margin below the limit before submitting dependent work. Keep complete needed
+   speech/action and verify the conform once; do not replay accepted/uncertain jobs.
+   Bind each reference to its intended role. A whole dialogue scene supplied for
+   voice continuity can also bias picture, cut rhythm or repeated words. Check the
+   first useful dependency take for the required new action/lines before propagating
+   that conditioning; use supported clean voice references where appropriate.
+   Similar shot timings alone do not prove copied content. Resolve a concrete
+   suspicion with the relevant picture/words, reusing local evidence rather than
+   adding routine per-clip transcription, paid review or an audition stage.
 6. Plan continuous native speech, clean ambience/Foley and suitable instrumental
    cues. Check voice conditioning, soundtrack contamination risks, cue durations,
    music billing/rounding and source permissions before committing.
