@@ -46,6 +46,13 @@ Keep successful patterns: clear relationships in one frame, motivated practical
 light, tactile materials, voluntary choices before trust, legible clue→recognition
 coverage and actions whose physical result actually appears.
 
+Owner instruction, 9 November 2026: the finished Mars movie is now owner-accepted.
+Its improvements reinforce the methods below: complete strengthened writing,
+readable chosen actions, supported state/geometry, native performance and
+purposeful local editing. The accepted export and bounded evidence are recorded
+in [movie preferences](ai-movie-preferences.md#accepted-finished-film-method--owner-instruction-9-november-2026).
+Acceptance does not certify every frame or eliminate documented minor variations.
+
 ## 1. Write the audience's discovery, not a list of clip IDs
 
 Start with the complete causal story and ending. Each dramatic sequence changes
@@ -84,6 +91,13 @@ not fix a baby reference dominating the picture. Establish a giant and a human i
 one coherent scale master; derive close and wide coverage from that geometry instead
 of shrinking the creature to fit a convenient two-shot.
 
+For carried or transferred story objects, carry both custody and support through
+the actual action: who has the object, what contains or supports it, which hand is
+free, and where it ends. A closed case on another person's lap is not evidence of
+stowage on the protagonist. A deliberate packing/travel ellipsis can bridge
+compatible visible states; it cannot excuse an impossible location or invented
+handoff. Treat old background props in references as a possible source of resets.
+
 Story-bearing quantities and background dressing obey the same rule. A scarcity
 scene must not acquire shelves of visually identical full supplies. Separate a
 selected person's identity from jewelry, equipment and old background inventory.
@@ -106,6 +120,12 @@ A reverse angle changes the view, not who occupies the driver's seat or which
 vehicle carries the subject. Show a transfer, replacement or move when the story
 needs it; otherwise preserve the same object and location. An intentional time or
 place ellipsis needs a legible new situation, not a contradictory mid-action setup.
+
+When communication, travel or recovery requires a substantial delay, make the
+necessary elapsed-time cue literal and reconcile its origin with the final edit.
+An immediate cut to a distant response must not imply impossible instant travel
+or communication. Keep recorded material inside its established physical receiver
+or screen; a broadcast reaction does not put that person in the protagonist's room.
 
 For consequential mechanics use a readable sequence: notice/orient → approach or
 reach → supported contact → operation → visible result → response. An already
@@ -161,6 +181,15 @@ fallen character with the same person standing elsewhere. A crop is useful only
 if the resulting shot still communicates its intended action; do not use it to
 claim unseen contact, correct identity or an outcome that never occurred.
 
+For a concrete peripheral prop, background or reset fault, a fixed source-aware
+reframe or a trim at an actual shot boundary may retain the useful performance.
+Choose it for the resulting composition and story purpose, not merely to conceal
+pixels. Keep the decisive action, readable physical screen and necessary context;
+do not use arbitrary moving crops or zooms. Preserve originals and record exact
+selected ranges/transforms. If a clue or payoff is excluded, mark it unverified or
+adapt the beat honestly; hidden content is not proof that the generated state was
+correct. Preserve ordinary actual shots of at least two seconds and complete words.
+
 A locally successful repair must still join the actual neighboring world. Derive
 its anchor from the established support, apparatus, blocking and camera side;
 change the diagnosed feature without silently replacing the set or carrier.
@@ -177,6 +206,18 @@ prose, markup or explanations inside dialogue. Avoid future-state wording or
 references that reveal a concealed transformation early. Preserve native mouth/word
 offsets when trimming; ASR can suggest words but does not prove speaker identity,
 voice quality or phoneme accuracy.
+
+Reuse suitable settled native voices and clean supported reference crops through
+planned useful performances. Give each line and its physical action enough
+performed time; do not stretch a short exchange to fill the request. Preserve
+native speech-picture pairs through local repairs. Derive trims, concatenation
+and display timing from the selected picture frames and timestamped native PCM
+sample clock, retaining complete words and effect tails rather than sliding or
+replacing speech. When a picture-only repair leaves the selected audio unchanged,
+reuse its verified identity and cached checks instead of repeating ASR or analysis.
+If important spoken evidence is unresolved, one cached batch transcript of the
+selected native audio without added score can support the existing check; ASR
+uncertainty is not a missing-line verdict or speaker/lip-quality certification.
 
 When a gesture carries the story's meaning, preserve its actual target, order and
 readable contact. Reaching toward another face is not equivalent to tapping one's
@@ -211,6 +252,15 @@ and uncertain receipts; no blind replay. In the one brief final check, use movin
 opening, consequential interaction/transition and ending passages, plus required
 text/state evidence when material. Reuse cached local cuts and technical/audio
 checks. A still frame, minimum-shot pass and valid file cannot certify all joins.
+
+Include the full composition and edges in those selected moving passages, especially
+the ending: incidental figures, an old possession restored too early or a wrong
+prop can survive otherwise useful close coverage. Check the final encoded repair
+in its neighboring action once. In the accepted Mars delivery, this caught concrete
+ending prop/figure contradictions; fixed purposeful views retained the family,
+public consequence and departure performances without changing native audio.
+The resulting edit does not claim the excluded prop-placement action was visible.
+This is part of the same brief final check, not a second full-film review.
 
 The detailed whole-timeline review that produced these lessons was explicitly
 requested by the owner after rejection. It is not a recurring production stage.

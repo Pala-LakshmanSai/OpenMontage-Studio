@@ -1,5 +1,35 @@
 # Saved AI movie preferences
 
+## Accepted finished-film method — owner instruction, 9 November 2026
+
+The owner liked the finished **POV: You’re the First Human to Step on Mars** movie
+and requested that its quality improvements become portable training for future
+films. Reuse the method in the [editorial and continuity playbook](ai-movie-editorial-continuity-playbook.md):
+strengthen the complete screenplay and ending before AI Movie media; give choices
+and mechanisms readable performed coverage; carry supported physical state and
+prop custody; reuse settled native voices; and edit complete speech with its
+native picture and timing. Use necessary literal elapsed-time cues, purposeful
+local repairs for concrete returned faults, and the existing brief moving and
+technical checks. This foundation order belongs to AI Movie; other styles retain
+their own preparation, art, source, music and narrator contracts.
+
+Acceptance applies to the delivered 15:47.917, 1280×720 film with SHA256
+`afee784d8dea7953d384bf137e6263b549be251865273a39f405614445b3afd7`.
+It supersedes this film's earlier pending artistic-acceptance state, not the
+status of other films or a claim of perfect frames, exact voice cloning or
+universal model quality. Minor native rescue wardrobe/cuff variations remain.
+The final edit excluded contradictory ending props and an unintended figure;
+it does not claim the excluded prop-placement payoff happened on screen.
+
+Evidence under `projects/mars-first-step-ai-movie-20261108/`:
+`production/narrative-coverage-final.json`,
+`production/local-repairs/ending-prop/repair-report.json`,
+`production/qa/final-moving-playback.json`,
+`production/qa/final-audio-identity-r02.json` and `artifacts/final_review.json`.
+The reusable rules stand without those local media files. Preserve autonomous
+completion, the zero routine paid-review budget, actual spending authority,
+accepted/uncertain jobs, minimum actual shots and the 720p/768p default.
+
 Owner corrections, 6 November 2026 IST: follow
 [action clarity, whole-frame emotional performance, purposeful pace and time cues](ai-video-action-clarity-and-pacing.md).
 Show decisions and emotions clearly for all relevant visible people; preserve

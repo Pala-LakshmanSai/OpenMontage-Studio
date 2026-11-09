@@ -1,5 +1,27 @@
 # Global realism and progression for AI videos
 
+Owner instruction, 9 November 2026: save the methods behind the owner-accepted
+finished Mars movie for all relevant future videos. Apply the shared principles
+below to actual selected action, supported continuation geometry, unique-object
+custody, environmental state and native audiovisual timing. Give consequential
+choices and mechanisms enough performed time, preserve complete words with their
+picture, and make necessary long delays legible. The [AI Movie playbook](ai-movie-editorial-continuity-playbook.md)
+records the reusable editing method; [movie preferences](ai-movie-preferences.md#accepted-finished-film-method--owner-instruction-9-november-2026)
+record the accepted export and evidence. This does not impose AI Movie's
+whole-screenplay foundation order, music, narration or art on other styles.
+
+Use the existing brief moving opening, consequential interaction/transition and
+ending check, including the full composition and edges, plus cached local
+technical checks. Repair a concrete peripheral contradiction with a purposeful
+fixed reframe or actual-shot trim when the remaining picture still shows the
+necessary action and context. Preserve source speech/timing and originals; do
+not call an excluded clue, placement or hidden mechanism verified. The dated
+dense-review instructions below describe the explicitly requested black-hole
+diagnosis; they are not a new routine audit for every film. Dense inspection now
+requires a concrete fault, uncertain dependency or an explicit request. Preserve
+fast autonomous completion, zero routine paid reviews, actual budgets/no replay,
+720p/768p defaults and every style's source, sound and creative rules.
+
 ## Carry identity and the scene through actual performances
 
 Owner correction, 7 November 2026, after rejecting the Michael Jackson vlog for
@@ -114,10 +136,10 @@ The owner rejected a shot in which the protagonist pointed at a black hole while
 4. **Name who is visible in every shot,** interior and exterior. A shot whose prompt names no person may return an empty room or seat in the middle of the scene. Occupied openings follow the occupancy rule above. When the story needs an occupant to be visible through an opening, make the relevant identity/posture readable at the final resolution. A tiny unresolved window is not proof of an empty interior; use suitable coverage, not a fixed window-size quota.
 5. **Give a unique prop one location at a time.** Inserts and wides must agree on where it is. The removal or placement that moves it must be shown or legibly implied. A reference image of the prop in its original place pulls generations back there, so word the prompt against that.
 6. **Use one continuous full-frame image per shot.** Never use split-screen, side-by-side panels, diptychs or picture-in-picture unless the style asks for them. Avoid phrasing such as "two-element framing" or "X on the left, Y at screen-right" without saying it is one camera image.
-7. **Make screen text true.** Read every generated word and digit frame by frame. Repeated words, missing symbols, glitches, ghost faces in screens and countdowns that jump or run backwards are faults. Repair them with a tracked in-scene composite of the screen (the native look, mapped to the screen plane and following camera motion). Do not use a floating caption.
+7. **Make screen text true.** Verify necessary story-bearing words/digits and their meaningful changes in the existing brief check; investigate a concrete fault with denser samples. Repeated words, missing symbols, ghost faces and backwards countdowns are faults. Derive exact timers from the actual selected event interval; use a blank/simple physical plate when appropriate, then a tracked in-scene composite following its plane, camera motion and occlusion. Do not replace physical UI with a floating caption. Necessary narrative elapsed-time cues remain distinct from in-world UI and follow the active style's authorization.
 8. **The picture must show what the dialogue says is visible.** "It's in two places", "it's ahead of me" and "look at the ring" must be visible in the same scene, or the line or picture must change.
 9. **Keep scale and design continuity for vehicles and people.** A suited person must be human-sized against the vehicle. Engine count, damage and other design facts follow the canon and the story's damage state in every exterior. Exclude real-world national flags and insignia unless the story calls for them.
-10. **Review densely before any finished-film claim.** Use at least one frame per second per shot, aligned with the transcript, plus full-resolution zoom on openings, screens, hands, eyelines and props. One frame per shot is not a review. Record faults with a responsible layer and repair them by cut, local composite or short targeted pickup within budget.
+10. **Check actual moving critical passages before a finished-film claim.** Use one brief batch covering the opening, consequential action/transition and ending, with full-frame context and relevant native speech evidence. A still before/after cannot certify a mechanism or chosen action. Reuse cached cut, frame/sample-clock, audio and technical evidence; record concrete faults and repair them by selection, purposeful fixed reframe, local composite or a bounded pickup within budget. The dense per-second diagnosis requested for the black-hole film is not a standing whole-film requirement. Do not add per-clip ASR, every-join review, paid scoring or approval gates.
 
 ## Living, dimensional backgrounds and natural look — owner correction, 8 November 2026
 
@@ -569,8 +591,9 @@ Intentional location, time or camera changes remain possible when clearly motiva
 For generated same-shot continuations, extract the exact final usable frame at the
 actual chosen edit point and use it as the next starting reference where supported;
 a different source end frame does not establish the selected edit's continuity.
-Inspect the actual moving result and at least two seconds on both sides of joins,
-with dense samples near any fault. Frame matching alone does not prevent the next
+For an actual continuation dependency or concrete join fault, inspect the moving
+result and at least two seconds on both sides, with dense samples near the fault.
+Do not turn this into an every-join audit. Frame matching alone does not prevent the next
 generated take from reframing or changing scale. Keep constant aspect-preserving
 transforms and SAR; do not conceal defects with digital zoom, stretching, morphs,
 or interpolation. This does not turn real-footage documentaries into AI workflows
