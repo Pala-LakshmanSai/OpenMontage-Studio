@@ -1,5 +1,23 @@
 # AI Movie: make sequences, then edit the film
 
+## Action, twists and emotion through choices — owner preference, 10 November 2026 IST
+
+Follow [the stronger action-led storytelling default](ai-video-story-engagement-preferences.md#action-led-movies-and-extreme-dramatic-escalation--owner-preference-10-november-2026-ist). Build
+movies around big visible events, several developing physical set pieces,
+escalating crises and audacious consequential twists. Emotion must drive costly
+actions and relationships under pressure. Conversations, radio reports and
+emotional portraits cannot dominate in place of the central physical struggle.
+Promise a striking title-led experience and deliver it on screen. Preserve earned
+contrast, coherent causes, complete endings, native performance and the fast
+workflow; use existing writing/observed coverage, not another review or approval
+stage. This is future style training, not authorization to remake a delivered film.
+
+Select the actual physical struggle, reversal and outcome before extending quiet
+conversation or sentimental reactions. Several action-labelled prompts followed
+by mostly cockpit/room discussion do not satisfy the movie. If a required set piece
+is absent, treat it as the existing narrative-coverage gap and repair the affected
+selection/staging within authority. No blanket per-clip review or new quality gate.
+
 Owner correction, 6 November 2026 IST: apply
 [readable decisions and purposeful pace](ai-video-action-clarity-and-pacing.md).
 The viewer must distinguish a chosen action from a fall, push or accident without

@@ -1,5 +1,15 @@
 # Readable decisions and purposeful pace
 
+Owner preference, **10 November 2026 IST**: readable action must also carry the
+film's dramatic weight. Apply the [action-led escalation contract](ai-video-story-engagement-preferences.md#action-led-movies-and-extreme-dramatic-escalation--owner-preference-10-november-2026-ist):
+big visible events, several developed physical crises, bold causal twists and
+emotion expressed in costly action. A clearly pressed button or complete dialogue
+exchange alone does not make a sufficiently action-led film. Preserve whole
+attempts and turning consequences in selected footage; keep a purposeful varied
+pace rather than replacing the action with explanations or adding random flash
+cuts. Existing native continuity, actual two-second minimum shots and fast
+production safeguards remain.
+
 Owner correction, **6 November 2026 IST**, after the Ice Leviathan remake.
 Apply these general principles to narrative action in every AI-video style,
 including future styles. Preserve each style's art, source, voice and sound rules.

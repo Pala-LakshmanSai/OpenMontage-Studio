@@ -1,5 +1,25 @@
 OPENMONTAGE — COMPLETE ORIGINAL AI MOVIE
 
+## Action, twists and emotion through choices — owner preference, 10 November 2026 IST
+
+Follow [the stronger action-led storytelling default](ai-video-story-engagement-preferences.md#action-led-movies-and-extreme-dramatic-escalation--owner-preference-10-november-2026-ist). Build
+movies around big visible events, several developing physical set pieces,
+escalating crises and audacious consequential twists. Emotion must drive costly
+actions and relationships under pressure. Conversations, radio reports and
+emotional portraits cannot dominate in place of the central physical struggle.
+Promise a striking title-led experience and deliver it on screen. Preserve earned
+contrast, coherent causes, complete endings, native performance and the fast
+workflow; use existing writing/observed coverage, not another review or approval
+stage. This is future style training, not authorization to remake a delivered film.
+
+In the existing sequence entry, write the physical objective and opposing force,
+what viewers see the characters attempt, the seeded turning complication, the
+emotion-driven choice, the changed state/cost and the next consequence. Give each
+major set piece enough performed coverage; do not make every scene a discussion
+followed by one brief danger insert. Narration and native dialogue support the
+visible struggle. Keep source-compatible native action/speech timing and readable
+views of the decisive contact or operation.
+
 Before finalizing the adapted story, apply the title-promise rule in
 `docs/ai-video-story-engagement-preferences.md`: identify the defining creature/
 subject, visible distinctive feature, central situation, scale and payoff viewers
@@ -156,7 +176,7 @@ Reuse the saved reference study instead of researching the channels again for ea
 
 Settle the whole-film causal spine before generation: title promise, protagonist want/emotional need, relationship at risk, world rules, opening predicament, distinct consequential turns, midpoint change of understanding, costly final choice and resolved ending. Plant what the ending needs. Assign ordered sequence IDs, duration budgets and incoming/outgoing story states. This is a complete ending-aware outline, not every shot and line.
 
-For each scene record goal, opposition, choice/action, revealed information, emotional change, persistent cost and next need. A quiet scene earns attachment, plants a solution, complicates a choice or delivers relief. Specific behavior creates empathy; exposition alone does not. Dialogue asks, conceals, bargains, comforts, resists or decides. Preserve silence and reactions. Native visible character interaction remains the movie default; narration can support the story, never replace conversation to avoid lip-sync.
+For each scene record goal, opposition, choice/action, revealed information, emotional change, persistent cost and next need. A quiet scene earns attachment, plants a solution, complicates a choice or delivers relief. Specific behavior creates empathy; exposition alone does not. Dialogue asks, conceals, bargains, comforts, resists or decides. Preserve silence and reactions. Native visible character interaction includes substantial physical action; speech can support it when dramatically useful, but conversations must not become the film’s default action substitute. Preserve native speech-picture synchronization wherever someone speaks.
 
 Scale to LENGTH: short films resolve one strong dramatic change; longer films develop relationships and several causal sequences. Allocate climax, consequences and ending before filling the middle. No repetitive danger, stretched actions, filler scenery, repeated clips or sales cliffhanger in a promised complete movie. More deaths/louder music do not automatically improve stakes.
 

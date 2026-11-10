@@ -1,5 +1,13 @@
 # AI Movie: adapt the story before generating media
 
+Owner preference, **10 November 2026 IST**: apply the [action-led escalation
+contract](ai-video-story-engagement-preferences.md#action-led-movies-and-extreme-dramatic-escalation--owner-preference-10-november-2026-ist) during the complete screenplay review. Establish the active
+hook, substantial physical set pieces, caused twists, emotional decisions, lasting
+costs and payoff before media. Rework conversation-dominated drafts at this stage;
+an action label or dialogue describing danger is not a set piece. Include their
+necessary attempt/reversal/result coverage in existing required beats and allocate
+performed time and affordable generation to them first. No new approval gate.
+
 Owner correction, 6 November 2026 IST: also follow
 [readable decisions and purposeful pace](ai-video-action-clarity-and-pacing.md).
 Write a pivotal action's intended reading, likely misreading and visible

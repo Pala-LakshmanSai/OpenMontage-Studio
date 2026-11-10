@@ -1,5 +1,66 @@
 # Extreme, surprising stories planned before generation
 
+## Action-led movies and extreme dramatic escalation — owner preference, 10 November 2026 IST
+
+The owner explicitly wants substantially more **emotion-filled physical action**:
+big events unfolding on screen, bold twists and turns, extreme stakes and gripping,
+edge-of-the-seat storytelling. This strengthens the earlier tension-peak guidance.
+A movie dominated by conversations, warnings, explanations and emotional close-ups,
+with only a token action insert, does not meet this default. Carry it into every
+future AI Movie without requiring the owner to repeat the request.
+
+- **Start with an active hook.** Establish a startling situation, immediate objective
+  and impending consequence through something happening, not a long explanation
+  of what might happen. Treat “super clickbait” as an exceptionally compelling
+  premise, curiosity gap, visual promise and payoff that the actual movie delivers.
+- **Build the dramatic engine around action.** Several substantial, distinct set
+  pieces develop across the film: pursuit, escape, rescue, confrontation, sabotage,
+  physical discovery or a world-changing event as appropriate to the premise.
+  Show geography, an intelligent attempt, escalating resistance, a reversal, a
+  costly choice and its visible outcome. Let the environment and opposition act
+  on the characters. A speech about a catastrophe or an isolated explosion is not
+  a developed action sequence.
+- **Push fictional invention much further.** Prefer audacious, title-led challenges,
+  near-successes that become worse predicaments, traps, shifting allegiances,
+  failed rescues and consequential surprises over a safe sequence of routine tests
+  and discussions. These are possibilities, not a compulsory repeated plot. Seed
+  the means and limits; each turn changes the objective, tactic, access, trust,
+  resources or responsibility and leaves a persistent cost. Keep later turns
+  surprising by changing the kind of problem, not repeating the same attack louder.
+- **Put emotion into the action.** Attachment, fear, guilt, love, betrayal and
+  sacrifice change whom a person saves, what they risk, whether they let go, and
+  what they lose. Let relationships cause hard decisions under pressure. Brief
+  quiet attachment and aftermath make the next crisis matter; they must not
+  displace the main physical struggle. Natural dialogue can bargain, confess,
+  coordinate or change a decision, but repeated talk must not carry the whole plot.
+- **Acquire the action, not merely its description.** Reserve useful coverage for
+  the central attempts, interaction, reversals and results before extra scenic
+  shots or prolonged conversation. Stage manageable, readable action at natural
+  speed with complete native speech where needed. Do not silently replace the
+  promised set piece with radios, screens, face reactions, generic POV hands or
+  aftermath because those are easier to generate. Simplify a mechanism or rework
+  unsubmitted staging within the real budget while preserving its dramatic job.
+- **Protect the experienced result in the edit.** Record required action and
+  turning points in the existing foundation/sequence plan, then bind them to actual
+  selected footage. A prompt saying “intense” or an action-labelled clip is not
+  coverage. Preserve the decisive movement, consequence and meaningful reaction;
+  trim idle tails, repeated explanations and redundant emotional beats. Sound,
+  faster cuts and shaky cameras support action rather than substitute for it.
+
+The heightened ambition also informs other future narrative styles in their own
+grammar. Preserve each style's art, cast, source, voice and sound contract. In
+factual work, find and clearly present the real consequential events rather than
+inventing disasters or evidence. For an immutable supplied voiceover, visualize
+its action and consequences without rewriting the owner's words. Explicit gentle
+or non-narrative briefs still govern their film.
+
+Plan this once in the existing writing and coverage artifacts. Keep meaningful
+contrast, causal/physical continuity, complete endings, actual shots of at least
+two seconds, native speech-picture pairing, real spending limits and accepted-job
+safeguards. This preference adds no paid scoring, routine review loop, approval
+stage, automatic retake or remake of an already delivered film. Future artistic
+success remains to be demonstrated in footage; no retention guarantee is claimed.
+
 ## Named protagonist and viewpoint — owner correction, 7 November 2026
 
 Across narrative styles, a title that promises a named person's vlog promises

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-08",
+  "updated": "2026-11-10",
   "frameo_generation_start": {
     "scope": "Every style using an authorized Frameo daily/unlimited API pass",
     "guide": "docs/unlimited-plan-production-preferences.md",
@@ -191,5 +191,12 @@
     "helper": "scripts/provider_speed.py",
     "owner_updated": "2026-11-07",
     "scope": "All KreatorFlow projects share one passive job-event ledger; record free-pass queue/render/total observations, settings, cumulative use and explicit fast/relaxed transitions without claiming unknown quota or scheduler cause."
+  },
+  "action_led_storytelling": {
+    "guide": "docs/ai-video-story-engagement-preferences.md",
+    "owner_preference_date": "2026-11-10",
+    "scope": "AI Movies by default; other future narrative styles within their existing contracts",
+    "rule": "Emotion-filled physical action, big visible events, several substantial set pieces, extreme stakes, bold consequential twists, costly choices and title-promise payoff. Do not make conversations/emotional portraits the main substitute for action.",
+    "production": "Whole screenplay foundation where required, existing required-beat/selected-footage evidence, minimum2second shots, native continuity, real budget and fast autonomous completion; no extra paid review or approval gate."
   }
 }

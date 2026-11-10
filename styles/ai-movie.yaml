@@ -1,8 +1,8 @@
 identity:
   name: "AI Movie"
   category: cinematic
-  mood: "Emotionally grounded, boldly original, suspenseful and epic through earned scale and consequence"
-  pace: moderate
+  mood: "Action-led, emotionally grounded, audacious and intensely suspenseful through extreme stakes, earned spectacle and consequence"
+  pace: fast
   best_for: "Complete original character-driven films at the requested approximate scale, with an earned ending"
 visual_language:
   color_palette:
@@ -34,6 +34,7 @@ asset_generation:
     - "One film bible: original identities, selected voices, geography, wardrobe, props, injury and weather/light state; offscreen state persists."
     - "Reference roles are explicit. Use original identity/location roots for independent setups and exact outgoing edit-point state for true continuations where supported."
 quality_rules:
+  - "Owner preference10November2026IST: follow Action-led movies and extreme dramatic escalation in docs/ai-video-story-engagement-preferences.md. Strong immediate active hook, several substantial physical set pieces, escalating crises, bold causal twists, emotion-driven costly choices and a visible earned payoff. Do not substitute conversation/radio reports, emotional portraits or token spectacle for the central struggle. Preserve varied rhythm, coherent causes/state, actual2second shots, native performance and real budget; existing foundation/coverage only, no extra paid reviews, approval gate, retention guarantee or automatic remake."
   - "Owner reiteration6November2026IST: finalize title promise before media under docs/ai-video-story-engagement-preferences.md. Visibly deliver the named subject's defining design/capability, central situation, scale and payoff; reconcile supplied outline with owner expectation. Future title-led Leviathan films default to recognizable multi-headed anatomy unless explicitly specified otherwise. Plan several major earned gripping/intense developments with agency, escalation, changed tactics and persistent costs, contrasted with meaningful relief; no generic substitute, repeated identical attacks, padded routine, rigid quota or retention guarantee."
   - "Owner time-cue preference6November2026IST: every AI Movie uses necessary clear time/chapter cues before or at the first affected scene, including important years-later and confusing flashback entry/return. Design restrained film-specific typography, contrast, placement, safe margins and readable hold; no tiny generic cards, repeated labels, action interruption or chronology-origin ambiguity. Reconcile cue wording with ages/season/elapsed time. These necessary temporal cues are authorized; unrelated captions remain unrequested. Canonical docs/ai-video-action-clarity-and-pacing.md."
   - "Owner elaboration6November2026IST: direct every relevant visible person/group, not only the lead/speaker. Carry knowledge/goal, ongoing task, gaze, pose/support and emotional progression through cuts. Make consequential emotion readable in actual acting; silence/shock can work when motivated and developing, not neutral frozen portraits. Show or legibly bridge standing/kneeling/seated changes. Purposeful activity and varied pace, no identical panic/gesture quota or idle duration. Canonical docs/ai-video-action-clarity-and-pacing.md."

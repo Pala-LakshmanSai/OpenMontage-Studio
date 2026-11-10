@@ -1,5 +1,16 @@
 # OpenMontage
 
+Owner preference, 10 November 2026 IST: future AI Movies default to action-led,
+emotion-filled extreme storytelling under
+`docs/ai-video-story-engagement-preferences.md` (Action-led movies and extreme
+dramatic escalation). Build several big visible set pieces, escalating crises,
+bold consequential twists and costly emotional choices. Conversations and
+emotional portraits must not dominate in place of action. Deliver the title's
+strong hook and payoff in actual footage. Other narrative styles inherit the
+principle within their factual/art/source/audio rules. Use existing screenplay
+and selected-coverage artifacts; no added paid review, approval gate or automatic
+remake of completed films.
+
 Owner correction, 6 November 2026 IST: follow
 `docs/ai-video-action-clarity-and-pacing.md`. Show consequential intention and
 decisive action clearly in actual selected footage, distinguish choices from
